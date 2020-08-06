@@ -42,7 +42,7 @@ Hello! I'm Rubem! I'm a Electronic Engineer. Currently, I working in my master d
 1. FPGA (Field Programmable Gate Array).
 
 ## Mission 🦾
-> Apply Machine Learning methods in order to develop new solutions for symbol detection and synchronization techniques.
+> Apply Machine Learning methods in order to develop new solutions for symbol detection and synchronization techniques. If it is possible, implement this solution in FPGA.
 
 ## Programing Language 💻
 - Python
