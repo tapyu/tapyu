@@ -25,7 +25,7 @@ That is what I'm using to make the this Markdown:
 
 <p align='center'>
 <a href="rubem.engenharia@gmail.com" target="_blank"><img height="35" src=".\figs\email_PNG7.png"></a>
-<a href="http://lattes.cnpq.br/0717252455115225"><i class="ai ai-lattes ai-3x"></i></a>
+<a href="http://lattes.cnpq.br/0717252455115225" target="_blank"><img height="30" src="https://raw.githubusercontent.com/Tapyu/Tapyu/master/figs/lattes.png"></a>
 <a href="https://scholar.google.com.br/citations?user=Kj6Gzs4AAAAJ&hl=pt-BR&oi=sra"><i class="ai ai-google-scholar-square ai-3x"></i></a>
 <a href="https://www.linkedin.com/in/rubem-pacelli/"><img style="margin-left:5px; margin-right: -7px" height="30" src=".\figs\linkedin.svg"></a>&nbsp;&nbsp;
 <a href="https://orcid.org/0000-0001-5933-8565"> <i class="ai ai-orcid ai-3x"></i></a>
