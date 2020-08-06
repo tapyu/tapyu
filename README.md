@@ -26,7 +26,7 @@ That is what I'm using to make the this Markdown:
 <a href="https://scholar.google.com.br/citations?user=Kj6Gzs4AAAAJ&hl=pt-BR&oi=sra"><img height="30" src="https://raw.githubusercontent.com/Tapyu/Tapyu/master/figs/google%20scholar.png"></a>
 <a href="https://www.linkedin.com/in/rubem-pacelli/"><img style="margin-left:5px; margin-right: -7px" height="30" src=".\figs\linkedin.svg"></a>&nbsp;&nbsp;
 <a href="https://orcid.org/0000-0001-5933-8565"> <img height="30" src="https://raw.githubusercontent.com/Tapyu/Tapyu/master/figs/orcid.png"></a>
-<a href="https://orcid.org/0000-0001-5933-8565"> <img height="30" src="https://raw.githubusercontent.com/Tapyu/Tapyu/master/figs/cv.png"></a>
+<a href="https://raw.githubusercontent.com/Tapyu/Tapyu/master/figs/pepe.jpg"> <img height="30" src="https://raw.githubusercontent.com/Tapyu/Tapyu/master/figs/cv.png"></a>
 </p>
 
 <p align='center'>
