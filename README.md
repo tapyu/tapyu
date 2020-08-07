@@ -36,7 +36,7 @@ That is what I'm using to make the this Markdown:
 ## Bio
 Hello! I'm Rubem! I'm a Electronic Engineer. Currently, I working in my master degree at the [Federal University of Ceará](http://www.ufc.br/) (UFC). I hope collaborate in GitHub in my expertise area. Follow me and let's work together! 😄
 
-## Interest 👨‍💻
+## Interest 🧠
 1. Modulation theory, symbol detection and synchronization techniques. 
 1. Machine Learning a Neural Networks.
 1. FPGA (Field Programmable Gate Array).
@@ -44,7 +44,7 @@ Hello! I'm Rubem! I'm a Electronic Engineer. Currently, I working in my master d
 ## Mission 🦾
 > Apply Machine Learning methods in order to develop new solutions for symbol detection and synchronization techniques. If it is possible, implement this solution in FPGA.
 
-## Programing Language 💻
+## Programing Language 👨‍💻
 - Python
 - Matlab
 - C
