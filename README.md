@@ -38,7 +38,7 @@ Hello! I'm Rubem! I'm a Electronic Engineer. Currently, I working in my master d
 
 ## Interest 🧠
 1. Modulation theory, symbol detection and synchronization techniques. 
-1. Machine Learning a Neural Networks.
+1. Machine Learning and Neural Networks.
 1. FPGA (Field Programmable Gate Array).
 
 ## Mission 🦾
