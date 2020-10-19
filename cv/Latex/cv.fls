@@ -135,30 +135,29 @@ INPUT C:\Program Files\MiKTeX\fonts\tfm\public\latex-fonts\lasy8.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\latex-fonts\lasy6.tfm
 INPUT c:\Users\rubem\Documents\GitHub\Tapyu\cv\Latex\sections\summary.tex
 INPUT c:\Users\rubem\Documents\GitHub\Tapyu\cv\Latex\sections\summary.tex
-INPUT C:\Program Files\MiKTeX\fonts\tfm\jknappen\ec\tcrm1095.tfm
-INPUT c:\Users\rubem\Documents\GitHub\Tapyu\cv\Latex\sections\education.tex
-INPUT c:\Users\rubem\Documents\GitHub\Tapyu\cv\Latex\sections\education.tex
-INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmti10.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmti10.tfm
-INPUT c:\Users\rubem\Documents\GitHub\Tapyu\cv\Latex\sections\experience.tex
-INPUT c:\Users\rubem\Documents\GitHub\Tapyu\cv\Latex\sections\experience.tex
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\latex-fonts\lasy5.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\latex-fonts\lasy10.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\latex-fonts\lasy7.tfm
+INPUT c:\Users\rubem\Documents\GitHub\Tapyu\cv\Latex\sections\education.tex
+INPUT c:\Users\rubem\Documents\GitHub\Tapyu\cv\Latex\sections\education.tex
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmti10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmti10.tfm
+INPUT c:\Users\rubem\Documents\GitHub\Tapyu\cv\Latex\sections\experience.tex
+INPUT c:\Users\rubem\Documents\GitHub\Tapyu\cv\Latex\sections\experience.tex
 INPUT c:\Users\rubem\Documents\GitHub\Tapyu\cv\Latex\sections\researches.tex
 INPUT c:\Users\rubem\Documents\GitHub\Tapyu\cv\Latex\sections\researches.tex
 INPUT c:\Users\rubem\Documents\GitHub\Tapyu\cv\Latex\sections\skills.tex
 INPUT c:\Users\rubem\Documents\GitHub\Tapyu\cv\Latex\sections\skills.tex
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmbx10.tfm
 INPUT c:\Users\rubem\Documents\GitHub\Tapyu\cv\Latex\sections\teaching.tex
 INPUT c:\Users\rubem\Documents\GitHub\Tapyu\cv\Latex\sections\teaching.tex
+INPUT c:\Users\rubem\Documents\GitHub\Tapyu\cv\Latex\sections\publications.tex
+INPUT c:\Users\rubem\Documents\GitHub\Tapyu\cv\Latex\sections\publications.tex
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
 INPUT C:\Users\rubem\AppData\Local\MiKTeX\pdftex\config\pdftex.map
-INPUT c:\Users\rubem\Documents\GitHub\Tapyu\cv\Latex\sections\publications.tex
-INPUT c:\Users\rubem\Documents\GitHub\Tapyu\cv\Latex\sections\publications.tex
 INPUT c:\Users\rubem\Documents\GitHub\Tapyu\cv\Latex\cv.aux
 INPUT c:\Users\rubem\Documents\GitHub\Tapyu\cv\Latex\cv.out
 INPUT c:\Users\rubem\Documents\GitHub\Tapyu\cv\Latex\cv.out
-INPUT C:\Program Files\MiKTeX\fonts\enc\dvips\cm-super\cm-super-ts1.enc
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx10.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx10.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
@@ -167,11 +166,9 @@ INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmcsc10.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmcsc10.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb
-INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmr8.pfb
-INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmr8.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmr7.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmr7.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy6.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy6.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmti10.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmti10.pfb
-INPUT C:\Program Files\MiKTeX\fonts\type1\public\cm-super\sfrm1095.pfb
-INPUT C:\Program Files\MiKTeX\fonts\type1\public\cm-super\sfrm1095.pfb
