@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.10) (preloaded format=pdflatex 2020.10.27)  27 OCT 2020 23:18
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.10) (preloaded format=pdflatex 2020.10.27)  11 DEC 2020 12:15
 entering extended mode
 **c:/Users/rubem/Documents/GitHub/Tapyu/cv/Latex/cv.tex
 (c:/Users/rubem/Documents/GitHub/Tapyu/cv/Latex/cv.tex
@@ -312,17 +312,17 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 7023 strings out of 480237
- 109071 string characters out of 2880581
+ 7022 strings out of 480237
+ 109060 string characters out of 2880581
  441095 words of memory out of 3000000
  23419 multiletter control sequences out of 15000+200000
- 540978 words of font info for 52 fonts, out of 3000000 for 9000
+ 540680 words of font info for 51 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 66i,11n,72p,458b,434s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 66i,11n,72p,458b,342s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Users/rubem/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/rubem/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/rubem/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/rubem/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/rubem/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/rubem/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Users/rubem/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on c:/Users\rubem\Documents\GitHub\Tapyu\cv\Latex\cv.pdf (2 pages, 114737 bytes).
+Output written on c:/Users\rubem\Documents\GitHub\Tapyu\cv\Latex\cv.pdf (2 pages, 115755 bytes).
 PDF statistics:
- 104 PDF objects out of 1000 (max. 8388607)
+ 106 PDF objects out of 1000 (max. 8388607)
  11 named destinations out of 1000 (max. 500000)
  65 words of extra memory for PDF output out of 10000 (max. 10000000)
 
