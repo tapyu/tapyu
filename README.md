@@ -50,10 +50,12 @@ Hello! I'm Rubem! I'm an Electronic Engineer. Currently, I working in my master 
 - C
 - C++
 - R
+- UNIX Shell scripting
 - Assembly
 - VHDL
 - Java
 
 ## Natural Language 👅
-- Portuguese (Native language)
-- English (Full professional proficiency)
+- Portuguese: Native language
+- English: Full professional proficiency
+- French: Elementary communication skills
