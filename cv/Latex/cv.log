@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.10) (preloaded format=pdflatex 2020.10.27)  11 DEC 2020 12:15
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.10) (preloaded format=pdflatex 2020.10.27)  21 DEC 2020 05:10
 entering extended mode
 **c:/Users/rubem/Documents/GitHub/Tapyu/cv/Latex/cv.tex
 (c:/Users/rubem/Documents/GitHub/Tapyu/cv/Latex/cv.tex
@@ -290,11 +290,16 @@ LaTeX Font Info:    Trying to load font information for U+lasy on input line 2.
  (C:\Users\rubem\AppData\Local\Programs\MiKTeX\tex/latex/base\ulasy.fd
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 )) (c:/Users\rubem\Documents\GitHub\Tapyu\cv\Latex\sections/summary.tex
+Overfull \hbox (156.67825pt too wide) in alignment at lines 4--4
+[] 
+ []
+
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 5.
+(Font)              <5> on input line 6.
+) (c:/Users\rubem\Documents\GitHub\Tapyu\cv\Latex\sections/education.tex) (c:/Users\rubem\Documents\GitHub\Tapyu\cv\Latex\sections/experience.tex) (c:/Users\rubem\Documents\GitHub\Tapyu\cv\Latex\sections/researches.tex) (c:/Users\rubem\Documents\GitHub\Tapyu\cv\Latex\sections/skills.tex
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 6.
-) (c:/Users\rubem\Documents\GitHub\Tapyu\cv\Latex\sections/education.tex) (c:/Users\rubem\Documents\GitHub\Tapyu\cv\Latex\sections/experience.tex) (c:/Users\rubem\Documents\GitHub\Tapyu\cv\Latex\sections/researches.tex) (c:/Users\rubem\Documents\GitHub\Tapyu\cv\Latex\sections/skills.tex) (c:/Users\rubem\Documents\GitHub\Tapyu\cv\Latex\sections/teaching.tex) (c:/Users\rubem\Documents\GitHub\Tapyu\cv\Latex\sections/publications.tex
+
 
 Package Fancyhdr Warning: \footskip is too small (0.0pt): 
 Make it at least 4.08003pt.
@@ -303,26 +308,26 @@ This may cause the page layout to be inconsistent, however.
 
 [1
 
-{C:/Users/rubem/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]) [2] (c:/Users\rubem\Documents\GitHub\Tapyu\cv\Latex\cv.aux)
+{C:/Users/rubem/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]) (c:/Users\rubem\Documents\GitHub\Tapyu\cv\Latex\sections/teaching.tex) (c:/Users\rubem\Documents\GitHub\Tapyu\cv\Latex\sections/activity&membership.tex) (c:/Users\rubem\Documents\GitHub\Tapyu\cv\Latex\sections/publications.tex [2]) [3] (c:/Users\rubem\Documents\GitHub\Tapyu\cv\Latex\cv.aux)
 Package rerunfilecheck Info: File `cv.out' has not changed.
-(rerunfilecheck)             Checksum: E4376B2006C838F1D4F794D7FFDDE317;397.
+(rerunfilecheck)             Checksum: 89955384C398247B43A51DC17DE84C09;477.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 7022 strings out of 480237
- 109060 string characters out of 2880581
- 441095 words of memory out of 3000000
- 23419 multiletter control sequences out of 15000+200000
- 540680 words of font info for 51 fonts, out of 3000000 for 9000
+ 7049 strings out of 480237
+ 109497 string characters out of 2880581
+ 439095 words of memory out of 3000000
+ 23426 multiletter control sequences out of 15000+200000
+ 541021 words of font info for 52 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 66i,11n,72p,458b,342s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Users/rubem/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/rubem/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/rubem/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/rubem/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/rubem/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/rubem/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Users/rubem/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on c:/Users\rubem\Documents\GitHub\Tapyu\cv\Latex\cv.pdf (2 pages, 115755 bytes).
+ 66i,11n,72p,479b,587s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\rubem\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1095.pk><C:/Users/rubem/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/rubem/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/rubem/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/rubem/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/rubem/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/rubem/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Users/rubem/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on c:/Users\rubem\Documents\GitHub\Tapyu\cv\Latex\cv.pdf (3 pages, 123554 bytes).
 PDF statistics:
- 106 PDF objects out of 1000 (max. 8388607)
- 11 named destinations out of 1000 (max. 500000)
- 65 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 136 PDF objects out of 1000 (max. 8388607)
+ 27 named destinations out of 1000 (max. 500000)
+ 73 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -49,8 +49,8 @@ Hello! I'm Rubem! I'm an Electronic Engineer. Currently, I working in my master 
 - Matlab
 - C
 - C++
-- R
-- UNIX Shell scripting
+<!-- - R -->
+<!-- - UNIX Shell scripting -->
 - Assembly
 - VHDL
 - Java
