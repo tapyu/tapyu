@@ -24,17 +24,24 @@ That is what I'm using to make the this Markdown:
 <img src="https://img.shields.io/github/followers/tapyu?style=social"></a>
 </p>
 
-## Professional contacts
+# Contacts
+
+## Professional
 
 [<img align="left" alt="rubem email" height="25" width="32px" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/email.png" />][email]
-[<img align="left" alt="rubem email" height="30" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/lattes.png" />][lattes]
-[<img align="left" alt="rubem email" height="30" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/google%20scholar.png" />][scholar]
-[<img align="left" alt="rubem email" height="30" src="https://raw.githubusercontent.com/tapyu/tapyu/dc58705fdabefd1e2aacabb99db063bfa1bb9426/figs/linkedin.svg" />][linkedin]
-[<img align="left" alt="rubem email" height="30" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/orcid.png" />][orcid]
-[<img align="left" alt="rubem email" height="30" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/cv.png" />][cv]
+[<img align="left" alt="rubem lattes" height="30" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/lattes.png" />][lattes]
+[<img align="left" alt="rubem scholar" height="30" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/google%20scholar.png" />][scholar]
+[<img align="left" alt="rubem linkedin" height="30" src="https://raw.githubusercontent.com/tapyu/tapyu/dc58705fdabefd1e2aacabb99db063bfa1bb9426/figs/linkedin.svg" />][linkedin]
+[<img align="left" alt="rubem orcid" height="30" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/orcid.png" />][orcid]
+[<img align="left" alt="rubem cv" height="30" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/cv.png" />][cv]
 <br/>
 
+## Social
 
+[<img align="left" alt="rubem email" height="30" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][pepe]
+[<img align="left" alt="rubem email" height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="rubem email" height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<br/>
 
 ## Bio
 Hi there! I'm Rubem! I'm an Electronic Engineer. Currently, I working in my master degree at the [Federal University of Ceará][UFCwebsite] (UFC). I hope collaborate in GitHub in my expertise area. Follow me and let's work together!
@@ -47,20 +54,27 @@ Hi there! I'm Rubem! I'm an Electronic Engineer. Currently, I working in my mast
 ## Mission 🦾
 > Apply Machine Learning methods in order to develop new solutions for symbol detection and synchronization techniques. If it is possible, implement this solution in FPGA.
 
-# Programing Language 👨‍💻
-<p align='center'>
-<img align="center" alt="cpp" width="30px" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/cpp.svg" />
-<img align="center" alt="c" width="40px" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/c.svg" />
-<img align="center" alt="java" width="26px" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/java.png" />
-<img align="center" alt="python" width="45rpx" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/python.svg" />
-<img align="center" alt="Matlab" width="46px" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/Matlab.png" />
-<img align="center" alt="assembly" width="40px" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/assembly.png" />
-<img align="center" alt="VHDL" width="120px" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/VHDL.jfif" />
-</p>
+## Programing Languages 👨‍💻
+
+<img align="left" alt="c" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/c.svg" />
+<img align="left" alt="cpp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg" />
+<img align="left" alt="java" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />
+<img align="left" alt="python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />
+<img align="left" alt="matlab" width="46px" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/Matlab.png" />
+<img align="left" alt="assembly" width="40px" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/assembly.png" />
+<img align="left" alt="VHDL" width="120px" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/VHDL.jfif" />
 <!-- - R -->
 <!-- - UNIX Shell scripting -->
+<!-- - https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png -->
 
-# Natural Language 👅
+## Tools 🛠
+<img align="left" alt="vim" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vim.svg" />
+<img align="left" alt="visual studio code" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg" />
+<img align="left" alt="linux" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linux.svg" />
+<img align="left" alt="latex" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/latex.svg" />
+
+
+## Natural Languages 👅
 - :brazil: Portuguese: Native speaker
 - :us: English: Full professional proficiency
 - :fr: French: Elementary communication skills
