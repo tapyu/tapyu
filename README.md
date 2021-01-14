@@ -60,9 +60,9 @@ Hi there! I'm Rubem! I'm an Electronic Engineer. Currently, I working in my mast
 <img align="left" alt="cpp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg" />
 <img align="left" alt="java" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />
 <img align="left" alt="python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />
-<img align="left" alt="matlab" width="46px" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/Matlab.png" />
-<img align="left" alt="assembly" width="40px" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/assembly.png" />
-<img align="left" alt="VHDL" width="120px" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/VHDL.jfif" />
+<img align="left" alt="assembly" width="22px" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/assembly.png" />
+<img align="left" alt="VHDL" width="22px" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/VHDL.jfif" />
+<img align="left" alt="matlab" width="22px" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/Matlab.png" />
 <!-- - R -->
 <!-- - UNIX Shell scripting -->
 <!-- - https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png -->
@@ -91,12 +91,6 @@ Hi there! I'm Rubem! I'm an Electronic Engineer. Currently, I working in my mast
 ---
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tapyu&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=tapyu&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" />
-
-</details>
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
@@ -108,6 +102,13 @@ Hi there! I'm Rubem! I'm an Electronic Engineer. Currently, I working in my mast
 4. 🗣 Commented on [#557](https://github.com/ManimCommunity/manim/issues/557) in [ManimCommunity/manim](https://github.com/ManimCommunity/manim)
 5. 🗣 Commented on [#557](https://github.com/ManimCommunity/manim/issues/557) in [ManimCommunity/manim](https://github.com/ManimCommunity/manim)
 <!--END_SECTION:activity-->
+</details>
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=tapyu&show_icons=true&count_private=true&theme=tokyonight" />
+
 </details>
 
 [UFCwebsite]: http://www.ufc.br/
