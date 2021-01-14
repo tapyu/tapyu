@@ -77,7 +77,7 @@ Hi there! I'm Rubem! I'm an Electronic Engineer. Currently, I working in my mast
 <img align="left" alt="python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />
 <img align="left" alt="assembly" width="22px" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/assembly.png" />
 <img align="left" alt="VHDL" width="42px" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/VHDL.jfif" />
-<img align="left" alt="matlab" width="22px" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/Matlab.png" />
+<img align="left" alt="matlab" width="22px" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/matlab.png" />
 <!-- - R -->
 <!-- - UNIX Shell scripting -->
 <!-- - https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png -->
