@@ -102,6 +102,12 @@ Hi there! I'm Rubem! I'm an Electronic Engineer. Currently, I working in my mast
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#557](https://github.com/ManimCommunity/manim/issues/557) in [ManimCommunity/manim](https://github.com/ManimCommunity/manim)
+2. 🗣 Commented on [#557](https://github.com/ManimCommunity/manim/issues/557) in [ManimCommunity/manim](https://github.com/ManimCommunity/manim)
+3. 🗣 Commented on [#557](https://github.com/ManimCommunity/manim/issues/557) in [ManimCommunity/manim](https://github.com/ManimCommunity/manim)
+4. 🗣 Commented on [#557](https://github.com/ManimCommunity/manim/issues/557) in [ManimCommunity/manim](https://github.com/ManimCommunity/manim)
+5. 🗣 Commented on [#557](https://github.com/ManimCommunity/manim/issues/557) in [ManimCommunity/manim](https://github.com/ManimCommunity/manim)
+<!--END_SECTION:activity-->
 </details>
 
 [UFCwebsite]: http://www.ufc.br/
