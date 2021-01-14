@@ -90,11 +90,18 @@ Hi there! I'm Rubem! I'm an Electronic Engineer. Currently, I working in my mast
 
 ---
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tapyu&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+
 <details>
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=tapyu&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" />
 
+</details>
+
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
+  
+<!--START_SECTION:activity-->
 </details>
 
 [UFCwebsite]: http://www.ufc.br/
