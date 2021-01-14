@@ -72,7 +72,7 @@ Hi there! I'm Rubem! I'm an Electronic Engineer. Currently, I working in my mast
 <img align="left" alt="visual studio code" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg" />
 <img align="left" alt="linux" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linux.svg" />
 <img align="left" alt="latex" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/latex.svg" />
-
+<img align="left" alt="anaconda" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/anaconda.svg" />
 
 ## Natural Languages 👅
 - :brazil: Portuguese: Native speaker
