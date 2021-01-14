@@ -66,6 +66,8 @@ Hi there! I'm Rubem! I'm an Electronic Engineer. Currently, I working in my mast
 <!-- - R -->
 <!-- - UNIX Shell scripting -->
 <!-- - https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png -->
+<br/>
+<br/>
 
 ## Tools 🛠
 <img align="left" alt="vim" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vim.svg" />
@@ -73,12 +75,20 @@ Hi there! I'm Rubem! I'm an Electronic Engineer. Currently, I working in my mast
 <img align="left" alt="linux" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linux.svg" />
 <img align="left" alt="latex" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/latex.svg" />
 <img align="left" alt="anaconda" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/anaconda.svg" />
+<br/>
 
 ## Natural Languages 👅
 - :brazil: Portuguese: Native speaker
 - :us: English: Full professional proficiency
 - :fr: French: Elementary communication skills
 
+----
+# Latest Youtube Video 📺
+<!-- YOUTUBE:START -->
+- [How to change the theme of MATLAB](https://www.youtube.com/watch?v=-ZjhzlEbLko)
+<!-- YOUTUBE:END -->
+
+---
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tapyu&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 <details>
   <summary>:zap: GitHub Stats</summary>
@@ -86,12 +96,6 @@ Hi there! I'm Rubem! I'm an Electronic Engineer. Currently, I working in my mast
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=tapyu&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" />
 
 </details>
-
-----
-# Latest Youtube Video 📺
-<!-- YOUTUBE:START -->
-- [How to change the theme of MATLAB](https://www.youtube.com/watch?v=-ZjhzlEbLko)
-<!-- YOUTUBE:END -->
 
 [UFCwebsite]: http://www.ufc.br/
 [email]: mailto:rubem.engenharia@gmail.com
