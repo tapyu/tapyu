@@ -21,7 +21,7 @@ That is what I'm using to make the this Markdown:
 <h1>Welcome to my Github page</h1>
 
 <p align='center'>
-<a href="mailto:rubem.engenharia@gmail.com" target="_blank"><img height="35" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/email.png"></a>
+<a href="mailto:rubem.engenharia@gmail.com" target="_blank"><img height="25" width="32px" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/email.png"></a>
 <a href="http://lattes.cnpq.br/0717252455115225" target="_blank"><img height="30" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/lattes.png"></a>
 <a href="https://scholar.google.com.br/citations?user=Kj6Gzs4AAAAJ&hl=pt-BR&oi=sra"><img height="30" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/google%20scholar.png"></a>
 <a href="https://www.linkedin.com/in/rubem-pacelli/"><img style="margin-left:5px; margin-right: -7px" height="30" src="https://raw.githubusercontent.com/tapyu/tapyu/dc58705fdabefd1e2aacabb99db063bfa1bb9426/figs/linkedin.svg"></a>&nbsp;&nbsp;
@@ -34,8 +34,7 @@ That is what I'm using to make the this Markdown:
 </p>
 
 ## Bio
-Hi there! I'm Rubem! I'm an Electronic Engineer. Currently, I working in my master degree at the [Federal University of Ceará][UFCwebsite] (UFC). I hope collaborate in GitHub in my expertise area. Follow me and let's work together! 😄 [Testing](website)
-[test][website]
+Hi there! I'm Rubem! I'm an Electronic Engineer. Currently, I working in my master degree at the [Federal University of Ceará][UFCwebsite] (UFC). I hope collaborate in GitHub in my expertise area. Follow me and let's work together! 😄
 
 ## Interest 🧠
 1. Modulation theory, symbol detection and synchronization techniques. 
@@ -45,15 +44,16 @@ Hi there! I'm Rubem! I'm an Electronic Engineer. Currently, I working in my mast
 ## Mission 🦾
 > Apply Machine Learning methods in order to develop new solutions for symbol detection and synchronization techniques. If it is possible, implement this solution in FPGA.
 
-## Programing Language 👨‍💻
-- Python
-- Matlab
-- C
-- C++
+# Programing Language 👨‍💻
+<img align="left" alt="cpp" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png" /> <br />
+Python
+Matlab
+C
+C++
 <!-- - R -->
 <!-- - UNIX Shell scripting -->
-- Assembly
-- VHDL
+Assembly
+VHDL
 - Java
 
 ## Natural Language 👅
