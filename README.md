@@ -45,21 +45,23 @@ Hi there! I'm Rubem! I'm an Electronic Engineer. Currently, I working in my mast
 > Apply Machine Learning methods in order to develop new solutions for symbol detection and synchronization techniques. If it is possible, implement this solution in FPGA.
 
 # Programing Language 👨‍💻
-<img align="left" alt="cpp" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png" /> <br />
-Python
-Matlab
-C
-C++
+<img align="left" alt="cpp" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png" />
+<img align="left" alt="c" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png" />
+<img align="left" alt="java" width="26px" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/java.png" />
+<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/python.svg" />
+<img align="left" alt="Matlab" width="26px" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/Matlab.png" />
+<img align="left" alt="assembly" width="26px" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/assembly.png" />
+<img align="left" alt="VHDL" width="26px" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/VHDL.jfif" />
+<br />
+<br />
+<br />
 <!-- - R -->
 <!-- - UNIX Shell scripting -->
-Assembly
-VHDL
-- Java
 
-## Natural Language 👅
-- Portuguese: Native language
-- English: Full professional proficiency
-- French: Elementary communication skills
+# Natural Language 👅
+- :brazil: Portuguese: Native language
+- :us: English: Full professional proficiency
+- :fr: French: Elementary communication skills
 
 
 [UFCwebsite]: http://www.ufc.br/
