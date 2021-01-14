@@ -71,8 +71,9 @@ Hi there! I'm Rubem! I'm an Electronic Engineer. Currently, I working in my mast
 - :us: English: Full professional proficiency
 - :fr: French: Elementary communication skills
 
+<img align="center" alt="tapty's GitHub Stats" width="40px" src="https://github-readme-stats.vercel.app/api?username=tapyu&icons=true&hide_border=true" />
 
-# 📺 Latest Youtube Video
+# Latest Youtube Video 📺
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
 
