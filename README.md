@@ -76,7 +76,7 @@ Hi there! I'm Rubem! I'm an Electronic Engineer. Currently, I working in my mast
 <img align="left" alt="java" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />
 <img align="left" alt="python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />
 <img align="left" alt="assembly" width="22px" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/assembly.png" />
-<img align="left" alt="VHDL" width="22px" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/VHDL.jfif" />
+<img align="left" alt="VHDL" width="42px" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/VHDL.jfif" />
 <img align="left" alt="matlab" width="22px" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/Matlab.png" />
 <!-- - R -->
 <!-- - UNIX Shell scripting -->
@@ -90,6 +90,8 @@ Hi there! I'm Rubem! I'm an Electronic Engineer. Currently, I working in my mast
 <img align="left" alt="linux" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linux.svg" />
 <img align="left" alt="latex" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/latex.svg" />
 <img align="left" alt="anaconda" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/anaconda.svg" />
+<img align="left" alt="anaconda" width="38px" src="http://raw.githubusercontent.com/ManimCommunity/manim/master/logo/monochromatic/monochromatic_black.svg" />
+
 <br/>
 
 ## Natural Languages 👅
@@ -116,3 +118,4 @@ Hi there! I'm Rubem! I'm an Electronic Engineer. Currently, I working in my mast
 [pepe]: https://raw.githubusercontent.com/tapyu/tapyu/master/figs/pepe.jpg
 [youtube]: https://www.youtube.com/channel/UCn1nfBWKVmvPvTsAH5Agf6Q
 [instagram]: https://www.instagram.com/rubempacelli/
+[manim-community]: https://github.com/ManimCommunity/manim
