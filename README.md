@@ -73,7 +73,7 @@ Hi there! I'm Rubem! I'm an Electronic Engineer. Currently, I working in my mast
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-  <img align="left" alt="tapyu's GitHub Stats" src="https://github-readme-stats.tspyu.vercel.app/api?username=tapyu&show_icons=true&hide_border=true" />
+  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tapyu)](https://github.com/anuraghazra/github-readme-stats)
 </details>
 
 # Latest Youtube Video 📺
