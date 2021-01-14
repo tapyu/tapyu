@@ -25,15 +25,13 @@ That is what I'm using to make the this Markdown:
 </p>
 
 ## Professional contacts
-<br />
-<p align='center'>
-<a href="mailto:rubem.engenharia@gmail.com" target="_blank"><img height="25" width="32px" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/email.png"></a>
-<a href=http://lattes.cnpq.br/0717252455115225 target="_blank"><img height="30" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/lattes.png"></a>
-<a href="https://scholar.google.com.br/citations?user=Kj6Gzs4AAAAJ&hl=pt-BR&oi=sra"><img height="30" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/google%20scholar.png"></a>
-<a href="https://www.linkedin.com/in/rubem-pacelli/"><img style="margin-left:5px; margin-right: -7px" height="30" src="https://raw.githubusercontent.com/tapyu/tapyu/dc58705fdabefd1e2aacabb99db063bfa1bb9426/figs/linkedin.svg"></a>&nbsp;&nbsp;
-<a href="https://orcid.org/0000-0001-5933-8565"> <img height="30" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/orcid.png"></a>
-<a href="https://github.com/tapyu/tapyu/blob/master/cv/Latex/cv.pdf"> <img height="30" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/cv.png"></a>
-</p>
+
+[<img align="left" alt="rubem email" height="25" width="32px" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/email.png" />][email]
+[<img align="left" alt="rubem email" height="30" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/lattes.png" />][lattes]
+[<img align="left" alt="rubem email" height="30" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/google%20scholar.png" />][scholar]
+[<img align="left" alt="rubem email" height="30" src="https://raw.githubusercontent.com/tapyu/tapyu/dc58705fdabefd1e2aacabb99db063bfa1bb9426/figs/linkedin.svg" />][linkedin]
+[<img align="left" alt="rubem email" height="30" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/orcid.png" />][orcid]
+[<img align="left" alt="rubem email" height="30" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/cv.png" />][cv]
 
 ## Social contacts
 <p align='center'>
@@ -86,3 +84,9 @@ Hi there! I'm Rubem! I'm an Electronic Engineer. Currently, I working in my mast
 <!-- YOUTUBE:END -->
 
 [UFCwebsite]: http://www.ufc.br/
+[email]: mailto:rubem.engenharia@gmail.com
+[lattes]: http://lattes.cnpq.br/0717252455115225
+[scholar]: https://scholar.google.com.br/citations?user=Kj6Gzs4AAAAJ&hl=pt-BR&oi=sra
+[linkedin]: https://www.linkedin.com/in/rubem-pacelli/
+[orcid]: https://orcid.org/0000-0001-5933-8565
+[cv]: https://github.com/tapyu/tapyu/blob/master/cv/Latex/cv.pdf
