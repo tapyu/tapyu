@@ -21,7 +21,7 @@ That is what I'm using to make the this Markdown:
 <h1>Welcome to my Github page</h1>
 
 <p align='center'>
-<a href="mailto:rubem.engenharia@gmail.com" target="_blank"><img height="35" src="https://raw.githubusercontent.com/Tapyu/Tapyu/master/figs/email_PNG7.png"></a>
+<a href="mailto:rubem.engenharia@gmail.com" target="_blank"><img height="35" src="https://raw.githubusercontent.com/Tapyu/Tapyu/master/figs/email.png"></a>
 <a href="http://lattes.cnpq.br/0717252455115225" target="_blank"><img height="30" src="https://raw.githubusercontent.com/Tapyu/Tapyu/master/figs/lattes.png"></a>
 <a href="https://scholar.google.com.br/citations?user=Kj6Gzs4AAAAJ&hl=pt-BR&oi=sra"><img height="30" src="https://raw.githubusercontent.com/Tapyu/Tapyu/master/figs/google%20scholar.png"></a>
 <a href="https://www.linkedin.com/in/rubem-pacelli/"><img style="margin-left:5px; margin-right: -7px" height="30" src="https://raw.githubusercontent.com/Tapyu/Tapyu/dc58705fdabefd1e2aacabb99db063bfa1bb9426/figs/linkedin.svg"></a>&nbsp;&nbsp;
