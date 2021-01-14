@@ -34,12 +34,7 @@ That is what I'm using to make the this Markdown:
 [<img align="left" alt="rubem email" height="30" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/cv.png" />][cv]
 <br/>
 
-## Social contacts
 
-[<img align="left" alt="rubem email" height="30" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][pepe]
-[<img align="left" alt="rubem email" height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="rubem email" height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-<br/>
 
 ## Bio
 Hi there! I'm Rubem! I'm an Electronic Engineer. Currently, I working in my master degree at the [Federal University of Ceará][UFCwebsite] (UFC). I hope collaborate in GitHub in my expertise area. Follow me and let's work together!
