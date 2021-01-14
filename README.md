@@ -71,11 +71,15 @@ Hi there! I'm Rubem! I'm an Electronic Engineer. Currently, I working in my mast
 - :us: English: Full professional proficiency
 - :fr: French: Elementary communication skills
 
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tapyu&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 <details>
   <summary>:zap: GitHub Stats</summary>
-  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tapyu)](https://github.com/anuraghazra/github-readme-stats)
+
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=tapyu&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" />
+
 </details>
 
+----
 # Latest Youtube Video 📺
 <!-- YOUTUBE:START -->
 - [How to change the theme of MATLAB](https://www.youtube.com/watch?v=-ZjhzlEbLko)
