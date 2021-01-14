@@ -71,7 +71,13 @@ Hi there! I'm Rubem! I'm an Electronic Engineer. Currently, I working in my mast
 - :us: English: Full professional proficiency
 - :fr: French: Elementary communication skills
 
-<img align="center" alt="tapty's GitHub Stats" width="40px" src="https://github-readme-stats.vercel.app/api?username=tapyu&icons=true&hide_border=true" />
+<details>
+  <summary>:zap: GitHub Stats</summary>
+  <!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) -->
+  <img align="center" alt="tapuy's GitHub Stats" width="40px" src="https://github-readme-stats.vercel.app/api?username=tapyu" />
+  <img align="left" alt="tapuy's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=tapyu&show_icons=true&hide_border=true" />
+
+</details>
 
 # Latest Youtube Video 📺
 <!-- YOUTUBE:START -->
