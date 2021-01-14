@@ -43,7 +43,7 @@ That is what I'm using to make the this Markdown:
 </p>
 
 ## Bio
-Hi there! I'm Rubem! I'm an Electronic Engineer. Currently, I working in my master degree at the [Federal University of Ceará][UFCwebsite] (UFC). I hope collaborate in GitHub in my expertise area. Follow me and let's work together! 😄
+Hi there! I'm Rubem! I'm an Electronic Engineer. Currently, I working in my master degree at the [Federal University of Ceará][UFCwebsite] (UFC). I hope collaborate in GitHub in my expertise area. Follow me and let's work together!
 
 ## Interest 🧠
 1. Modulation theory, symbol detection and synchronization techniques. 
@@ -67,7 +67,7 @@ Hi there! I'm Rubem! I'm an Electronic Engineer. Currently, I working in my mast
 <!-- - UNIX Shell scripting -->
 
 # Natural Language 👅
-- :brazil: Portuguese: Native language
+- :brazil: Portuguese: Native language speaker
 - :us: English: Full professional proficiency
 - :fr: French: Elementary communication skills
 
