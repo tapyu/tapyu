@@ -67,7 +67,7 @@ Hi there! I'm Rubem! I'm an Electronic Engineer. Currently, I working in my mast
 <!-- - UNIX Shell scripting -->
 
 # Natural Language 👅
-- :brazil: Portuguese: Native language speaker
+- :brazil: Portuguese: Native speaker
 - :us: English: Full professional proficiency
 - :fr: French: Elementary communication skills
 
