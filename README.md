@@ -36,6 +36,7 @@ That is what I'm using to make the this Markdown:
   <br/>
   <br/>
   <br/>
+  <br/>
   
   ### Recent GitHub Activity
   <!--START_SECTION:activity-->
@@ -68,7 +69,7 @@ That is what I'm using to make the this Markdown:
 <br/>
 
 # Bio
-Hi there! I'm Rubem! I'm an Electronic Engineer. Currently, I working in my master degree at the [Federal University of Ceará][UFCwebsite] (UFC). I hope collaborate in GitHub in my expertise area. Follow me and let's work together!
+Hi there! I'm Rubem, but the people also call me Tapyu. I'm an Electronic Engineer. Currently, I working in my master degree at the [Federal University of Ceará][UFCwebsite] (UFC). I hope collaborate on GitHub in my expertise area. Follow me and let's work together!
 
 ## Interest 🧠
 1. Modulation theory, symbol detection and synchronization techniques. 
@@ -78,15 +79,15 @@ Hi there! I'm Rubem! I'm an Electronic Engineer. Currently, I working in my mast
 ## Mission 🦾
 > Apply Machine Learning methods in order to develop new solutions for symbol detection and synchronization techniques. If it is possible, implement this solution in FPGA.
 
-## Programing Languages 👨‍💻
+## Programing (or hardware description) Languages 👨‍💻
 
-<img align="left" alt="c" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/c.svg" />
-<img align="left" alt="cpp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg" />
-<img align="left" alt="java" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />
-<img align="left" alt="python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />
-<img align="left" alt="assembly" width="22px" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/assembly.png" />
-<img align="left" alt="VHDL" width="42px" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/VHDL.jfif" />
-<img align="left" alt="matlab" width="22px" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/matlab.png" />
+[<img align="left" alt="c" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/c.svg" />][cweb]
+[<img align="left" alt="cpp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg" />][cppweb]
+[<img align="left" alt="java" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />][javaweb]
+[<img align="left" alt="python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />][pythonweb]
+[<img align="left" alt="assembly" width="22px" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/assembly.png" />][assemblyweb]
+[<img align="left" alt="VHDL" width="42px" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/VHDL.jfif" />][VHDLweb]
+[<img align="left" alt="matlab" width="22px" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/matlab.png" />][matlabweb]
 <!-- - R -->
 <!-- - UNIX Shell scripting -->
 <!-- - https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png -->
@@ -94,12 +95,12 @@ Hi there! I'm Rubem! I'm an Electronic Engineer. Currently, I working in my mast
 <br/>
 
 ## Tools 🛠
-<img align="left" alt="vim" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vim.svg" />
-<img align="left" alt="visual studio code" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg" />
-<img align="left" alt="linux" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linux.svg" />
-<img align="left" alt="latex" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/latex.svg" />
-<img align="left" alt="anaconda" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/anaconda.svg" />
-<img align="left" alt="anaconda" width="38px" src="http://raw.githubusercontent.com/ManimCommunity/manim/master/logo/monochromatic/monochromatic_black.svg" />
+[<img align="left" alt="vim" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vim.svg" />][vimweb]
+[<img align="left" alt="visual studio code" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg" />][vscodeweb]
+[<img align="left" alt="linux" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linux.svg" />][linuxweb]
+[<img align="left" alt="latex" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/latex.svg" />][latexweb]
+[<img align="left" alt="anaconda" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/anaconda.svg" />][anacondaweb]
+[<img align="left" alt="anaconda" width="38px" src="http://raw.githubusercontent.com/ManimCommunity/manim/master/logo/monochromatic/monochromatic_black.svg" />][manim-communityweb]
 
 <br/>
 
@@ -127,4 +128,16 @@ Hi there! I'm Rubem! I'm an Electronic Engineer. Currently, I working in my mast
 [pepe]: https://raw.githubusercontent.com/tapyu/tapyu/master/figs/pepe.jpg
 [youtube]: https://www.youtube.com/channel/UCn1nfBWKVmvPvTsAH5Agf6Q
 [instagram]: https://www.instagram.com/rubempacelli/
-[manim-community]: https://github.com/ManimCommunity/manim
+[manim-communityweb]: https://github.com/ManimCommunity/manim
+[cweb]: https://en.wikipedia.org/wiki/C_(programming_language)
+[cppweb]: https://en.wikipedia.org/wiki/C%2B%2B
+[javaweb]: https://en.wikipedia.org/wiki/Java_(programming_language)
+[pythonweb]: https://www.python.org/
+[assemblyweb]: https://en.wikipedia.org/wiki/Assembly_language
+[VHDLweb]: https://en.wikipedia.org/wiki/VHDL
+[matlabweb]:https://www.mathworks.com/products/matlab.html
+[anacondaweb]: https://www.anaconda.com/
+[latexweb]: https://www.latex-project.org/
+[linuxweb]: https://www.linux.org/
+[vscodeweb]: https://code.visualstudio.com/
+[vimweb]: https://www.vim.org/
