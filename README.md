@@ -32,13 +32,14 @@ That is what I'm using to make the this Markdown:
 [<img align="left" alt="rubem email" height="30" src="https://raw.githubusercontent.com/tapyu/tapyu/dc58705fdabefd1e2aacabb99db063bfa1bb9426/figs/linkedin.svg" />][linkedin]
 [<img align="left" alt="rubem email" height="30" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/orcid.png" />][orcid]
 [<img align="left" alt="rubem email" height="30" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/cv.png" />][cv]
+<br/>
 
 ## Social contacts
-<p align='center'>
-<a href="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/pepe.jpg"><img height="30" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"></a>
-<a href="https://www.youtube.com/channel/UCn1nfBWKVmvPvTsAH5Agf6Q"><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg"></a>
-<a href="https://www.instagram.com/rubempacelli/"><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"></a>
-</p>
+
+[<img align="left" alt="rubem email" height="30" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][pepe]
+[<img align="left" alt="rubem email" height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="rubem email" height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<br/>
 
 ## Bio
 Hi there! I'm Rubem! I'm an Electronic Engineer. Currently, I working in my master degree at the [Federal University of Ceará][UFCwebsite] (UFC). I hope collaborate in GitHub in my expertise area. Follow me and let's work together!
@@ -90,3 +91,6 @@ Hi there! I'm Rubem! I'm an Electronic Engineer. Currently, I working in my mast
 [linkedin]: https://www.linkedin.com/in/rubem-pacelli/
 [orcid]: https://orcid.org/0000-0001-5933-8565
 [cv]: https://github.com/tapyu/tapyu/blob/master/cv/Latex/cv.pdf
+[pepe]: https://raw.githubusercontent.com/tapyu/tapyu/master/figs/pepe.jpg
+[youtube]: https://www.youtube.com/channel/UCn1nfBWKVmvPvTsAH5Agf6Q
+[instagram]: https://www.instagram.com/rubempacelli/
