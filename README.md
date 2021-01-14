@@ -69,7 +69,7 @@ That is what I'm using to make the this Markdown:
 <br/>
 
 # Bio
-Hi there! I'm Rubem, but the people also call me Tapyu. I'm an Electronic Engineer. Currently, I working in my master degree at the [Federal University of Ceará][UFCwebsite] (UFC). I hope collaborate on GitHub in my expertise area. Follow me and let's work together!
+Hi there! I'm Rubem, but the people also call me Tapyu. I'm an Electronic Engineer. Currently, I working in my master degree at the [Federal University of Ceará][UFCwebsite] (UFC). I hope to collaborate on GitHub in my expertise area. Follow me and let's work together!
 
 ## Interest 🧠
 1. Modulation theory, symbol detection and synchronization techniques. 
@@ -114,6 +114,10 @@ Hi there! I'm Rubem, but the people also call me Tapyu. I'm an Electronic Engine
 <!-- YOUTUBE:START -->
 - [How to change the theme of MATLAB](https://www.youtube.com/watch?v=-ZjhzlEbLko)
 <!-- YOUTUBE:END -->
+
+<audio id="audio_play">
+    <source src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/tapyu.m4a" type="audio/m4a" />
+</audio>
 
 ---
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tapyu&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
