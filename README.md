@@ -28,6 +28,15 @@ That is what I'm using to make the this Markdown:
   </p>
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=tapyu&show_icons=true&count_private=true&theme=tokyonight" />
   
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+  <br/>
+  
   ### Recent GitHub Activity
   <!--START_SECTION:activity-->
 1. 🗣 Commented on [#557](https://github.com/ManimCommunity/manim/issues/557) in [ManimCommunity/manim](https://github.com/ManimCommunity/manim)
