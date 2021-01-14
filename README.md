@@ -26,14 +26,14 @@ That is what I'm using to make the this Markdown:
 
 ## Professional contacts
 <br />
-<div style="text-align:center">
-<div style="display:inline-block;width:30px;margin:5px 5px;padding:5px;"><a href="mailto:rubem.engenharia@gmail.com"><img alt="rubem E-mail" style="margin-left:5px; margin-right: 5px" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/email.png"></a></div>
-<div style="display:inline-block;width:30px;margin:5px 5px;padding:5px;"><a href="http://lattes.cnpq.br/0717252455115225"><img alt="rubem lattes" style="margin-left:5px; margin-right: 5px" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/lattes.png"></a></div>
-<div style="display:inline-block;width:30px;margin:5px 5px;padding:5px;"><a href="https://scholar.google.com.br/citations?user=Kj6Gzs4AAAAJ&hl=pt-BR&oi=sra"><img alt="rubem scholar" style="margin-left:5px; margin-right: 5px" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/google scholar.png"></a></div>
-<div style="display:inline-block;width:30px;margin:5px 5px;padding:5px;"><a href="https://www.linkedin.com/in/rubem-pacelli/"><img alt="rubem linkein" style="margin-left:5px; margin-right: 5px" src="https://raw.githubusercontent.com/tapyu/tapyu/dc58705fdabefd1e2aacabb99db063bfa1bb9426/figs/linkedin.svg"></a></div>
-<div style="display:inline-block;width:30px;margin:5px 5px;padding:5px;"><a href="https://orcid.org/0000-0001-5933-8565"><img alt="rubem orcid" style="margin-left:5px; margin-right: 5px" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/orcid.png"></a></div>
-<div style="display:inline-block;width:30px;margin:5px 5px;padding:5px;"><a href="https://github.com/tapyu/tapyu/blob/master/cv/Latex/cv.pdf"><img style="margin-left:5px; margin-right: 5px" alt="rubem cv" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/cv.png"></a></div>
-</div>
+<p align='center'>
+<a href="mailto:rubem.engenharia@gmail.com" target="_blank"><img height="25" width="32px" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/email.png"></a>
+<a href=http://lattes.cnpq.br/0717252455115225 target="_blank"><img height="30" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/lattes.png"></a>
+<a href="https://scholar.google.com.br/citations?user=Kj6Gzs4AAAAJ&hl=pt-BR&oi=sra"><img height="30" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/google%20scholar.png"></a>
+<a href="https://www.linkedin.com/in/rubem-pacelli/"><img style="margin-left:5px; margin-right: -7px" height="30" src="https://raw.githubusercontent.com/tapyu/tapyu/dc58705fdabefd1e2aacabb99db063bfa1bb9426/figs/linkedin.svg"></a>&nbsp;&nbsp;
+<a href="https://orcid.org/0000-0001-5933-8565"> <img height="30" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/orcid.png"></a>
+<a href="https://github.com/tapyu/tapyu/blob/master/cv/Latex/cv.pdf"> <img height="30" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/cv.png"></a>
+</p>
 
 ## Social contacts
 <p align='center'>
