@@ -20,9 +20,24 @@ That is what I'm using to make the this Markdown:
 
 <h1>Welcome to my Github page</h1>
 
-<p align='center'>
-<img src="https://img.shields.io/github/followers/tapyu?style=social"></a>
-</p>
+<details>
+  <summary>:zap: GitHub Performance</summary>
+  
+  <p align='center'>
+    <img src="https://img.shields.io/github/followers/tapyu?style=social"></a>
+  </p>
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=tapyu&show_icons=true&count_private=true&theme=tokyonight" />
+  
+  ### Recent GitHub Activity
+  <!--START_SECTION:activity-->
+1. 🗣 Commented on [#557](https://github.com/ManimCommunity/manim/issues/557) in [ManimCommunity/manim](https://github.com/ManimCommunity/manim)
+2. 🗣 Commented on [#557](https://github.com/ManimCommunity/manim/issues/557) in [ManimCommunity/manim](https://github.com/ManimCommunity/manim)
+3. 🗣 Commented on [#557](https://github.com/ManimCommunity/manim/issues/557) in [ManimCommunity/manim](https://github.com/ManimCommunity/manim)
+4. 🗣 Commented on [#557](https://github.com/ManimCommunity/manim/issues/557) in [ManimCommunity/manim](https://github.com/ManimCommunity/manim)
+5. 🗣 Commented on [#557](https://github.com/ManimCommunity/manim/issues/557) in [ManimCommunity/manim](https://github.com/ManimCommunity/manim)
+<!--END_SECTION:activity-->
+
+</details>
 
 # Contacts
 
@@ -90,26 +105,6 @@ Hi there! I'm Rubem! I'm an Electronic Engineer. Currently, I working in my mast
 
 ---
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tapyu&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
-
-
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#557](https://github.com/ManimCommunity/manim/issues/557) in [ManimCommunity/manim](https://github.com/ManimCommunity/manim)
-2. 🗣 Commented on [#557](https://github.com/ManimCommunity/manim/issues/557) in [ManimCommunity/manim](https://github.com/ManimCommunity/manim)
-3. 🗣 Commented on [#557](https://github.com/ManimCommunity/manim/issues/557) in [ManimCommunity/manim](https://github.com/ManimCommunity/manim)
-4. 🗣 Commented on [#557](https://github.com/ManimCommunity/manim/issues/557) in [ManimCommunity/manim](https://github.com/ManimCommunity/manim)
-5. 🗣 Commented on [#557](https://github.com/ManimCommunity/manim/issues/557) in [ManimCommunity/manim](https://github.com/ManimCommunity/manim)
-<!--END_SECTION:activity-->
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=tapyu&show_icons=true&count_private=true&theme=tokyonight" />
-
-</details>
 
 [UFCwebsite]: http://www.ufc.br/
 [email]: mailto:rubem.engenharia@gmail.com
