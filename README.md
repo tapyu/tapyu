@@ -74,6 +74,8 @@ Hi there! I'm Rubem! I'm an Electronic Engineer. Currently, I working in my mast
 
 # 📺 Latest Youtube Video
 <!-- YOUTUBE:START -->
+- [Leca Aniversario 17 anos (04/01/2021)](https://www.youtube.com/watch?v=Kka7Kzo8elw)
+- [How to change the theme of MATLAB](https://www.youtube.com/watch?v=-ZjhzlEbLko)
 <!-- YOUTUBE:END -->
 
 [UFCwebsite]: http://www.ufc.br/
