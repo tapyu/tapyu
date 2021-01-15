@@ -89,20 +89,15 @@ Hi there! I'm Rubem, but the people also call me Tapyu. I'm an Electronic Engine
 [<img align="left" alt="VHDL" width="42px" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/VHDL.jfif" />][VHDLweb]
 [<img align="left" alt="matlab" width="22px" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/matlab.png" />][matlabweb]
 <!-- - R -->
-<!-- - UNIX Shell scripting -->
-<!-- - https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png -->
-<br/>
-<br/>
-
+<!-- - UNIX Shell scripting https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png -->
 ### Tools 🛠
+
 [<img align="left" alt="vim" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vim.svg" />][vimweb]
 [<img align="left" alt="visual studio code" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg" />][vscodeweb]
 [<img align="left" alt="linux" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linux.svg" />][linuxweb]
 [<img align="left" alt="latex" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/latex.svg" />][latexweb]
 [<img align="left" alt="anaconda" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/anaconda.svg" />][anacondaweb]
 [<img align="left" alt="anaconda" width="38px" src="http://raw.githubusercontent.com/ManimCommunity/manim/master/logo/monochromatic/monochromatic_black.svg" />][manim-communityweb]
-
-<br/>
 
 ### Natural Languages 👅
 - :brazil: Portuguese: Native speaker
