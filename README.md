@@ -51,7 +51,7 @@ That is what I'm using to make the this Markdown:
 
 # Contacts
 
-## Professional
+### Professional
 
 [<img align="left" alt="rubem email" height="25" width="32px" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/email.png" />][email]
 [<img align="left" alt="rubem lattes" height="30" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/lattes.png" />][lattes]
@@ -61,7 +61,7 @@ That is what I'm using to make the this Markdown:
 [<img align="left" alt="rubem cv" height="30" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/cv.png" />][cv]
 <br/>
 
-## Social
+### Social
 
 [<img align="left" alt="rubem email" height="30" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][pepe]
 [<img align="left" alt="rubem email" height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
@@ -71,15 +71,15 @@ That is what I'm using to make the this Markdown:
 # Bio
 Hi there! I'm Rubem, but the people also call me Tapyu. I'm an Electronic Engineer. Currently, I working in my master degree at the [Federal University of Ceará][UFCwebsite] (UFC). I hope to collaborate on GitHub in my expertise area. Follow me and let's work together!
 
-## Interest 🧠
+### Interest 🧠
 1. Modulation theory, symbol detection and synchronization techniques. 
 1. Machine Learning and Neural Networks.
 1. FPGA (Field Programmable Gate Array).
 
-## Mission 🦾
+### Mission 🦾
 > Apply Machine Learning methods in order to develop new solutions for symbol detection and synchronization techniques. If it is possible, implement this solution in FPGA.
 
-## Programing (or hardware description) Languages 👨‍💻
+### Programing (or hardware description) Languages 👨‍💻
 
 [<img align="left" alt="c" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/c.svg" />][cweb]
 [<img align="left" alt="cpp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg" />][cppweb]
@@ -94,7 +94,7 @@ Hi there! I'm Rubem, but the people also call me Tapyu. I'm an Electronic Engine
 <br/>
 <br/>
 
-## Tools 🛠
+### Tools 🛠
 [<img align="left" alt="vim" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vim.svg" />][vimweb]
 [<img align="left" alt="visual studio code" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg" />][vscodeweb]
 [<img align="left" alt="linux" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linux.svg" />][linuxweb]
@@ -104,7 +104,7 @@ Hi there! I'm Rubem, but the people also call me Tapyu. I'm an Electronic Engine
 
 <br/>
 
-## Natural Languages 👅
+### Natural Languages 👅
 - :brazil: Portuguese: Native speaker
 - :us: English: Full professional proficiency
 - :fr: French: Elementary communication skills
