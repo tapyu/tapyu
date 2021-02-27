@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.10) (preloaded format=pdflatex 2020.10.27)  27 FEB 2021 18:55
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.10) (preloaded format=pdflatex 2020.10.27)  27 FEB 2021 20:33
 entering extended mode
 **c:/Users/rubem/Documents/GitHub/tapyu/cv/Latex/cv.tex
 (c:/Users/rubem/Documents/GitHub/tapyu/cv/Latex/cv.tex
@@ -400,22 +400,22 @@ File: l3backend-pdftex.def 2020-09-24 L3 backend support: PDF output (pdfTeX)
 ) (c:/Users\rubem\Documents\GitHub\tapyu\cv\Latex\cv.aux)
 \openout1 = `cv.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 97.
-LaTeX Font Info:    ... okay on input line 97.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 97.
-LaTeX Font Info:    ... okay on input line 97.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 97.
-LaTeX Font Info:    ... okay on input line 97.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 97.
-LaTeX Font Info:    ... okay on input line 97.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 97.
-LaTeX Font Info:    ... okay on input line 97.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 97.
-LaTeX Font Info:    ... okay on input line 97.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 97.
-LaTeX Font Info:    ... okay on input line 97.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 97.
-LaTeX Font Info:    ... okay on input line 97.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 98.
+LaTeX Font Info:    ... okay on input line 98.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 98.
+LaTeX Font Info:    ... okay on input line 98.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 98.
+LaTeX Font Info:    ... okay on input line 98.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 98.
+LaTeX Font Info:    ... okay on input line 98.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 98.
+LaTeX Font Info:    ... okay on input line 98.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 98.
+LaTeX Font Info:    ... okay on input line 98.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 98.
+LaTeX Font Info:    ... okay on input line 98.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 98.
+LaTeX Font Info:    ... okay on input line 98.
  (C:\Users\rubem\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count274
@@ -433,7 +433,7 @@ LaTeX Font Info:    ... okay on input line 97.
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
 )
-Package hyperref Info: Link coloring ON on input line 97.
+Package hyperref Info: Link coloring ON on input line 98.
  (C:\Users\rubem\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
  (C:\Users\rubem\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
@@ -443,9 +443,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count280
 )
-LaTeX Info: Redefining \ref on input line 97.
-LaTeX Info: Redefining \pageref on input line 97.
-LaTeX Info: Redefining \nameref on input line 97.
+LaTeX Info: Redefining \ref on input line 98.
+LaTeX Info: Redefining \pageref on input line 98.
+LaTeX Info: Redefining \nameref on input line 98.
  (c:/Users\rubem\Documents\GitHub\tapyu\cv\Latex\cv.out) (c:/Users\rubem\Documents\GitHub\tapyu\cv\Latex\cv.out)
 \@outlinefile=\write4
 \openout4 = `cv.out'.
@@ -494,7 +494,14 @@ File: ../../figs/orcid.png Graphic file (type png)
 <use ../../figs/orcid.png>
 Package pdftex.def Info: ../../figs/orcid.png  used on input line 7.
 (pdftex.def)             Requested size: 8.35149pt x 8.35149pt.
-) (c:/Users\rubem\Documents\GitHub\tapyu\cv\Latex\sections/summary.tex
+Package svg Info: Last page of `./svg-inkscape/github_svg-tex.pdf' is 1 on input line 7.
+ (svg-inkscape/github_svg-tex.pdf_tex
+<./svg-inkscape/github_svg-tex.pdf, id=59, page=1, 18.0675pt x 17.62013pt>
+File: ./svg-inkscape/github_svg-tex.pdf Graphic file (type pdf)
+<use ./svg-inkscape/github_svg-tex.pdf, page 1>
+Package pdftex.def Info: ./svg-inkscape/github_svg-tex.pdf , page1 used on input line 56.
+(pdftex.def)             Requested size: 9.03374pt x 8.81004pt.
+)) (c:/Users\rubem\Documents\GitHub\tapyu\cv\Latex\sections/summary.tex
 Overfull \hbox (156.67825pt too wide) in alignment at lines 4--4
 [] 
  []
@@ -513,10 +520,13 @@ This may cause the page layout to be inconsistent, however.
 
 [1
 
-{C:/Users/rubem/AppData/Local/MiKTeX/pdftex/config/pdftex.map} <./svg-inkscape/linkedin_svg-tex.pdf> <../../figs/email.png> <../../figs/google scholar.png> <../../figs/lattes.png> <../../figs/orcid.png>]) (c:/Users\rubem\Documents\GitHub\tapyu\cv\Latex\sections/teaching.tex) (c:/Users\rubem\Documents\GitHub\tapyu\cv\Latex\sections/activity&membership.tex) (c:/Users\rubem\Documents\GitHub\tapyu\cv\Latex\sections/publications.tex [2]) [3]
+{C:/Users/rubem/AppData/Local/MiKTeX/pdftex/config/pdftex.map} <./svg-inkscape/linkedin_svg-tex.pdf> <../../figs/email.png> <../../figs/google scholar.png> <../../figs/lattes.png> <../../figs/orcid.png> <./svg-inkscape/github_svg-tex.pdf
+
+pdfTeX warning: pdflatex (file ./svg-inkscape/github_svg-tex.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+>]) (c:/Users\rubem\Documents\GitHub\tapyu\cv\Latex\sections/teaching.tex) (c:/Users\rubem\Documents\GitHub\tapyu\cv\Latex\sections/activity&membership.tex) (c:/Users\rubem\Documents\GitHub\tapyu\cv\Latex\sections/publications.tex [2]) [3]
 
 LaTeX3 Info: Redefining command \BeforeClosingMainAux with sig. 'm' on line
-(LaTeX3)     111.
+(LaTeX3)     112.
 
  (c:/Users\rubem\Documents\GitHub\tapyu\cv\Latex\cv.aux)
 Package rerunfilecheck Info: File `cv.out' has not changed.
@@ -527,17 +537,17 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 9617 strings out of 480237
- 162598 string characters out of 2880581
- 524967 words of memory out of 3000000
- 25883 multiletter control sequences out of 15000+200000
+ 9629 strings out of 480237
+ 163017 string characters out of 2880581
+ 525967 words of memory out of 3000000
+ 25890 multiletter control sequences out of 15000+200000
  541021 words of font info for 52 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 93i,14n,98p,926b,587s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 93i,14n,98p,1003b,587s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\rubem\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1095.pk><C:/Users/rubem/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/rubem/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/rubem/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/rubem/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/rubem/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/rubem/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Users/rubem/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on c:/Users\rubem\Documents\GitHub\tapyu\cv\Latex\cv.pdf (3 pages, 226026 bytes).
+Output written on c:/Users\rubem\Documents\GitHub\tapyu\cv\Latex\cv.pdf (3 pages, 227422 bytes).
 PDF statistics:
- 158 PDF objects out of 1000 (max. 8388607)
+ 162 PDF objects out of 1000 (max. 8388607)
  27 named destinations out of 1000 (max. 500000)
- 115 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 125 words of extra memory for PDF output out of 10000 (max. 10000000)
 

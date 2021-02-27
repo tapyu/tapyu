@@ -4,5 +4,10 @@
         "latex",
         "latex-expl3",
         "tex"
+    ],
+    "latex-workshop.latex.magic.args": [
+        "-interaction=nonstopmode",
+        "-synctex=1",
+        "--shell-escape"
     ]
 }
