@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.10) (preloaded format=pdflatex 2020.10.27)  27 FEB 2021 20:33
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.10) (preloaded format=pdflatex 2020.10.27)  8 MAR 2021 11:52
 entering extended mode
 **c:/Users/rubem/Documents/GitHub/tapyu/cv/Latex/cv.tex
 (c:/Users/rubem/Documents/GitHub/tapyu/cv/Latex/cv.tex
@@ -523,7 +523,7 @@ This may cause the page layout to be inconsistent, however.
 {C:/Users/rubem/AppData/Local/MiKTeX/pdftex/config/pdftex.map} <./svg-inkscape/linkedin_svg-tex.pdf> <../../figs/email.png> <../../figs/google scholar.png> <../../figs/lattes.png> <../../figs/orcid.png> <./svg-inkscape/github_svg-tex.pdf
 
 pdfTeX warning: pdflatex (file ./svg-inkscape/github_svg-tex.pdf): PDF inclusion: multiple pdfs with page group included in a single page
->]) (c:/Users\rubem\Documents\GitHub\tapyu\cv\Latex\sections/teaching.tex) (c:/Users\rubem\Documents\GitHub\tapyu\cv\Latex\sections/activity&membership.tex) (c:/Users\rubem\Documents\GitHub\tapyu\cv\Latex\sections/publications.tex [2]) [3]
+>]) (c:/Users\rubem\Documents\GitHub\tapyu\cv\Latex\sections/teaching.tex) (c:/Users\rubem\Documents\GitHub\tapyu\cv\Latex\sections/activity&membership.tex) (c:/Users\rubem\Documents\GitHub\tapyu\cv\Latex\sections/publications.tex) [2] [3]
 
 LaTeX3 Info: Redefining command \BeforeClosingMainAux with sig. 'm' on line
 (LaTeX3)     112.
@@ -537,17 +537,17 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 9629 strings out of 480237
- 163017 string characters out of 2880581
- 525967 words of memory out of 3000000
+ 9628 strings out of 480237
+ 163010 string characters out of 2880581
+ 524967 words of memory out of 3000000
  25890 multiletter control sequences out of 15000+200000
  541021 words of font info for 52 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  93i,14n,98p,1003b,587s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\rubem\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1095.pk><C:/Users/rubem/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/rubem/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/rubem/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/rubem/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/rubem/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/rubem/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Users/rubem/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on c:/Users\rubem\Documents\GitHub\tapyu\cv\Latex\cv.pdf (3 pages, 227422 bytes).
+Output written on c:/Users\rubem\Documents\GitHub\tapyu\cv\Latex\cv.pdf (3 pages, 226557 bytes).
 PDF statistics:
- 162 PDF objects out of 1000 (max. 8388607)
- 27 named destinations out of 1000 (max. 500000)
+ 160 PDF objects out of 1000 (max. 8388607)
+ 26 named destinations out of 1000 (max. 500000)
  125 words of extra memory for PDF output out of 10000 (max. 10000000)
 
