@@ -40,8 +40,8 @@ That is what I'm using to make the this Markdown:
   
   ### Recent GitHub Activity
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2334](https://github.com/James-Yu/LaTeX-Workshop/issues/2334) in [James-Yu/LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop)
-2. 🗣 Commented on [#557](https://github.com/ManimCommunity/manim/issues/557) in [ManimCommunity/manim](https://github.com/ManimCommunity/manim)
+1. ❗️ Opened issue [#2580](https://github.com/James-Yu/LaTeX-Workshop/issues/2580) in [James-Yu/LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop)
+2. 🗣 Commented on [#2334](https://github.com/James-Yu/LaTeX-Workshop/issues/2334) in [James-Yu/LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop)
 3. 🗣 Commented on [#557](https://github.com/ManimCommunity/manim/issues/557) in [ManimCommunity/manim](https://github.com/ManimCommunity/manim)
 4. 🗣 Commented on [#557](https://github.com/ManimCommunity/manim/issues/557) in [ManimCommunity/manim](https://github.com/ManimCommunity/manim)
 5. 🗣 Commented on [#557](https://github.com/ManimCommunity/manim/issues/557) in [ManimCommunity/manim](https://github.com/ManimCommunity/manim)
