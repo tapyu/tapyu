@@ -109,6 +109,7 @@ Hi there! I'm Rubem, but the people also call me Tapyu. I'm an Electronic Engine
 ----
 # Latest Youtube Video 📺
 <!-- YOUTUBE:START -->
+- [clac+anki: The best workflow to increase your English vocabulary](https://www.youtube.com/watch?v=9XNqNNM2AhI)
 - [All-digital AFSK modem with Viterbi detection for TT&C CubeSat transceiver - Portuguese audio](https://www.youtube.com/watch?v=FN3arSivyLI)
 - [How to change the theme of MATLAB](https://www.youtube.com/watch?v=-ZjhzlEbLko)
 <!-- YOUTUBE:END -->
