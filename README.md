@@ -103,8 +103,7 @@ Hi there! I'm Rubem, but the people also call me Tapyu. I'm an Electronic Engine
 <br/>
 ### Natural Languages 👅
 - :brazil: Portuguese: Native speaker
-- :us: English: Full professional proficiency
-- :fr: French: Elementary communication skills
+- :us: English: Professional proficiency
 
 ----
 # Latest Youtube Video 📺
