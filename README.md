@@ -40,10 +40,10 @@ That is what I'm using to make the this Markdown:
   
   ### Recent GitHub Activity
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/tapyu/clac/issues/1) in [tapyu/clac](https://github.com/tapyu/clac)
-2. 🎉 Merged PR [#1](https://github.com/tapyu/clac/pull/1) in [tapyu/clac](https://github.com/tapyu/clac)
-3. 🗣 Commented on [#2334](https://github.com/James-Yu/LaTeX-Workshop/issues/2334) in [James-Yu/LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop)
-4. ❗️ Opened issue [#2580](https://github.com/James-Yu/LaTeX-Workshop/issues/2580) in [James-Yu/LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop)
+1. 🎉 Merged PR [#2](https://github.com/tapyu/clac/pull/2) in [tapyu/clac](https://github.com/tapyu/clac)
+2. 🗣 Commented on [#2](https://github.com/tapyu/clac/issues/2) in [tapyu/clac](https://github.com/tapyu/clac)
+3. 🗣 Commented on [#1](https://github.com/tapyu/clac/issues/1) in [tapyu/clac](https://github.com/tapyu/clac)
+4. 🎉 Merged PR [#1](https://github.com/tapyu/clac/pull/1) in [tapyu/clac](https://github.com/tapyu/clac)
 5. 🗣 Commented on [#2334](https://github.com/James-Yu/LaTeX-Workshop/issues/2334) in [James-Yu/LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop)
 <!--END_SECTION:activity-->
 
