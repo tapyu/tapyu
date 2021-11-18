@@ -1,17 +1,28 @@
-name: Update README
+# This is a file used by the Github Actions, the built-in CI/CD (Continuous Integration/Continuous Delivery) tools for Github. The CI tool, which this file fits in, allows us to automate our code to ensure it meets certain criteria or performs some specific task periodically. An example of task is a linter that checks if the code is written in the standard format.  Each of these files, which are stored at ./.github/workflows/, defines a workflow and is written in the .ylm extension that follows a structured format.
 
-on:
-  schedule:
-    - cron: '0 * * * *'
+# The workflow .yml file is composed of the following parts:
+# - Events
+# - Jobs
+# - Runners
+# - Steps
+# - Actions
+
+
+
+name: Update README # this is the name of this workflow
+
+on: # This is where the event comes in. Basically, the event is what triggers the workflow. The most common (?) event that triggers a workflow is the push command. It would be just "on: push". When we have a more elaborate event, like this file, we need to give more information with an indentation
+  schedule: # In this case, the event is a timer that triggers the workflow periodically.
+    - cron: '0 * * * *' # This is how the timer is set, which follows the same timer format as the GNU/Linux cronjobs.
   workflow_dispatch:
 
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    name: Update this repo's README with recent activity
+jobs: # Here is where the jobs come in. A single workflow can have multiple jobs. In this case, we have only one job.
+  build: # this is the name of the job
+    runs-on: ubuntu-latest # This is where we specify our runner, which is a container environment that will run our code. By default, the job is going to be run on Ubuntu container hosted on github.com. In other words, Github runs this container for you. But you can host your own runner if you would like to. The default containers to choose from are Ubuntu, Linux, Microsoft Windows, and MAC OS
+    name: Update this repo's README with recent activity # this is a brief description of the job
 
-    steps:
-      - uses: actions/checkout@v2
-      - uses: jamesgeorge007/github-activity-readme@master
+    steps: # This is the steps section. Each step is called an action, and it is initiated with a slash symbol (-)
+      - uses: actions/checkout@v2 # This action is telling us to use the actions/checkout repository in the master branch. Hence, the link to it is https://github.com/actions/checkout
+      - uses: jamesgeorge007/github-activity-readme@master # This action is telling us to use the jamesgeorge007/github-activity-readme repository in the master branch. Hence, the link to it is https://github.com/jamesgeorge007/github-activity-readme
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

@@ -26,7 +26,7 @@ That is what I'm using to make the this Markdown:
   <p align='center'>
     <img src="https://img.shields.io/github/followers/tapyu?style=social"></a>
   </p>
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=tapyu&show_icons=true&count_private=true&theme=tokyonight" />
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=tapyu&show_icons=true&count_private=true&theme=tokyonight" />
   
   <br/>
   <br/>
@@ -69,7 +69,7 @@ That is what I'm using to make the this Markdown:
 <br/>
 
 # Bio
-Hi there! I'm Rubem, but the people also call me Tapyu. I'm an Electronic Engineer. Currently, I working in my master degree at the [Federal University of Ceará][UFCwebsite] (UFC). I hope to collaborate on GitHub in my expertise area. Follow me and let's work together!
+Hi there! I'm Rubem, but the people also call me Tapyu. I'm an Electronic Engineer. Currently, I working in my doctorate degree at the [Federal University of Ceará][UFCwebsite] (UFC). I hope to collaborate on GitHub in my expertise area. Follow me and let's work together!
 
 ### Interest 🧠
 1. Modulation theory, symbol detection and synchronization techniques. 
