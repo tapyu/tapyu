@@ -72,9 +72,9 @@ That is what I'm using to make the this Markdown:
 Hi there! I'm Rubem, but the people also call me Tapyu. I'm an Electronic Engineer. Currently, I working in my doctorate degree at the [Federal University of Ceará][UFCwebsite] (UFC). I hope to collaborate on GitHub in my expertise area. Follow me and let's work together!
 
 ### Interest 🧠
-1. Modulation theory, symbol detection and synchronization techniques. 
-1. Machine Learning and Neural Networks.
-1. FPGA (Field Programmable Gate Array).
+1. Statistical signal processing and non-linear system identification.
+1. Machine learning, neural networks and pattern recognition.
+1. FPGA (Field Programmable Gate Array), DSP (Digital Signal Processor) and embedded systems.
 
 ### Mission 🦾
 > Apply Machine Learning methods in order to develop new solutions for symbol detection and synchronization techniques. If it is possible, implement this solution in FPGA.
