@@ -24,18 +24,19 @@ That is what I'm using to make the this Markdown:
   <summary>:zap: GitHub Performance</summary>
   
   <p align='center'>
-    <img src="https://img.shields.io/github/followers/tapyu?style=social"></a>
+    <img align='center' src="https://img.shields.io/github/followers/tapyu?style=social">
+    <img align='center' src="https://visitor-badge.glitch.me/badge?page_id=tapyu.visitor-badge">
   </p>
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=tapyu&show_icons=true&count_private=true&theme=tokyonight" />
+  <img align="center" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=tapyu&show_icons=true&count_private=true&theme=tokyonight" />
   
+<!--   <br/>
   <br/>
   <br/>
   <br/>
   <br/>
   <br/>
   <br/>
-  <br/>
-  <br/>
+  <br/> -->
   <br/>
   
   ### Recent GitHub Activity
