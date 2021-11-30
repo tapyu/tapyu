@@ -77,8 +77,8 @@ Hi there! I'm Rubem, but the people also call me Tapyu. I'm an Electronic Engine
 1. Machine learning, neural networks and pattern recognition.
 1. FPGA (Field Programmable Gate Array), DSP (Digital Signal Processor) and embedded systems.
 
-### Mission 🦾
-> Apply Machine Learning methods in order to develop new solutions for symbol detection and synchronization techniques. If it is possible, implement this solution in FPGA.
+<!-- ### Mission 🦾
+> Apply Machine Learning methods in order to develop new solutions for symbol detection and synchronization techniques. If it is possible, implement this solution in FPGA. -->
 
 ### Programing (or hardware description) Languages 👨‍💻
 
@@ -86,6 +86,7 @@ Hi there! I'm Rubem, but the people also call me Tapyu. I'm an Electronic Engine
 [<img align="left" alt="cpp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg" />][cppweb]
 [<img align="left" alt="java" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />][javaweb]
 [<img align="left" alt="python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />][pythonweb]
+[<img align="left" alt="Unix shell scripting" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"/>][unix shell script web]
 [<img align="left" alt="assembly" width="22px" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/assembly.png" />][assemblyweb]
 [<img align="left" alt="VHDL" width="42px" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/VHDL.jfif" />][VHDLweb]
 [<img align="left" alt="matlab" width="22px" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/matlab.png" />][matlabweb]
@@ -97,7 +98,7 @@ Hi there! I'm Rubem, but the people also call me Tapyu. I'm an Electronic Engine
 
 [<img align="left" alt="vim" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vim.svg" />][vimweb]
 [<img align="left" alt="visual studio code" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg" />][vscodeweb]
-[<img align="left" alt="linux" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linux.svg" />][linuxweb]
+[<img align="left" alt="linux" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linux.svg"  />][linuxweb]
 [<img align="left" alt="latex" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/latex.svg" />][latexweb]
 [<img align="left" alt="anaconda" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/anaconda.svg" />][anacondaweb]
 [<img align="left" alt="anaconda" width="38px" src="http://raw.githubusercontent.com/ManimCommunity/manim/master/logo/monochromatic/monochromatic_black.svg" />][manim-communityweb]
@@ -146,3 +147,4 @@ Hi there! I'm Rubem, but the people also call me Tapyu. I'm an Electronic Engine
 [vscodeweb]: https://code.visualstudio.com/
 [vimweb]: https://www.vim.org/
 [OSHWA wb about]: https://www.oshwa.org/about/
+[unix shell script web]: https://en.wikipedia.org/wiki/Shell_script
