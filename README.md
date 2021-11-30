@@ -70,7 +70,7 @@ That is what I'm using to make the this Markdown:
 <br/>
 
 # Bio
-Hi there! I'm Rubem, but the people also call me Tapyu. I'm an Electronic Engineer. Currently, I working in my doctorate degree at the [Federal University of Ceará][UFCwebsite] (UFC). I am also an entusiast of the maker moviment, DIY and [Open Source Hardware (OSH)][OSHWA wb about] . Follow me and let's work together!
+Hi there! I'm Rubem, but the people also call me Tapyu. I'm an Electronic Engineer. Currently, I working in my doctorate degree at the [Federal University of Ceará][UFCwebsite] (UFC). I am also an entusiast of the maker culture, DIY and [Open Source Hardware (OSH)][OSHWA wb about] moviment. Follow me and let's work together!
 
 ### Interest 🧠
 1. Statistical signal processing and non-linear system identification.
