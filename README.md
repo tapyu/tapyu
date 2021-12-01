@@ -41,9 +41,9 @@ That is what I'm using to make the this Markdown:
   
   ### Recent GitHub Activity
   <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2456](https://github.com/ranger/ranger/issues/2456) in [ranger/ranger](https://github.com/ranger/ranger)
-2. ❗️ Opened issue [#2456](https://github.com/ranger/ranger/issues/2456) in [ranger/ranger](https://github.com/ranger/ranger)
-3. ❗️ Opened issue [#2428](https://github.com/ranger/ranger/issues/2428) in [ranger/ranger](https://github.com/ranger/ranger)
+1. 🗣 Commented on [#2334](https://github.com/James-Yu/LaTeX-Workshop/issues/2334) in [James-Yu/LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop)
+2. ❗️ Closed issue [#2456](https://github.com/ranger/ranger/issues/2456) in [ranger/ranger](https://github.com/ranger/ranger)
+3. ❗️ Opened issue [#2456](https://github.com/ranger/ranger/issues/2456) in [ranger/ranger](https://github.com/ranger/ranger)
 4. 🗣 Commented on [#1741](https://github.com/ranger/ranger/issues/1741) in [ranger/ranger](https://github.com/ranger/ranger)
 5. 🗣 Commented on [#2334](https://github.com/James-Yu/LaTeX-Workshop/issues/2334) in [James-Yu/LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop)
 <!--END_SECTION:activity-->
