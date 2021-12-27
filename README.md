@@ -83,24 +83,24 @@ Hi there! I'm Rubem, but the people also call me Tapyu. I'm an Electronic Engine
 
 ### Programing (or hardware description) Languages 👨‍💻
 
-[<img align="left" alt="c" width="42px" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/c_colorful.svg" />][cweb]
-[<img align="left" alt="cpp" width="42px" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/cpp_colorful.svg" />][cppweb]
-[<img align="left" alt="java" width="42px" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/java_colorful.svg" />][javaweb]
-[<img align="left" alt="python" width="42px" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/python_colorful.svg" />][pythonweb]
-[<img align="left" alt="Unix shell scripting" width="42px" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/terminal_colorful.svg"/>][unix shell script web]
-[<img align="left" alt="assembly" width="42px" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/assembly.png" />][assemblyweb]
-[<img align="left" alt="VHDL" width="42px" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/VHDL.jfif" />][VHDLweb]
-[<img align="left" alt="matlab" width="42px" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/matlab.png" />][matlabweb]
+[<img align="left" alt="c" width="35px" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/c_colorful.svg" />][cweb]
+[<img align="left" alt="cpp" width="35px" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/cpp_colorful.svg" />][cppweb]
+[<img align="left" alt="java" width="35px" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/java_colorful.svg" />][javaweb]
+[<img align="left" alt="python" width="35px" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/python_colorful.svg" />][pythonweb]
+[<img align="left" alt="Unix shell scripting" width="35px" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/terminal_colorful.svg"/>][unix shell script web]
+[<img align="left" alt="assembly" width="35px" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/assembly.png" />][assemblyweb]
+[<img align="left" alt="VHDL" width="35px" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/VHDL.jfif" />][VHDLweb]
+[<img align="left" alt="matlab" width="35px" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/matlab.png" />][matlabweb]
 <!-- - R -->
 <br/>
 
 ### Tools 🛠
 
-[<img align="left" alt="vim" width="42px" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/vim_colorful.svg" />][vimweb]
-[<img align="left" alt="visual studio code" width="42px" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/vscode_colorful.svg" />][vscodeweb]
-[<img align="left" alt="linux" width="42px" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/linux_colorful.svg"  />][linuxweb]
-[<img align="left" alt="latex" width="42px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/latex.svg" />][latexweb]
-<!-- [<img align="left" alt="anaconda" width="42px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/anaconda.svg" />][anacondaweb] -->
+[<img align="left" alt="vim" width="35px" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/vim_colorful.svg" />][vimweb]
+[<img align="left" alt="visual studio code" width="35px" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/vscode_colorful.svg" />][vscodeweb]
+[<img align="left" alt="linux" width="35px" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/linux_colorful.svg"  />][linuxweb]
+[<img align="left" alt="latex" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/latex.svg" />][latexweb]
+<!-- [<img align="left" alt="anaconda" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/anaconda.svg" />][anacondaweb] -->
 [<img align="left" alt="manim" width="38px" src="https://raw.githubusercontent.com/ManimCommunity/manim/main/logo/dark/dark_background.svg" />][manim-communityweb]
 <br/>
 ### Natural Languages 👅
