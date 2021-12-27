@@ -54,19 +54,20 @@ That is what I'm using to make the this Markdown:
 
 ### Professional
 
-[<img align="left" alt="rubem email" height="25" width="32px" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/email.png" />][email]
+[<img align="left" alt="rubem email" height="25" width="32px" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/email_colorful.svg" />][email]
 [<img align="left" alt="rubem lattes" height="30" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/lattes.png" />][lattes]
-[<img align="left" alt="rubem scholar" height="30" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/google%20scholar.png" />][scholar]
-[<img align="left" alt="rubem linkedin" height="30" src="https://raw.githubusercontent.com/tapyu/tapyu/dc58705fdabefd1e2aacabb99db063bfa1bb9426/figs/linkedin.svg" />][linkedin]
+[<img align="left" alt="rubem scholar" height="30" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/google_schola_colorful.svg" />][scholar]
+[<img align="left" alt="rubem linkedin" height="30" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/linkedin_colorful.svg" />][linkedin]
 [<img align="left" alt="rubem orcid" height="30" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/orcid.png" />][orcid]
-[<img align="left" alt="rubem cv" height="30" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/cv.png" />][cv]
+[<img align="left" alt="rubem cv" height="30" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/cv_colorful.svg" />][cv]
 <br/>
 
 ### Social
-
-[<img align="left" alt="rubem email" height="30" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][pepe]
-[<img align="left" alt="rubem email" height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="rubem email" height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<!-- 
+https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg -->
+[<img align="left" alt="rubem email" height="30" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/internet_colorful.svg" />][pepe]
+[<img align="left" alt="rubem email" height="30" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/youtube_colorful.svg" />][youtube]
+[<img align="left" alt="rubem email" height="30" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/instagram_colorful.svg" />][instagram]
 <br/>
 
 # Bio
@@ -82,26 +83,25 @@ Hi there! I'm Rubem, but the people also call me Tapyu. I'm an Electronic Engine
 
 ### Programing (or hardware description) Languages 👨‍💻
 
-[<img align="left" alt="c" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/c.svg" />][cweb]
-[<img align="left" alt="cpp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg" />][cppweb]
-[<img align="left" alt="java" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />][javaweb]
-[<img align="left" alt="python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />][pythonweb]
-[<img align="left" alt="Unix shell scripting" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"/>][unix shell script web]
+[<img align="left" alt="c" width="22px" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/c_colorful.svg" />][cweb]
+[<img align="left" alt="cpp" width="22px" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/cpp_colorful.svg" />][cppweb]
+[<img align="left" alt="java" width="22px" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/java_colorful.svg" />][javaweb]
+[<img align="left" alt="python" width="22px" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/python_colorful.svg" />][pythonweb]
+[<img align="left" alt="Unix shell scripting" width="22px" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/terminal_colorful.svg"/>][unix shell script web]
 [<img align="left" alt="assembly" width="22px" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/assembly.png" />][assemblyweb]
 [<img align="left" alt="VHDL" width="42px" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/VHDL.jfif" />][VHDLweb]
 [<img align="left" alt="matlab" width="22px" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/matlab.png" />][matlabweb]
 <!-- - R -->
-<!-- - UNIX Shell scripting https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png -->
 <br/>
 
 ### Tools 🛠
 
-[<img align="left" alt="vim" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vim.svg" />][vimweb]
-[<img align="left" alt="visual studio code" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg" />][vscodeweb]
-[<img align="left" alt="linux" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linux.svg"  />][linuxweb]
+[<img align="left" alt="vim" width="22px" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/vim_colorful.svg" />][vimweb]
+[<img align="left" alt="visual studio code" width="22px" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/vscode_colorful.svg" />][vscodeweb]
+[<img align="left" alt="linux" width="22px" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/linux_colorful.svg"  />][linuxweb]
 [<img align="left" alt="latex" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/latex.svg" />][latexweb]
-[<img align="left" alt="anaconda" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/anaconda.svg" />][anacondaweb]
-[<img align="left" alt="anaconda" width="38px" src="http://raw.githubusercontent.com/ManimCommunity/manim/master/logo/monochromatic/monochromatic_black.svg" />][manim-communityweb]
+<!-- [<img align="left" alt="anaconda" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/anaconda.svg" />][anacondaweb] -->
+[<img align="left" alt="manim" width="38px" src="https://raw.githubusercontent.com/ManimCommunity/manim/main/logo/dark/dark_background.svg" />][manim-communityweb]
 <br/>
 ### Natural Languages 👅
 - :brazil: Portuguese: Native speaker
