@@ -70,7 +70,7 @@ https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg -->
 [<img align="left" alt="rubem email" height="30" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/instagram_colorful.svg" />][instagram]
 <br/>
 
-# Bio
+# `> whoami`
 Hi there! I'm Rubem, but the people also call me Tapyu. I'm an Electronic Engineer. Currently, I working in my doctorate degree at the [Federal University of Ceará][UFCwebsite] (UFC). I am also an entusiast of the maker culture, DIY and [Open Source Hardware (OSH)][OSHWA wb about] moviment. Follow me and let's work together!
 
 ### Interest 🧠
@@ -90,7 +90,7 @@ Hi there! I'm Rubem, but the people also call me Tapyu. I'm an Electronic Engine
 [<img align="left" alt="Unix shell scripting" width="35px" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/terminal_colorful.svg"/>][unix shell script web]
 [<img align="left" alt="assembly" width="35px" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/assembly.png" />][assemblyweb]
 [<img align="left" alt="VHDL" width="35px" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/VHDL.jfif" />][VHDLweb]
-[<img align="left" alt="matlab" width="35px" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/matlab.png" />][matlabweb]
+[<img align="left" alt="matlab" width="35px" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/icons8-matlab.svg" />][matlabweb]
 <!-- - R -->
 <br/>
 
