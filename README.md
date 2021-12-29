@@ -87,7 +87,7 @@ Hi there! I'm Rubem, but the people also call me Tapyu. I'm an Electronic Engine
 [<img align="left" alt="cpp" width="35px" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/cpp_colorful.svg" />][cppweb]
 [<img align="left" alt="java" width="35px" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/java_colorful.svg" />][javaweb]
 [<img align="left" alt="python" width="35px" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/python_colorful.svg" />][pythonweb]
-[<img align="left" alt="Unix shell scripting" width="35px" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/icons8-linux-terminal.svg"/>][unix shell script web]
+[<img align="left" alt="Unix shell scripting" width="35px" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/icons8-console.svg"/>][unix shell script web]
 [<img align="left" alt="assembly" width="35px" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/assembly.png" />][assemblyweb]
 [<img align="left" alt="VHDL" width="35px" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/VHDL.jfif" />][VHDLweb]
 [<img align="left" alt="matlab" width="35px" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/icons8-matlab.svg" />][matlabweb]
