@@ -99,7 +99,7 @@ Hi there! I'm Rubem, but the people also call me Tapyu. I'm an Electronic Engine
 [<img align="left" alt="vim" width="35px" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/vim_colorful.svg" />][vimweb]
 [<img align="left" alt="visual studio code" width="35px" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/vscode_colorful.svg" />][vscodeweb]
 [<img align="left" alt="linux" width="35px" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/linux_colorful.svg"  />][linuxweb]
-[<img align="left" alt="latex" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/latex.svg" />][latexweb]
+[<img align="left" alt="latex" width="35px" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/icons8-latex.svg" />][latexweb]
 <!-- [<img align="left" alt="anaconda" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/anaconda.svg" />][anacondaweb] -->
 [<img align="left" alt="manim" width="38px" src="https://raw.githubusercontent.com/ManimCommunity/manim/main/logo/dark/dark_background.svg" />][manim-communityweb]
 <br/>
