@@ -18,57 +18,10 @@ That is what I'm using to make the this Markdown:
 
 -->
 
-<h1>Welcome to my Github page</h1>
-
-<details>
-  <summary>:zap: GitHub Performance</summary>
-  
-  <p align='center'>
+<p align='center'>
     <img align='center' src="https://img.shields.io/github/followers/tapyu?style=social">
     <img align='center' src="https://visitor-badge.glitch.me/badge?page_id=tapyu.visitor-badge">
-  </p>
-  <img align="center" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=tapyu&show_icons=true&count_private=true&theme=tokyonight" />
-  
-<!--   <br/>
-  <br/>
-  <br/>
-  <br/>
-  <br/>
-  <br/>
-  <br/>
-  <br/> -->
-  <br/>
-  
-  ### Recent GitHub Activity
-  <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#4](https://github.com/tapyu/clac/issues/4) in [tapyu/clac](https://github.com/tapyu/clac)
-2. 🗣 Commented on [#3](https://github.com/tapyu/clac/issues/3) in [tapyu/clac](https://github.com/tapyu/clac)
-3. 🗣 Commented on [#2334](https://github.com/James-Yu/LaTeX-Workshop/issues/2334) in [James-Yu/LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop)
-4. ❗️ Closed issue [#2456](https://github.com/ranger/ranger/issues/2456) in [ranger/ranger](https://github.com/ranger/ranger)
-5. ❗️ Opened issue [#2456](https://github.com/ranger/ranger/issues/2456) in [ranger/ranger](https://github.com/ranger/ranger)
-<!--END_SECTION:activity-->
-
-</details>
-
-# Contacts
-
-### Professional
-
-[<img align="left" alt="rubem email" height="25" width="32px" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/email_blue.svg" />][email]
-[<img align="left" alt="rubem lattes" height="30" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/lattes.png" />][lattes]
-[<img align="left" alt="rubem scholar" height="30" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/google_schola_colorful.svg" />][scholar]
-[<img align="left" alt="rubem linkedin" height="30" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/linkedin_colorful.svg" />][linkedin]
-[<img align="left" alt="rubem orcid" height="30" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/orcid.png" />][orcid]
-[<img align="left" alt="rubem cv" height="30" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/curriculum-vitae_blue.svg" />][cv]
-<br/>
-
-### Social
-<!-- 
-https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg -->
-[<img align="left" alt="rubem email" height="30" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/internet_colorful.svg" />][pepe]
-[<img align="left" alt="rubem email" height="30" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/youtube_colorful.svg" />][youtube]
-[<img align="left" alt="rubem email" height="30" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/instagram_colorful.svg" />][instagram]
-<br/>
+</p>
 
 # `> whoami`
 Hi there! I'm Rubem, but the people also call me Tapyu. I'm an Electronic Engineer. Currently, I working in my doctorate degree at the [Federal University of Ceará][UFCwebsite] (UFC). I am also an entusiast of the maker culture, DIY and [Open Source Hardware (OSH)][OSHWA wb about] moviment. Follow me and let's work together!
@@ -107,7 +60,42 @@ Hi there! I'm Rubem, but the people also call me Tapyu. I'm an Electronic Engine
 - :brazil: Portuguese: Native speaker
 - :us: English: Professional proficiency
 
-----
+<!-- --- -->
+# Contacts
+
+#### Professional
+
+[<img align="left" alt="rubem email" height="25" width="32px" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/email_blue.svg" />][email]
+[<img align="left" alt="rubem lattes" height="30" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/lattes.png" />][lattes]
+[<img align="left" alt="rubem scholar" height="30" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/google_schola_colorful.svg" />][scholar]
+[<img align="left" alt="rubem linkedin" height="30" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/linkedin_colorful.svg" />][linkedin]
+[<img align="left" alt="rubem orcid" height="30" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/orcid.png" />][orcid]
+[<img align="left" alt="rubem cv" height="30" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/curriculum-vitae_blue.svg" />][cv]
+<br/>
+
+#### Social
+<!-- 
+https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg -->
+[<img align="left" alt="rubem email" height="30" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/internet_colorful.svg" />][pepe]
+[<img align="left" alt="rubem email" height="30" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/youtube_colorful.svg" />][youtube]
+[<img align="left" alt="rubem email" height="30" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/instagram_colorful.svg" />][instagram]
+<br/>
+
+<!-- --- -->
+# GitHub Performance
+  
+  <img align="center" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=tapyu&show_icons=true&count_private=true&theme=tokyonight" />
+
+### Recent GitHub Activity
+  <!--START_SECTION:activity-->
+1. ❗️ Opened issue [#4](https://github.com/tapyu/clac/issues/4) in [tapyu/clac](https://github.com/tapyu/clac)
+2. 🗣 Commented on [#3](https://github.com/tapyu/clac/issues/3) in [tapyu/clac](https://github.com/tapyu/clac)
+3. 🗣 Commented on [#2334](https://github.com/James-Yu/LaTeX-Workshop/issues/2334) in [James-Yu/LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop)
+4. ❗️ Closed issue [#2456](https://github.com/ranger/ranger/issues/2456) in [ranger/ranger](https://github.com/ranger/ranger)
+5. ❗️ Opened issue [#2456](https://github.com/ranger/ranger/issues/2456) in [ranger/ranger](https://github.com/ranger/ranger)
+<!--END_SECTION:activity-->
+
+<!-- ---- -->
 # Latest Youtube Video 📺
 <!-- YOUTUBE:START -->
 - [How to easily install Matlab R2021a on Linux [cracked]](https://www.youtube.com/watch?v=JwbRAFYCyuU)
