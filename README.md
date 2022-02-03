@@ -53,7 +53,7 @@ Hi there! I'm Rubem, but the people also call me Tapyu. I'm an Electronic Engine
 [<img align="left" alt="visual studio code" width="35px" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/vscode_colorful.svg" />][vscodeweb]
 [<img align="left" alt="linux" width="35px" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/linux_colorful.svg"  />][linuxweb]
 [<img align="left" alt="latex" width="35px" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/icons8-latex.svg" />][latexweb]
-[<img align="left" alt="latex" width="35px" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/git.svg" />][gitweb]
+[<img align="left" alt="git" width="35px" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/git.svg" />][gitweb]
 <!-- [<img align="left" alt="anaconda" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/anaconda.svg" />][anacondaweb] -->
 [<img align="left" alt="manim" width="38px" src="https://raw.githubusercontent.com/ManimCommunity/manim/main/logo/dark/dark_background.svg" />][manim-communityweb]
 <br/>
@@ -77,9 +77,11 @@ Hi there! I'm Rubem, but the people also call me Tapyu. I'm an Electronic Engine
 #### Social
 <!-- 
 https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg -->
-[<img align="left" alt="rubem email" height="30" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/internet_colorful.svg" />][pepe]
-[<img align="left" alt="rubem email" height="30" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/youtube_colorful.svg" />][youtube]
-[<img align="left" alt="rubem email" height="30" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/instagram_colorful.svg" />][instagram]
+[<img align="left" alt="rubem site" height="30" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/internet_colorful.svg" />][pepe]
+[<img align="left" alt="rubem youtube" height="30" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/youtube_colorful.svg" />][youtube]
+[<img align="left" alt="rubem instagra" height="30" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/instagram_colorful.svg" />][instagram]
+[<img align="left" alt="rubem gitlab" height="30" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/gitlab.svg" />][gitlabweb]
+<!-- all spice git -->
 <br/>
 
 <!-- --- -->
@@ -138,3 +140,4 @@ https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg -->
 [OSHWA wb about]: https://www.oshwa.org/about/
 [unix shell script web]: https://en.wikipedia.org/wiki/Shell_script
 [gitweb]: https://git-scm.com/
+[gitlabweb]: https://gitlab.com/tapyu
