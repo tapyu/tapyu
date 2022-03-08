@@ -91,9 +91,9 @@ https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg -->
 
 ### Recent GitHub Activity
   <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#4](https://github.com/tapyu/clac/issues/4) in [tapyu/clac](https://github.com/tapyu/clac)
-2. 🗣 Commented on [#3](https://github.com/tapyu/clac/issues/3) in [tapyu/clac](https://github.com/tapyu/clac)
-3. 🗣 Commented on [#2334](https://github.com/James-Yu/LaTeX-Workshop/issues/2334) in [James-Yu/LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop)
+1. ❗️ Opened issue [#9296](https://github.com/microsoft/vscode-jupyter/issues/9296) in [microsoft/vscode-jupyter](https://github.com/microsoft/vscode-jupyter)
+2. ❗️ Opened issue [#4](https://github.com/tapyu/clac/issues/4) in [tapyu/clac](https://github.com/tapyu/clac)
+3. 🗣 Commented on [#3](https://github.com/tapyu/clac/issues/3) in [tapyu/clac](https://github.com/tapyu/clac)
 4. ❗️ Closed issue [#2456](https://github.com/ranger/ranger/issues/2456) in [ranger/ranger](https://github.com/ranger/ranger)
 5. ❗️ Opened issue [#2456](https://github.com/ranger/ranger/issues/2456) in [ranger/ranger](https://github.com/ranger/ranger)
 <!--END_SECTION:activity-->
