@@ -91,10 +91,10 @@ https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg -->
 
 ### Recent GitHub Activity
   <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#9296](https://github.com/microsoft/vscode-jupyter/issues/9296) in [microsoft/vscode-jupyter](https://github.com/microsoft/vscode-jupyter)
-2. ❗️ Opened issue [#4](https://github.com/tapyu/clac/issues/4) in [tapyu/clac](https://github.com/tapyu/clac)
-3. 🗣 Commented on [#3](https://github.com/tapyu/clac/issues/3) in [tapyu/clac](https://github.com/tapyu/clac)
-4. ❗️ Closed issue [#2456](https://github.com/ranger/ranger/issues/2456) in [ranger/ranger](https://github.com/ranger/ranger)
+1. ❗️ Opened issue [#144710](https://github.com/microsoft/vscode/issues/144710) in [microsoft/vscode](https://github.com/microsoft/vscode)
+2. ❗️ Opened issue [#9296](https://github.com/microsoft/vscode-jupyter/issues/9296) in [microsoft/vscode-jupyter](https://github.com/microsoft/vscode-jupyter)
+3. ❗️ Opened issue [#4](https://github.com/tapyu/clac/issues/4) in [tapyu/clac](https://github.com/tapyu/clac)
+4. 🗣 Commented on [#3](https://github.com/tapyu/clac/issues/3) in [tapyu/clac](https://github.com/tapyu/clac)
 5. ❗️ Opened issue [#2456](https://github.com/ranger/ranger/issues/2456) in [ranger/ranger](https://github.com/ranger/ranger)
 <!--END_SECTION:activity-->
 
