@@ -17,7 +17,8 @@ That is what I'm using to make the this Markdown:
 - Shelds.io: https://github.com/badges/shields
 - github-readme-stats: https://github.com/anuraghazra/github-readme-stats
 - How To Create An Amazing Profile ReadMe With GitHub Actions -> https://www.youtube.com/watch?v=ECuqb5Tv9qI
-
+- How To Use Github's New Personal README and Wakatime: https://www.youtube.com/watch?v=jazcHIaitfE
+- awesome-github-profile-readme: https://github.com/abhisheknaiidu/awesome-github-profile-readme
 -->
 
 <p align='center'>
