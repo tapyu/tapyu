@@ -97,8 +97,13 @@ https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg -->
 
 <!-- --- -->
 # GitHub Performance
-  
-  <img align="center" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=tapyu&show_icons=true&count_private=true&theme=tokyonight" />
+<img align="center" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-xi-six-31.vercel.app/api?username=tapyu&show_icons=true&count_private=true&theme=tokyonight" />
+
+<!-- Put it only when the graph make sense! -->
+<!-- | ![Most Used Languages](https://github-readme-stats-xi-six-31.vercel.app/api/top-langs/?username=tapyu&layout=compact&theme=tokyonight&hide_border=1&langs_count=10&count_private=true) | ![GitHub Stats](https://github-readme-stats-xi-six-31.vercel.app/api?username=tapyu&show_icons=true&count_private=true&hide_title=true&theme=tokyonight&hide_border=1&line_height=33) |
+|:-----:|:-----:| -->
+
+
 
 ### Recent GitHub Activity
   <!--START_SECTION:activity-->
@@ -123,7 +128,6 @@ https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg -->
 </audio>
 
 ---
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tapyu&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 [UFCwebsite]: http://www.ufc.br/
 [email]: mailto:rubem.engenharia@gmail.com
@@ -152,3 +156,8 @@ https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg -->
 [unix shell script web]: https://en.wikipedia.org/wiki/Shell_script
 [gitweb]: https://git-scm.com/
 [gitlabweb]: https://gitlab.com/tapyu
+
+
+<!-- old GitHub Stats and Top Langs -->
+<!-- <img align="center" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-xi-six-31.vercel.app/api?username=tapyu&show_icons=true&count_private=true&theme=tokyonight" />
+[![Top Langs](https://github-readme-stats-xi-six-31.vercel.app/api/top-langs/?username=tapyu&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
