@@ -92,7 +92,7 @@ https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg -->
 [<img align="left" alt="rubem youtube" height="30" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/youtube_colorful.svg" />][youtube]
 [<img align="left" alt="rubem instagra" height="30" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/instagram_colorful.svg" />][instagram]
 [<img align="left" alt="rubem gitlab" height="30" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/gitlab.svg" />][gitlabweb]
-[<img align="left" alt="wakatime" height="30" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/wakatime.pdf" />][wakatimeweb]
+[<img align="left" alt="wakatime" height="30" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/wakatime.svg" />][wakatimeweb]
 <!-- all spice git -->
 <br/>
 
