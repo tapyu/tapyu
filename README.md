@@ -19,6 +19,14 @@ That is what I'm using to make the this Markdown:
 - How To Create An Amazing Profile ReadMe With GitHub Actions -> https://www.youtube.com/watch?v=ECuqb5Tv9qI
 - How To Use Github's New Personal README and Wakatime: https://www.youtube.com/watch?v=jazcHIaitfE
 - awesome-github-profile-readme: https://github.com/abhisheknaiidu/awesome-github-profile-readme
+
+ABOUT DEPLOYING YOUR OWN VERCEL INSTANCE
+1 -> https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own-vercel-instance
+2 ->https://www.youtube.com/watch?v=n6d4KHSKqGk&t=107s
+3 -> https://github.com/tapyu/github-readme-stats/blob/master/vercel.json
+4 -> https://vercel.com/docs/cli#project-configuration
+
+
 -->
 
 <p align='center'>
@@ -89,15 +97,20 @@ https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg -->
 
 <!-- --- -->
 # GitHub Performance
-  
-  <img align="center" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=tapyu&show_icons=true&count_private=true&theme=tokyonight" />
+<img align="center" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-xi-six-31.vercel.app/api?username=tapyu&show_icons=true&count_private=true&theme=tokyonight" />
+
+<!-- Put it only when the graph make sense! -->
+<!-- | ![Most Used Languages](https://github-readme-stats-xi-six-31.vercel.app/api/top-langs/?username=tapyu&layout=compact&theme=tokyonight&hide_border=1&langs_count=10&count_private=true) | ![GitHub Stats](https://github-readme-stats-xi-six-31.vercel.app/api?username=tapyu&show_icons=true&count_private=true&hide_title=true&theme=tokyonight&hide_border=1&line_height=33) |
+|:-----:|:-----:| -->
+
+
 
 ### Recent GitHub Activity
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#144710](https://github.com/microsoft/vscode/issues/144710) in [microsoft/vscode](https://github.com/microsoft/vscode)
-2. ❗️ Opened issue [#144710](https://github.com/microsoft/vscode/issues/144710) in [microsoft/vscode](https://github.com/microsoft/vscode)
-3. ❗️ Opened issue [#9296](https://github.com/microsoft/vscode-jupyter/issues/9296) in [microsoft/vscode-jupyter](https://github.com/microsoft/vscode-jupyter)
-4. ❗️ Opened issue [#4](https://github.com/tapyu/clac/issues/4) in [tapyu/clac](https://github.com/tapyu/clac)
+1. ❗️ Opened issue [#161](https://github.com/Gimly/vscode-matlab/issues/161) in [Gimly/vscode-matlab](https://github.com/Gimly/vscode-matlab)
+2. 🗣 Commented on [#144710](https://github.com/microsoft/vscode/issues/144710) in [microsoft/vscode](https://github.com/microsoft/vscode)
+3. ❗️ Opened issue [#144710](https://github.com/microsoft/vscode/issues/144710) in [microsoft/vscode](https://github.com/microsoft/vscode)
+4. ❗️ Opened issue [#9296](https://github.com/microsoft/vscode-jupyter/issues/9296) in [microsoft/vscode-jupyter](https://github.com/microsoft/vscode-jupyter)
 5. 🗣 Commented on [#3](https://github.com/tapyu/clac/issues/3) in [tapyu/clac](https://github.com/tapyu/clac)
 <!--END_SECTION:activity-->
 
@@ -115,7 +128,6 @@ https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg -->
 </audio>
 
 ---
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tapyu&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 [UFCwebsite]: http://www.ufc.br/
 [email]: mailto:rubem.engenharia@gmail.com
@@ -144,3 +156,8 @@ https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg -->
 [unix shell script web]: https://en.wikipedia.org/wiki/Shell_script
 [gitweb]: https://git-scm.com/
 [gitlabweb]: https://gitlab.com/tapyu
+
+
+<!-- old GitHub Stats and Top Langs -->
+<!-- <img align="center" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-xi-six-31.vercel.app/api?username=tapyu&show_icons=true&count_private=true&theme=tokyonight" />
+[![Top Langs](https://github-readme-stats-xi-six-31.vercel.app/api/top-langs/?username=tapyu&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
