@@ -107,10 +107,10 @@ https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg -->
 
 ### Recent GitHub Activity
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#144710](https://github.com/microsoft/vscode/issues/144710) in [microsoft/vscode](https://github.com/microsoft/vscode)
-2. ❗️ Opened issue [#144710](https://github.com/microsoft/vscode/issues/144710) in [microsoft/vscode](https://github.com/microsoft/vscode)
-3. ❗️ Opened issue [#9296](https://github.com/microsoft/vscode-jupyter/issues/9296) in [microsoft/vscode-jupyter](https://github.com/microsoft/vscode-jupyter)
-4. ❗️ Opened issue [#4](https://github.com/tapyu/clac/issues/4) in [tapyu/clac](https://github.com/tapyu/clac)
+1. ❗️ Opened issue [#161](https://github.com/Gimly/vscode-matlab/issues/161) in [Gimly/vscode-matlab](https://github.com/Gimly/vscode-matlab)
+2. 🗣 Commented on [#144710](https://github.com/microsoft/vscode/issues/144710) in [microsoft/vscode](https://github.com/microsoft/vscode)
+3. ❗️ Opened issue [#144710](https://github.com/microsoft/vscode/issues/144710) in [microsoft/vscode](https://github.com/microsoft/vscode)
+4. ❗️ Opened issue [#9296](https://github.com/microsoft/vscode-jupyter/issues/9296) in [microsoft/vscode-jupyter](https://github.com/microsoft/vscode-jupyter)
 5. 🗣 Commented on [#3](https://github.com/tapyu/clac/issues/3) in [tapyu/clac](https://github.com/tapyu/clac)
 <!--END_SECTION:activity-->
 
