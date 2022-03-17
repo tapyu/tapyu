@@ -98,11 +98,9 @@ https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg -->
 
 <!-- --- -->
 # GitHub Performance
-<img align="center" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-xi-six-31.vercel.app/api?username=tapyu&show_icons=true&count_private=true&theme=tokyonight" />
-
 <!-- Put it only when the graph make sense! -->
-<!-- | ![Most Used Languages](https://github-readme-stats-xi-six-31.vercel.app/api/top-langs/?username=tapyu&layout=compact&theme=tokyonight&hide_border=1&langs_count=10&count_private=true) | ![GitHub Stats](https://github-readme-stats-xi-six-31.vercel.app/api?username=tapyu&show_icons=true&count_private=true&hide_title=true&theme=tokyonight&hide_border=1&line_height=33) |
-|:-----:|:-----:| -->
+| ![GitHub Stats](https://github-readme-stats-xi-six-31.vercel.app/api?username=tapyu&show_icons=true&count_private=true&hide_title=true&theme=tokyonight&hide_border=1&line_height=33) | ![Most Used Languages](https://github-readme-stats-xi-six-31.vercel.app/api/top-langs/?username=tapyu&hide=jupyter%20notebook,html,stata,mathematica,standard%20ml&layout=compact&theme=tokyonight&hide_border=1&langs_count=10&count_private=true) |
+|:-----:|:-----:|
 
 
 
