@@ -98,21 +98,19 @@ https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg -->
 
 <!-- --- -->
 # GitHub Performance
-<img align="center" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-xi-six-31.vercel.app/api?username=tapyu&show_icons=true&count_private=true&theme=tokyonight" />
-
 <!-- Put it only when the graph make sense! -->
-<!-- | ![Most Used Languages](https://github-readme-stats-xi-six-31.vercel.app/api/top-langs/?username=tapyu&layout=compact&theme=tokyonight&hide_border=1&langs_count=10&count_private=true) | ![GitHub Stats](https://github-readme-stats-xi-six-31.vercel.app/api?username=tapyu&show_icons=true&count_private=true&hide_title=true&theme=tokyonight&hide_border=1&line_height=33) |
-|:-----:|:-----:| -->
+| ![GitHub Stats](https://github-readme-stats-xi-six-31.vercel.app/api?username=tapyu&show_icons=true&count_private=true&hide_title=true&theme=tokyonight&hide_border=1&line_height=33) | ![Most Used Languages](https://github-readme-stats-xi-six-31.vercel.app/api/top-langs/?username=tapyu&hide=jupyter%20notebook,html,stata,mathematica,standard%20ml&layout=compact&theme=tokyonight&hide_border=1&langs_count=10&count_private=true) |
+|:-----:|:-----:|
 
 
 
 ### Recent GitHub Activity
   <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#161](https://github.com/Gimly/vscode-matlab/issues/161) in [Gimly/vscode-matlab](https://github.com/Gimly/vscode-matlab)
-2. 🗣 Commented on [#144710](https://github.com/microsoft/vscode/issues/144710) in [microsoft/vscode](https://github.com/microsoft/vscode)
-3. ❗️ Opened issue [#144710](https://github.com/microsoft/vscode/issues/144710) in [microsoft/vscode](https://github.com/microsoft/vscode)
-4. ❗️ Opened issue [#9296](https://github.com/microsoft/vscode-jupyter/issues/9296) in [microsoft/vscode-jupyter](https://github.com/microsoft/vscode-jupyter)
-5. 🗣 Commented on [#3](https://github.com/tapyu/clac/issues/3) in [tapyu/clac](https://github.com/tapyu/clac)
+1. ❗️ Opened issue [#678](https://github.com/zsh-users/zsh-autosuggestions/issues/678) in [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
+2. ❗️ Opened issue [#161](https://github.com/Gimly/vscode-matlab/issues/161) in [Gimly/vscode-matlab](https://github.com/Gimly/vscode-matlab)
+3. 🗣 Commented on [#144710](https://github.com/microsoft/vscode/issues/144710) in [microsoft/vscode](https://github.com/microsoft/vscode)
+4. ❗️ Opened issue [#144710](https://github.com/microsoft/vscode/issues/144710) in [microsoft/vscode](https://github.com/microsoft/vscode)
+5. ❗️ Opened issue [#9296](https://github.com/microsoft/vscode-jupyter/issues/9296) in [microsoft/vscode-jupyter](https://github.com/microsoft/vscode-jupyter)
 <!--END_SECTION:activity-->
 
 <!-- ---- -->
