@@ -81,7 +81,7 @@ Hi there! I'm Rubem, but the people also call me Tapyu. I'm an Electronic Engine
 [<img align="left" alt="rubem lattes" height="30" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/lattes.png" />][lattes]
 [<img align="left" alt="rubem scholar" height="30" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/google_schola_colorful.svg" />][scholar]
 [<img align="left" alt="rubem linkedin" height="30" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/linkedin_colorful.svg" />][linkedin]
-[<img align="left" alt="rubem orcid" height="30" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/orcid.png" />][orcid]
+[<img align="left" alt="rubem orcid" height="30" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/orcid.svg" />][orcid]
 [<img align="left" alt="rubem cv" height="30" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/curriculum-vitae_blue.svg" />][cv]
 <br/>
 
