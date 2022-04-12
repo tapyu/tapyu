@@ -106,11 +106,11 @@ https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg -->
 
 ### Recent GitHub Activity
   <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#378](https://github.com/ajeetdsouza/zoxide/issues/378) in [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide)
-2. 🗣 Commented on [#744](https://github.com/ranger/ranger/issues/744) in [ranger/ranger](https://github.com/ranger/ranger)
-3. ❗️ Opened issue [#678](https://github.com/zsh-users/zsh-autosuggestions/issues/678) in [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
-4. ❗️ Opened issue [#161](https://github.com/Gimly/vscode-matlab/issues/161) in [Gimly/vscode-matlab](https://github.com/Gimly/vscode-matlab)
-5. 🗣 Commented on [#144710](https://github.com/microsoft/vscode/issues/144710) in [microsoft/vscode](https://github.com/microsoft/vscode)
+1. ❗️ Closed issue [#2609](https://github.com/ranger/ranger/issues/2609) in [ranger/ranger](https://github.com/ranger/ranger)
+2. 🗣 Commented on [#2609](https://github.com/ranger/ranger/issues/2609) in [ranger/ranger](https://github.com/ranger/ranger)
+3. ❗️ Reopened issue [#2609](https://github.com/ranger/ranger/issues/2609) in [ranger/ranger](https://github.com/ranger/ranger)
+4. ❗️ Closed issue [#2609](https://github.com/ranger/ranger/issues/2609) in [ranger/ranger](https://github.com/ranger/ranger)
+5. ❗️ Opened issue [#2609](https://github.com/ranger/ranger/issues/2609) in [ranger/ranger](https://github.com/ranger/ranger)
 <!--END_SECTION:activity-->
 
 <!-- ---- -->
