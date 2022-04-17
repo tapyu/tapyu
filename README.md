@@ -106,11 +106,11 @@ https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg -->
 
 ### Recent GitHub Activity
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#94](https://github.com/iamcco/markdown-preview.nvim/issues/94) in [iamcco/markdown-preview.nvim](https://github.com/iamcco/markdown-preview.nvim)
+1. ❗️ Opened issue [#1](https://github.com/nkakouros-original/numbers.nvim/issues/1) in [nkakouros-original/numbers.nvim](https://github.com/nkakouros-original/numbers.nvim)
 2. 🗣 Commented on [#94](https://github.com/iamcco/markdown-preview.nvim/issues/94) in [iamcco/markdown-preview.nvim](https://github.com/iamcco/markdown-preview.nvim)
-3. ❗️ Closed issue [#2609](https://github.com/ranger/ranger/issues/2609) in [ranger/ranger](https://github.com/ranger/ranger)
-4. 🗣 Commented on [#2609](https://github.com/ranger/ranger/issues/2609) in [ranger/ranger](https://github.com/ranger/ranger)
-5. ❗️ Reopened issue [#2609](https://github.com/ranger/ranger/issues/2609) in [ranger/ranger](https://github.com/ranger/ranger)
+3. 🗣 Commented on [#94](https://github.com/iamcco/markdown-preview.nvim/issues/94) in [iamcco/markdown-preview.nvim](https://github.com/iamcco/markdown-preview.nvim)
+4. ❗️ Closed issue [#2609](https://github.com/ranger/ranger/issues/2609) in [ranger/ranger](https://github.com/ranger/ranger)
+5. 🗣 Commented on [#2609](https://github.com/ranger/ranger/issues/2609) in [ranger/ranger](https://github.com/ranger/ranger)
 <!--END_SECTION:activity-->
 
 <!-- ---- -->
