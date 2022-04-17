@@ -81,7 +81,7 @@ Hi there! I'm Rubem, but the people also call me Tapyu. I'm an Electronic Engine
 [<img align="left" alt="rubem lattes" height="30" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/lattes.png" />][lattes]
 [<img align="left" alt="rubem scholar" height="30" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/google_schola_colorful.svg" />][scholar]
 [<img align="left" alt="rubem linkedin" height="30" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/linkedin_colorful.svg" />][linkedin]
-[<img align="left" alt="rubem orcid" height="30" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/orcid.png" />][orcid]
+[<img align="left" alt="rubem orcid" height="30" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/orcid.svg" />][orcid]
 [<img align="left" alt="rubem cv" height="30" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/curriculum-vitae_blue.svg" />][cv]
 <br/>
 
@@ -99,18 +99,18 @@ https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg -->
 <!-- --- -->
 # GitHub Performance
 <!-- Put it only when the graph make sense! -->
-| ![GitHub Stats](https://github-readme-stats-xi-six-31.vercel.app/api?username=tapyu&show_icons=true&count_private=true&hide_title=true&theme=tokyonight&hide_border=1&line_height=33) | ![Most Used Languages](https://github-readme-stats-xi-six-31.vercel.app/api/top-langs/?username=tapyu&hide=jupyter%20notebook,html,stata,mathematica,standard%20ml&layout=compact&theme=tokyonight&hide_border=1&langs_count=10&count_private=true) |
+| ![GitHub Stats](https://github-readme-stats-xi-six-31.vercel.app/api?username=tapyu&show_icons=true&count_private=true&hide_title=true&theme=tokyonight&hide_border=1&line_height=33) | ![Most Used Languages](https://github-readme-stats-xi-six-31.vercel.app/api/top-langs/?username=tapyu&hide=jupyter%20notebook,html,stata,mathematica,standard%20ml,postscript&layout=compact&theme=tokyonight&hide_border=1&langs_count=10&count_private=true) |
 |:-----:|:-----:|
 
 
 
 ### Recent GitHub Activity
   <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#678](https://github.com/zsh-users/zsh-autosuggestions/issues/678) in [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
-2. ❗️ Opened issue [#161](https://github.com/Gimly/vscode-matlab/issues/161) in [Gimly/vscode-matlab](https://github.com/Gimly/vscode-matlab)
-3. 🗣 Commented on [#144710](https://github.com/microsoft/vscode/issues/144710) in [microsoft/vscode](https://github.com/microsoft/vscode)
-4. ❗️ Opened issue [#144710](https://github.com/microsoft/vscode/issues/144710) in [microsoft/vscode](https://github.com/microsoft/vscode)
-5. ❗️ Opened issue [#9296](https://github.com/microsoft/vscode-jupyter/issues/9296) in [microsoft/vscode-jupyter](https://github.com/microsoft/vscode-jupyter)
+1. ❗️ Opened issue [#1](https://github.com/nkakouros-original/numbers.nvim/issues/1) in [nkakouros-original/numbers.nvim](https://github.com/nkakouros-original/numbers.nvim)
+2. 🗣 Commented on [#94](https://github.com/iamcco/markdown-preview.nvim/issues/94) in [iamcco/markdown-preview.nvim](https://github.com/iamcco/markdown-preview.nvim)
+3. 🗣 Commented on [#94](https://github.com/iamcco/markdown-preview.nvim/issues/94) in [iamcco/markdown-preview.nvim](https://github.com/iamcco/markdown-preview.nvim)
+4. ❗️ Closed issue [#2609](https://github.com/ranger/ranger/issues/2609) in [ranger/ranger](https://github.com/ranger/ranger)
+5. 🗣 Commented on [#2609](https://github.com/ranger/ranger/issues/2609) in [ranger/ranger](https://github.com/ranger/ranger)
 <!--END_SECTION:activity-->
 
 <!-- ---- -->
