@@ -106,11 +106,11 @@ https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg -->
 
 ### Recent GitHub Activity
   <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#382](https://github.com/akinsho/bufferline.nvim/issues/382) in [akinsho/bufferline.nvim](https://github.com/akinsho/bufferline.nvim)
-2. ❗️ Closed issue [#1](https://github.com/nkakouros-original/numbers.nvim/issues/1) in [nkakouros-original/numbers.nvim](https://github.com/nkakouros-original/numbers.nvim)
-3. 🗣 Commented on [#1](https://github.com/nkakouros-original/numbers.nvim/issues/1) in [nkakouros-original/numbers.nvim](https://github.com/nkakouros-original/numbers.nvim)
-4. ❗️ Opened issue [#1](https://github.com/nkakouros-original/numbers.nvim/issues/1) in [nkakouros-original/numbers.nvim](https://github.com/nkakouros-original/numbers.nvim)
-5. 🗣 Commented on [#94](https://github.com/iamcco/markdown-preview.nvim/issues/94) in [iamcco/markdown-preview.nvim](https://github.com/iamcco/markdown-preview.nvim)
+1. ❗️ Opened issue [#6008](https://github.com/alacritty/alacritty/issues/6008) in [alacritty/alacritty](https://github.com/alacritty/alacritty)
+2. 🗣 Commented on [#382](https://github.com/akinsho/bufferline.nvim/issues/382) in [akinsho/bufferline.nvim](https://github.com/akinsho/bufferline.nvim)
+3. ❗️ Opened issue [#382](https://github.com/akinsho/bufferline.nvim/issues/382) in [akinsho/bufferline.nvim](https://github.com/akinsho/bufferline.nvim)
+4. ❗️ Closed issue [#1](https://github.com/nkakouros-original/numbers.nvim/issues/1) in [nkakouros-original/numbers.nvim](https://github.com/nkakouros-original/numbers.nvim)
+5. 🗣 Commented on [#1](https://github.com/nkakouros-original/numbers.nvim/issues/1) in [nkakouros-original/numbers.nvim](https://github.com/nkakouros-original/numbers.nvim)
 <!--END_SECTION:activity-->
 
 <!-- ---- -->
