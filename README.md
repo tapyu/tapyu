@@ -106,7 +106,7 @@ https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg -->
 
 ### Recent GitHub Activity
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#382](https://github.com/akinsho/bufferline.nvim/issues/382) in [akinsho/bufferline.nvim](https://github.com/akinsho/bufferline.nvim)
+1. ❗️ Closed issue [#382](https://github.com/akinsho/bufferline.nvim/issues/382) in [akinsho/bufferline.nvim](https://github.com/akinsho/bufferline.nvim)
 2. 🗣 Commented on [#382](https://github.com/akinsho/bufferline.nvim/issues/382) in [akinsho/bufferline.nvim](https://github.com/akinsho/bufferline.nvim)
 3. 🗣 Commented on [#382](https://github.com/akinsho/bufferline.nvim/issues/382) in [akinsho/bufferline.nvim](https://github.com/akinsho/bufferline.nvim)
 4. 🗣 Commented on [#382](https://github.com/akinsho/bufferline.nvim/issues/382) in [akinsho/bufferline.nvim](https://github.com/akinsho/bufferline.nvim)
