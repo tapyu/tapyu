@@ -108,9 +108,9 @@ https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg -->
   <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1076](https://github.com/sumneko/lua-language-server/issues/1076) in [sumneko/lua-language-server](https://github.com/sumneko/lua-language-server)
 2. 🗣 Commented on [#1076](https://github.com/sumneko/lua-language-server/issues/1076) in [sumneko/lua-language-server](https://github.com/sumneko/lua-language-server)
-3. ❗️ Opened issue [#1076](https://github.com/sumneko/lua-language-server/issues/1076) in [sumneko/lua-language-server](https://github.com/sumneko/lua-language-server)
-4. ❗️ Opened issue [#532](https://github.com/mfussenegger/nvim-dap/issues/532) in [mfussenegger/nvim-dap](https://github.com/mfussenegger/nvim-dap)
-5. ❗️ Opened issue [#59](https://github.com/julia-vscode/DebugAdapter.jl/issues/59) in [julia-vscode/DebugAdapter.jl](https://github.com/julia-vscode/DebugAdapter.jl)
+3. 🗣 Commented on [#1076](https://github.com/sumneko/lua-language-server/issues/1076) in [sumneko/lua-language-server](https://github.com/sumneko/lua-language-server)
+4. 🗣 Commented on [#532](https://github.com/mfussenegger/nvim-dap/issues/532) in [mfussenegger/nvim-dap](https://github.com/mfussenegger/nvim-dap)
+5. 🗣 Commented on [#1076](https://github.com/sumneko/lua-language-server/issues/1076) in [sumneko/lua-language-server](https://github.com/sumneko/lua-language-server)
 <!--END_SECTION:activity-->
 
 <!-- ---- -->
