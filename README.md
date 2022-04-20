@@ -106,9 +106,9 @@ https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg -->
 
 ### Recent GitHub Activity
   <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#59](https://github.com/julia-vscode/DebugAdapter.jl/issues/59) in [julia-vscode/DebugAdapter.jl](https://github.com/julia-vscode/DebugAdapter.jl)
-2. ❗️ Closed issue [#382](https://github.com/akinsho/bufferline.nvim/issues/382) in [akinsho/bufferline.nvim](https://github.com/akinsho/bufferline.nvim)
-3. 🗣 Commented on [#382](https://github.com/akinsho/bufferline.nvim/issues/382) in [akinsho/bufferline.nvim](https://github.com/akinsho/bufferline.nvim)
+1. ❗️ Opened issue [#532](https://github.com/mfussenegger/nvim-dap/issues/532) in [mfussenegger/nvim-dap](https://github.com/mfussenegger/nvim-dap)
+2. ❗️ Opened issue [#59](https://github.com/julia-vscode/DebugAdapter.jl/issues/59) in [julia-vscode/DebugAdapter.jl](https://github.com/julia-vscode/DebugAdapter.jl)
+3. ❗️ Closed issue [#382](https://github.com/akinsho/bufferline.nvim/issues/382) in [akinsho/bufferline.nvim](https://github.com/akinsho/bufferline.nvim)
 4. 🗣 Commented on [#382](https://github.com/akinsho/bufferline.nvim/issues/382) in [akinsho/bufferline.nvim](https://github.com/akinsho/bufferline.nvim)
 5. 🗣 Commented on [#382](https://github.com/akinsho/bufferline.nvim/issues/382) in [akinsho/bufferline.nvim](https://github.com/akinsho/bufferline.nvim)
 <!--END_SECTION:activity-->
