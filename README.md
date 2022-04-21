@@ -106,11 +106,11 @@ https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg -->
 
 ### Recent GitHub Activity
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1076](https://github.com/sumneko/lua-language-server/issues/1076) in [sumneko/lua-language-server](https://github.com/sumneko/lua-language-server)
+1. ❗️ Closed issue [#1076](https://github.com/sumneko/lua-language-server/issues/1076) in [sumneko/lua-language-server](https://github.com/sumneko/lua-language-server)
 2. 🗣 Commented on [#1076](https://github.com/sumneko/lua-language-server/issues/1076) in [sumneko/lua-language-server](https://github.com/sumneko/lua-language-server)
 3. 🗣 Commented on [#1076](https://github.com/sumneko/lua-language-server/issues/1076) in [sumneko/lua-language-server](https://github.com/sumneko/lua-language-server)
 4. 🗣 Commented on [#1076](https://github.com/sumneko/lua-language-server/issues/1076) in [sumneko/lua-language-server](https://github.com/sumneko/lua-language-server)
-5. 🗣 Commented on [#532](https://github.com/mfussenegger/nvim-dap/issues/532) in [mfussenegger/nvim-dap](https://github.com/mfussenegger/nvim-dap)
+5. 🗣 Commented on [#1076](https://github.com/sumneko/lua-language-server/issues/1076) in [sumneko/lua-language-server](https://github.com/sumneko/lua-language-server)
 <!--END_SECTION:activity-->
 
 <!-- ---- -->
