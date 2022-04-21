@@ -106,8 +106,8 @@ https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg -->
 
 ### Recent GitHub Activity
   <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1076](https://github.com/sumneko/lua-language-server/issues/1076) in [sumneko/lua-language-server](https://github.com/sumneko/lua-language-server)
-2. 🗣 Commented on [#1076](https://github.com/sumneko/lua-language-server/issues/1076) in [sumneko/lua-language-server](https://github.com/sumneko/lua-language-server)
+1. ❗️ Opened issue [#3774](https://github.com/neoclide/coc.nvim/issues/3774) in [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim)
+2. ❗️ Closed issue [#1076](https://github.com/sumneko/lua-language-server/issues/1076) in [sumneko/lua-language-server](https://github.com/sumneko/lua-language-server)
 3. 🗣 Commented on [#1076](https://github.com/sumneko/lua-language-server/issues/1076) in [sumneko/lua-language-server](https://github.com/sumneko/lua-language-server)
 4. 🗣 Commented on [#1076](https://github.com/sumneko/lua-language-server/issues/1076) in [sumneko/lua-language-server](https://github.com/sumneko/lua-language-server)
 5. 🗣 Commented on [#1076](https://github.com/sumneko/lua-language-server/issues/1076) in [sumneko/lua-language-server](https://github.com/sumneko/lua-language-server)
