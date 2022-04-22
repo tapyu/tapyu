@@ -106,11 +106,11 @@ https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg -->
 
 ### Recent GitHub Activity
   <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3774](https://github.com/neoclide/coc.nvim/issues/3774) in [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim)
-2. ❗️ Closed issue [#1076](https://github.com/sumneko/lua-language-server/issues/1076) in [sumneko/lua-language-server](https://github.com/sumneko/lua-language-server)
-3. 🗣 Commented on [#1076](https://github.com/sumneko/lua-language-server/issues/1076) in [sumneko/lua-language-server](https://github.com/sumneko/lua-language-server)
-4. 🗣 Commented on [#1076](https://github.com/sumneko/lua-language-server/issues/1076) in [sumneko/lua-language-server](https://github.com/sumneko/lua-language-server)
-5. 🗣 Commented on [#1076](https://github.com/sumneko/lua-language-server/issues/1076) in [sumneko/lua-language-server](https://github.com/sumneko/lua-language-server)
+1. 🗣 Commented on [#1848](https://github.com/neovim/nvim-lspconfig/issues/1848) in [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig)
+2. 🗣 Commented on [#532](https://github.com/mfussenegger/nvim-dap/issues/532) in [mfussenegger/nvim-dap](https://github.com/mfussenegger/nvim-dap)
+3. ❗️ Closed issue [#532](https://github.com/mfussenegger/nvim-dap/issues/532) in [mfussenegger/nvim-dap](https://github.com/mfussenegger/nvim-dap)
+4. ❗️ Opened issue [#1848](https://github.com/neovim/nvim-lspconfig/issues/1848) in [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig)
+5. ❗️ Opened issue [#3774](https://github.com/neoclide/coc.nvim/issues/3774) in [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim)
 <!--END_SECTION:activity-->
 
 <!-- ---- -->
