@@ -106,10 +106,10 @@ https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg -->
 
 ### Recent GitHub Activity
   <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1856](https://github.com/neovim/nvim-lspconfig/issues/1856) in [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig)
-2. ❗️ Closed issue [#1848](https://github.com/neovim/nvim-lspconfig/issues/1848) in [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig)
-3. 🗣 Commented on [#1848](https://github.com/neovim/nvim-lspconfig/issues/1848) in [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig)
-4. 🗣 Commented on [#1848](https://github.com/neovim/nvim-lspconfig/issues/1848) in [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig)
+1. 💪 Opened PR [#1859](https://github.com/neovim/nvim-lspconfig/pull/1859) in [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig)
+2. 🗣 Commented on [#1856](https://github.com/neovim/nvim-lspconfig/issues/1856) in [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig)
+3. ❗️ Opened issue [#1856](https://github.com/neovim/nvim-lspconfig/issues/1856) in [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig)
+4. ❗️ Closed issue [#1848](https://github.com/neovim/nvim-lspconfig/issues/1848) in [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig)
 5. 🗣 Commented on [#1848](https://github.com/neovim/nvim-lspconfig/issues/1848) in [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig)
 <!--END_SECTION:activity-->
 
