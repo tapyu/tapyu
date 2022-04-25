@@ -110,7 +110,7 @@ https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg -->
 2. 🗣 Commented on [#1848](https://github.com/neovim/nvim-lspconfig/issues/1848) in [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig)
 3. 🗣 Commented on [#1848](https://github.com/neovim/nvim-lspconfig/issues/1848) in [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig)
 4. 🗣 Commented on [#1848](https://github.com/neovim/nvim-lspconfig/issues/1848) in [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig)
-5. 🗣 Commented on [#532](https://github.com/mfussenegger/nvim-dap/issues/532) in [mfussenegger/nvim-dap](https://github.com/mfussenegger/nvim-dap)
+5. 🗣 Commented on [#1848](https://github.com/neovim/nvim-lspconfig/issues/1848) in [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig)
 <!--END_SECTION:activity-->
 
 <!-- ---- -->
