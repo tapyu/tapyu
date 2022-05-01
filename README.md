@@ -106,11 +106,11 @@ https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg -->
 
 ### Recent GitHub Activity
   <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#71](https://github.com/nvim-pack/nvim-spectre/issues/71) in [nvim-pack/nvim-spectre](https://github.com/nvim-pack/nvim-spectre)
-2. 💪 Opened PR [#70](https://github.com/nvim-pack/nvim-spectre/pull/70) in [nvim-pack/nvim-spectre](https://github.com/nvim-pack/nvim-spectre)
-3. 💪 Opened PR [#1859](https://github.com/neovim/nvim-lspconfig/pull/1859) in [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig)
-4. 🗣 Commented on [#1856](https://github.com/neovim/nvim-lspconfig/issues/1856) in [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig)
-5. ❗️ Opened issue [#1856](https://github.com/neovim/nvim-lspconfig/issues/1856) in [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig)
+1. ❗️ Opened issue [#108](https://github.com/goolord/alpha-nvim/issues/108) in [goolord/alpha-nvim](https://github.com/goolord/alpha-nvim)
+2. ❗️ Opened issue [#71](https://github.com/nvim-pack/nvim-spectre/issues/71) in [nvim-pack/nvim-spectre](https://github.com/nvim-pack/nvim-spectre)
+3. 💪 Opened PR [#70](https://github.com/nvim-pack/nvim-spectre/pull/70) in [nvim-pack/nvim-spectre](https://github.com/nvim-pack/nvim-spectre)
+4. 💪 Opened PR [#1859](https://github.com/neovim/nvim-lspconfig/pull/1859) in [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig)
+5. 🗣 Commented on [#1856](https://github.com/neovim/nvim-lspconfig/issues/1856) in [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig)
 <!--END_SECTION:activity-->
 
 <!-- ---- -->
