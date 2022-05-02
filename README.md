@@ -99,7 +99,7 @@ https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg -->
 <!-- --- -->
 # GitHub Performance
 <!-- Put it only when the graph make sense! -->
-| ![GitHub Stats](https://github-readme-stats-xi-six-31.vercel.app/api?username=tapyu&show_icons=true&count_private=true&hide_title=true&theme=tokyonight&hide_border=1&line_height=33) | ![Most Used Languages](https://github-readme-stats-xi-six-31.vercel.app/api/top-langs/?username=tapyu&hide=jupyter%20notebook,html,stata,mathematica,standard%20ml,postscript&layout=compact&theme=tokyonight&hide_border=1&langs_count=10&count_private=true) |
+| ![GitHub Stats](https://github-readme-stats-xi-six-31.vercel.app/api?username=tapyu&show_icons=true&count_private=true&hide_title=true&theme=tokyonight&hide_border=1&line_height=33) | ![Most Used Languages](https://github-readme-stats-xi-six-31.vercel.app/api/top-langs/?username=tapyu&hide=jupyter%20notebook,html,stata,mathematica,standard%20ml,postscript,tex&layout=compact&theme=tokyonight&hide_border=1&langs_count=10&count_private=true) |
 |:-----:|:-----:|
 
 
