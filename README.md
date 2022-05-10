@@ -107,10 +107,10 @@ https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg -->
 ### Recent GitHub Activity
   <!--START_SECTION:activity-->
 1. 🗣 Commented on [#391](https://github.com/rockerBOO/awesome-neovim/issues/391) in [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim)
-2. 💪 Opened PR [#391](https://github.com/rockerBOO/awesome-neovim/pull/391) in [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim)
-3. 🗣 Commented on [#109](https://github.com/goolord/alpha-nvim/issues/109) in [goolord/alpha-nvim](https://github.com/goolord/alpha-nvim)
-4. ❗️ Opened issue [#109](https://github.com/goolord/alpha-nvim/issues/109) in [goolord/alpha-nvim](https://github.com/goolord/alpha-nvim)
-5. 💪 Opened PR [#382](https://github.com/rockerBOO/awesome-neovim/pull/382) in [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim)
+2. 🗣 Commented on [#391](https://github.com/rockerBOO/awesome-neovim/issues/391) in [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim)
+3. 💪 Opened PR [#391](https://github.com/rockerBOO/awesome-neovim/pull/391) in [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim)
+4. 🗣 Commented on [#109](https://github.com/goolord/alpha-nvim/issues/109) in [goolord/alpha-nvim](https://github.com/goolord/alpha-nvim)
+5. ❗️ Opened issue [#109](https://github.com/goolord/alpha-nvim/issues/109) in [goolord/alpha-nvim](https://github.com/goolord/alpha-nvim)
 <!--END_SECTION:activity-->
 
 <!-- ---- -->
