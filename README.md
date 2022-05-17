@@ -35,7 +35,7 @@ ABOUT DEPLOYING YOUR OWN VERCEL INSTANCE
 </p>
 
 # `> whoami`
-Hi there! I'm Rubem, but the people also call me Tapyu. I'm an Electronic Engineer. Currently, I working in my doctorate degree at the [Federal University of Ceará][UFCwebsite] (UFC). I am also an entusiast of the maker culture, DIY and [Open Source Hardware (OSH)][OSHWA wb about] moviment. Feel free to follow me and keep in touch!
+Hi there! I'm Rubem, but the people also call me Tapyu. I'm an Electronic Engineer. Currently, I working in my doctorate degree at the [Federal University of Ceará][UFCwebsite] (UFC). I am also an entusiast of the maker culture, DIY and [Open Source Hardware (OSH)][OSHWA wb about] moviment.
 
 ### Interest 🧠
 1. Statistical signal processing and non-linear system identification.
