@@ -60,6 +60,9 @@ Hi there! I'm Rubem Pacelli (tapyu is my nickname only). I am really into.
 <details>
     <summary><b> Experiences and abilities </b></summary>
     I have already been some contact with the followings Programing (or hardware description) Languages:
+    <p align="center">
+        <img src="https://readme.tapyu.com/api/skills">
+    </p>
 </details>
 
 I'm an Electronic Engineer. Currently, I working in my doctorate degree at the [Federal University of Ceará][UFCwebsite] (UFC). I am also an entusiast of the maker culture, DIY and [Open Source Hardware (OSH)][OSHWA wb about] moviment.
