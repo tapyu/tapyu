@@ -49,9 +49,9 @@ Hi there! I'm Rubem Pacelli (tapyu is my nickname only). I am really into.
      <td width="350">Whenever possible, I try to embed my algorithms in FPGA's, DSP's, or specific-use microprocessors because it is fun 😄</td>
   </tr>
   <tr>
-    <td valign="baseline" align="center"><img height="250" width="350" src="figs/signal.gif"></td>
-    <td valign="baseline" align="center"><img height="250" width="350" src="figs/MLP.gif"></td>
-    <td valign="baseline" align="center"><img height="250" width="350" src="figs/microprocessor.gif"></td>
+    <td valign="top" align="center"><img height="250" width="350" src="figs/signal.gif"></td>
+    <td valign="middle" align="center"><img height="200" width="350" src="figs/MLP.gif"></td>
+    <td valign="top" align="center"><img height="250" width="350" src="figs/microprocessor.gif"></td>
 <!--     <td valign="top"><img src="figs/MLP.gif"></td> -->
 <!--     <td valign="top"><img src="figs/microprocessor.gif"></td> -->
   </tr>
@@ -59,40 +59,48 @@ Hi there! I'm Rubem Pacelli (tapyu is my nickname only). I am really into.
 
 <details>
     <summary><b> Experiences and abilities </b></summary>
-    I have already been some contact with the followings Programing (or hardware description) Languages:
-    <p align="center">
-        <img src="https://readme.tapyu.com/api/skills">
-    </p>
+       👨‍ 💻 Programing (or hardware description) Languages I've had contact with:
+    <br>
+    <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
+        <img align="left" alt="c" width="35px" src="figs/c_colorful.svg" />
+    </a>
+    <a href="https://en.wikipedia.org/wiki/C%2B%2B">
+        <img align="left" alt="cpp" width="35px" src="figs/cpp_colorful.svg" />
+    </a>
+    <a href="https://en.wikipedia.org/wiki/Java_(programming_language)">
+        <img align="left" alt="java" width="35px" src="figs/java_colorful.svg" />
+    </a>
+    <a href="https://www.python.org/">
+        <img align="left" alt="python" width="35px" src="figs/python_colorful.svg" />
+    </a>
+    <a href="https://en.wikipedia.org/wiki/Shell_script">
+        <img align="left" alt="Unix shell scripting" width="35px" src="figs/utilities-x-terminal.svg"/>
+    </a>
+    <a href="https://en.wikipedia.org/wiki/Assembly_language">
+        <img align="left" alt="assembly" width="35px" src="figs/assembly.png" />
+    </a>
+    <a href="https://en.wikipedia.org/wiki/VHDL">
+        <img align="left" alt="VHDL" width="35px" src="figs/VHDL.jfif" />
+    </a>
+    <a href="https://www.mathworks.com/products/matlab.html">
+        <img align="left" alt="matlab" width="35px" src="figs/icons8-matlab.svg" />
+    </a>
+    <br>
+    Tools 🛠
+    [<img align="left" alt="vim" width="35px" src="figs/neovim.svg" />][vimweb]
+    [<img align="left" alt="visual studio code" width="35px" src="figs/vscode_colorful.svg" />][vscodeweb]
+    [<img align="left" alt="linux" width="35px" src="figs/linux_colorful.svg"  />][linuxweb]
+    [<img align="left" alt="latex" width="35px" src="figs/icons8-latex.svg" />][latexweb]
+    [<img align="left" alt="git" width="35px" src="figs/git.svg" />][gitweb]
+    <!-- [<img align="left" alt="anaconda" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/anaconda.svg" />][anacondaweb] -->
 </details>
 
-I'm an Electronic Engineer. Currently, I working in my doctorate degree at the [Federal University of Ceará][UFCwebsite] (UFC). I am also an entusiast of the maker culture, DIY and [Open Source Hardware (OSH)][OSHWA wb about] moviment.
-
-### Programing (or hardware description) Languages 👨‍💻
-
-[<img align="left" alt="c" width="35px" src="figs/c_colorful.svg" />][cweb]
-[<img align="left" alt="cpp" width="35px" src="figs/cpp_colorful.svg" />][cppweb]
-[<img align="left" alt="java" width="35px" src="figs/java_colorful.svg" />][javaweb]
-[<img align="left" alt="python" width="35px" src="figs/python_colorful.svg" />][pythonweb]
-[<img align="left" alt="Unix shell scripting" width="35px" src="figs/utilities-x-terminal.svg"/>][unix shell script web]
-[<img align="left" alt="assembly" width="35px" src="figs/assembly.png" />][assemblyweb]
-[<img align="left" alt="VHDL" width="35px" src="figs/VHDL.jfif" />][VHDLweb]
-[<img align="left" alt="matlab" width="35px" src="figs/icons8-matlab.svg" />][matlabweb]
-<!-- - R -->
-<br/>
-
-### Tools 🛠
-
-[<img align="left" alt="vim" width="35px" src="figs/neovim.svg" />][vimweb]
-[<img align="left" alt="visual studio code" width="35px" src="figs/vscode_colorful.svg" />][vscodeweb]
-[<img align="left" alt="linux" width="35px" src="figs/linux_colorful.svg"  />][linuxweb]
-[<img align="left" alt="latex" width="35px" src="figs/icons8-latex.svg" />][latexweb]
-[<img align="left" alt="git" width="35px" src="figs/git.svg" />][gitweb]
-<!-- [<img align="left" alt="anaconda" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/anaconda.svg" />][anacondaweb] -->
-[<img align="left" alt="manim" width="38px" src="https://raw.githubusercontent.com/ManimCommunity/manim/main/logo/dark/dark_background.svg" />][manim-communityweb]
 <br/>
 ### Natural Languages 👅
 - :brazil: Portuguese: Native speaker
 - :us: English: Professional proficiency
+### Hobbies
+- I am also an entusiast of the maker culture, DIY and [Open Source Hardware (OSH)][OSHWA wb about] moviment.
 
 <!-- --- -->
 # Contacts
@@ -161,14 +169,6 @@ https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg -->
 [pepe]: https://raw.githubusercontent.com/tapyu/tapyu/master/figs/pepe.jpg
 [youtube]: https://www.youtube.com/channel/UCn1nfBWKVmvPvTsAH5Agf6Q
 [instagram]: https://www.instagram.com/rubempacelli/
-[manim-communityweb]: https://github.com/ManimCommunity/manim
-[cweb]: https://en.wikipedia.org/wiki/C_(programming_language)
-[cppweb]: https://en.wikipedia.org/wiki/C%2B%2B
-[javaweb]: https://en.wikipedia.org/wiki/Java_(programming_language)
-[pythonweb]: https://www.python.org/
-[assemblyweb]: https://en.wikipedia.org/wiki/Assembly_language
-[VHDLweb]: https://en.wikipedia.org/wiki/VHDL
-[matlabweb]:https://www.mathworks.com/products/matlab.html
 [anacondaweb]: https://www.anaconda.com/
 [latexweb]: https://www.latex-project.org/
 [linuxweb]: https://www.linux.org/
