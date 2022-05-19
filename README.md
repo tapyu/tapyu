@@ -40,22 +40,29 @@ Hi there! I'm Rubem Pacelli (tapyu is my nickname only). I am really into.
 ## Background
 - 🎓 B.S. degree in Electronics Engineering from [Unifor][UNIFORwebsite].
 - 🎓 M.S. degree in Teleinformatics Engineering from [UFC][UFCwebsite].
-- 🔬 Currently working in my PhD in Teleinformatics Engineering at [UFC][UFCwebsite].
+- 🔬 Currently working on my PhD in Teleinformatics Engineering at [UFC][UFCwebsite].
 ## Research interests
-- Statistical signal processing
-<img align="right" src="figs/signal.gif">
-- Machine learning and neural networks (which does not differ that much from the first topic, btw)
-<img align="right" src="figs/MLP.gif">
-- Whenever possible, I try to embed my algorithms in FPGA's, DSP's, or specific-use microprocessor because it is funny 😄
-<img align="right" src="figs/microprocessor.gif">
-
+<table>
+  <tr>
+    <td width="350">Statistical signal processing</td>
+     <td width="350">Machine learning and neural networks (which does not differ that much from the first topic, btw)</td>
+     <td width="350">Whenever possible, I try to embed my algorithms in FPGA's, DSP's, or specific-use microprocessors because it is fun 😄</td>
+  </tr>
+  <tr>
+    <td valign="baseline" align="center"><img height="250" width="350" src="figs/signal.gif"></td>
+    <td valign="baseline" align="center"><img height="250" width="350" src="figs/MLP.gif"></td>
+    <td valign="baseline" align="center"><img height="250" width="350" src="figs/microprocessor.gif"></td>
+<!--     <td valign="top"><img src="figs/MLP.gif"></td> -->
+<!--     <td valign="top"><img src="figs/microprocessor.gif"></td> -->
+  </tr>
+ </table>
 
 <details>
     <summary><b> Experiences and abilities </b></summary>
     I have already been some contact with the followings Programing (or hardware description) Languages:
 </details>
 
-. I'm an Electronic Engineer. Currently, I working in my doctorate degree at the [Federal University of Ceará][UFCwebsite] (UFC). I am also an entusiast of the maker culture, DIY and [Open Source Hardware (OSH)][OSHWA wb about] moviment.
+I'm an Electronic Engineer. Currently, I working in my doctorate degree at the [Federal University of Ceará][UFCwebsite] (UFC). I am also an entusiast of the maker culture, DIY and [Open Source Hardware (OSH)][OSHWA wb about] moviment.
 
 ### Programing (or hardware description) Languages 👨‍💻
 
