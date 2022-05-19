@@ -52,8 +52,6 @@ Hi there! I'm Rubem Pacelli (tapyu is my nickname only). I am really into.
     <td valign="top" align="center"><img height="250" width="350" src="figs/signal.gif"></td>
     <td valign="middle" align="center"><img height="200" width="350" src="figs/MLP.gif"></td>
     <td valign="top" align="center"><img height="250" width="350" src="figs/microprocessor.gif"></td>
-<!--     <td valign="top"><img src="figs/MLP.gif"></td> -->
-<!--     <td valign="top"><img src="figs/microprocessor.gif"></td> -->
   </tr>
  </table>
 
@@ -61,48 +59,54 @@ Hi there! I'm Rubem Pacelli (tapyu is my nickname only). I am really into.
     <summary><b> Experiences and abilities </b></summary>
        👨‍💻💻 Programing (or hardware description) Languages I've had contact with:
     <br>
-    <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
-        <img align="left" alt="c" width="35px" src="figs/c_colorful.svg" />
-    </a>
-    <a href="https://en.wikipedia.org/wiki/C%2B%2B">
-        <img align="left" alt="cpp" width="35px" src="figs/cpp_colorful.svg" />
-    </a>
-    <a href="https://en.wikipedia.org/wiki/Java_(programming_language)">
-        <img align="left" alt="java" width="35px" src="figs/java_colorful.svg" />
-    </a>
-    <a href="https://www.python.org/">
-        <img align="left" alt="python" width="35px" src="figs/python_colorful.svg" />
-    </a>
-    <a href="https://en.wikipedia.org/wiki/Shell_script">
-        <img align="left" alt="Unix shell scripting" width="35px" src="figs/utilities-x-terminal.svg"/>
-    </a>
-    <a href="https://en.wikipedia.org/wiki/Assembly_language">
-        <img align="left" alt="assembly" width="35px" src="figs/assembly.png" />
-    </a>
-    <a href="https://en.wikipedia.org/wiki/VHDL">
-        <img align="left" alt="VHDL" width="35px" src="figs/VHDL.jfif" />
-    </a>
-    <a href="https://www.mathworks.com/products/matlab.html">
-        <img align="left" alt="matlab" width="35px" src="figs/icons8-matlab.svg" />
-    </a>
+    <p align="center">
+        <code> <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
+            <img alt="c" width="35px" src="figs/c_colorful.svg" />
+        </a> </code>
+        <code> <a href="https://en.wikipedia.org/wiki/C%2B%2B">
+            <img alt="cpp" width="35px" src="figs/cpp_colorful.svg" />
+        </a> </code>
+        <code> <a href="https://en.wikipedia.org/wiki/Java_(programming_language)">
+            <img alt="java" width="35px" src="figs/java_colorful.svg" />
+        </a> </code>
+        <code> <a href="https://www.python.org/">
+            <img alt="python" width="35px" src="figs/python_colorful.svg" />
+        </a> </code>
+        <code> <a href="https://en.wikipedia.org/wiki/Shell_script">
+            <img alt="Unix shell scripting" width="35px" src="figs/utilities-x-terminal.svg"/>
+        </a> </code>
+        <code> <a href="https://en.wikipedia.org/wiki/Assembly_language">
+            <img alt="assembly" width="35px" src="figs/assembly.png" />
+        </a> </code>
+        <code> <a href="https://en.wikipedia.org/wiki/VHDL">
+            <img alt="VHDL" width="35px" src="figs/VHDL.jfif" />
+        </a> </code>
+        <code> <a href="https://www.mathworks.com/products/matlab.html">
+            <img alt="matlab" width="35px" src="figs/icons8-matlab.svg" />
+        </a> </code>
+    </p>
     <br>
     Tools 🛠
-    <a href="https://www.vim.org/">
-        <img align="left" alt="vim" width="35px" src="figs/neovim.svg" />
-    </a>
-    <a href="https://code.visualstudio.com/">
-        <img align="left" alt="visual studio code" width="35px" src="figs/vscode_colorful.svg" />
-    </a>
-    <a href="https://www.linux.org/">
-        <img align="left" alt="linux" width="35px" src="figs/linux_colorful.svg"  />
-    </a>
-    <a href="https://www.latex-project.org/">
-        <img align="left" alt="latex" width="35px" src="figs/icons8-latex.svg" />
-    </a>
-    <a href="https://git-scm.com/">
-        <img align="left" alt="git" width="35px" src="figs/git.svg" />
-    </a>
+    <br>
+    <p align="center">
+        <code> <a href="https://www.vim.org/">
+            <img alt="vim" width="35px" src="figs/neovim.svg" />
+        </a> </code>
+        <code> <a href="https://code.visualstudio.com/">
+            <img alt="visual studio code" width="35px" src="figs/vscode_colorful.svg" />
+        </a> </code>
+        <code> <a href="https://www.linux.org/">
+            <img alt="linux" width="35px" src="figs/linux_colorful.svg"  />
+        </a> </code>
+        <code> <a href="https://www.latex-project.org/">
+            <img alt="latex" width="35px" src="figs/icons8-latex.svg" />
+        </a> </code>
+        <code> <a href="https://git-scm.com/">
+            <img alt="git" width="35px" src="figs/git.svg" />
+        </a> </code>
+    </p>
 </details>
+
 
 <br/>
 ### Natural Languages 👅
