@@ -59,7 +59,7 @@ Hi there! I'm Rubem Pacelli (tapyu is my nickname only). I am really into.
 
 <details>
     <summary><b> Experiences and abilities </b></summary>
-       👨‍ 💻 Programing (or hardware description) Languages I've had contact with:
+       👨‍💻💻 Programing (or hardware description) Languages I've had contact with:
     <br>
     <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
         <img align="left" alt="c" width="35px" src="figs/c_colorful.svg" />
@@ -87,12 +87,21 @@ Hi there! I'm Rubem Pacelli (tapyu is my nickname only). I am really into.
     </a>
     <br>
     Tools 🛠
-    [<img align="left" alt="vim" width="35px" src="figs/neovim.svg" />][vimweb]
-    [<img align="left" alt="visual studio code" width="35px" src="figs/vscode_colorful.svg" />][vscodeweb]
-    [<img align="left" alt="linux" width="35px" src="figs/linux_colorful.svg"  />][linuxweb]
-    [<img align="left" alt="latex" width="35px" src="figs/icons8-latex.svg" />][latexweb]
-    [<img align="left" alt="git" width="35px" src="figs/git.svg" />][gitweb]
-    <!-- [<img align="left" alt="anaconda" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/anaconda.svg" />][anacondaweb] -->
+    <a href="https://www.vim.org/">
+        <img align="left" alt="vim" width="35px" src="figs/neovim.svg" />
+    </a>
+    <a href="https://code.visualstudio.com/">
+        <img align="left" alt="visual studio code" width="35px" src="figs/vscode_colorful.svg" />
+    </a>
+    <a href="https://www.linux.org/">
+        <img align="left" alt="linux" width="35px" src="figs/linux_colorful.svg"  />
+    </a>
+    <a href="https://www.latex-project.org/">
+        <img align="left" alt="latex" width="35px" src="figs/icons8-latex.svg" />
+    </a>
+    <a href="https://git-scm.com/">
+        <img align="left" alt="git" width="35px" src="figs/git.svg" />
+    </a>
 </details>
 
 <br/>
@@ -170,13 +179,8 @@ https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg -->
 [youtube]: https://www.youtube.com/channel/UCn1nfBWKVmvPvTsAH5Agf6Q
 [instagram]: https://www.instagram.com/rubempacelli/
 [anacondaweb]: https://www.anaconda.com/
-[latexweb]: https://www.latex-project.org/
-[linuxweb]: https://www.linux.org/
-[vscodeweb]: https://code.visualstudio.com/
-[vimweb]: https://www.vim.org/
 [OSHWA wb about]: https://www.oshwa.org/about/
 [unix shell script web]: https://en.wikipedia.org/wiki/Shell_script
-[gitweb]: https://git-scm.com/
 [gitlabweb]: https://gitlab.com/tapyu
 [wakatimeweb]: https://wakatime.com/@24ca7482-495c-4cc3-bd12-e60bd547d672
 
