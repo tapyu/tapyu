@@ -34,14 +34,18 @@ ABOUT DEPLOYING YOUR OWN VERCEL INSTANCE
     <img align='center' src="https://visitor-badge.glitch.me/badge?page_id=tapyu.visitor-badge">
 </p>
 
-# `> whoami`
-Hi there! I'm Rubem Pacelli (tapyu is my nickname only). I am really into.
-> scientific programing languages
-## Background
-- 🎓 B.S. degree in Electronics Engineering from [Unifor][UNIFORwebsite].
-- 🎓 M.S. degree in Teleinformatics Engineering from [UFC][UFCwebsite].
-- 🔬 Currently working on my PhD in Teleinformatics Engineering at [UFC][UFCwebsite].
-## Research interests
+<h1 align="center"><code>>whoami</code> </h2>
+Hi there! I'm Rubem Pacelli (tapyu is my nickname only). I am really into
+<blockquote>
+    scientific programing languages
+</blockquote>
+<h2 align="center">Background</h2>
+<ul>
+  <li>🎓 B.S. degree in Electronics Engineering from <a href="https://unifor.br/">Unifor</a>.</li>
+  <li>🎓 M.S. degree in Teleinformatics Engineering from <a href="http://www.ufc.br/">UFC</a>.</li>
+  <li>🔬 Currently working on my PhD in Teleinformatics Engineering at <a href="http://www.ufc.br/">UFC</a>.</li>
+</ul>
+<h2 align="center">Research interests</h2>
 <table>
   <tr>
     <td width="350">Statistical signal processing</td>
@@ -54,66 +58,114 @@ Hi there! I'm Rubem Pacelli (tapyu is my nickname only). I am really into.
     <td valign="top" align="center"><img height="250" width="350" src="figs/microprocessor.gif"></td>
   </tr>
  </table>
-
+<hr>
 <details>
     <summary><b> Experiences and abilities </b></summary>
        👨‍💻💻 Programing (or hardware description) Languages I've had contact with:
     <br>
-    <p align="center">
-        <code> <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
-            <img alt="c" width="35px" src="figs/c_colorful.svg" />
-        </a> </code>
-        <code> <a href="https://en.wikipedia.org/wiki/C%2B%2B">
-            <img alt="cpp" width="35px" src="figs/cpp_colorful.svg" />
-        </a> </code>
-        <code> <a href="https://en.wikipedia.org/wiki/Java_(programming_language)">
-            <img alt="java" width="35px" src="figs/java_colorful.svg" />
-        </a> </code>
-        <code> <a href="https://www.python.org/">
-            <img alt="python" width="35px" src="figs/python_colorful.svg" />
-        </a> </code>
-        <code> <a href="https://en.wikipedia.org/wiki/Shell_script">
-            <img alt="Unix shell scripting" width="35px" src="figs/utilities-x-terminal.svg"/>
-        </a> </code>
-        <code> <a href="https://en.wikipedia.org/wiki/Assembly_language">
-            <img alt="assembly" width="35px" src="figs/assembly.png" />
-        </a> </code>
-        <code> <a href="https://en.wikipedia.org/wiki/VHDL">
-            <img alt="VHDL" width="35px" src="figs/VHDL.jfif" />
-        </a> </code>
-        <code> <a href="https://www.mathworks.com/products/matlab.html">
-            <img alt="matlab" width="35px" src="figs/icons8-matlab.svg" />
-        </a> </code>
-    </p>
+    <table>
+        <td align="center" width="96">
+            <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
+                <img alt="c" width="35px" src="figs/c_colorful.svg" />
+            </a>
+            <br>C
+        </td>
+        <td align="center" width="96">
+            <a href="https://en.wikipedia.org/wiki/C%2B%2B">
+                <img alt="cpp" width="35px" src="figs/cpp_colorful.svg" />
+            </a>
+            <br>C++
+        </td>
+        <td align="center" width="96">
+            <a href="https://en.wikipedia.org/wiki/Java_(programming_language)">
+                <img alt="java" width="35px" src="figs/java_colorful.svg" />
+            </a>
+            <br>Java
+        </td>
+        <td align="center" width="96">
+            <a href="https://www.python.org/">
+                <img alt="python" width="35px" src="figs/python_colorful.svg" />
+            </a>
+            <br>Python
+        </td>
+        <td align="center" width="96">
+            <a href="https://en.wikipedia.org/wiki/Shell_script">
+                <img alt="Unix shell scripting" width="35px" src="figs/utilities-x-terminal.svg"/>
+            </a>
+            <br>Shell scripting
+        </td>
+        <td align="center" width="96">
+            <a href="https://en.wikipedia.org/wiki/Assembly_language">
+                <img alt="assembly" width="35px" src="figs/assembly.png" />
+            </a>
+            <br>Assembly
+        </td>
+        <td align="center" width="96">
+            <a href="https://en.wikipedia.org/wiki/VHDL">
+                <img alt="VHDL" width="35px" src="figs/VHDL.jfif" />
+            </a>
+            <br>VHDL
+        </td>
+        <td align="center" width="96">
+            <a href="https://www.mathworks.com/products/matlab.html">
+                <img alt="matlab" width="35px" src="figs/icons8-matlab.svg" />
+            </a>
+            <br>Matlab
+        </td>
+    </table>
     <br>
     Tools 🛠
     <br>
-    <p align="center">
-        <code> <a href="https://www.vim.org/">
-            <img alt="vim" width="35px" src="figs/neovim.svg" />
-        </a> </code>
-        <code> <a href="https://code.visualstudio.com/">
-            <img alt="visual studio code" width="35px" src="figs/vscode_colorful.svg" />
-        </a> </code>
-        <code> <a href="https://www.linux.org/">
-            <img alt="linux" width="35px" src="figs/linux_colorful.svg"  />
-        </a> </code>
-        <code> <a href="https://www.latex-project.org/">
-            <img alt="latex" width="35px" src="figs/icons8-latex.svg" />
-        </a> </code>
-        <code> <a href="https://git-scm.com/">
-            <img alt="git" width="35px" src="figs/git.svg" />
-        </a> </code>
-    </p>
+    <table>
+        <tr>
+          <td align="center" width="96">
+              <a href="https://www.vim.org/">
+                  <img alt="vim" height="40" src="figs/neovim.svg" />
+              </a>
+              <br>Neovim
+          </td>
+          <td align="center" width="96">
+              <a href="https://code.visualstudio.com/">
+                  <img alt="visual studio code" height="40" src="figs/vscode_colorful.svg" />
+              </a>
+              <br>vscode
+          </td>
+          <td align="center" width="96">
+              <a href="https://www.linux.org/">
+                  <img alt="linux" height="40" src="figs/linux_colorful.svg"  />
+              </a>
+              <br>Linux
+          </td>
+          <td align="center" width="96">
+              <a href="https://www.latex-project.org/">
+                  <img alt="latex" height="40" src="figs/icons8-latex.svg" />
+              </a>
+              <br>Latex
+          </td>
+          <td align="center" width="96">
+              <a href="https://git-scm.com/">
+                  <img alt="git" height="40" src="figs/git.svg" />
+              </a>
+              <br>Git
+          </td>
+        </tr>
+    </table>
+    <br>
+    Natural Languages 👅
+    <ul>
+        <li> :brazil: Portuguese: Native speaker </li>
+        <li> :us: English: Professional proficiency </li>
+        <li> :fr: French: Elementary knowledge </li>
+    </ul>
+    <br>
+    Hobbies
+    <br>
+    <ul>
+        <li> I am an entusiast of the maker culture, DIY and <a href="https://www.oshwa.org/about/">Open Source Hardware (OSH)</a> moviment. </li>
+        <li> Linux ricing, and Unix shell scripts to automatize everything on Linux 🐧. </li>
 </details>
+<br>
 
-
-<br/>
-### Natural Languages 👅
-- :brazil: Portuguese: Native speaker
-- :us: English: Professional proficiency
-### Hobbies
-- I am also an entusiast of the maker culture, DIY and [Open Source Hardware (OSH)][OSHWA wb about] moviment.
 
 <!-- --- -->
 # Contacts
@@ -171,8 +223,6 @@ https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg -->
 
 ---
 
-[UFCwebsite]: http://www.ufc.br/
-[UNIFORwebsite]: https://unifor.br/
 [email]: mailto:rubem.engenharia@gmail.com
 [lattes]: http://lattes.cnpq.br/0717252455115225
 [scholar]: https://scholar.google.com.br/citations?user=Kj6Gzs4AAAAJ&hl=pt-BR&oi=sra
@@ -182,8 +232,6 @@ https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg -->
 [pepe]: https://raw.githubusercontent.com/tapyu/tapyu/master/figs/pepe.jpg
 [youtube]: https://www.youtube.com/channel/UCn1nfBWKVmvPvTsAH5Agf6Q
 [instagram]: https://www.instagram.com/rubempacelli/
-[anacondaweb]: https://www.anaconda.com/
-[OSHWA wb about]: https://www.oshwa.org/about/
 [unix shell script web]: https://en.wikipedia.org/wiki/Shell_script
 [gitlabweb]: https://gitlab.com/tapyu
 [wakatimeweb]: https://wakatime.com/@24ca7482-495c-4cc3-bd12-e60bd547d672
