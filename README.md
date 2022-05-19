@@ -35,15 +35,27 @@ ABOUT DEPLOYING YOUR OWN VERCEL INSTANCE
 </p>
 
 # `> whoami`
-Hi there! I'm Rubem, but the people also call me Tapyu. I'm an Electronic Engineer. Currently, I working in my doctorate degree at the [Federal University of Ceará][UFCwebsite] (UFC). I am also an entusiast of the maker culture, DIY and [Open Source Hardware (OSH)][OSHWA wb about] moviment.
+Hi there! I'm Rubem Pacelli (tapyu is my nickname only). I am really into.
+> scientific programing languages
+## Background
+- 🎓 B.S. degree in Electronics Engineering from [Unifor][UNIFORwebsite].
+- 🎓 M.S. degree in Teleinformatics Engineering from [UFC][UFCwebsite].
+- 🔬 Currently working in my PhD in Teleinformatics Engineering at [UFC][UFCwebsite].
+## Research interests
+- Statistical signal processing
+<img align="right" src="figs/signal.gif">
+- Machine learning and neural networks (which does not differ that much from the first topic, btw)
+<img align="right" src="figs/MLP.gif">
+- Whenever possible, I try to embed my algorithms in FPGA's, DSP's, or specific-use microprocessor because it is funny 😄
+<img align="right" src="figs/microprocessor.gif">
 
-### Interest 🧠
-1. Statistical signal processing and non-linear system identification.
-1. Machine learning, neural networks and pattern recognition.
-1. FPGA (Field Programmable Gate Array), DSP (Digital Signal Processor) and embedded systems.
 
-<!-- ### Mission 🦾
-> Apply Machine Learning methods in order to develop new solutions for symbol detection and synchronization techniques. If it is possible, implement this solution in FPGA. -->
+<details>
+    <summary><b> Experiences and abilities </b></summary>
+    I have already been some contact with the followings Programing (or hardware description) Languages:
+</details>
+
+. I'm an Electronic Engineer. Currently, I working in my doctorate degree at the [Federal University of Ceará][UFCwebsite] (UFC). I am also an entusiast of the maker culture, DIY and [Open Source Hardware (OSH)][OSHWA wb about] moviment.
 
 ### Programing (or hardware description) Languages 👨‍💻
 
@@ -129,6 +141,7 @@ https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg -->
 ---
 
 [UFCwebsite]: http://www.ufc.br/
+[UNIFORwebsite]: https://unifor.br/
 [email]: mailto:rubem.engenharia@gmail.com
 [lattes]: http://lattes.cnpq.br/0717252455115225
 [scholar]: https://scholar.google.com.br/citations?user=Kj6Gzs4AAAAJ&hl=pt-BR&oi=sra
