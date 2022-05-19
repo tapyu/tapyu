@@ -59,24 +59,24 @@ Hi there! I'm Rubem Pacelli (tapyu is my nickname only). I am really into.
 
 ### Programing (or hardware description) Languages 👨‍💻
 
-[<img align="left" alt="c" width="35px" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/c_colorful.svg" />][cweb]
-[<img align="left" alt="cpp" width="35px" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/cpp_colorful.svg" />][cppweb]
-[<img align="left" alt="java" width="35px" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/java_colorful.svg" />][javaweb]
-[<img align="left" alt="python" width="35px" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/python_colorful.svg" />][pythonweb]
-[<img align="left" alt="Unix shell scripting" width="35px" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/utilities-x-terminal.svg"/>][unix shell script web]
-[<img align="left" alt="assembly" width="35px" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/assembly.png" />][assemblyweb]
-[<img align="left" alt="VHDL" width="35px" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/VHDL.jfif" />][VHDLweb]
-[<img align="left" alt="matlab" width="35px" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/icons8-matlab.svg" />][matlabweb]
+[<img align="left" alt="c" width="35px" src="figs/c_colorful.svg" />][cweb]
+[<img align="left" alt="cpp" width="35px" src="figs/cpp_colorful.svg" />][cppweb]
+[<img align="left" alt="java" width="35px" src="figs/java_colorful.svg" />][javaweb]
+[<img align="left" alt="python" width="35px" src="figs/python_colorful.svg" />][pythonweb]
+[<img align="left" alt="Unix shell scripting" width="35px" src="figs/utilities-x-terminal.svg"/>][unix shell script web]
+[<img align="left" alt="assembly" width="35px" src="figs/assembly.png" />][assemblyweb]
+[<img align="left" alt="VHDL" width="35px" src="figs/VHDL.jfif" />][VHDLweb]
+[<img align="left" alt="matlab" width="35px" src="figs/icons8-matlab.svg" />][matlabweb]
 <!-- - R -->
 <br/>
 
 ### Tools 🛠
 
-[<img align="left" alt="vim" width="35px" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/neovim.svg" />][vimweb]
-[<img align="left" alt="visual studio code" width="35px" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/vscode_colorful.svg" />][vscodeweb]
-[<img align="left" alt="linux" width="35px" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/linux_colorful.svg"  />][linuxweb]
-[<img align="left" alt="latex" width="35px" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/icons8-latex.svg" />][latexweb]
-[<img align="left" alt="git" width="35px" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/git.svg" />][gitweb]
+[<img align="left" alt="vim" width="35px" src="figs/neovim.svg" />][vimweb]
+[<img align="left" alt="visual studio code" width="35px" src="figs/vscode_colorful.svg" />][vscodeweb]
+[<img align="left" alt="linux" width="35px" src="figs/linux_colorful.svg"  />][linuxweb]
+[<img align="left" alt="latex" width="35px" src="figs/icons8-latex.svg" />][latexweb]
+[<img align="left" alt="git" width="35px" src="figs/git.svg" />][gitweb]
 <!-- [<img align="left" alt="anaconda" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/anaconda.svg" />][anacondaweb] -->
 [<img align="left" alt="manim" width="38px" src="https://raw.githubusercontent.com/ManimCommunity/manim/main/logo/dark/dark_background.svg" />][manim-communityweb]
 <br/>
@@ -89,22 +89,22 @@ Hi there! I'm Rubem Pacelli (tapyu is my nickname only). I am really into.
 
 #### Professional
 
-[<img align="left" alt="rubem email" height="25" width="32px" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/email_blue.svg" />][email]
-[<img align="left" alt="rubem lattes" height="30" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/lattes.png" />][lattes]
-[<img align="left" alt="rubem scholar" height="30" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/google_schola_colorful.svg" />][scholar]
-[<img align="left" alt="rubem linkedin" height="30" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/linkedin_colorful.svg" />][linkedin]
-[<img align="left" alt="rubem orcid" height="30" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/orcid.svg" />][orcid]
-[<img align="left" alt="rubem cv" height="30" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/curriculum-vitae_blue.svg" />][cv]
+[<img align="left" alt="rubem email" height="25" width="32px" src="figs/email_blue.svg" />][email]
+[<img align="left" alt="rubem lattes" height="30" src="figs/lattes.png" />][lattes]
+[<img align="left" alt="rubem scholar" height="30" src="figs/google_schola_colorful.svg" />][scholar]
+[<img align="left" alt="rubem linkedin" height="30" src="figs/linkedin_colorful.svg" />][linkedin]
+[<img align="left" alt="rubem orcid" height="30" src="figs/orcid.svg" />][orcid]
+[<img align="left" alt="rubem cv" height="30" src="figs/curriculum-vitae_blue.svg" />][cv]
 <br/>
 
 #### Social
 <!-- 
 https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg -->
-[<img align="left" alt="rubem site" height="30" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/internet_colorful.svg" />][pepe]
-[<img align="left" alt="rubem youtube" height="30" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/youtube_colorful.svg" />][youtube]
-[<img align="left" alt="rubem instagra" height="30" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/instagram_colorful.svg" />][instagram]
-[<img align="left" alt="rubem gitlab" height="30" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/gitlab.svg" />][gitlabweb]
-[<img align="left" alt="wakatime" height="30" src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/wakatime.svg" />][wakatimeweb]
+[<img align="left" alt="rubem site" height="30" src="figs/internet_colorful.svg" />][pepe]
+[<img align="left" alt="rubem youtube" height="30" src="figs/youtube_colorful.svg" />][youtube]
+[<img align="left" alt="rubem instagra" height="30" src="figs/instagram_colorful.svg" />][instagram]
+[<img align="left" alt="rubem gitlab" height="30" src="figs/gitlab.svg" />][gitlabweb]
+[<img align="left" alt="wakatime" height="30" src="figs/wakatime.svg" />][wakatimeweb]
 <!-- all spice git -->
 <br/>
 
@@ -135,7 +135,7 @@ https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg -->
 <!-- YOUTUBE:END -->
 
 <audio id="audio_play">
-    <source src="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/tapyu.m4a" type="audio/m4a" />
+    <source src="figs/tapyu.m4a" type="audio/m4a" />
 </audio>
 
 ---
