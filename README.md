@@ -42,9 +42,9 @@ Hi there! I'm Rubem Pacelli (tapyu is my nickname only). I am really into
      <td width="350">Whenever possible, I try to embed my algorithms in FPGA's, DSP's, or specific-use microprocessors because it is fun 😄</td>
   </tr>
   <tr>
-    <td valign="top" align="center"><img height="250" width="350" src="figs/signal.gif"></td>
-    <td valign="middle" align="center"><img height="200" width="350" src="figs/MLP.gif"></td>
-    <td valign="top" align="center"><img height="250" width="350" src="figs/microprocessor.gif"></td>
+    <td valign="top" align="center"><img height="300" width="300" src="figs/signal.gif"></td>
+    <td valign="middle" align="center"><img height="300" width="375" src="figs/test.gif"></td>
+    <td valign="top" align="center"><img height="300" width="300" src="figs/microprocessor.gif"></td>
   </tr>
  </table>
 <hr>
