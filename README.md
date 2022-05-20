@@ -195,10 +195,6 @@ Hi there! I'm Rubem Pacelli (tapyu is my nickname only). I am really into
     <img src="https://activity-graph.herokuapp.com/graph?username=tapyu&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </details>
 
-### Wakatime stats
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-            
 ### Latest Youtube Video 📺
 <!-- YOUTUBE:START -->
 - [How to easily install Matlab R2021a on Linux [cracked]](https://www.youtube.com/watch?v=JwbRAFYCyuU)
@@ -215,4 +211,8 @@ Hi there! I'm Rubem Pacelli (tapyu is my nickname only). I am really into
 4. 💪 Opened PR [#391](https://github.com/rockerBOO/awesome-neovim/pull/391) in [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim)
 5. 🗣 Commented on [#109](https://github.com/goolord/alpha-nvim/issues/109) in [goolord/alpha-nvim](https://github.com/goolord/alpha-nvim)
 <!--END_SECTION:activity-->
+
+### Wakatime stats
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 <!-- ---- -->
