@@ -201,6 +201,10 @@ Hi there! I'm Rubem Pacelli (tapyu is my nickname only). I am really into
             
 ### Latest Youtube Video 📺
 <!-- YOUTUBE:START -->
+- [How to easily install Matlab R2021a on Linux [cracked]](https://www.youtube.com/watch?v=JwbRAFYCyuU)
+- [Anki+Clac: The best workflow to increase your English vocabulary](https://www.youtube.com/watch?v=9XNqNNM2AhI)
+- [All-digital AFSK modem with Viterbi detection for TT&amp;C CubeSat transceiver - Portuguese audio](https://www.youtube.com/watch?v=FN3arSivyLI)
+- [How to change the theme of MATLAB](https://www.youtube.com/watch?v=-ZjhzlEbLko)
 <!-- YOUTUBE:END -->
             
 ### Recent GitHub Activity
