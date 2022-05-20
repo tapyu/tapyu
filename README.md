@@ -49,7 +49,7 @@ Hi there! I'm Rubem Pacelli (tapyu is my nickname only). I am really into
  </table>
 <hr>
 <details>
-    <summary><h2>Experiences and abilities </h2></summary>
+    <summary><h2>Experiences and skills </h2></summary>
     <ul>
         <li> :man_technologist: 💻 Programing (or hardware description) Languages I've had contact with:
         <table>
@@ -200,5 +200,10 @@ Hi there! I'm Rubem Pacelli (tapyu is my nickname only). I am really into
     <h3>Latest Youtube Video 📺</h3>
     <!-- YOUTUBE:START -->
     <!-- YOUTUBE:END -->
+    
+    
+    <!--START_SECTION:waka-->
+    <!--END_SECTION:waka-->
+    
     <img src="https://activity-graph.herokuapp.com/graph?username=tapyu&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </details>
