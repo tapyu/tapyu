@@ -192,18 +192,30 @@ Hi there! I'm Rubem Pacelli (tapyu is my nickname only). I am really into
             <td> <img src="https://github-readme-stats-xi-six-31.vercel.app/api/top-langs/?username=tapyu&hide=jupyter%20notebook,html,stata,mathematica,standard%20ml,postscript,tex&count_private=true&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&layout=compact&border_color=61dafb&hide_border=true" /> </td>
         </tr>
     </table>
-    <!--     -->
-    <h3>Recent GitHub Activity</h3>
+    <img src="https://activity-graph.herokuapp.com/graph?username=tapyu&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+<!--     ### Recent GitHub Activity
     <!--START_SECTION:activity-->
     <!--END_SECTION:activity-->
     <!-- ---- -->
-    <h3>Latest Youtube Video 📺</h3>
+
+    ### Latest Youtube Video 📺
     <!-- YOUTUBE:START -->
     <!-- YOUTUBE:END -->
-    
-    
+
+    ### Wakatime stats
     <!--START_SECTION:waka-->
-    <!--END_SECTION:waka-->
-    
-    <img src="https://activity-graph.herokuapp.com/graph?username=tapyu&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+    <!--END_SECTION:waka--> -->
 </details>
+
+### Wakatime stats
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+            
+### Latest Youtube Video 📺
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+            
+### Recent GitHub Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+<!-- ---- -->
