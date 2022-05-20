@@ -209,4 +209,5 @@ Hi there! I'm Rubem Pacelli (tapyu is my nickname only). I am really into
     - [All-digital AFSK modem with Viterbi detection for TT&amp;C CubeSat transceiver - Portuguese audio](https://www.youtube.com/watch?v=FN3arSivyLI)
     - [How to change the theme of MATLAB](https://www.youtube.com/watch?v=-ZjhzlEbLko)
     <!-- YOUTUBE:END -->
+    <img src="https://activity-graph.herokuapp.com/graph?username=tapyu&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </details>
