@@ -39,7 +39,7 @@ Hi there! I'm Rubem Pacelli (tapyu is only my nickname). I am really into
   <tr>
     <td width="350">Statistical signal processing</td>
      <td width="350">Machine learning and neural networks (which does not differ that much from the first topic, btw)</td>
-     <td width="350">Whenever possible, I try to embed my algorithms into FPGA's, DSP's, or specific-use microprocessors because it is fun 😄</td>
+     <td width="350">Whenever possible, I try to embed my algorithms into FPGA's, DSP's, or specific-use microprocessors</td>
   </tr>
   <tr>
     <td valign="top" align="center"><img height="250" width="250" src="figs/signal.gif"></td>
