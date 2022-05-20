@@ -193,27 +193,6 @@ Hi there! I'm Rubem Pacelli (tapyu is my nickname only). I am really into
         </tr>
     </table>
     <img src="https://activity-graph.herokuapp.com/graph?username=tapyu&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-<!--     ### Recent GitHub Activity
-    <!--START_SECTION:activity-->
-1. 🗣 Commented on [#391](https://github.com/rockerBOO/awesome-neovim/issues/391) in [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim)
-2. 🗣 Commented on [#391](https://github.com/rockerBOO/awesome-neovim/issues/391) in [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim)
-3. 🗣 Commented on [#391](https://github.com/rockerBOO/awesome-neovim/issues/391) in [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim)
-4. 💪 Opened PR [#391](https://github.com/rockerBOO/awesome-neovim/pull/391) in [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim)
-5. 🗣 Commented on [#109](https://github.com/goolord/alpha-nvim/issues/109) in [goolord/alpha-nvim](https://github.com/goolord/alpha-nvim)
-    <!--END_SECTION:activity-->
-    <!-- ---- -->
-
-    ### Latest Youtube Video 📺
-    <!-- YOUTUBE:START -->
-- [How to easily install Matlab R2021a on Linux [cracked]](https://www.youtube.com/watch?v=JwbRAFYCyuU)
-- [Anki+Clac: The best workflow to increase your English vocabulary](https://www.youtube.com/watch?v=9XNqNNM2AhI)
-- [All-digital AFSK modem with Viterbi detection for TT&amp;C CubeSat transceiver - Portuguese audio](https://www.youtube.com/watch?v=FN3arSivyLI)
-- [How to change the theme of MATLAB](https://www.youtube.com/watch?v=-ZjhzlEbLko)
-<!-- YOUTUBE:END -->
-
-    ### Wakatime stats
-    <!--START_SECTION:waka-->
-    <!--END_SECTION:waka--> -->
 </details>
 
 ### Wakatime stats
