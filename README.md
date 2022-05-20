@@ -14,7 +14,7 @@ ABOUT DEPLOYING YOUR OWN VERCEL INSTANCE
 2 ->https://www.youtube.com/watch?v=n6d4KHSKqGk&t=107s
 3 -> https://github.com/tapyu/github-readme-stats/blob/master/vercel.json
 4 -> https://vercel.com/docs/cli#project-configuration
-
+5 -> https://github.com/abhisheknaiidu/awesome-github-profile-readme
 
 -->
 
@@ -24,7 +24,7 @@ ABOUT DEPLOYING YOUR OWN VERCEL INSTANCE
 </p>
 
 <h1 align="center"><code>>whoami</code> </h2>
-Hi there! I'm Rubem Pacelli (tapyu is my nickname only). I am really into
+Hi there! I'm Rubem Pacelli (tapyu is only my nickname). I am really into
 <blockquote>
     scientific programing languages
 </blockquote>
@@ -143,7 +143,7 @@ Hi there! I'm Rubem Pacelli (tapyu is my nickname only). I am really into
             <li> :us: English: Professional proficiency </li>
             <li> :fr: French: Elementary knowledge </li>
         </ul></li>
-        <li>Hobbies
+        <li>Hobbies 🎾
         <ul>
             <li> I am an entusiast of the maker culture, DIY and <a href="https://www.oshwa.org/about/">Open Source Hardware (OSH)</a> moviment. </li>
             <li> Linux ricing, and Unix shell scripts to automate everything on Linux 🐧. </li>
