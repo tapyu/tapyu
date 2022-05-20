@@ -39,13 +39,13 @@ Hi there! I'm Rubem Pacelli (tapyu is my nickname only). I am really into
 <blockquote>
     scientific programing languages
 </blockquote>
-<h2 align="center">Background</h2>
+<h1 align="center">Background</h2>
 <ul>
   <li>🎓 B.S. degree in Electronics Engineering from <a href="https://unifor.br/">Unifor</a>.</li>
   <li>🎓 M.S. degree in Teleinformatics Engineering from <a href="http://www.ufc.br/">UFC</a>.</li>
   <li>🔬 Currently working on my PhD in Teleinformatics Engineering at <a href="http://www.ufc.br/">UFC</a>.</li>
 </ul>
-<h2 align="center">Research interests</h2>
+<h1 align="center">Research interests</h2>
 <table>
   <tr>
     <td width="350">Statistical signal processing</td>
@@ -60,125 +60,121 @@ Hi there! I'm Rubem Pacelli (tapyu is my nickname only). I am really into
  </table>
 <hr>
 <details>
-    <summary><b> Experiences and abilities </b></summary>
-       👨‍💻💻 Programing (or hardware description) Languages I've had contact with:
-    <br>
-    <table>
-        <td align="center" width="96">
-            <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
-                <img alt="c" width="35px" src="figs/c_colorful.svg" />
-            </a>
-            <br>C
-        </td>
-        <td align="center" width="96">
-            <a href="https://en.wikipedia.org/wiki/C%2B%2B">
-                <img alt="cpp" width="35px" src="figs/cpp_colorful.svg" />
-            </a>
-            <br>C++
-        </td>
-        <td align="center" width="96">
-            <a href="https://en.wikipedia.org/wiki/Java_(programming_language)">
-                <img alt="java" width="35px" src="figs/java_colorful.svg" />
-            </a>
-            <br>Java
-        </td>
-        <td align="center" width="96">
-            <a href="https://www.python.org/">
-                <img alt="python" width="35px" src="figs/python_colorful.svg" />
-            </a>
-            <br>Python
-        </td>
-        <td align="center" width="96">
-            <a href="https://en.wikipedia.org/wiki/Shell_script">
-                <img alt="Unix shell scripting" width="35px" src="figs/utilities-x-terminal.svg"/>
-            </a>
-            <br>Shell scripting
-        </td>
-        <td align="center" width="96">
-            <a href="https://en.wikipedia.org/wiki/Assembly_language">
-                <img alt="assembly" width="35px" src="figs/assembly.png" />
-            </a>
-            <br>Assembly
-        </td>
-        <td align="center" width="96">
-            <a href="https://en.wikipedia.org/wiki/VHDL">
-                <img alt="VHDL" width="35px" src="figs/VHDL.jfif" />
-            </a>
-            <br>VHDL
-        </td>
-        <td align="center" width="96">
-            <a href="https://www.mathworks.com/products/matlab.html">
-                <img alt="matlab" width="35px" src="figs/icons8-matlab.svg" />
-            </a>
-            <br>Matlab
-        </td>
-    </table>
-    <br>
-    Tools 🛠
-    <br>
-    <table>
-        <tr>
-          <td align="center" width="96">
-              <a href="https://www.vim.org/">
-                  <img alt="vim" height="40" src="figs/neovim.svg" />
-              </a>
-              <br>Neovim
-          </td>
-          <td align="center" width="96">
-              <a href="https://code.visualstudio.com/">
-                  <img alt="visual studio code" height="40" src="figs/vscode_colorful.svg" />
-              </a>
-              <br>vscode
-          </td>
-          <td align="center" width="96">
-              <a href="https://www.linux.org/">
-                  <img alt="linux" height="40" src="figs/linux_colorful.svg"  />
-              </a>
-              <br>Linux
-          </td>
-          <td align="center" width="96">
-              <a href="https://www.latex-project.org/">
-                  <img alt="latex" height="40" src="figs/icons8-latex.svg" />
-              </a>
-              <br>Latex
-          </td>
-          <td align="center" width="96">
-              <a href="https://git-scm.com/">
-                  <img alt="git" height="40" src="figs/git.svg" />
-              </a>
-              <br>Git
-          </td>
-        </tr>
-    </table>
-    <br>
-    Natural Languages 👅
+    <summary><h2>Experiences and abilities </h2></summary>
     <ul>
-        <li> :brazil: Portuguese: Native speaker </li>
-        <li> :us: English: Professional proficiency </li>
-        <li> :fr: French: Elementary knowledge </li>
+        <li> :man_technologist: 💻 Programing (or hardware description) Languages I've had contact with:
+        <table>
+            <td align="center" width="96">
+                <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
+                    <img alt="c" width="35px" src="figs/c_colorful.svg" />
+                </a>
+                <br>C
+            </td>
+            <td align="center" width="96">
+                <a href="https://en.wikipedia.org/wiki/C%2B%2B">
+                    <img alt="cpp" width="35px" src="figs/cpp_colorful.svg" />
+                </a>
+                <br>C++
+            </td>
+            <td align="center" width="96">
+                <a href="https://en.wikipedia.org/wiki/Java_(programming_language)">
+                    <img alt="java" width="35px" src="figs/java_colorful.svg" />
+                </a>
+                <br>Java
+            </td>
+            <td align="center" width="96">
+                <a href="https://www.python.org/">
+                    <img alt="python" width="35px" src="figs/python_colorful.svg" />
+                </a>
+                <br>Python
+            </td>
+            <td align="center" width="96">
+                <a href="https://en.wikipedia.org/wiki/Shell_script">
+                    <img alt="Unix shell scripting" width="35px" src="figs/utilities-x-terminal.svg"/>
+                </a>
+                <br>Shell scripting
+            </td>
+            <td align="center" width="96">
+                <a href="https://en.wikipedia.org/wiki/Assembly_language">
+                    <img alt="assembly" width="35px" src="figs/assembly.png" />
+                </a>
+                <br>Assembly
+            </td>
+            <td align="center" width="96">
+                <a href="https://en.wikipedia.org/wiki/VHDL">
+                    <img alt="VHDL" width="35px" src="figs/VHDL.jfif" />
+                </a>
+                <br>VHDL
+            </td>
+            <td align="center" width="96">
+                <a href="https://www.mathworks.com/products/matlab.html">
+                    <img alt="matlab" width="35px" src="figs/icons8-matlab.svg" />
+                </a>
+                <br>Matlab
+            </td>
+        </table></li>
+        <li>Tools 🛠
+        <table>
+            <tr>
+              <td align="center" width="96">
+                  <a href="https://www.vim.org/">
+                      <img alt="vim" height="40" src="figs/neovim.svg" />
+                  </a>
+                  <br>Neovim
+              </td>
+              <td align="center" width="96">
+                  <a href="https://code.visualstudio.com/">
+                      <img alt="visual studio code" height="40" src="figs/vscode_colorful.svg" />
+                  </a>
+                  <br>vscode
+              </td>
+              <td align="center" width="96">
+                  <a href="https://www.linux.org/">
+                      <img alt="linux" height="40" src="figs/linux_colorful.svg"  />
+                  </a>
+                  <br>Linux
+              </td>
+              <td align="center" width="96">
+                  <a href="https://www.latex-project.org/">
+                      <img alt="latex" height="40" src="figs/icons8-latex.svg" />
+                  </a>
+                  <br>Latex
+              </td>
+              <td align="center" width="96">
+                  <a href="https://git-scm.com/">
+                      <img alt="git" height="40" src="figs/git.svg" />
+                  </a>
+                  <br>Git
+              </td>
+            </tr>
+        </table></li>
+        <li>Natural Languages 👅
+        <ul>
+            <li> :brazil: Portuguese: Native speaker </li>
+            <li> :us: English: Professional proficiency </li>
+            <li> :fr: French: Elementary knowledge </li>
+        </ul></li>
+        <li>Hobbies
+        <ul>
+            <li> I am an entusiast of the maker culture, DIY and <a href="https://www.oshwa.org/about/">Open Source Hardware (OSH)</a> moviment. </li>
+            <li> Linux ricing, and Unix shell scripts to automate everything on Linux 🐧. </li>
+        </ul></li>
     </ul>
-    <br>
-    Hobbies
-    <br>
-    <ul>
-        <li> I am an entusiast of the maker culture, DIY and <a href="https://www.oshwa.org/about/">Open Source Hardware (OSH)</a> moviment. </li>
-        <li> Linux ricing, and Unix shell scripts to automatize everything on Linux 🐧. </li>
 </details>
 <br>
 
+<details>
+    <summary><h2>Contacts</h2></summary>
+    <h2>Professional</h2>
+    [<img align="left" alt="rubem email" height="25" width="32px" src="figs/email_blue.svg" />][email]
+    [<img align="left" alt="rubem lattes" height="30" src="figs/lattes.png" />][lattes]
+    [<img align="left" alt="rubem scholar" height="30" src="figs/google_schola_colorful.svg" />][scholar]
+    [<img align="left" alt="rubem linkedin" height="30" src="figs/linkedin_colorful.svg" />][linkedin]
+    [<img align="left" alt="rubem orcid" height="30" src="figs/orcid.svg" />][orcid]
+    [<img align="left" alt="rubem cv" height="30" src="figs/curriculum-vitae_blue.svg" />][cv]
+</details>
 
-<!-- --- -->
-# Contacts
-
-#### Professional
-
-[<img align="left" alt="rubem email" height="25" width="32px" src="figs/email_blue.svg" />][email]
-[<img align="left" alt="rubem lattes" height="30" src="figs/lattes.png" />][lattes]
-[<img align="left" alt="rubem scholar" height="30" src="figs/google_schola_colorful.svg" />][scholar]
-[<img align="left" alt="rubem linkedin" height="30" src="figs/linkedin_colorful.svg" />][linkedin]
-[<img align="left" alt="rubem orcid" height="30" src="figs/orcid.svg" />][orcid]
-[<img align="left" alt="rubem cv" height="30" src="figs/curriculum-vitae_blue.svg" />][cv]
-<br/>
+<br>
 
 #### Social
 <!-- 
