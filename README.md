@@ -1,17 +1,6 @@
 <!--
 **tapyu/tapyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
 That is what I'm using to make the this Markdown:
 
 - Shelds.io: https://github.com/badges/shields
@@ -66,49 +55,49 @@ Hi there! I'm Rubem Pacelli (tapyu is my nickname only). I am really into
         <table>
             <td align="center" width="96">
                 <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
-                    <img alt="c" width="35px" src="figs/c_colorful.svg" />
+                    <img alt="c" height="40" src="figs/c_colorful.svg" />
                 </a>
                 <br>C
             </td>
             <td align="center" width="96">
                 <a href="https://en.wikipedia.org/wiki/C%2B%2B">
-                    <img alt="cpp" width="35px" src="figs/cpp_colorful.svg" />
+                    <img alt="cpp" height="40" src="figs/cpp_colorful.svg" />
                 </a>
                 <br>C++
             </td>
             <td align="center" width="96">
                 <a href="https://en.wikipedia.org/wiki/Java_(programming_language)">
-                    <img alt="java" width="35px" src="figs/java_colorful.svg" />
+                    <img alt="java" height="40" src="figs/java_colorful.svg" />
                 </a>
                 <br>Java
             </td>
             <td align="center" width="96">
                 <a href="https://www.python.org/">
-                    <img alt="python" width="35px" src="figs/python_colorful.svg" />
+                    <img alt="python" height="40" src="figs/python_colorful.svg" />
                 </a>
                 <br>Python
             </td>
             <td align="center" width="96">
                 <a href="https://en.wikipedia.org/wiki/Shell_script">
-                    <img alt="Unix shell scripting" width="35px" src="figs/utilities-x-terminal.svg"/>
+                    <img alt="Unix shell scripting" height="40" src="figs/utilities-x-terminal.svg"/>
                 </a>
                 <br>Shell scripting
             </td>
             <td align="center" width="96">
                 <a href="https://en.wikipedia.org/wiki/Assembly_language">
-                    <img alt="assembly" width="35px" src="figs/assembly.png" />
+                    <img alt="assembly" height="40" src="figs/assembly.png" />
                 </a>
                 <br>Assembly
             </td>
             <td align="center" width="96">
                 <a href="https://en.wikipedia.org/wiki/VHDL">
-                    <img alt="VHDL" width="35px" src="figs/VHDL.jfif" />
+                    <img alt="VHDL" height="40" src="figs/VHDL.jfif" />
                 </a>
                 <br>VHDL
             </td>
             <td align="center" width="96">
                 <a href="https://www.mathworks.com/products/matlab.html">
-                    <img alt="matlab" width="35px" src="figs/icons8-matlab.svg" />
+                    <img alt="matlab" height="40" src="figs/icons8-matlab.svg" />
                 </a>
                 <br>Matlab
             </td>
@@ -117,8 +106,8 @@ Hi there! I'm Rubem Pacelli (tapyu is my nickname only). I am really into
         <table>
             <tr>
               <td align="center" width="96">
-                  <a href="https://www.vim.org/">
-                      <img alt="vim" height="40" src="figs/neovim.svg" />
+                  <a href="https://neovim.io/">
+                      <img alt="neovim" height="40" src="figs/neovim.svg" />
                   </a>
                   <br>Neovim
               </td>
@@ -161,77 +150,63 @@ Hi there! I'm Rubem Pacelli (tapyu is my nickname only). I am really into
         </ul></li>
     </ul>
 </details>
-<br>
-
 <details>
     <summary><h2>Contacts</h2></summary>
-    <h2>Professional</h2>
-    [<img align="left" alt="rubem email" height="25" width="32px" src="figs/email_blue.svg" />][email]
-    [<img align="left" alt="rubem lattes" height="30" src="figs/lattes.png" />][lattes]
-    [<img align="left" alt="rubem scholar" height="30" src="figs/google_schola_colorful.svg" />][scholar]
-    [<img align="left" alt="rubem linkedin" height="30" src="figs/linkedin_colorful.svg" />][linkedin]
-    [<img align="left" alt="rubem orcid" height="30" src="figs/orcid.svg" />][orcid]
-    [<img align="left" alt="rubem cv" height="30" src="figs/curriculum-vitae_blue.svg" />][cv]
+    <h3>Professional</h3>
+    <ul>
+        <li><a href="mailto:rubem.engenharia@gmail.com">
+            <img align="left" alt="rubem email" height="25" width="32px" src="figs/email_blue.svg" /></li>
+        <li><a href="http://lattes.cnpq.br/0717252455115225">
+            <img align="left" alt="rubem lattes" height="30" src="figs/lattes.png" /></li>
+        <li><a href="https://scholar.google.com.br/citations?user=Kj6Gzs4AAAAJ&hl=pt-BR&oi=sra">
+            <img align="left" alt="rubem scholar" height="30" src="figs/google_schola_colorful.svg" /></li>
+        <li><a href="https://www.linkedin.com/in/rubem-pacelli/">
+            <img align="left" alt="rubem linkedin" height="30" src="figs/linkedin_colorful.svg" /></li>
+        <li><a href="https://orcid.org/0000-0001-5933-8565">
+            <img align="left" alt="rubem orcid" height="30" src="figs/orcid.svg" /></li>
+        <li><a href="https://github.com/tapyu/tapyu/blob/master/cv/Latex/cv.pdf">
+            <img align="left" alt="rubem cv" height="30" src="figs/curriculum-vitae_blue.svg" /></li>
+    </ul>
+    <br>
+    <h3>Social</h3>
+    <ul>
+        <li><a href="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/pepe.jpg">
+            <img align="left" alt="rubem site" height="30" src="figs/internet_colorful.svg" />
+        <li><a href="https://www.youtube.com/channel/UCn1nfBWKVmvPvTsAH5Agf6Q">
+            <img align="left" alt="rubem youtube" height="30" src="figs/youtube_colorful.svg" />
+        <li><a href="https://www.instagram.com/rubempacelli/">
+            <img align="left" alt="rubem instagra" height="30" src="figs/instagram_colorful.svg" />
+        <li><a href="https://gitlab.com/tapyu">
+            <img align="left" alt="rubem gitlab" height="30" src="figs/gitlab.svg" />
+        <li><a href="https://wakatime.com/@24ca7482-495c-4cc3-bd12-e60bd547d672">
+            <img align="left" alt="wakatime" height="30" src="figs/wakatime.svg" />
+    </ul>
+    <br>
 </details>
-
-<br>
-
-#### Social
-<!-- 
-https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg -->
-[<img align="left" alt="rubem site" height="30" src="figs/internet_colorful.svg" />][pepe]
-[<img align="left" alt="rubem youtube" height="30" src="figs/youtube_colorful.svg" />][youtube]
-[<img align="left" alt="rubem instagra" height="30" src="figs/instagram_colorful.svg" />][instagram]
-[<img align="left" alt="rubem gitlab" height="30" src="figs/gitlab.svg" />][gitlabweb]
-[<img align="left" alt="wakatime" height="30" src="figs/wakatime.svg" />][wakatimeweb]
-<!-- all spice git -->
-<br/>
-
-<!-- --- -->
-# GitHub Performance
-<!-- Put it only when the graph make sense! -->
-| ![GitHub Stats](https://github-readme-stats-xi-six-31.vercel.app/api?username=tapyu&show_icons=true&count_private=true&hide_title=true&theme=tokyonight&hide_border=1&line_height=33) | ![Most Used Languages](https://github-readme-stats-xi-six-31.vercel.app/api/top-langs/?username=tapyu&hide=jupyter%20notebook,html,stata,mathematica,standard%20ml,postscript,tex&layout=compact&theme=tokyonight&hide_border=1&langs_count=10&count_private=true) |
-|:-----:|:-----:|
-
-
-
-### Recent GitHub Activity
+<details>
+    <summary><h2>Some nice statistics</h2></summary>
+    <h3>GitHub Performance</h3>
+    <table>
+        <tr>
+            <td> <img src="https://github-readme-stats-xi-six-31.vercel.app/api?username=tapyu&show_icons=true&count_private=true&hide_title=true&theme=tokyonight&hide_border=1&line_height=33" /> </td>
+            <td> <img src="https://github-readme-stats-xi-six-31.vercel.app/api/top-langs/?username=tapyu&hide=jupyter%20notebook,html,stata,mathematica,standard%20ml,postscript,tex&layout=compact&theme=tokyonight&hide_border=1&langs_count=10&count_private=true" /> </td>
+        </tr>
+    </table>
+    <!--     -->
+    ### Recent GitHub Activity
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#391](https://github.com/rockerBOO/awesome-neovim/issues/391) in [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim)
-2. 🗣 Commented on [#391](https://github.com/rockerBOO/awesome-neovim/issues/391) in [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim)
-3. 🗣 Commented on [#391](https://github.com/rockerBOO/awesome-neovim/issues/391) in [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim)
-4. 💪 Opened PR [#391](https://github.com/rockerBOO/awesome-neovim/pull/391) in [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim)
-5. 🗣 Commented on [#109](https://github.com/goolord/alpha-nvim/issues/109) in [goolord/alpha-nvim](https://github.com/goolord/alpha-nvim)
-<!--END_SECTION:activity-->
-
-<!-- ---- -->
-# Latest Youtube Video 📺
-<!-- YOUTUBE:START -->
-- [How to easily install Matlab R2021a on Linux [cracked]](https://www.youtube.com/watch?v=JwbRAFYCyuU)
-- [Anki+Clac: The best workflow to increase your English vocabulary](https://www.youtube.com/watch?v=9XNqNNM2AhI)
-- [All-digital AFSK modem with Viterbi detection for TT&amp;C CubeSat transceiver - Portuguese audio](https://www.youtube.com/watch?v=FN3arSivyLI)
-- [How to change the theme of MATLAB](https://www.youtube.com/watch?v=-ZjhzlEbLko)
-<!-- YOUTUBE:END -->
-
-<audio id="audio_play">
-    <source src="figs/tapyu.m4a" type="audio/m4a" />
-</audio>
-
----
-
-[email]: mailto:rubem.engenharia@gmail.com
-[lattes]: http://lattes.cnpq.br/0717252455115225
-[scholar]: https://scholar.google.com.br/citations?user=Kj6Gzs4AAAAJ&hl=pt-BR&oi=sra
-[linkedin]: https://www.linkedin.com/in/rubem-pacelli/
-[orcid]: https://orcid.org/0000-0001-5933-8565
-[cv]: https://github.com/tapyu/tapyu/blob/master/cv/Latex/cv.pdf
-[pepe]: https://raw.githubusercontent.com/tapyu/tapyu/master/figs/pepe.jpg
-[youtube]: https://www.youtube.com/channel/UCn1nfBWKVmvPvTsAH5Agf6Q
-[instagram]: https://www.instagram.com/rubempacelli/
-[unix shell script web]: https://en.wikipedia.org/wiki/Shell_script
-[gitlabweb]: https://gitlab.com/tapyu
-[wakatimeweb]: https://wakatime.com/@24ca7482-495c-4cc3-bd12-e60bd547d672
-
-<!-- old GitHub Stats and Top Langs -->
-<!-- <img align="center" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-xi-six-31.vercel.app/api?username=tapyu&show_icons=true&count_private=true&theme=tokyonight" />
-[![Top Langs](https://github-readme-stats-xi-six-31.vercel.app/api/top-langs/?username=tapyu&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+    1. 🗣 Commented on [#391](https://github.com/rockerBOO/awesome-neovim/issues/391) in [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim)
+    2. 🗣 Commented on [#391](https://github.com/rockerBOO/awesome-neovim/issues/391) in [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim)
+    3. 🗣 Commented on [#391](https://github.com/rockerBOO/awesome-neovim/issues/391) in [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim)
+    4. 💪 Opened PR [#391](https://github.com/rockerBOO/awesome-neovim/pull/391) in [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim)
+    5. 🗣 Commented on [#109](https://github.com/goolord/alpha-nvim/issues/109) in [goolord/alpha-nvim](https://github.com/goolord/alpha-nvim)
+    <!--END_SECTION:activity-->
+    <!-- ---- -->
+    ### Latest Youtube Video 📺
+    <!-- YOUTUBE:START -->
+    - [How to easily install Matlab R2021a on Linux [cracked]](https://www.youtube.com/watch?v=JwbRAFYCyuU)
+    - [Anki+Clac: The best workflow to increase your English vocabulary](https://www.youtube.com/watch?v=9XNqNNM2AhI)
+    - [All-digital AFSK modem with Viterbi detection for TT&amp;C CubeSat transceiver - Portuguese audio](https://www.youtube.com/watch?v=FN3arSivyLI)
+    - [How to change the theme of MATLAB](https://www.youtube.com/watch?v=-ZjhzlEbLko)
+    <!-- YOUTUBE:END -->
+</details>
