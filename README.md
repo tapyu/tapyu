@@ -147,6 +147,7 @@ Hi there! I'm Rubem Pacelli (tapyu is only my nickname). I am really into
         <ul>
             <li> I am an entusiast of the maker culture, DIY and <a href="https://www.oshwa.org/about/">Open Source Hardware (OSH)</a> moviment. </li>
             <li> Linux ricing, and Unix shell scripts to automate everything on Linux 🐧. </li>
+            <li> Gym and having a real life 🙃 🏋️ </li>
         </ul></li>
     </ul>
 </details>
