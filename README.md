@@ -188,8 +188,8 @@ Hi there! I'm Rubem Pacelli (tapyu is my nickname only). I am really into
     <h3>GitHub Performance</h3>
     <table>
         <tr>
-            <td> <img src="https://github-readme-stats-xi-six-31.vercel.app/api?username=tapyu&show_icons=true&count_private=true&hide_title=true&theme=tokyonight&hide_border=1&line_height=33" /> </td>
-            <td> <img src="https://github-readme-stats-xi-six-31.vercel.app/api/top-langs/?username=tapyu&hide=jupyter%20notebook,html,stata,mathematica,standard%20ml,postscript,tex&layout=compact&theme=tokyonight&hide_border=1&langs_count=10&count_private=true" /> </td>
+            <td> <img src="https://github-readme-stats-xi-six-31.vercel.app/api?username=tapyu&show_icons=true&count_private=true&hide_title=true&line_height=33&theme=react&border=61dafb&hide_border=true" /> </td>
+            <td> <img src="https://github-readme-stats-xi-six-31.vercel.app/api/top-langs/?username=tapyu&hide=jupyter%20notebook,html,stata,mathematica,standard%20ml,postscript,tex&count_private=true&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&layout=compact&border_color=61dafb&hide_border=true" /> </td>
         </tr>
     </table>
     <!--     -->
