@@ -102,7 +102,7 @@ Hi there! I'm Rubem Pacelli (tapyu is only my nickname). I am really into
                 <br>Matlab
             </td>
         </table></li>
-        <li>Tools 🛠
+        <li> 🛠 Tools
         <table>
             <tr>
               <td align="center" width="96">
@@ -137,13 +137,13 @@ Hi there! I'm Rubem Pacelli (tapyu is only my nickname). I am really into
               </td>
             </tr>
         </table></li>
-        <li>Natural Languages 👅
+        <li> 👅 Natural Languages
         <ul>
             <li> :brazil: Portuguese: Native speaker </li>
             <li> :us: English: Professional proficiency </li>
             <li> :fr: French: Elementary knowledge </li>
         </ul></li>
-        <li>Hobbies 🎾
+        <li> 🎾 Hobbies
         <ul>
             <li> I am an entusiast of the maker culture, DIY and <a href="https://www.oshwa.org/about/">Open Source Hardware (OSH)</a> moviment. </li>
             <li> Linux ricing, and Unix shell scripts to automate everything on Linux 🐧. </li>
