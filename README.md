@@ -197,13 +197,13 @@ Hi there! I'm Rubem Pacelli (tapyu is only my nickname). I am really into
 
 ### Wakatime stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-118%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-119%20hrs%2018%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 283 Contributions in the Year 2022
  > 
-> 📦 727.6 kB Used in GitHub's Storage 
+> 📦 742.7 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -261,7 +261,7 @@ Linux                    3 hrs 30 mins       ███████████�
 ```
 
 
- Last Updated on 24/05/2022 18:50:28 UTC
+ Last Updated on 25/05/2022 18:48:28 UTC
 <!--END_SECTION:waka-->
 
 ### Recent GitHub Activity
