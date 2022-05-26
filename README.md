@@ -223,6 +223,7 @@ Hi there! I'm Rubem Pacelli (tapyu is only my nickname). I am really into
 </details>
 <details>
     <summary><h2>Some nice statistics</h2></summary>
+    <ul>
     <h3>GitHub Performance</h3>
     <table>
         <tr>
@@ -317,4 +318,5 @@ Linux                    3 hrs 30 mins       ███████████�
 - [All-digital AFSK modem with Viterbi detection for TT&amp;C CubeSat transceiver - Portuguese audio](https://www.youtube.com/watch?v=FN3arSivyLI)
 - [How to change the theme of MATLAB](https://www.youtube.com/watch?v=-ZjhzlEbLko)
 <!-- YOUTUBE:END -->
+</ul>
 </details>
