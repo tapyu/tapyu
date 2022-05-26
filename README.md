@@ -106,12 +106,6 @@ Hi there! I'm Rubem Pacelli (tapyu is only my nickname). I am really into
         <table>
             <tr>
               <td align="center" width="96">
-                  <a href="https://neovim.io/">
-                      <img alt="neovim" height="40" src="figs/neovim.svg" />
-                  </a>
-                  <br>Neovim
-              </td>
-              <td align="center" width="96">
                   <a href="https://code.visualstudio.com/">
                       <img alt="visual studio code" height="40" src="figs/vscode_colorful.svg" />
                   </a>
@@ -128,6 +122,12 @@ Hi there! I'm Rubem Pacelli (tapyu is only my nickname). I am really into
                       <img alt="latex" height="40" src="figs/icons8-latex.svg" />
                   </a>
                   <br>Latex
+              </td>
+              <td align="center" width="96">
+                  <a href="https://neovim.io/">
+                      <img alt="neovim" height="40" src="figs/neovim.svg" />
+                  </a>
+                  <br>Neovim
               </td>
               <td align="center" width="96">
                   <a href="https://git-scm.com/">
@@ -153,34 +153,67 @@ Hi there! I'm Rubem Pacelli (tapyu is only my nickname). I am really into
 </details>
 <details>
     <summary><h2>Contacts</h2></summary>
-    <h3>Professional</h3>
     <ul>
-        <li><a href="mailto:rubem.engenharia@gmail.com">
-            <img align="left" alt="rubem email" height="25" width="32px" src="figs/email_blue.svg" /></li>
-        <li><a href="http://lattes.cnpq.br/0717252455115225">
-            <img align="left" alt="rubem lattes" height="30" src="figs/lattes.png" /></li>
-        <li><a href="https://scholar.google.com.br/citations?user=Kj6Gzs4AAAAJ&hl=pt-BR&oi=sra">
-            <img align="left" alt="rubem scholar" height="30" src="figs/google_schola_colorful.svg" /></li>
-        <li><a href="https://www.linkedin.com/in/rubem-pacelli/">
-            <img align="left" alt="rubem linkedin" height="30" src="figs/linkedin_colorful.svg" /></li>
-        <li><a href="https://orcid.org/0000-0001-5933-8565">
-            <img align="left" alt="rubem orcid" height="30" src="figs/orcid.svg" /></li>
-        <li><a href="https://github.com/tapyu/tapyu/blob/master/cv/Latex/cv.pdf">
-            <img align="left" alt="rubem cv" height="30" src="figs/curriculum-vitae_blue.svg" /></li>
-    </ul>
-    <br>
-    <h3>Social</h3>
-    <ul>
-        <li><a href="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/pepe.jpg">
-            <img align="left" alt="rubem site" height="30" src="figs/internet_colorful.svg" />
-        <li><a href="https://www.youtube.com/channel/UCn1nfBWKVmvPvTsAH5Agf6Q">
-            <img align="left" alt="rubem youtube" height="30" src="figs/youtube_colorful.svg" />
-        <li><a href="https://www.instagram.com/rubempacelli/">
-            <img align="left" alt="rubem instagra" height="30" src="figs/instagram_colorful.svg" />
-        <li><a href="https://gitlab.com/tapyu">
-            <img align="left" alt="rubem gitlab" height="30" src="figs/gitlab.svg" />
-        <li><a href="https://wakatime.com/@24ca7482-495c-4cc3-bd12-e60bd547d672">
-            <img align="left" alt="wakatime" height="30" src="figs/wakatime.svg" />
+      <li><h3>Professional</h3>
+      <table>
+          <tr>
+            <td align="center" width="70">
+                <a href="mailto:rubem.engenharia@gmail.com">
+                    <img align="left" alt="rubem email" height="25" width="32px" src="figs/email_blue.svg" />
+                </a>
+            </td>
+            <td align="center" width="70">
+                <a href="http://lattes.cnpq.br/0717252455115225">
+                    <img align="left" alt="rubem lattes" height="30" src="figs/lattes.png" />
+                </a>
+            </td>
+            <td align="center" width="70">
+                <a href="https://scholar.google.com.br/citations?user=Kj6Gzs4AAAAJ&hl=pt-BR&oi=sra">
+                    <img align="left" alt="rubem scholar" height="30" src="figs/google_schola_colorful.svg" />
+                </a>
+            </td>
+            <td align="center" width="70">
+                <a href="https://www.linkedin.com/in/rubem-pacelli/">
+                    <img align="left" alt="rubem linkedin" height="30" src="figs/linkedin_colorful.svg" />
+                </a>
+            </td>
+            <td align="center" width="70">
+                <a href="https://orcid.org/0000-0001-5933-8565">
+                    <img align="left" alt="rubem orcid" height="30" src="figs/orcid.svg" />
+                </a>
+            </td>
+            <td align="center" width="70">
+                <a href="https://github.com/tapyu/tapyu/blob/master/cv/Latex/cv.pdf">
+                    <img align="left" alt="rubem cv" height="30" src="figs/curriculum-vitae_blue.svg" />
+                </a>
+            </td>
+          </tr>
+      </table></li>
+      <li><h3>Social</h3>
+      <table>
+          <tr>
+          <td align="center" width="70">
+              <a href="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/pepe.jpg">
+                  <img align="left" alt="rubem site" height="30" src="figs/internet_colorful.svg" />
+              </a>
+          <td align="center" width="70">
+              <a href="https://www.youtube.com/channel/UCn1nfBWKVmvPvTsAH5Agf6Q">
+                  <img align="left" alt="rubem youtube" height="30" src="figs/youtube_colorful.svg" />
+              </a>
+          <td align="center" width="70">
+              <a href="https://www.instagram.com/rubempacelli/">
+                  <img align="left" alt="rubem instagra" height="30" src="figs/instagram_colorful.svg" />
+              </a>
+          <td align="center" width="70">
+              <a href="https://gitlab.com/tapyu">
+                  <img align="left" alt="rubem gitlab" height="30" src="figs/gitlab.svg" />
+              </a>
+          <td align="center" width="70">
+              <a href="https://wakatime.com/@24ca7482-495c-4cc3-bd12-e60bd547d672">
+                  <img align="left" alt="wakatime" height="30" src="figs/wakatime.svg" />
+              </a>
+          </tr>
+      </table></li>
     </ul>
     <br>
 </details>
