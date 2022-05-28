@@ -303,9 +303,9 @@ Linux                    3 hrs 47 mins       ███████████�
 
 ### Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#823](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/823) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
-2. 🗣 Commented on [#208](https://github.com/anmol098/waka-readme-stats/issues/208) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
-3. 🗣 Commented on [#391](https://github.com/rockerBOO/awesome-neovim/issues/391) in [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim)
+1. ❗️ Opened issue [#635](https://github.com/Igglybuff/awesome-piracy/issues/635) in [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy)
+2. 💪 Opened PR [#823](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/823) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
+3. 🗣 Commented on [#208](https://github.com/anmol098/waka-readme-stats/issues/208) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
 4. 🗣 Commented on [#391](https://github.com/rockerBOO/awesome-neovim/issues/391) in [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim)
 5. 🗣 Commented on [#391](https://github.com/rockerBOO/awesome-neovim/issues/391) in [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim)
 <!--END_SECTION:activity-->
