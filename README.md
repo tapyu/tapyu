@@ -53,54 +53,70 @@ Hi there! I'm Rubem Pacelli (tapyu is only my nickname). I am really into
     <ul>
         <li> :man_technologist: 💻 Programing (or hardware description) Languages I've had contact with:
         <table>
-            <td align="center" width="96">
-                <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
-                    <img alt="c" height="40" src="figs/c_colorful.svg" />
-                </a>
-                <br>C
-            </td>
-            <td align="center" width="96">
-                <a href="https://en.wikipedia.org/wiki/C%2B%2B">
-                    <img alt="cpp" height="40" src="figs/cpp_colorful.svg" />
-                </a>
-                <br>C++
-            </td>
-            <td align="center" width="96">
-                <a href="https://en.wikipedia.org/wiki/Java_(programming_language)">
-                    <img alt="java" height="40" src="figs/java_colorful.svg" />
-                </a>
-                <br>Java
-            </td>
-            <td align="center" width="96">
-                <a href="https://www.python.org/">
-                    <img alt="python" height="40" src="figs/python_colorful.svg" />
-                </a>
-                <br>Python
-            </td>
-            <td align="center" width="96">
-                <a href="https://en.wikipedia.org/wiki/Shell_script">
-                    <img alt="Unix shell scripting" height="40" src="figs/utilities-x-terminal.svg"/>
-                </a>
-                <br>Shell scripting
-            </td>
-            <td align="center" width="96">
-                <a href="https://en.wikipedia.org/wiki/Assembly_language">
-                    <img alt="assembly" height="40" src="figs/assembly.png" />
-                </a>
-                <br>Assembly
-            </td>
-            <td align="center" width="96">
-                <a href="https://en.wikipedia.org/wiki/VHDL">
-                    <img alt="VHDL" height="40" src="figs/VHDL.jfif" />
-                </a>
-                <br>VHDL
-            </td>
-            <td align="center" width="96">
-                <a href="https://www.mathworks.com/products/matlab.html">
-                    <img alt="matlab" height="40" src="figs/icons8-matlab.svg" />
-                </a>
-                <br>Matlab
-            </td>
+            <tr>
+                <td align="center" width="96">
+                    <a href="https://www.python.org/">
+                        <img alt="python" height="40" src="figs/python_colorful.svg" />
+                    </a>
+                    <br>Python
+                </td>
+                <td align="center" width="96">
+                    <a href="https://julialang.org/">
+                        <img alt="Julia programming language" height="40" src="figs/julia.svg"/>
+                    </a>
+                    <br>Julia
+                </td>
+                <td align="center" width="96">
+                    <a href="https://www.r-project.org/">
+                        <img alt="R programming language" height="40" src="figs/r_colorful.svg"/>
+                    </a>
+                    <br>R
+                </td>
+                <td align="center" width="96">
+                    <a href="https://www.mathworks.com/products/matlab.html">
+                        <img alt="matlab" height="40" src="figs/icons8-matlab.svg" />
+                    </a>
+                    <br>Matlab
+                </td>
+                <td align="center" width="96">
+                    <a href="https://en.wikipedia.org/wiki/Shell_script">
+                        <img alt="Unix shell scripting" height="40" src="figs/utilities-x-terminal.svg"/>
+                    </a>
+                    <br>Shell scripting
+                </td>
+            </tr>
+            <tr>
+                <td align="center" width="96">
+                    <a href="https://en.wikipedia.org/wiki/VHDL">
+                        <img alt="VHDL" height="40" src="figs/VHDL.jfif" />
+                    </a>
+                    <br>VHDL
+                </td>
+                <td align="center" width="96">
+                    <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
+                        <img alt="c" height="40" src="figs/c_colorful.svg" />
+                    </a>
+                    <br>C
+                </td>
+                <td align="center" width="96">
+                    <a href="https://en.wikipedia.org/wiki/C%2B%2B">
+                        <img alt="cpp" height="40" src="figs/cpp_colorful.svg" />
+                    </a>
+                    <br>C++
+                </td>
+                <td align="center" width="96">
+                    <a href="https://en.wikipedia.org/wiki/Java_(programming_language)">
+                        <img alt="java" height="40" src="figs/java_colorful.svg" />
+                    </a>
+                    <br>Java
+                </td>
+                <td align="center" width="96">
+                    <a href="https://en.wikipedia.org/wiki/Assembly_language">
+                        <img alt="assembly" height="40" src="figs/assembly.png" />
+                    </a>
+                    <br>Assembly
+                </td>
+            </tr>
         </table></li>
         <li> 🛠 Tools
         <table>
