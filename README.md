@@ -257,7 +257,7 @@ Hi there! I'm Rubem Pacelli (tapyu is only my nickname). I am really into
 
 > 🏆 295 Contributions in the Year 2022
  > 
-> 📦 773.4 kB Used in GitHub's Storage 
+> 📦 773.3 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -313,7 +313,7 @@ Linux                    18 hrs 8 mins       ███████████�
 ```
 
 
- Last Updated on 31/05/2022 18:49:03 UTC
+ Last Updated on 01/06/2022 18:50:31 UTC
 <!--END_SECTION:waka-->
 
 ### Recent GitHub Activity
