@@ -313,8 +313,8 @@ Linux                    15 mins             ███████████�
 
 ### Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#574](https://github.com/luong-komorebi/Awesome-Linux-Software/pull/574) in [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software)
-2. ❗️ Opened issue [#635](https://github.com/Igglybuff/awesome-piracy/issues/635) in [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy)
+1. 💪 Opened PR [#77](https://github.com/kitspace/awesome-electronics/pull/77) in [kitspace/awesome-electronics](https://github.com/kitspace/awesome-electronics)
+2. 💪 Opened PR [#574](https://github.com/luong-komorebi/Awesome-Linux-Software/pull/574) in [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software)
 3. 💪 Opened PR [#823](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/823) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
 4. 🗣 Commented on [#208](https://github.com/anmol098/waka-readme-stats/issues/208) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
 5. 🗣 Commented on [#391](https://github.com/rockerBOO/awesome-neovim/issues/391) in [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim)
