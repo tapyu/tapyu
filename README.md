@@ -159,18 +159,12 @@ Hi there! I'm Rubem Pacelli (tapyu is only my nickname). I am really into
             <li> :us: English: Professional proficiency </li>
             <li> :fr: French: Elementary knowledge </li>
         </ul></li>
-        <li> 🎾 Hobbies
-        <ul>
-            <li> I am an entusiast of the maker culture, DIY and <a href="https://www.oshwa.org/about/">Open Source Hardware (OSH)</a> moviment. </li>
-            <li> Linux ricing, and Unix shell scripts to automate everything on Linux 🐧. </li>
-            <li> Gym and having a real life 🙃 🏋️ </li>
-        </ul></li>
     </ul>
 </details>
 <details>
-    <summary><h2>Contacts</h2></summary>
+    <summary><h2>More info</h2></summary>
     <ul>
-      <li><h3>Professional</h3>
+      <li>Professional contacts
           <ul>
             <li>
                 <a href="mailto:rubem.engenharia@gmail.com">
@@ -205,7 +199,8 @@ Hi there! I'm Rubem Pacelli (tapyu is only my nickname). I am really into
           </ul>
       </li>
       <br>
-      <li><h3>Social</h3>
+      <br>
+      <li>Social contacts
           <ul>
             <li>
                 <a href="https://raw.githubusercontent.com/tapyu/tapyu/master/figs/pepe.jpg">
@@ -233,6 +228,22 @@ Hi there! I'm Rubem Pacelli (tapyu is only my nickname). I am really into
                 </a>
             </li>
           </ul>
+      </li>
+      <br>
+      <br>
+      <li> 🎾 Hobbies
+        <ul>
+            <li> I am an entusiast of the maker culture, DIY and <a href="https://www.oshwa.org/about/">Open Source Hardware (OSH)</a> moviment. </li>
+            <li> Linux ricing, and Unix shell scripts to automate everything on Linux 🐧. </li>
+            <li> Gym and having a real life 🙃 🏋️ </li>
+        </ul>
+      </li>
+      <li> :bulb: Goals and ideologies
+        <ul>
+            <li> Making knowledge open and libre. </li>
+            <li> Taking care the environment. </li>
+            <li> Becoming an integral part of a Research oriented development team that researches / designs / creates successful technology breakthroughs that are intended to be used in products for industry utilizing analog and digital design skills. </li>
+        </ul>
       </li>
     </ul>
     <br>
@@ -313,8 +324,8 @@ Linux                    15 mins             ███████████�
 
 ### Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#77](https://github.com/kitspace/awesome-electronics/pull/77) in [kitspace/awesome-electronics](https://github.com/kitspace/awesome-electronics)
-2. 💪 Opened PR [#574](https://github.com/luong-komorebi/Awesome-Linux-Software/pull/574) in [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software)
+1. 💪 Opened PR [#574](https://github.com/luong-komorebi/Awesome-Linux-Software/pull/574) in [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software)
+2. ❗️ Opened issue [#635](https://github.com/Igglybuff/awesome-piracy/issues/635) in [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy)
 3. 💪 Opened PR [#823](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/823) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
 4. 🗣 Commented on [#208](https://github.com/anmol098/waka-readme-stats/issues/208) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
 5. 🗣 Commented on [#391](https://github.com/rockerBOO/awesome-neovim/issues/391) in [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim)
