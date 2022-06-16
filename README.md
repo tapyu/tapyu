@@ -24,10 +24,7 @@ ABOUT DEPLOYING YOUR OWN VERCEL INSTANCE
 </p>
 
 <h1 align="center"><code>>whoami</code> </h2>
-Hi there! I'm Rubem Pacelli (tapyu is only my nickname). I am really into
-<blockquote>
-    scientific programing languages
-</blockquote>
+Hi there! I'm Rubem Pacelli (tapyu is only my nickname). I am really into <b>scientific programing languages</b>.
 <h1 align="center">Background</h2>
 <ul>
   <li>🎓 B.S. degree in Electronics Engineering from <a href="https://unifor.br/">Unifor</a>.</li>
