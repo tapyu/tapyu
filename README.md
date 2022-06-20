@@ -259,13 +259,13 @@ Hi there! I'm Rubem Pacelli (tapyu is only my nickname). I am really into <b>sci
 
 ### Wakatime stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-136%20hrs%2036%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-136%20hrs%2042%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 327 Contributions in the Year 2022
  > 
-> 📦 785.1 kB Used in GitHub's Storage 
+> 📦 792.0 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -300,22 +300,23 @@ Sunday       50 commits     ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Bash                     15 mins             █████████████████████████   100.0%
+Bash                     11 mins             █████████████████████████   100.0% 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 🔥 Editors: 
-Neovim                   15 mins             █████████████████████████   100.0%
+Neovim                   11 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-Unknown Project          10 mins             █████████████████░░░░░░░░   68.29% 
-dotfiles                 4 mins              ████████░░░░░░░░░░░░░░░░░   31.71%
+Unknown Project          10 mins             ██████████████████████░░░   91.04% 
+dotfiles                 1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   8.96%
 
 💻 Operating System: 
-Linux                    15 mins             █████████████████████████   100.0%
+Linux                    11 mins             █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 18/06/2022 18:44:09 UTC
+ Last Updated on 20/06/2022 18:51:47 UTC
 <!--END_SECTION:waka-->
 
 ### Recent GitHub Activity
