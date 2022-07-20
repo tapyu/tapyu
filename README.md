@@ -324,7 +324,7 @@ Linux                    66 hrs 16 mins      ███████████�
 
 ### Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#77](https://github.com/kitspace/awesome-electronics/issues/77) in [kitspace/awesome-electronics](https://github.com/kitspace/awesome-electronics)
+1. 🗣 Commented on [#382](https://github.com/JuliaDSP/DSP.jl/issues/382) in [JuliaDSP/DSP.jl](https://github.com/JuliaDSP/DSP.jl)
 2. ❌ Closed PR [#77](https://github.com/kitspace/awesome-electronics/pull/77) in [kitspace/awesome-electronics](https://github.com/kitspace/awesome-electronics)
 3. 💪 Opened PR [#77](https://github.com/kitspace/awesome-electronics/pull/77) in [kitspace/awesome-electronics](https://github.com/kitspace/awesome-electronics)
 4. 🗣 Commented on [#208](https://github.com/anmol098/waka-readme-stats/issues/208) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
