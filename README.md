@@ -259,7 +259,7 @@ Hi there! I'm Rubem Pacelli (tapyu is only my nickname). I am really into <b>sci
 
 ### Wakatime stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-224%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-225%20hrs%2012%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -319,7 +319,7 @@ Linux                    58 hrs 17 mins      ███████████�
 ```
 
 
- Last Updated on 21/07/2022 18:52:53 UTC
+ Last Updated on 22/07/2022 18:49:09 UTC
 <!--END_SECTION:waka-->
 
 ### Recent GitHub Activity
