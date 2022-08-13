@@ -134,7 +134,7 @@ Hi there! I'm Rubem Pacelli (tapyu is only my nickname). I am really into <b>sci
                   <a href="https://www.latex-project.org/">
                       <img alt="latex" height="40" src="figs/icons8-latex.svg" />
                   </a>
-                  <br>Latex
+                  <br>LaTeX
               </td>
               <td align="center" width="96">
                   <a href="https://neovim.io/">
@@ -154,7 +154,6 @@ Hi there! I'm Rubem Pacelli (tapyu is only my nickname). I am really into <b>sci
         <ul>
             <li> :brazil: Portuguese: Native speaker </li>
             <li> :us: English: Professional proficiency </li>
-            <li> :fr: French: Elementary knowledge </li>
         </ul></li>
     </ul>
 </details>
