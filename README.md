@@ -246,7 +246,7 @@ Hi there! I'm Rubem Pacelli (tapyu is only my nickname). I am really into <b>sci
     <br>
 </details>
 <details>
-    <summary><h2>Some nice statistics</h2></summary>
+    <summary><h2>Some nice stats</h2></summary>
     <ul>
     <h3>GitHub Performance</h3>
     <table>
