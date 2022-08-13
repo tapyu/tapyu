@@ -40,7 +40,7 @@ Hi there! I'm Rubem Pacelli (tapyu is only my nickname). I am really into <b>sci
   </tr>
   <tr>
     <td valign="top" align="center"><img height="250" width="250" src="figs/signal.gif"></td>
-    <td valign="middle" align="center"><img height="250" width="320" src="figs/test.gif"></td>
+    <td valign="middle" align="center"><img height="250" width="250" src="figs/test.gif"></td>
     <td valign="top" align="center"><img height="250" width="250" src="figs/microprocessor.gif"></td>
   </tr>
  </table>
