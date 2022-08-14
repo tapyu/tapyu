@@ -320,11 +320,11 @@ Linux                    22 mins             ███████████�
 
 ### Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2692](https://github.com/ranger/ranger/issues/2692) in [ranger/ranger](https://github.com/ranger/ranger)
-2. 🗣 Commented on [#4630](https://github.com/JuliaLang/julia/issues/4630) in [JuliaLang/julia](https://github.com/JuliaLang/julia)
-3. ❗️ Opened issue [#3404](https://github.com/helix-editor/helix/issues/3404) in [helix-editor/helix](https://github.com/helix-editor/helix)
-4. 🗣 Commented on [#3270](https://github.com/helix-editor/helix/issues/3270) in [helix-editor/helix](https://github.com/helix-editor/helix)
-5. 🗣 Commented on [#2679](https://github.com/ranger/ranger/issues/2679) in [ranger/ranger](https://github.com/ranger/ranger)
+1. ❗️ Opened issue [#194](https://github.com/dylanaraps/fff/issues/194) in [dylanaraps/fff](https://github.com/dylanaraps/fff)
+2. ❗️ Opened issue [#2692](https://github.com/ranger/ranger/issues/2692) in [ranger/ranger](https://github.com/ranger/ranger)
+3. 🗣 Commented on [#4630](https://github.com/JuliaLang/julia/issues/4630) in [JuliaLang/julia](https://github.com/JuliaLang/julia)
+4. ❗️ Opened issue [#3404](https://github.com/helix-editor/helix/issues/3404) in [helix-editor/helix](https://github.com/helix-editor/helix)
+5. 🗣 Commented on [#3270](https://github.com/helix-editor/helix/issues/3270) in [helix-editor/helix](https://github.com/helix-editor/helix)
 <!--END_SECTION:activity-->
 
 ### Latest Youtube Video 📺
