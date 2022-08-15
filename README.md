@@ -320,11 +320,11 @@ Linux                    22 mins             ███████████�
 
 ### Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#46347](https://github.com/JuliaLang/julia/issues/46347) in [JuliaLang/julia](https://github.com/JuliaLang/julia)
-2. ❗️ Closed issue [#46346](https://github.com/JuliaLang/julia/issues/46346) in [JuliaLang/julia](https://github.com/JuliaLang/julia)
-3. ❗️ Opened issue [#46346](https://github.com/JuliaLang/julia/issues/46346) in [JuliaLang/julia](https://github.com/JuliaLang/julia)
-4. ❗️ Opened issue [#194](https://github.com/dylanaraps/fff/issues/194) in [dylanaraps/fff](https://github.com/dylanaraps/fff)
-5. ❗️ Opened issue [#2692](https://github.com/ranger/ranger/issues/2692) in [ranger/ranger](https://github.com/ranger/ranger)
+1. 🗣 Commented on [#46347](https://github.com/JuliaLang/julia/issues/46347) in [JuliaLang/julia](https://github.com/JuliaLang/julia)
+2. 🗣 Commented on [#2692](https://github.com/ranger/ranger/issues/2692) in [ranger/ranger](https://github.com/ranger/ranger)
+3. ❗️ Opened issue [#46347](https://github.com/JuliaLang/julia/issues/46347) in [JuliaLang/julia](https://github.com/JuliaLang/julia)
+4. ❗️ Closed issue [#46346](https://github.com/JuliaLang/julia/issues/46346) in [JuliaLang/julia](https://github.com/JuliaLang/julia)
+5. ❗️ Opened issue [#46346](https://github.com/JuliaLang/julia/issues/46346) in [JuliaLang/julia](https://github.com/JuliaLang/julia)
 <!--END_SECTION:activity-->
 
 ### Latest Youtube Video 📺
