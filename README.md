@@ -23,25 +23,26 @@ ABOUT DEPLOYING YOUR OWN VERCEL INSTANCE
     <img align='center' src="https://visitor-badge.glitch.me/badge?page_id=tapyu.visitor-badge">
 </p>
 
-<h1 align="center"><code>>whoami</code> </h2>
+<h1 align="center"><code>>whoami</code> </h1>
 Hi there! I'm Rubem Pacelli (tapyu is only my nickname). I am really into <b>scientific programing languages</b>.
-<h1 align="center">Background</h2>
+<h1 align="center">Background</h1>
 <ul>
   <li>🎓 B.S. degree in Electronics Engineering from <a href="https://unifor.br/">Unifor</a>.</li>
   <li>🎓 M.S. degree in Teleinformatics Engineering from <a href="http://www.ufc.br/">UFC</a>.</li>
   <li>🔬 Currently working on my PhD in Teleinformatics Engineering at <a href="http://www.ufc.br/">UFC</a>.</li>
 </ul>
-<h1 align="center">Research interests</h2>
+<h1 align="center">Research area</h1>
+I work in the area of <b>satellite communication</b>, and I especially focus on the following topics:
 <table>
   <tr>
-    <td width="350">Statistical signal processing</td>
+    <td width="350">Statistical signal processing for space communication</td>
      <td width="350">Machine learning and neural networks (which does not differ that much from the first topic, btw)</td>
-     <td width="350">Whenever possible, I try to embed my algorithms into FPGA's, DSP's, or specific-use microprocessors</td>
+     <td width="350">Embedded systems (in such as FPGA and DSP) for Implementation of digital modems</td>
   </tr>
   <tr>
     <td valign="top" align="center"><img height="250" width="250" src="figs/signal.gif"></td>
     <td valign="middle" align="center"><img height="250" width="250" src="figs/test.gif"></td>
-    <td valign="top" align="center"><img height="250" width="250" src="figs/microprocessor.gif"></td>
+    <td valign="top" align="center"><img height="250" width="250" src="figs/embedded systems microprocessor.png"></td>
   </tr>
  </table>
 <hr>
