@@ -42,7 +42,7 @@ I work in the area of <b>satellite communication</b>, and I especially focus on 
   <tr>
     <td valign="top" align="center"><img height="250" width="250" src="figs/signal.gif"></td>
     <td valign="middle" align="center"><img height="250" width="250" src="figs/test.gif"></td>
-    <td valign="top" align="center"><img height="250" width="250" src="figs/embedded systems microprocessor.png"></td>
+    <td valign="top" align="center"><img height="250" width="300" src="figs/embedded systems microprocessor.png"></td>
   </tr>
  </table>
 <hr>
