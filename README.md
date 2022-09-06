@@ -279,9 +279,9 @@ I work in the area of <b>satellite communication</b>, and I especially focus on 
 
 ### Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#336](https://github.com/osqzss/gps-sdr-sim/issues/336) in [osqzss/gps-sdr-sim](https://github.com/osqzss/gps-sdr-sim)
-2. ❗️ Closed issue [#2692](https://github.com/ranger/ranger/issues/2692) in [ranger/ranger](https://github.com/ranger/ranger)
-3. 🗣 Commented on [#2692](https://github.com/ranger/ranger/issues/2692) in [ranger/ranger](https://github.com/ranger/ranger)
+1. ❗️ Opened issue [#2942](https://github.com/ManimCommunity/manim/issues/2942) in [ManimCommunity/manim](https://github.com/ManimCommunity/manim)
+2. ❗️ Opened issue [#336](https://github.com/osqzss/gps-sdr-sim/issues/336) in [osqzss/gps-sdr-sim](https://github.com/osqzss/gps-sdr-sim)
+3. ❗️ Closed issue [#2692](https://github.com/ranger/ranger/issues/2692) in [ranger/ranger](https://github.com/ranger/ranger)
 4. 🗣 Commented on [#2692](https://github.com/ranger/ranger/issues/2692) in [ranger/ranger](https://github.com/ranger/ranger)
 5. 🗣 Commented on [#2692](https://github.com/ranger/ranger/issues/2692) in [ranger/ranger](https://github.com/ranger/ranger)
 <!--END_SECTION:activity-->
