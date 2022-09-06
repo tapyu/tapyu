@@ -259,11 +259,11 @@ I work in the area of <b>satellite communication</b>, and I especially focus on 
 
 ### Wakatime stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-248%20hrs%2055%20mins-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 551 Contributions in the Year 2022
+> 🏆 556 Contributions in the Year 2022
  > 
 > 📦 928.4 kB Used in GitHub's Storage 
  > 
@@ -273,8 +273,48 @@ I work in the area of <b>satellite communication</b>, and I especially focus on 
  > 
 > 🔑 3 Private Repositories  
  > 
+**I'm a Night 🦉** 
 
- Last Updated on 04/09/2022 18:46:21 UTC
+```text
+🌞 Morning    65 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.62% 
+🌆 Daytime    107 commits    ██████░░░░░░░░░░░░░░░░░░░   27.37% 
+🌃 Evening    92 commits     ██████░░░░░░░░░░░░░░░░░░░   23.53% 
+🌙 Night      127 commits    ████████░░░░░░░░░░░░░░░░░   32.48%
+
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday       62 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.86% 
+Tuesday      28 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.16% 
+Wednesday    54 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.81% 
+Thursday     68 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.39% 
+Friday       44 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.25% 
+Saturday     73 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.67% 
+Sunday       62 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.86%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+
+ Last Updated on 06/09/2022 18:50:40 UTC
 <!--END_SECTION:waka-->
 
 ### Recent GitHub Activity
