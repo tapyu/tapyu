@@ -325,9 +325,9 @@ Linux                    32 hrs 13 mins      ███████████�
 
 ### Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#321](https://github.com/znck/grammarly/issues/321) in [znck/grammarly](https://github.com/znck/grammarly)
-2. ❗️ Opened issue [#2942](https://github.com/ManimCommunity/manim/issues/2942) in [ManimCommunity/manim](https://github.com/ManimCommunity/manim)
-3. ❗️ Opened issue [#336](https://github.com/osqzss/gps-sdr-sim/issues/336) in [osqzss/gps-sdr-sim](https://github.com/osqzss/gps-sdr-sim)
+1. ❗️ Opened issue [#2210](https://github.com/newsboat/newsboat/issues/2210) in [newsboat/newsboat](https://github.com/newsboat/newsboat)
+2. ❗️ Opened issue [#321](https://github.com/znck/grammarly/issues/321) in [znck/grammarly](https://github.com/znck/grammarly)
+3. ❗️ Opened issue [#2942](https://github.com/ManimCommunity/manim/issues/2942) in [ManimCommunity/manim](https://github.com/ManimCommunity/manim)
 4. 🗣 Commented on [#2692](https://github.com/ranger/ranger/issues/2692) in [ranger/ranger](https://github.com/ranger/ranger)
 5. 🗣 Commented on [#2692](https://github.com/ranger/ranger/issues/2692) in [ranger/ranger](https://github.com/ranger/ranger)
 <!--END_SECTION:activity-->
