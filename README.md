@@ -325,11 +325,11 @@ Linux                    32 hrs 13 mins      ███████████�
 
 ### Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2210](https://github.com/newsboat/newsboat/issues/2210) in [newsboat/newsboat](https://github.com/newsboat/newsboat)
-2. 🗣 Commented on [#2210](https://github.com/newsboat/newsboat/issues/2210) in [newsboat/newsboat](https://github.com/newsboat/newsboat)
-3. ❗️ Opened issue [#2210](https://github.com/newsboat/newsboat/issues/2210) in [newsboat/newsboat](https://github.com/newsboat/newsboat)
-4. ❗️ Opened issue [#321](https://github.com/znck/grammarly/issues/321) in [znck/grammarly](https://github.com/znck/grammarly)
-5. ❗️ Opened issue [#2942](https://github.com/ManimCommunity/manim/issues/2942) in [ManimCommunity/manim](https://github.com/ManimCommunity/manim)
+1. 🗣 Commented on [#101](https://github.com/newsboat/newsboat/issues/101) in [newsboat/newsboat](https://github.com/newsboat/newsboat)
+2. ❗️ Closed issue [#2210](https://github.com/newsboat/newsboat/issues/2210) in [newsboat/newsboat](https://github.com/newsboat/newsboat)
+3. 🗣 Commented on [#101](https://github.com/newsboat/newsboat/issues/101) in [newsboat/newsboat](https://github.com/newsboat/newsboat)
+4. 🗣 Commented on [#2210](https://github.com/newsboat/newsboat/issues/2210) in [newsboat/newsboat](https://github.com/newsboat/newsboat)
+5. 🗣 Commented on [#2210](https://github.com/newsboat/newsboat/issues/2210) in [newsboat/newsboat](https://github.com/newsboat/newsboat)
 <!--END_SECTION:activity-->
 
 ### Latest Youtube Video 📺
