@@ -325,9 +325,9 @@ Linux                    24 hrs 58 mins      ███████████�
 ### Recent GitHub Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#101](https://github.com/newsboat/newsboat/issues/101) in [newsboat/newsboat](https://github.com/newsboat/newsboat)
-2. ❗️ Closed issue [#2210](https://github.com/newsboat/newsboat/issues/2210) in [newsboat/newsboat](https://github.com/newsboat/newsboat)
-3. 🗣 Commented on [#101](https://github.com/newsboat/newsboat/issues/101) in [newsboat/newsboat](https://github.com/newsboat/newsboat)
-4. 🗣 Commented on [#2210](https://github.com/newsboat/newsboat/issues/2210) in [newsboat/newsboat](https://github.com/newsboat/newsboat)
+2. 🗣 Commented on [#101](https://github.com/newsboat/newsboat/issues/101) in [newsboat/newsboat](https://github.com/newsboat/newsboat)
+3. ❗️ Closed issue [#2210](https://github.com/newsboat/newsboat/issues/2210) in [newsboat/newsboat](https://github.com/newsboat/newsboat)
+4. 🗣 Commented on [#101](https://github.com/newsboat/newsboat/issues/101) in [newsboat/newsboat](https://github.com/newsboat/newsboat)
 5. 🗣 Commented on [#2210](https://github.com/newsboat/newsboat/issues/2210) in [newsboat/newsboat](https://github.com/newsboat/newsboat)
 <!--END_SECTION:activity-->
 
