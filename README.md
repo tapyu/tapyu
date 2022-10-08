@@ -323,11 +323,11 @@ Linux                    28 hrs 29 mins      ███████████�
 
 ### Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#101](https://github.com/newsboat/newsboat/issues/101) in [newsboat/newsboat](https://github.com/newsboat/newsboat)
-2. 🗣 Commented on [#101](https://github.com/newsboat/newsboat/issues/101) in [newsboat/newsboat](https://github.com/newsboat/newsboat)
-3. ❗️ Closed issue [#2210](https://github.com/newsboat/newsboat/issues/2210) in [newsboat/newsboat](https://github.com/newsboat/newsboat)
+1. ❗️ Closed issue [#3501](https://github.com/James-Yu/LaTeX-Workshop/issues/3501) in [James-Yu/LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop)
+2. ❗️ Opened issue [#3501](https://github.com/James-Yu/LaTeX-Workshop/issues/3501) in [James-Yu/LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop)
+3. 🗣 Commented on [#101](https://github.com/newsboat/newsboat/issues/101) in [newsboat/newsboat](https://github.com/newsboat/newsboat)
 4. 🗣 Commented on [#101](https://github.com/newsboat/newsboat/issues/101) in [newsboat/newsboat](https://github.com/newsboat/newsboat)
-5. 🗣 Commented on [#2210](https://github.com/newsboat/newsboat/issues/2210) in [newsboat/newsboat](https://github.com/newsboat/newsboat)
+5. ❗️ Closed issue [#2210](https://github.com/newsboat/newsboat/issues/2210) in [newsboat/newsboat](https://github.com/newsboat/newsboat)
 <!--END_SECTION:activity-->
 
 ### Latest Youtube Video 📺
