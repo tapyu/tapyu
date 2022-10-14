@@ -322,11 +322,11 @@ Linux                    17 hrs 33 mins      ███████████�
 
 ### Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#3501](https://github.com/James-Yu/LaTeX-Workshop/issues/3501) in [James-Yu/LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop)
-2. ❗️ Opened issue [#3501](https://github.com/James-Yu/LaTeX-Workshop/issues/3501) in [James-Yu/LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop)
-3. 🗣 Commented on [#101](https://github.com/newsboat/newsboat/issues/101) in [newsboat/newsboat](https://github.com/newsboat/newsboat)
+1. 🗣 Commented on [#194](https://github.com/dylanaraps/fff/issues/194) in [dylanaraps/fff](https://github.com/dylanaraps/fff)
+2. ❗️ Closed issue [#3501](https://github.com/James-Yu/LaTeX-Workshop/issues/3501) in [James-Yu/LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop)
+3. ❗️ Opened issue [#3501](https://github.com/James-Yu/LaTeX-Workshop/issues/3501) in [James-Yu/LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop)
 4. 🗣 Commented on [#101](https://github.com/newsboat/newsboat/issues/101) in [newsboat/newsboat](https://github.com/newsboat/newsboat)
-5. ❗️ Closed issue [#2210](https://github.com/newsboat/newsboat/issues/2210) in [newsboat/newsboat](https://github.com/newsboat/newsboat)
+5. 🗣 Commented on [#101](https://github.com/newsboat/newsboat/issues/101) in [newsboat/newsboat](https://github.com/newsboat/newsboat)
 <!--END_SECTION:activity-->
 
 ### Latest Youtube Video 📺
