@@ -322,10 +322,10 @@ Linux                    8 hrs 38 mins       ███████████�
 
 ### Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#194](https://github.com/dylanaraps/fff/issues/194) in [dylanaraps/fff](https://github.com/dylanaraps/fff)
-2. ❗️ Closed issue [#3501](https://github.com/James-Yu/LaTeX-Workshop/issues/3501) in [James-Yu/LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop)
-3. ❗️ Opened issue [#3501](https://github.com/James-Yu/LaTeX-Workshop/issues/3501) in [James-Yu/LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop)
-4. 🗣 Commented on [#101](https://github.com/newsboat/newsboat/issues/101) in [newsboat/newsboat](https://github.com/newsboat/newsboat)
+1. 🗣 Commented on [#2942](https://github.com/ManimCommunity/manim/issues/2942) in [ManimCommunity/manim](https://github.com/ManimCommunity/manim)
+2. 🗣 Commented on [#194](https://github.com/dylanaraps/fff/issues/194) in [dylanaraps/fff](https://github.com/dylanaraps/fff)
+3. ❗️ Closed issue [#3501](https://github.com/James-Yu/LaTeX-Workshop/issues/3501) in [James-Yu/LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop)
+4. ❗️ Opened issue [#3501](https://github.com/James-Yu/LaTeX-Workshop/issues/3501) in [James-Yu/LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop)
 5. 🗣 Commented on [#101](https://github.com/newsboat/newsboat/issues/101) in [newsboat/newsboat](https://github.com/newsboat/newsboat)
 <!--END_SECTION:activity-->
 
