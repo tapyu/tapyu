@@ -324,11 +324,11 @@ Linux                    3 hrs 53 mins       ███████████�
 
 ### Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2942](https://github.com/ManimCommunity/manim/issues/2942) in [ManimCommunity/manim](https://github.com/ManimCommunity/manim)
-2. 🗣 Commented on [#194](https://github.com/dylanaraps/fff/issues/194) in [dylanaraps/fff](https://github.com/dylanaraps/fff)
-3. ❗️ Closed issue [#3501](https://github.com/James-Yu/LaTeX-Workshop/issues/3501) in [James-Yu/LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop)
-4. ❗️ Opened issue [#3501](https://github.com/James-Yu/LaTeX-Workshop/issues/3501) in [James-Yu/LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop)
-5. 🗣 Commented on [#101](https://github.com/newsboat/newsboat/issues/101) in [newsboat/newsboat](https://github.com/newsboat/newsboat)
+1. 🗣 Commented on [#378](https://github.com/pgf-tikz/pgfplots/issues/378) in [pgf-tikz/pgfplots](https://github.com/pgf-tikz/pgfplots)
+2. 🗣 Commented on [#2942](https://github.com/ManimCommunity/manim/issues/2942) in [ManimCommunity/manim](https://github.com/ManimCommunity/manim)
+3. 🗣 Commented on [#194](https://github.com/dylanaraps/fff/issues/194) in [dylanaraps/fff](https://github.com/dylanaraps/fff)
+4. ❗️ Closed issue [#3501](https://github.com/James-Yu/LaTeX-Workshop/issues/3501) in [James-Yu/LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop)
+5. ❗️ Opened issue [#3501](https://github.com/James-Yu/LaTeX-Workshop/issues/3501) in [James-Yu/LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop)
 <!--END_SECTION:activity-->
 
 ### Latest Youtube Video 📺
