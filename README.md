@@ -322,11 +322,11 @@ Linux                    14 hrs 30 mins      ███████████�
 
 ### Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#378](https://github.com/pgf-tikz/pgfplots/issues/378) in [pgf-tikz/pgfplots](https://github.com/pgf-tikz/pgfplots)
+1. ❗️ Opened issue [#3558](https://github.com/James-Yu/LaTeX-Workshop/issues/3558) in [James-Yu/LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop)
 2. 🗣 Commented on [#378](https://github.com/pgf-tikz/pgfplots/issues/378) in [pgf-tikz/pgfplots](https://github.com/pgf-tikz/pgfplots)
-3. 🗣 Commented on [#2942](https://github.com/ManimCommunity/manim/issues/2942) in [ManimCommunity/manim](https://github.com/ManimCommunity/manim)
-4. 🗣 Commented on [#194](https://github.com/dylanaraps/fff/issues/194) in [dylanaraps/fff](https://github.com/dylanaraps/fff)
-5. ❗️ Closed issue [#3501](https://github.com/James-Yu/LaTeX-Workshop/issues/3501) in [James-Yu/LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop)
+3. 🗣 Commented on [#378](https://github.com/pgf-tikz/pgfplots/issues/378) in [pgf-tikz/pgfplots](https://github.com/pgf-tikz/pgfplots)
+4. 🗣 Commented on [#2942](https://github.com/ManimCommunity/manim/issues/2942) in [ManimCommunity/manim](https://github.com/ManimCommunity/manim)
+5. 🗣 Commented on [#194](https://github.com/dylanaraps/fff/issues/194) in [dylanaraps/fff](https://github.com/dylanaraps/fff)
 <!--END_SECTION:activity-->
 
 ### Latest Youtube Video 📺
