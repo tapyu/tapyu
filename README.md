@@ -323,8 +323,8 @@ Linux                    9 hrs 49 mins       ███████████�
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#3558](https://github.com/James-Yu/LaTeX-Workshop/issues/3558) in [James-Yu/LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop)
 2. 🗣 Commented on [#3558](https://github.com/James-Yu/LaTeX-Workshop/issues/3558) in [James-Yu/LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop)
-3. ❗️ Opened issue [#3558](https://github.com/James-Yu/LaTeX-Workshop/issues/3558) in [James-Yu/LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop)
-4. 🗣 Commented on [#378](https://github.com/pgf-tikz/pgfplots/issues/378) in [pgf-tikz/pgfplots](https://github.com/pgf-tikz/pgfplots)
+3. 🗣 Commented on [#3558](https://github.com/James-Yu/LaTeX-Workshop/issues/3558) in [James-Yu/LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop)
+4. ❗️ Opened issue [#3558](https://github.com/James-Yu/LaTeX-Workshop/issues/3558) in [James-Yu/LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop)
 5. 🗣 Commented on [#378](https://github.com/pgf-tikz/pgfplots/issues/378) in [pgf-tikz/pgfplots](https://github.com/pgf-tikz/pgfplots)
 <!--END_SECTION:activity-->
 
