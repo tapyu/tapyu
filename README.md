@@ -324,11 +324,11 @@ Linux                    17 hrs 54 mins      ███████████�
 
 ### Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3558](https://github.com/James-Yu/LaTeX-Workshop/issues/3558) in [James-Yu/LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop)
+1. ❗️ Opened issue [#3076](https://github.com/ManimCommunity/manim/issues/3076) in [ManimCommunity/manim](https://github.com/ManimCommunity/manim)
 2. 🗣 Commented on [#3558](https://github.com/James-Yu/LaTeX-Workshop/issues/3558) in [James-Yu/LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop)
 3. 🗣 Commented on [#3558](https://github.com/James-Yu/LaTeX-Workshop/issues/3558) in [James-Yu/LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop)
-4. ❗️ Opened issue [#3558](https://github.com/James-Yu/LaTeX-Workshop/issues/3558) in [James-Yu/LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop)
-5. 🗣 Commented on [#378](https://github.com/pgf-tikz/pgfplots/issues/378) in [pgf-tikz/pgfplots](https://github.com/pgf-tikz/pgfplots)
+4. 🗣 Commented on [#3558](https://github.com/James-Yu/LaTeX-Workshop/issues/3558) in [James-Yu/LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop)
+5. ❗️ Opened issue [#3558](https://github.com/James-Yu/LaTeX-Workshop/issues/3558) in [James-Yu/LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop)
 <!--END_SECTION:activity-->
 
 ### Latest Youtube Video 📺
