@@ -328,10 +328,10 @@ Linux                    20 hrs 57 mins      ███████████�
 ### Recent GitHub Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#23](https://github.com/bellecp/fast-p/issues/23) in [bellecp/fast-p](https://github.com/bellecp/fast-p)
-2. ❗️ Opened issue [#23](https://github.com/bellecp/fast-p/issues/23) in [bellecp/fast-p](https://github.com/bellecp/fast-p)
-3. 🗣 Commented on [#2692](https://github.com/ranger/ranger/issues/2692) in [ranger/ranger](https://github.com/ranger/ranger)
-4. ❗️ Opened issue [#3076](https://github.com/ManimCommunity/manim/issues/3076) in [ManimCommunity/manim](https://github.com/ManimCommunity/manim)
-5. 🗣 Commented on [#3558](https://github.com/James-Yu/LaTeX-Workshop/issues/3558) in [James-Yu/LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop)
+2. 🗣 Commented on [#23](https://github.com/bellecp/fast-p/issues/23) in [bellecp/fast-p](https://github.com/bellecp/fast-p)
+3. ❗️ Opened issue [#23](https://github.com/bellecp/fast-p/issues/23) in [bellecp/fast-p](https://github.com/bellecp/fast-p)
+4. 🗣 Commented on [#2692](https://github.com/ranger/ranger/issues/2692) in [ranger/ranger](https://github.com/ranger/ranger)
+5. ❗️ Opened issue [#3076](https://github.com/ManimCommunity/manim/issues/3076) in [ManimCommunity/manim](https://github.com/ManimCommunity/manim)
 <!--END_SECTION:activity-->
 
 ### Latest Youtube Video 📺
