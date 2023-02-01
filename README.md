@@ -259,7 +259,7 @@ I work in the area of <b>satellite communication</b>, and I especially focus on 
 
 ### Wakatime stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-515%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-517%20hrs%2029%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -322,7 +322,7 @@ Linux                    16 hrs 20 mins      ███████████�
 ```
 
 
- Last Updated on 31/01/2023 18:39:48 UTC
+ Last Updated on 01/02/2023 18:40:15 UTC
 <!--END_SECTION:waka-->
 
 ### Recent GitHub Activity
