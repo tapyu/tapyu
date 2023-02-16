@@ -255,7 +255,7 @@ I work in the area of <b>satellite communication</b>, and I especially focus on 
             <td> <img src="https://github-readme-stats-xi-six-31.vercel.app/api/top-langs/?username=tapyu&hide=jupyter%20notebook,html,stata,mathematica,standard%20ml,postscript,tex&count_private=true&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&layout=compact&border_color=61dafb&hide_border=true" /> </td>
         </tr>
     </table>
-    <img src="https://activity-graph.herokuapp.com/graph?username=tapyu&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=tapyu&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
 ### Wakatime stats
 <!--START_SECTION:waka-->
