@@ -329,7 +329,7 @@ Linux                    24 hrs 35 mins      ███████████�
 
 ### Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3103](https://github.com/junegunn/fzf/issues/3103) in [junegunn/fzf](https://github.com/junegunn/fzf)
+1. ❗️ Opened issue [#1](https://github.com/tapyu/tapyu/issues/1) in [tapyu/tapyu](https://github.com/tapyu/tapyu)
 2. 🗣 Commented on [#23](https://github.com/bellecp/fast-p/issues/23) in [bellecp/fast-p](https://github.com/bellecp/fast-p)
 3. 🗣 Commented on [#109](https://github.com/atanunq/viu/issues/109) in [atanunq/viu](https://github.com/atanunq/viu)
 4. 🗣 Commented on [#23](https://github.com/bellecp/fast-p/issues/23) in [bellecp/fast-p](https://github.com/bellecp/fast-p)
