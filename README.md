@@ -3,19 +3,23 @@
 
 That is what I'm using to make the this Markdown:
 
-- Shelds.io: https://github.com/badges/shields
-- github-readme-stats: https://github.com/anuraghazra/github-readme-stats
-- How To Create An Amazing Profile ReadMe With GitHub Actions -> https://www.youtube.com/watch?v=ECuqb5Tv9qI
+*** About wakatime *** (./.github/workflows/waka-readme-stats.yml or the "Waka Readme" github action):
 - How To Use Github's New Personal README and Wakatime: https://www.youtube.com/watch?v=jazcHIaitfE
-- awesome-github-profile-readme: https://github.com/abhisheknaiidu/awesome-github-profile-readme
-- wakatime: https://www.youtube.com/watch?v=sZi8MmQP3MY
+- Adding Weekly Coding Stats to your GitHub Readme Profile: https://www.youtube.com/watch?v=sZi8MmQP3MY
 
-ABOUT DEPLOYING YOUR OWN VERCEL INSTANCE
+*** About updating README.md with recent activities *** (./.github/workflows/update-readme-recent-activities.yml or the "Update README with recent activities" github action)
+- How To Create An Amazing Profile ReadMe With GitHub Actions -> https://www.youtube.com/watch?v=ECuqb5Tv9qI
+
+*** about deploying your own vercel instance (it is the "GitHub Performance" section of my README.dm) ***
 1 -> https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own-vercel-instance
-2 ->https://www.youtube.com/watch?v=n6d4KHSKqGk&t=107s
+2 -> https://www.youtube.com/watch?v=n6d4KHSKqGk&t=107s
 3 -> https://github.com/tapyu/github-readme-stats/blob/master/vercel.json
 4 -> https://vercel.com/docs/cli#project-configuration
 5 -> https://github.com/abhisheknaiidu/awesome-github-profile-readme
+
+*** other things ***
+- awesome-github-profile-readme: https://github.com/abhisheknaiidu/awesome-github-profile-readme
+- Shelds.io: https://github.com/badges/shields
 
 -->
 
