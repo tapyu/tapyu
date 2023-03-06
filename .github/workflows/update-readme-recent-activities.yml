@@ -9,7 +9,7 @@
 
 
 
-name: Update README # this is the name of this workflow
+name: Update README with recent activities # this is the name of this workflow
 
 on: # This is where the event comes in. Basically, the event is what triggers the workflow. The most common (?) event that triggers a workflow is the push command. It would be just "on: push". When we have a more elaborate event, like this file, we need to give more information with an indentation
   schedule: # In this case, the event is a timer that triggers the workflow periodically.
