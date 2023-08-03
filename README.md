@@ -329,7 +329,7 @@ Linux                    11 hrs 46 mins      ███████████�
 
 ### Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2](https://github.com/yanxiaodi/vs-code-revision/issues/2) in [yanxiaodi/vs-code-revision](https://github.com/yanxiaodi/vs-code-revision)
+1. 💪 Opened PR [#569](https://github.com/SciML/Optimization.jl/pull/569) in [SciML/Optimization.jl](https://github.com/SciML/Optimization.jl)
 2. 🗣 Commented on [#23](https://github.com/bellecp/fast-p/issues/23) in [bellecp/fast-p](https://github.com/bellecp/fast-p)
 3. 🗣 Commented on [#8](https://github.com/clarkgrubb/latex-input/issues/8) in [clarkgrubb/latex-input](https://github.com/clarkgrubb/latex-input)
 4. 🗣 Commented on [#378](https://github.com/pgf-tikz/pgfplots/issues/378) in [pgf-tikz/pgfplots](https://github.com/pgf-tikz/pgfplots)
