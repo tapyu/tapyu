@@ -143,10 +143,10 @@ I work in the area of <b>satellite communication</b>, and I especially focus on 
                   <br>LaTeX
               </td>
               <td align="center" width="96">
-                  <a href="https://neovim.io/">
-                      <img alt="neovim" height="40" src="figs/neovim.svg" />
+                  <a href="https://docs.helix-editor.com/">
+                      <img alt="helix-editor" height="40" src="figs/helix.png" />
                   </a>
-                  <br>Neovim
+                  <br>Helix
               </td>
               <td align="center" width="96">
                   <a href="https://git-scm.com/">
