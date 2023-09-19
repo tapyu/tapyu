@@ -329,10 +329,10 @@ Linux                    9 hrs 32 mins       ███████████�
 
 ### Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#8332](https://github.com/helix-editor/helix/issues/8332) in [helix-editor/helix](https://github.com/helix-editor/helix)
-2. ❗ Opened issue [#8331](https://github.com/helix-editor/helix/issues/8331) in [helix-editor/helix](https://github.com/helix-editor/helix)
-3. 💪 Opened PR [#2053](https://github.com/rstacruz/cheatsheets/pull/2053) in [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets)
-4. 🗣 Commented on [#378](https://github.com/pgf-tikz/pgfplots/issues/378) in [pgf-tikz/pgfplots](https://github.com/pgf-tikz/pgfplots)
+1. 🗣 Commented on [#8331](https://github.com/helix-editor/helix/issues/8331#issuecomment-1725106179) in [helix-editor/helix](https://github.com/helix-editor/helix)
+2. ❗ Opened issue [#8332](https://github.com/helix-editor/helix/issues/8332) in [helix-editor/helix](https://github.com/helix-editor/helix)
+3. ❗ Opened issue [#8331](https://github.com/helix-editor/helix/issues/8331) in [helix-editor/helix](https://github.com/helix-editor/helix)
+4. 💪 Opened PR [#2053](https://github.com/rstacruz/cheatsheets/pull/2053) in [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets)
 5. 🗣 Commented on [#109](https://github.com/atanunq/viu/issues/109) in [atanunq/viu](https://github.com/atanunq/viu)
 <!--END_SECTION:activity-->
 
