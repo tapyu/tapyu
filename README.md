@@ -329,8 +329,8 @@ Linux                    9 hrs 32 mins       ███████████�
 
 ### Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2053](https://github.com/rstacruz/cheatsheets/pull/2053) in [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets)
-2. 💪 Opened PR [#569](https://github.com/SciML/Optimization.jl/pull/569) in [SciML/Optimization.jl](https://github.com/SciML/Optimization.jl)
+1. ❗ Opened issue [#8331](https://github.com/helix-editor/helix/issues/8331) in [helix-editor/helix](https://github.com/helix-editor/helix)
+2. 💪 Opened PR [#2053](https://github.com/rstacruz/cheatsheets/pull/2053) in [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets)
 3. 🗣 Commented on [#8](https://github.com/clarkgrubb/latex-input/issues/8) in [clarkgrubb/latex-input](https://github.com/clarkgrubb/latex-input)
 4. 🗣 Commented on [#378](https://github.com/pgf-tikz/pgfplots/issues/378) in [pgf-tikz/pgfplots](https://github.com/pgf-tikz/pgfplots)
 5. 🗣 Commented on [#109](https://github.com/atanunq/viu/issues/109) in [atanunq/viu](https://github.com/atanunq/viu)
