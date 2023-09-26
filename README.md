@@ -106,13 +106,13 @@ I work in the area of <b>satellite communication</b>, and I especially focus on 
                         <img alt="cpp" height="40" src="figs/cpp_colorful.svg" />
                     </a>
                     <br>C++
-                </td>
+<!--                 </td>
                 <td align="center" width="96">
                     <a href="https://en.wikipedia.org/wiki/Java_(programming_language)">
                         <img alt="java" height="40" src="figs/java_colorful.svg" />
                     </a>
                     <br>Java
-                </td>
+                </td> -->
                 <td align="center" width="96">
                     <a href="https://en.wikipedia.org/wiki/Assembly_language">
                         <img alt="assembly" height="40" src="figs/assembly.png" />
