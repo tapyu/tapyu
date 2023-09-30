@@ -327,8 +327,8 @@ Linux                    35 hrs 9 mins       ███████████�
 
 ### Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#8341](https://github.com/helix-editor/helix/issues/8341) in [helix-editor/helix](https://github.com/helix-editor/helix)
-2. 🗣 Commented on [#8331](https://github.com/helix-editor/helix/issues/8331#issuecomment-1726684771) in [helix-editor/helix](https://github.com/helix-editor/helix)
+1. ❌ Closed PR [#133](https://github.com/clarkgrubb/hyperpolyglot/pull/133) in [clarkgrubb/hyperpolyglot](https://github.com/clarkgrubb/hyperpolyglot)
+2. ❌ Closed PR [#2053](https://github.com/rstacruz/cheatsheets/pull/2053) in [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets)
 3. 🗣 Commented on [#8331](https://github.com/helix-editor/helix/issues/8331#issuecomment-1725106179) in [helix-editor/helix](https://github.com/helix-editor/helix)
 4. ❗ Opened issue [#8332](https://github.com/helix-editor/helix/issues/8332) in [helix-editor/helix](https://github.com/helix-editor/helix)
 5. ❗ Opened issue [#8331](https://github.com/helix-editor/helix/issues/8331) in [helix-editor/helix](https://github.com/helix-editor/helix)
