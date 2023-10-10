@@ -328,10 +328,10 @@ Linux                    6 hrs 38 mins       ███████████�
 
 ### Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1746](https://github.com/jarun/nnn/issues/1746) in [jarun/nnn](https://github.com/jarun/nnn)
-2. ❌ Closed PR [#133](https://github.com/clarkgrubb/hyperpolyglot/pull/133) in [clarkgrubb/hyperpolyglot](https://github.com/clarkgrubb/hyperpolyglot)
-3. ❌ Closed PR [#2053](https://github.com/rstacruz/cheatsheets/pull/2053) in [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets)
-4. ❗ Opened issue [#8332](https://github.com/helix-editor/helix/issues/8332) in [helix-editor/helix](https://github.com/helix-editor/helix)
+1. ❗ Opened issue [#101](https://github.com/olets/zsh-abbr/issues/101) in [olets/zsh-abbr](https://github.com/olets/zsh-abbr)
+2. ❗ Opened issue [#1746](https://github.com/jarun/nnn/issues/1746) in [jarun/nnn](https://github.com/jarun/nnn)
+3. ❌ Closed PR [#133](https://github.com/clarkgrubb/hyperpolyglot/pull/133) in [clarkgrubb/hyperpolyglot](https://github.com/clarkgrubb/hyperpolyglot)
+4. ❌ Closed PR [#2053](https://github.com/rstacruz/cheatsheets/pull/2053) in [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets)
 5. ❗ Opened issue [#8331](https://github.com/helix-editor/helix/issues/8331) in [helix-editor/helix](https://github.com/helix-editor/helix)
 <!--END_SECTION:activity-->
 
