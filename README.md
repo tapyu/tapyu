@@ -328,11 +328,11 @@ Linux                    6 hrs 23 mins       ███████████�
 
 ### Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1746](https://github.com/jarun/nnn/issues/1746#issuecomment-1757423646) in [jarun/nnn](https://github.com/jarun/nnn)
-2. 🔒 Closed issue [#101](https://github.com/olets/zsh-abbr/issues/101) in [olets/zsh-abbr](https://github.com/olets/zsh-abbr)
-3. 🗣 Commented on [#101](https://github.com/olets/zsh-abbr/issues/101#issuecomment-1757281387) in [olets/zsh-abbr](https://github.com/olets/zsh-abbr)
-4. ❗ Opened issue [#101](https://github.com/olets/zsh-abbr/issues/101) in [olets/zsh-abbr](https://github.com/olets/zsh-abbr)
-5. ❗ Opened issue [#1746](https://github.com/jarun/nnn/issues/1746) in [jarun/nnn](https://github.com/jarun/nnn)
+1. 🗣 Commented on [#1746](https://github.com/jarun/nnn/issues/1746#issuecomment-1758291427) in [jarun/nnn](https://github.com/jarun/nnn)
+2. ❗ Opened issue [#17](https://github.com/alecdotninja/no-titlebar-when-maximized/issues/17) in [alecdotninja/no-titlebar-when-maximized](https://github.com/alecdotninja/no-titlebar-when-maximized)
+3. 🗣 Commented on [#1746](https://github.com/jarun/nnn/issues/1746#issuecomment-1757423646) in [jarun/nnn](https://github.com/jarun/nnn)
+4. 🔒 Closed issue [#101](https://github.com/olets/zsh-abbr/issues/101) in [olets/zsh-abbr](https://github.com/olets/zsh-abbr)
+5. 🗣 Commented on [#101](https://github.com/olets/zsh-abbr/issues/101#issuecomment-1757281387) in [olets/zsh-abbr](https://github.com/olets/zsh-abbr)
 <!--END_SECTION:activity-->
 
 ### Latest Youtube Video 📺
