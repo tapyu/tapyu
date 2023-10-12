@@ -328,11 +328,11 @@ Linux                    6 hrs 23 mins       ███████████�
 
 ### Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1746](https://github.com/jarun/nnn/issues/1746#issuecomment-1759795210) in [jarun/nnn](https://github.com/jarun/nnn)
-2. 🗣 Commented on [#1746](https://github.com/jarun/nnn/issues/1746#issuecomment-1759723982) in [jarun/nnn](https://github.com/jarun/nnn)
-3. 🗣 Commented on [#1746](https://github.com/jarun/nnn/issues/1746#issuecomment-1759723204) in [jarun/nnn](https://github.com/jarun/nnn)
-4. 🗣 Commented on [#1746](https://github.com/jarun/nnn/issues/1746#issuecomment-1759708553) in [jarun/nnn](https://github.com/jarun/nnn)
-5. 🗣 Commented on [#1746](https://github.com/jarun/nnn/issues/1746#issuecomment-1759597319) in [jarun/nnn](https://github.com/jarun/nnn)
+1. 🗣 Commented on [#1746](https://github.com/jarun/nnn/issues/1746#issuecomment-1759921757) in [jarun/nnn](https://github.com/jarun/nnn)
+2. 🗣 Commented on [#1746](https://github.com/jarun/nnn/issues/1746#issuecomment-1759901229) in [jarun/nnn](https://github.com/jarun/nnn)
+3. 🔒 Closed issue [#1746](https://github.com/jarun/nnn/issues/1746) in [jarun/nnn](https://github.com/jarun/nnn)
+4. 🗣 Commented on [#1746](https://github.com/jarun/nnn/issues/1746#issuecomment-1759870069) in [jarun/nnn](https://github.com/jarun/nnn)
+5. 🗣 Commented on [#1746](https://github.com/jarun/nnn/issues/1746#issuecomment-1759868691) in [jarun/nnn](https://github.com/jarun/nnn)
 <!--END_SECTION:activity-->
 
 ### Latest Youtube Video 📺
