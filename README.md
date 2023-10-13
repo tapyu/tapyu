@@ -49,7 +49,27 @@ I work in the area of <b>satellite communication</b>, and I especially focus on 
     <td valign="middle" align="center"><img height="250" width="250" src="figs/test.gif"></td>
     <td valign="top" align="center"><img height="250" width="900" src="figs/embedded systems microprocessor.png"></td>
   </tr>
- </table>
+</table>
+<br>
+<br>
+<a href="https://www.linkedin.com/in/rubem-pacelli/">
+  <img align="right" alt="Tapyu | Linkedin" width="21px" src="figs/linkedin_colorful.svg" />
+</a>
+<a href="https://orcid.org/0000-0001-5933-8565">
+  <img align="right" alt="Tapyu | Orcid" width="20px" src="figs/orcid.svg" />
+</a>
+<a href="http://lattes.cnpq.br/0717252455115225">
+  <img align="right" alt="Tapyu | Lattes" width="20px" src="figs/lattes.png" />
+</a>
+<a href="mailto:rubem.engenharia@gmail.com">
+  <img align="right" alt="Tapyu | Email" width="20px" src="figs/email_blue.svg" />
+</a>
+<a href="https://scholar.google.com.br/citations?user=Kj6Gzs4AAAAJ&hl=pt-BR&oi=sra">
+  <img align="right" alt="Tapyu | Google Scholar" width="20px" src="figs/google_schola_colorful.svg" />
+</a>
+<a href="https://github.com/tapyu/tapyu/blob/master/cv/Latex/cv.pdf">
+  <img align="right" alt="Tapyu | Curriculum Vitae" width="20px" src="figs/curriculum-vitae_blue.svg" />
+</a>
 <hr>
 <details>
     <summary><h2>Experiences and skills </h2></summary>
