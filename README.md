@@ -97,7 +97,6 @@ I work in the area of <b>satellite communication</b>, and I especially focus on 
             <td> <img src="https://github-readme-stats-xi-six-31.vercel.app/api/top-langs/?username=tapyu&hide=postscript,jupyter%20notebook,tex,html,makefile&count_private=true&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&layout=compact&border_color=61dafb&hide_border=true&langs_count=6" /> </td>
         </tr>
     </table>
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=tapyu&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
 ### Wakatime stats
 <!--START_SECTION:waka-->
