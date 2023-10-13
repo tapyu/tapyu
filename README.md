@@ -62,6 +62,13 @@ I work in the area of <b>satellite communication</b>, and I especially focus on 
 <code><a href="https://en.wikipedia.org/wiki/Assembly_language"><img height="20" alt="assembly" src="figs/assembly.png"></a></code>
 <br>
 <br>
+<code><a href="https://code.visualstudio.com/"><img height="30" alt="visual studio code" src="figs/vscode_colorful.svg"></a></code>
+<code><a href="https://www.linux.org/"><img height="30" alt="linux" src="figs/linux_colorful.svg"></a></code>
+<code><a href="https://www.latex-project.org/"><img height="30" alt="latex" src="figs/icons8-latex.svg"></a></code>
+<code><a href="https://docs.helix-editor.com/"><img height="30" alt="helix-editor" src="figs/helix.png"></a></code>
+<code><a href="https://git-scm.com/"><img height="30" alt="git" src="figs/git.svg"></a></code>
+<br>
+<br>
 <a href="https://www.linkedin.com/in/rubem-pacelli/">
   <img align="right" alt="Tapyu | Linkedin" width="21px" src="figs/linkedin_colorful.svg" />
 </a>
