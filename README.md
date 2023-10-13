@@ -59,6 +59,7 @@ I work in the area of <b>satellite communication</b>, and I especially focus on 
 <code><a href="https://en.wikipedia.org/wiki/VHDL"><img height="20" width="30" alt="VHDL" src="figs/VHDL.jfif"></a></code>
 <code><a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img height="20" alt="C programming language" src="figs/c_colorful.svg"></a></code>
 <code><a href="https://en.wikipedia.org/wiki/C%2B%2B"><img height="20" alt="C++ programming language" src="figs/cpp_colorful.svg"></a></code>
+<code><a href="https://en.wikipedia.org/wiki/Assembly_language"><img height="20" alt="assembly" src="figs/assembly.png"></a></code>
 <br>
 <br>
 <a href="https://www.linkedin.com/in/rubem-pacelli/">
