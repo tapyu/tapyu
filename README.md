@@ -56,17 +56,17 @@ I work in the area of <b>satellite communication</b>, and I especially focus on 
 <code><a href="https://www.r-project.org/"><img height="40" alt="R programming language" src="figs/r_colorful.svg"></a></code>
 <code><a href="https://www.mathworks.com/products/matlab.html"><img height="40" alt="matlab" src="figs/icons8-matlab.svg"></a></code>
 <code><a href="https://en.wikipedia.org/wiki/Shell_script"><img height="40" alt="Unix shell scripting" src="figs/utilities-x-terminal.svg"></a></code>
-<code><a href="https://en.wikipedia.org/wiki/VHDL"><img height="20" width="30" alt="VHDL" src="figs/VHDL.jfif"></a></code>
+<code><a href="https://en.wikipedia.org/wiki/VHDL"><img height="20" width="40" alt="VHDL" src="figs/VHDL.jfif"></a></code>
 <code><a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img height="40" alt="C programming language" src="figs/c_colorful.svg"></a></code>
 <code><a href="https://en.wikipedia.org/wiki/C%2B%2B"><img height="40" alt="C++ programming language" src="figs/cpp_colorful.svg"></a></code>
 <code><a href="https://en.wikipedia.org/wiki/Assembly_language"><img height="40" alt="assembly" src="figs/assembly.png"></a></code>
 <br>
 <br>
-<code><a href="https://code.visualstudio.com/"><img height="30" alt="visual studio code" src="figs/vscode_colorful.svg"></a></code>
-<code><a href="https://www.linux.org/"><img height="30" alt="linux" src="figs/linux_colorful.svg"></a></code>
-<code><a href="https://www.latex-project.org/"><img height="30" alt="latex" src="figs/icons8-latex.svg"></a></code>
-<code><a href="https://docs.helix-editor.com/"><img height="30" alt="helix-editor" src="figs/helix.png"></a></code>
-<code><a href="https://git-scm.com/"><img height="30" alt="git" src="figs/git.svg"></a></code>
+<code><a href="https://code.visualstudio.com/"><img height="40" alt="visual studio code" src="figs/vscode_colorful.svg"></a></code>
+<code><a href="https://www.linux.org/"><img height="40" alt="linux" src="figs/linux_colorful.svg"></a></code>
+<code><a href="https://www.latex-project.org/"><img height="40" alt="latex" src="figs/icons8-latex.svg"></a></code>
+<code><a href="https://docs.helix-editor.com/"><img height="40" alt="helix-editor" src="figs/helix.png"></a></code>
+<code><a href="https://git-scm.com/"><img height="40" alt="git" src="figs/git.svg"></a></code>
 <br>
 <br>
 <a href="https://www.linkedin.com/in/rubem-pacelli/">
