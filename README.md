@@ -163,11 +163,11 @@ Linux                    5 hrs 49 mins       ███████████�
 
 ### Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1746](https://github.com/jarun/nnn/issues/1746#issuecomment-1761969380) in [jarun/nnn](https://github.com/jarun/nnn)
-2. 🔓 Reopened issue [#1746](https://github.com/jarun/nnn/issues/1746) in [jarun/nnn](https://github.com/jarun/nnn)
-3. 🗣 Commented on [#1746](https://github.com/jarun/nnn/issues/1746#issuecomment-1761951651) in [jarun/nnn](https://github.com/jarun/nnn)
-4. ❗ Opened issue [#2](https://github.com/egyptianbman/zsh-git-worktrees/issues/2) in [egyptianbman/zsh-git-worktrees](https://github.com/egyptianbman/zsh-git-worktrees)
-5. 🗣 Commented on [#1746](https://github.com/jarun/nnn/issues/1746#issuecomment-1759921757) in [jarun/nnn](https://github.com/jarun/nnn)
+1. 🗣 Commented on [#377](https://github.com/tandpfun/skill-icons/issues/377#issuecomment-1763351220) in [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons)
+2. 🗣 Commented on [#1746](https://github.com/jarun/nnn/issues/1746#issuecomment-1761969380) in [jarun/nnn](https://github.com/jarun/nnn)
+3. 🔓 Reopened issue [#1746](https://github.com/jarun/nnn/issues/1746) in [jarun/nnn](https://github.com/jarun/nnn)
+4. 🗣 Commented on [#1746](https://github.com/jarun/nnn/issues/1746#issuecomment-1761951651) in [jarun/nnn](https://github.com/jarun/nnn)
+5. ❗ Opened issue [#2](https://github.com/egyptianbman/zsh-git-worktrees/issues/2) in [egyptianbman/zsh-git-worktrees](https://github.com/egyptianbman/zsh-git-worktrees)
 <!--END_SECTION:activity-->
 
 ### Latest Youtube Video 📺
