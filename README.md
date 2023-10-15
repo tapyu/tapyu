@@ -51,15 +51,15 @@ I work in the area of <b>satellite communication</b>, and I especially focus on 
   </tr>
 </table>
 
-<code><a href="https://www.python.org/"><img height="20" alt="python" src="figs/python_colorful.svg"></a></code>
-<code><a href="https://julialang.org/"><img height="20" alt="Julia programming language" src="figs/julia.svg"></a></code>
-<code><a href="https://www.r-project.org/"><img height="20" alt="R programming language" src="figs/r_colorful.svg"></a></code>
-<code><a href="https://www.mathworks.com/products/matlab.html"><img height="20" alt="matlab" src="figs/icons8-matlab.svg"></a></code>
-<code><a href="https://en.wikipedia.org/wiki/Shell_script"><img height="20" alt="Unix shell scripting" src="figs/utilities-x-terminal.svg"></a></code>
+<code><a href="https://www.python.org/"><img height="40" alt="python" src="figs/python_colorful.svg"></a></code>
+<code><a href="https://julialang.org/"><img height="40" alt="Julia programming language" src="figs/julia.svg"></a></code>
+<code><a href="https://www.r-project.org/"><img height="40" alt="R programming language" src="figs/r_colorful.svg"></a></code>
+<code><a href="https://www.mathworks.com/products/matlab.html"><img height="40" alt="matlab" src="figs/icons8-matlab.svg"></a></code>
+<code><a href="https://en.wikipedia.org/wiki/Shell_script"><img height="40" alt="Unix shell scripting" src="figs/utilities-x-terminal.svg"></a></code>
 <code><a href="https://en.wikipedia.org/wiki/VHDL"><img height="20" width="30" alt="VHDL" src="figs/VHDL.jfif"></a></code>
-<code><a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img height="20" alt="C programming language" src="figs/c_colorful.svg"></a></code>
-<code><a href="https://en.wikipedia.org/wiki/C%2B%2B"><img height="20" alt="C++ programming language" src="figs/cpp_colorful.svg"></a></code>
-<code><a href="https://en.wikipedia.org/wiki/Assembly_language"><img height="20" alt="assembly" src="figs/assembly.png"></a></code>
+<code><a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img height="40" alt="C programming language" src="figs/c_colorful.svg"></a></code>
+<code><a href="https://en.wikipedia.org/wiki/C%2B%2B"><img height="40" alt="C++ programming language" src="figs/cpp_colorful.svg"></a></code>
+<code><a href="https://en.wikipedia.org/wiki/Assembly_language"><img height="40" alt="assembly" src="figs/assembly.png"></a></code>
 <br>
 <br>
 <code><a href="https://code.visualstudio.com/"><img height="30" alt="visual studio code" src="figs/vscode_colorful.svg"></a></code>
