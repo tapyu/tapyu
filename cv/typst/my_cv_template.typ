@@ -3,6 +3,7 @@
     12pt,
     font: "New Computer Modern",
   )
+  set page(margin: 40pt)
   set par(justify: true, leading: 0.5em)
 
   align(center)[#smallcaps(text(size: 2.5em, fill: color)[#name])]
@@ -22,44 +23,66 @@
   rest
 }
 
-// General entry that is split into a left and right half
-#let cv_entry(left_content: none, right_content: none) = {
-    grid(
-    columns: (11fr, 6fr),
-    column-gutter: 1cm,
-    {
-      set align(left)
-      left_content
-    },
-    {
-      set align(right)
-      right_content
-    }
-  )
-}
-
-#let add_general_info(general_info) = {
-  let info_aligned = ()
+// General CV entry that is split into a left and right half
+#let cv_entry(entries, left-space: 1fr, right-space: 1fr) = {
+  let entries_aligned = ()
   let count = 1
-  for info in (general_info) {
+  for entry in (entries) {
     if int(count/2) == count/2 {
-      info_aligned.push({
+      entries_aligned.push({
         align(right)[
-          #info
+          #entry
         ]
       })
     } else {
-      info_aligned.push({
+      entries_aligned.push({
         align(left)[
-          #info
+          #entry
         ]
       })
     }
     count += 1
   }
   grid(
-    columns: (2fr, 3fr),
+    columns: (left-space, right-space),
     row-gutter: 6pt,
-    ..info_aligned,
+    ..entries_aligned,
   )
+}
+
+#let add_general_info(general_info) = {
+  cv_entry(general_info, left-space: 2fr, right-space: 3fr)
+}
+
+#let add_education(education) = {
+  cv_entry((
+    [*#education.initials* in #education.name],
+    [#education.start\-#education.end],
+    education.university,
+    education.location
+  ))
+}
+
+#let add_experience(experience) = {
+  cv_entry((
+    experience.name,
+    [#experience.start\-#experience.end],
+    experience.university,
+    experience.location
+  ))
+
+  for info in experience.info [
+    - #info
+  ]
+}
+
+#let add_research(research) = {
+  cv_entry((
+    research.name,
+    [#research.start\-#research.end],
+  ), left-space: 3fr, right-space: 2fr)
+  text(10pt)[#research.from]
+  for info in research.info [
+    - #info
+  ]
 }
