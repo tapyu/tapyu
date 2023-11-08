@@ -276,6 +276,25 @@
     )
   ),
   book_chapter: (
+    uncertainties2023: (
+      title: "A Data-Based Estimation of Power-Law Coefficients for Rainfall via Levenberg-Marquardt Algorithm: Results from the West African Testbed",
+      publisher: "Springer Cham",
+      book: "Proceedings of the 6th International Symposium on Uncertainty Quantification and Stochastic Modelling",
+      chapter: "20",
+      // volume: "1",
+      start-page: "190",
+      end-page: "201",
+      year: 2023,
+      url: "https://doi.org/10.1007/978-3-031-47036-3_17",
+      is_pt: false,
+      authors: (
+        "Pacelli, R. V.",
+        "Moreira, N. de A.",
+        "Maciel, T. F.",
+        "Kacou, M.",
+        "Gosset, M.",
+      )
+    ),
     atena2021: (
       title: "Symbol time synchronization in OFDM systems",
       publisher: "Atena",
