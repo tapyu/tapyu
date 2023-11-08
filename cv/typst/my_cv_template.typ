@@ -56,9 +56,9 @@
 
 #let add_education(education) = {
   cv_entry((
-    [*#education.initials* in #education.name],
+    [*#education.initials* in #education.course],
     [#education.start\-#education.end],
-    education.university,
+    [#education.university.full (#education.university.initials)],
     education.location
   ))
 }
@@ -86,3 +86,89 @@
     - #info
   ]
 }
+
+#let add_thesis(edu) = [
+  #edu.level's thesis in #edu.course. "#if edu.thesis.keys().contains("url") {link(edu.thesis.url)[#edu.thesis.title]} else {edu.thesis.title}"#if edu.thesis.is_pt [ (in Portuguese)]. Advised by #for (index, advisor) in edu.thesis.advisors.enumerate() {if index==0 and edu.thesis.advisors.len()==2 [Prof. Dr. #advisor and ] else [Prof. Dr. #advisor]}.
+]
+
+#let add_journal_article(article) = {
+  for (index, author) in article.authors.enumerate() {
+    author
+    if index+1 < article.authors.len() [, ] else [.]
+  }
+  if article.keys().contains("url"){
+    link(article.url)["#article.title"]
+  } else [
+    "#article.title"
+  ]
+  if article.is_pt [
+    (in Portuguese).
+  ] else [.]
+  if article.keys().contains("publisher") [
+    #article.publisher,
+  ]
+  if article.keys().contains("volume") [
+    vol. #article.volume,
+  ]
+  if article.keys().contains("issue_number") [
+    n. #article.issue_number,
+  ]
+  if article.keys().contains("start-page") and article.keys().contains("end-page") [
+    p. #article.start-page\-#article.end-page,
+  ]
+  if article.keys().contains("year") [
+    #article.year.
+  ]
+}
+
+#let add_conference_proceedings(article) = {
+  for (index, author) in article.authors.enumerate() {
+    author
+    if index+1 < article.authors.len() [, ] else [.]
+  }
+  if article.keys().contains("url"){
+    link(article.url)["#article.title"]
+  } else [
+    "#article.title"
+  ]
+  if article.is_pt [
+    (in Portuguese).
+  ] else [.]
+  if article.keys().contains("from") [
+    #article.from,
+  ]
+  if article.keys().contains("start-page") and article.keys().contains("end-page") [
+    p. #article.start-page\-#article.end-page,
+  ]
+  if article.keys().contains("year") [
+    #article.year.
+  ]
+}
+
+#let add_book_chapter(article) = {
+  for (index, author) in article.authors.enumerate() {
+    author
+    if index+1 < article.authors.len() [, ] else [.]
+  }
+  if article.keys().contains("url"){
+    link(article.url)["#article.title"]
+  } else [
+    "#article.title"
+  ]
+  if article.is_pt [
+    (in Portuguese).
+  ] else [.]
+  [Chapter #article.chapter in #article.book,]
+  if article.keys().contains("start-page") and article.keys().contains("end-page") [
+    p. #article.start-page\-#article.end-page,
+  ]
+  if article.keys().contains("year") [
+    #article.year.
+  ]
+}
+
+#let add_patent(patent) = [
+  == #patent.requirement
+  - #patent.title #if patent.is_pt [ (in Portuguese)].
+  - Status: #patent.status.
+]

@@ -1,4 +1,4 @@
-#import "my_cv_template.typ": my_template, add_general_info, add_education, add_experience, add_research
+#import "my_cv_template.typ": my_template, add_general_info, add_education, add_experience, add_research, add_thesis, add_journal_article, add_conference_proceedings, add_book_chapter, add_patent
 
 // cv settings
 #let color_theme = black
@@ -50,30 +50,64 @@
 )
 // education
 #let education = (
-  graduation: (
-    name: "Electronics Engineering",
-    initials: "BSc",
-    start: "Jan 2013",
-    end: "Dec 2018",
-    location: "Fortaleza, Brazil",
-    university: "University of Fortaleza (Unifor)"
-  ),
-  master: (
-    name: "Teleinformatics Engineering",
-    initials: "Msc",
-    start: "Jan 2019",
-    end: "Jun 2021",
-    location: "Fortaleza, Brazil",
-    university: "Federal University of Ceará (UFC)"
-  ),
   doctorate: (
-    name: "Teleinformatics Engineering",
+    course: "Teleinformatics Engineering",
+    level: "Doctorate",
     initials: "PhD",
     start: "Jul 2021",
     end: "Present",
     location: "Fortaleza, Brazil",
-    university: "Federal University of Ceará (UFC)"
-  )
+    university: (
+      full: "Federal University of Ceará",
+      initials: "UFC",
+    ),
+    thesis: (
+      title: "Detection, characterization, and forecasting of the equatorial ionospheric scintillation signal on GNSS receive",
+      advisors: (
+        "Felix Dieter Antreich",
+        "André Lima Ferrer de Almeida"
+      ),
+      is_pt: false,
+    )
+  ),
+  master: (
+    course: "Teleinformatics Engineering",
+    level: "Master",
+    initials: "Msc",
+    start: "Jan 2019",
+    end: "Jun 2021",
+    location: "Fortaleza, Brazil",
+    university: (
+      full: "Federal University of Ceará",
+      initials: "UFC",
+    ),
+    thesis: (
+      title: "Coherent and all-digital AFSK modem for TT&C module of CubeSat systems",
+      advisors: (
+        "João Cesar Moura Mota",
+        "Antônio Macilio Pereira de Lucena"
+      ),
+      is_pt: true,
+      url: "http://repositorio.ufc.br/bitstream/riufc/60259/1/2021_dis_rvpacelli.pdf"
+    )
+  ),
+  graduation: (
+    course: "Electronics Engineering",
+    level: "Graduation",
+    initials: "BSc",
+    start: "Jan 2013",
+    end: "Dec 2018",
+    location: "Fortaleza, Brazil",
+    university: (
+      full: "University of Fortaleza",
+      initials: "Unifor"
+    ),
+    thesis: (
+      title: "Design of a portable charger converter with USB Type-C interface",
+      advisors: ("Bruno Ricardo de Almeida",),
+      is_pt: true,
+    )
+  ),
 )
 // experience
 #let experience = (
@@ -123,6 +157,169 @@
     from: "Scientific initiation scholarship from National Council of Scientific and Technological Development (CNPq)",
     info: ("Research on synchronization techniques applied to multicarrier systems.",)
   ),
+)
+// publications
+#let publications = (
+  jounal_articles: (
+    bjd2020: (
+      title: "Fully digital GMSK modem with noncoherent demodulation",
+      publisher: "Brazilian Journal of Development",
+      volume: "6",
+      issue_number: "4",
+      start-page: "17988",
+      end-page: "17996",
+      year: 2020,
+      url: "https://doi.org/10.34117/bjdv6n4-099",
+      is_pt: true,
+      authors: (
+        "Pacelli, R. V.",
+        "Lucena, A. M. P."
+      )
+    ),
+    bjd2020a: (
+      title: "Carrier synchronization technique for OFDM communication systems",
+      publisher: "Brazilian Journal of Development",
+      volume: "6",
+      issue_number: "3",
+      start-page: "14297",
+      end-page: "14305",
+      year: 2020,
+      url: "https://doi.org/10.34117/bjdv6n3-338",
+      is_pt: true,
+      authors: (
+        "Pacelli, R. V.",
+        "Lucena, A. M. P."
+      )
+    ),
+    bjd2020b: (
+      title: "Carrier selection technique for OFDM system in time-dispersive channels",
+      publisher: "Brazilian Journal of Development",
+      volume: "6",
+      // issue_number: "3",
+      start-page: "14318",
+      end-page: "14324",
+      year: 2020,
+      url: "https://doi.org/10.34117/bjdv6n3-340",
+      is_pt: true,
+      authors: (
+        "Figueiredo, S. S.",
+        "Lucena, A. M. P.",
+        "Pacelli, R. V.",
+      )
+    ),
+    rev_tec2019: (
+      title: "OFDM system with frequency and phase estimators for carrier synchronization",
+      publisher: "Revista Tecnologia",
+      volume: "40",
+      issue_number: "1",
+      start-page: "1",
+      end-page: "16",
+      year: 2019,
+      url: "https://doi.org/10.5020/23180730.2019.7506",
+      is_pt: true,
+      authors: (
+        "Pacelli, R. V.",
+        "Lucena, A. M. P.",
+      )
+    )
+  ),
+  conferences: (
+    cba2022: (
+      title: "Convolutional Long-Short-Term Memory Networks (ConvLSTM) for Weather Prediction using Radar and Satellite Images",
+      from: "CBA 2022",
+      start-page: "1",
+      end-page: "8",
+      year: 2022,
+      url: "https://www.sba.org.br/cba2022/wp-content/uploads/artigos_cba2022/paper_2351.pdf",
+      is_pt: false,
+      authors: (
+        "Moreira, N. A.",
+        "Pacelli, R. V.",
+        "Silva, Y. C. B.",
+        "Maciel, T. F.",
+        "Simoes, I.",
+        "Mota, J. C. M.",
+        "Hamida, C.",
+        "Prado, R. Z.",
+        "Caillault, E.",
+        "Kacou, M.",
+        "Gosset, M.",
+      )
+    ),
+    sbrt2020: (
+      title: "All-digital AFSK modem with Viterbi detection for TT&C CubeSat transceiver",
+      from: "XXXVIII Simpósio Brasileiro de Telecomunicações e Processamento De Sinais",
+      start-page: "1",
+      end-page: "5",
+      year: 2022,
+      url: "https://www.sbrt.org.br/sbrt2020/papers/1570654898.pdf",
+      is_pt: false,
+      authors: (
+        "Pacelli, R. V.",
+        "Mota, J. C. M.",
+        "Lucena, A. M. P.",
+      )
+    ),
+    ic_unifor2016: (
+      title: "A technique for frequency synchronization in OFDM modulation",
+      from: "XXII Research Initiation Meeting",
+      start-page: "1",
+      end-page: "5",
+      year: 2016,
+      url: "https://uol.unifor.br/oul/conteudosite/?cdConteudo=6946081",
+      is_pt: true,
+      authors: (
+        "Mourão, J. A",
+        "Pacelli, R. V.",
+        "Lucena, A. M. P.",
+      )
+    )
+  ),
+  book_chapter: (
+    atena2021: (
+      title: "Symbol time synchronization in OFDM systems",
+      publisher: "Atena",
+      book: "Exact and Earth Sciences: Exploration and Qualification of Different Technologies",
+      chapter: "18",
+      volume: "4",
+      start-page: "200",
+      end-page: "207",
+      year: 2021,
+      url: "https://doi.org/10.22533/at.ed.13021130118",
+      is_pt: true,
+      authors: (
+        "Pacelli, R. V.",
+        "Lucena, A. M. P.",
+        "Araújo, D. C.",
+        "Mourão, J. A",
+      )
+    ),
+    bj2020: (
+      title: "GMSK modem with noncoherent demodulation and all-digital implementation",
+      publisher: "Atena",
+      book: "The impacts of studies focused on exact sciences",
+      chapter: "2",
+      volume: "1",
+      start-page: "21",
+      end-page: "30",
+      year: 2020,
+      url: "https://doi.org/10.35587/brj.ed.0000587",
+      is_pt: true,
+      authors: (
+        "Pacelli, R. V.",
+        "Lucena, A. M. P.",
+      )
+    ),
+  )
+)
+// patents
+#let patents = (
+  BR_10_2021_023220_0: (
+    requirement: "BR 10 2021 023220 0",
+    title: "Digital demodulation architecture and coherent detection method for AFSK signals",
+    is_pt: true,
+    status: "filed"
+  )
 )
 
 #show: my_doc => my_template(info.name, color_theme,  my_doc)
@@ -190,14 +387,48 @@ Skilled Engineer with academic experience in Satellite Communications and multid
 
 = Teaching and support
 
-- I have experience as an assistant teacher in Digital Communications at the #education.master.university during my Doctorate's degree in Teleinformatics Engineering. 
-- I have experience as an assistant teacher in Digital Signal Processing at the #education.master.university during my Master's degree in Teleinformatics Engineering.
-- I have experience as an assistant teacher in Control Theory at #education.graduation.university during my undergraduate in Electronics Engineering.
+- I had experience as an assistant teacher in Digital Communications at #education.doctorate.university.initials during my #education.doctorate.level's degree in #education.doctorate.course.
+- I had experience as an assistant teacher in Digital Signal Processing at #education.master.university.initials during my #education.master.level's degree in #education.doctorate.course.
+- I had experience as an assistant teacher in Control Theory at #education.graduation.university.initials during my undergraduate in #education.graduation.course.
 
 = Academic Activity & membership
 == Associate member
 - Brazilian Telecommunications Society (SBrT)
 
 = Publications
-My academic publications are also listed on #link(contact.scholar.url)[Google scholar].
+My academic publications are also listed on #link(contact.scholar.url)[Google Scholar].
 
+== Theses
+
+#for (_, edu) in education [
+  - #add_thesis(edu)
+]
+
+== Journal  Articles
+#{
+  set enum(numbering: "J1")
+  for (_, article) in publications.jounal_articles [
+    + #add_journal_article(article)
+  ]
+}
+
+== Conference Proceedings
+#{
+  set enum(numbering: "C1")
+  for (_, article) in publications.conferences [
+    + #add_conference_proceedings(article)
+  ]
+}
+
+== Book chapter
+#{
+  set enum(numbering: "BC1")
+  for (_, chapter) in publications.book_chapter [
+    + #add_book_chapter(chapter)
+  ]
+}
+
+= Patents
+#for (_, patent) in patents [
+  #add_patent(patent)
+]
