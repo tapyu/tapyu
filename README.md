@@ -165,9 +165,9 @@ Linux                    19 hrs 56 mins      ███████████�
 
 ### Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2616](https://github.com/typst/typst/issues/2616) in [typst/typst](https://github.com/typst/typst)
-2. ❗ Opened issue [#196](https://github.com/typst/webapp-issues/issues/196) in [typst/webapp-issues](https://github.com/typst/webapp-issues)
-3. 🔓 Reopened issue [#1746](https://github.com/jarun/nnn/issues/1746) in [jarun/nnn](https://github.com/jarun/nnn)
+1. ❗ Opened issue [#399](https://github.com/znck/grammarly/issues/399) in [znck/grammarly](https://github.com/znck/grammarly)
+2. ❗ Opened issue [#2616](https://github.com/typst/typst/issues/2616) in [typst/typst](https://github.com/typst/typst)
+3. ❗ Opened issue [#196](https://github.com/typst/webapp-issues/issues/196) in [typst/webapp-issues](https://github.com/typst/webapp-issues)
 4. 🗣 Commented on [#1746](https://github.com/jarun/nnn/issues/1746#issuecomment-1761951651) in [jarun/nnn](https://github.com/jarun/nnn)
 5. ❗ Opened issue [#2](https://github.com/egyptianbman/zsh-git-worktrees/issues/2) in [egyptianbman/zsh-git-worktrees](https://github.com/egyptianbman/zsh-git-worktrees)
 <!--END_SECTION:activity-->
