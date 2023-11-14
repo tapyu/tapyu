@@ -89,12 +89,12 @@ I work in the area of <b>satellite communication</b>, and I especially focus on 
 </a>
 <details>
     <summary><h2>Some nice stats</h2></summary>
-    <ul>
+    <ul> <img src="https://github-readme-activity-graph.vercel.app/graph?username=tapyu&theme=react-dark" />
     <h3>GitHub Performance</h3>
     <table>
         <tr>
             <td> <img src="https://github-readme-stats-xi-six-31.vercel.app/api?username=tapyu&show_icons=true&count_private=true&hide_title=true&line_height=33&theme=react&border=61dafb&hide_border=true" /> </td>
-            <td> <img src="https://github-readme-stats-xi-six-31.vercel.app/api/top-langs/?username=tapyu&hide=postscript,jupyter%20notebook,tex,html,makefile&count_private=true&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&layout=compact&border_color=61dafb&hide_border=true&langs_count=6" /> </td>
+            <td> <img src="https://github-readme-stats-xi-six-31.vercel.app/api/top-langs/?username=tapyu&hide=postscript,jupyter%20notebook,tex,html,makefile,typst&count_private=true&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&layout=compact&border_color=61dafb&hide_border=true&langs_count=6" /> </td>
         </tr>
     </table>
 
