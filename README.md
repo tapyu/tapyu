@@ -153,11 +153,11 @@ Linux                    18 hrs 31 mins      ███████████�
 
 ### Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#945](https://github.com/wimpysworld/deb-get/issues/945) in [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get)
-2. ❗ Opened issue [#4059](https://github.com/James-Yu/LaTeX-Workshop/issues/4059) in [James-Yu/LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop)
-3. 🗣 Commented on [#399](https://github.com/znck/grammarly/issues/399#issuecomment-1806928213) in [znck/grammarly](https://github.com/znck/grammarly)
-4. 🗣 Commented on [#399](https://github.com/znck/grammarly/issues/399#issuecomment-1806925667) in [znck/grammarly](https://github.com/znck/grammarly)
-5. ❗ Opened issue [#399](https://github.com/znck/grammarly/issues/399) in [znck/grammarly](https://github.com/znck/grammarly)
+1. 🗣 Commented on [#945](https://github.com/wimpysworld/deb-get/issues/945#issuecomment-1813881849) in [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get)
+2. 🔒 Closed issue [#945](https://github.com/wimpysworld/deb-get/issues/945) in [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get)
+3. ❗ Opened issue [#945](https://github.com/wimpysworld/deb-get/issues/945) in [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get)
+4. ❗ Opened issue [#4059](https://github.com/James-Yu/LaTeX-Workshop/issues/4059) in [James-Yu/LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop)
+5. 🗣 Commented on [#399](https://github.com/znck/grammarly/issues/399#issuecomment-1806928213) in [znck/grammarly](https://github.com/znck/grammarly)
 <!--END_SECTION:activity-->
 
 ### Latest Youtube Video 📺
