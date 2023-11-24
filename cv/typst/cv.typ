@@ -410,7 +410,7 @@ Skilled Engineer with academic experience in Satellite Communications and multid
 - I had experience as an assistant teacher in Digital Signal Processing at #education.master.university.initials during my #education.master.level's degree in #education.doctorate.course.
 - I had experience as an assistant teacher in Control Theory at #education.graduation.university.initials during my undergraduate in #education.graduation.course.
 
-= Academic Activity & membership
+= Academic Activity and membership
 == Associate member
 - Brazilian Telecommunications Society (SBrT)
 
@@ -448,6 +448,6 @@ My academic publications are also listed on #link(contact.scholar.url)[Google Sc
 }
 
 = Patents
-#for (_, patent) in patents [
-  #add_patent(patent)
-]
+#for (_, patent) in patents {
+  add_patent(patent)
+}
