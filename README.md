@@ -100,7 +100,7 @@ I work in the area of <b>satellite communication</b>, and I especially focus on 
 
 ### Wakatime stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C150%20hrs%2027%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C150%20hrs%2024%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -147,7 +147,7 @@ Linux                    2 hrs 36 mins       ███████████�
 ```
 
 
- Last Updated on 24/11/2023 18:38:05 UTC
+ Last Updated on 25/11/2023 18:38:07 UTC
 <!--END_SECTION:waka-->
 
 ### Recent GitHub Activity
