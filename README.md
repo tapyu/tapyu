@@ -150,11 +150,11 @@ Linux                    1 hr 54 mins        ███████████�
 
 ### Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#102](https://github.com/docker/docker-credential-helpers/issues/102#issuecomment-1814092152) in [docker/docker-credential-helpers](https://github.com/docker/docker-credential-helpers)
-2. 🗣 Commented on [#945](https://github.com/wimpysworld/deb-get/issues/945#issuecomment-1813881849) in [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get)
-3. 🔒 Closed issue [#945](https://github.com/wimpysworld/deb-get/issues/945) in [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get)
-4. ❗ Opened issue [#945](https://github.com/wimpysworld/deb-get/issues/945) in [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get)
-5. ❗ Opened issue [#4059](https://github.com/James-Yu/LaTeX-Workshop/issues/4059) in [James-Yu/LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop)
+1. 💪 Opened PR [#5](https://github.com/AeroPython/awesome-scientific-computing/pull/5) in [AeroPython/awesome-scientific-computing](https://github.com/AeroPython/awesome-scientific-computing)
+2. 💪 Opened PR [#4](https://github.com/AeroPython/awesome-scientific-computing/pull/4) in [AeroPython/awesome-scientific-computing](https://github.com/AeroPython/awesome-scientific-computing)
+3. 🗣 Commented on [#102](https://github.com/docker/docker-credential-helpers/issues/102#issuecomment-1814092152) in [docker/docker-credential-helpers](https://github.com/docker/docker-credential-helpers)
+4. 🗣 Commented on [#945](https://github.com/wimpysworld/deb-get/issues/945#issuecomment-1813881849) in [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get)
+5. 🔒 Closed issue [#945](https://github.com/wimpysworld/deb-get/issues/945) in [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get)
 <!--END_SECTION:activity-->
 
 ### Latest Youtube Video 📺
