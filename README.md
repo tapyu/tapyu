@@ -147,11 +147,11 @@ Linux                    1 hr 14 mins        ███████████�
 
 ### Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#10](https://github.com/AeroPython/awesome-scientific-computing/issues/10) in [AeroPython/awesome-scientific-computing](https://github.com/AeroPython/awesome-scientific-computing)
-2. 💪 Opened PR [#9](https://github.com/AeroPython/awesome-scientific-computing/pull/9) in [AeroPython/awesome-scientific-computing](https://github.com/AeroPython/awesome-scientific-computing)
-3. 💪 Opened PR [#8](https://github.com/AeroPython/awesome-scientific-computing/pull/8) in [AeroPython/awesome-scientific-computing](https://github.com/AeroPython/awesome-scientific-computing)
-4. 🗣 Commented on [#4](https://github.com/AeroPython/awesome-scientific-computing/pull/4#issuecomment-1831067634) in [AeroPython/awesome-scientific-computing](https://github.com/AeroPython/awesome-scientific-computing)
-5. 🗣 Commented on [#4](https://github.com/AeroPython/awesome-scientific-computing/pull/4#issuecomment-1830436770) in [AeroPython/awesome-scientific-computing](https://github.com/AeroPython/awesome-scientific-computing)
+1. 💪 Opened PR [#11](https://github.com/AeroPython/awesome-scientific-computing/pull/11) in [AeroPython/awesome-scientific-computing](https://github.com/AeroPython/awesome-scientific-computing)
+2. ❗ Opened issue [#10](https://github.com/AeroPython/awesome-scientific-computing/issues/10) in [AeroPython/awesome-scientific-computing](https://github.com/AeroPython/awesome-scientific-computing)
+3. 💪 Opened PR [#9](https://github.com/AeroPython/awesome-scientific-computing/pull/9) in [AeroPython/awesome-scientific-computing](https://github.com/AeroPython/awesome-scientific-computing)
+4. 💪 Opened PR [#8](https://github.com/AeroPython/awesome-scientific-computing/pull/8) in [AeroPython/awesome-scientific-computing](https://github.com/AeroPython/awesome-scientific-computing)
+5. 🗣 Commented on [#4](https://github.com/AeroPython/awesome-scientific-computing/pull/4#issuecomment-1831067634) in [AeroPython/awesome-scientific-computing](https://github.com/AeroPython/awesome-scientific-computing)
 <!--END_SECTION:activity-->
 
 ### Latest Youtube Video 📺
