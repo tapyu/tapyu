@@ -147,8 +147,8 @@ Linux                    1 hr 14 mins        ███████████�
 
 ### Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#253](https://github.com/thlorenz/doctoc/pull/253) in [thlorenz/doctoc](https://github.com/thlorenz/doctoc)
-2. ❌ Closed PR [#8](https://github.com/AeroPython/awesome-scientific-computing/pull/8) in [AeroPython/awesome-scientific-computing](https://github.com/AeroPython/awesome-scientific-computing)
+1. ❗ Opened issue [#180](https://github.com/sindresorhus/awesome-lint/issues/180) in [sindresorhus/awesome-lint](https://github.com/sindresorhus/awesome-lint)
+2. 💪 Opened PR [#253](https://github.com/thlorenz/doctoc/pull/253) in [thlorenz/doctoc](https://github.com/thlorenz/doctoc)
 3. ❌ Closed PR [#7](https://github.com/AeroPython/awesome-scientific-computing/pull/7) in [AeroPython/awesome-scientific-computing](https://github.com/AeroPython/awesome-scientific-computing)
 4. ❌ Closed PR [#4](https://github.com/AeroPython/awesome-scientific-computing/pull/4) in [AeroPython/awesome-scientific-computing](https://github.com/AeroPython/awesome-scientific-computing)
 5. 🗣 Commented on [#10](https://github.com/AeroPython/awesome-scientific-computing/issues/10#issuecomment-1832171851) in [AeroPython/awesome-scientific-computing](https://github.com/AeroPython/awesome-scientific-computing)
