@@ -148,11 +148,11 @@ Linux                    1 hr 33 mins        ███████████�
 
 ### Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#181](https://github.com/sindresorhus/awesome-lint/pull/181) in [sindresorhus/awesome-lint](https://github.com/sindresorhus/awesome-lint)
-2. 🗣 Commented on [#180](https://github.com/sindresorhus/awesome-lint/issues/180#issuecomment-1837406383) in [sindresorhus/awesome-lint](https://github.com/sindresorhus/awesome-lint)
-3. 🗣 Commented on [#180](https://github.com/sindresorhus/awesome-lint/issues/180#issuecomment-1837251954) in [sindresorhus/awesome-lint](https://github.com/sindresorhus/awesome-lint)
-4. ❗ Opened issue [#180](https://github.com/sindresorhus/awesome-lint/issues/180) in [sindresorhus/awesome-lint](https://github.com/sindresorhus/awesome-lint)
-5. 💪 Opened PR [#253](https://github.com/thlorenz/doctoc/pull/253) in [thlorenz/doctoc](https://github.com/thlorenz/doctoc)
+1. 💪 Opened PR [#861](https://github.com/denisidoro/navi/pull/861) in [denisidoro/navi](https://github.com/denisidoro/navi)
+2. ❗ Opened issue [#860](https://github.com/denisidoro/navi/issues/860) in [denisidoro/navi](https://github.com/denisidoro/navi)
+3. 💪 Opened PR [#181](https://github.com/sindresorhus/awesome-lint/pull/181) in [sindresorhus/awesome-lint](https://github.com/sindresorhus/awesome-lint)
+4. 🗣 Commented on [#180](https://github.com/sindresorhus/awesome-lint/issues/180#issuecomment-1837406383) in [sindresorhus/awesome-lint](https://github.com/sindresorhus/awesome-lint)
+5. 🗣 Commented on [#180](https://github.com/sindresorhus/awesome-lint/issues/180#issuecomment-1837251954) in [sindresorhus/awesome-lint](https://github.com/sindresorhus/awesome-lint)
 <!--END_SECTION:activity-->
 
 ### Latest Youtube Video 📺
