@@ -148,11 +148,11 @@ Linux                    1 hr 33 mins        ███████████�
 
 ### Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#180](https://github.com/sindresorhus/awesome-lint/issues/180#issuecomment-1837251954) in [sindresorhus/awesome-lint](https://github.com/sindresorhus/awesome-lint)
-2. ❗ Opened issue [#180](https://github.com/sindresorhus/awesome-lint/issues/180) in [sindresorhus/awesome-lint](https://github.com/sindresorhus/awesome-lint)
-3. 💪 Opened PR [#253](https://github.com/thlorenz/doctoc/pull/253) in [thlorenz/doctoc](https://github.com/thlorenz/doctoc)
-4. ❌ Closed PR [#4](https://github.com/AeroPython/awesome-scientific-computing/pull/4) in [AeroPython/awesome-scientific-computing](https://github.com/AeroPython/awesome-scientific-computing)
-5. 🗣 Commented on [#10](https://github.com/AeroPython/awesome-scientific-computing/issues/10#issuecomment-1832171851) in [AeroPython/awesome-scientific-computing](https://github.com/AeroPython/awesome-scientific-computing)
+1. 💪 Opened PR [#181](https://github.com/sindresorhus/awesome-lint/pull/181) in [sindresorhus/awesome-lint](https://github.com/sindresorhus/awesome-lint)
+2. 🗣 Commented on [#180](https://github.com/sindresorhus/awesome-lint/issues/180#issuecomment-1837406383) in [sindresorhus/awesome-lint](https://github.com/sindresorhus/awesome-lint)
+3. 🗣 Commented on [#180](https://github.com/sindresorhus/awesome-lint/issues/180#issuecomment-1837251954) in [sindresorhus/awesome-lint](https://github.com/sindresorhus/awesome-lint)
+4. ❗ Opened issue [#180](https://github.com/sindresorhus/awesome-lint/issues/180) in [sindresorhus/awesome-lint](https://github.com/sindresorhus/awesome-lint)
+5. 💪 Opened PR [#253](https://github.com/thlorenz/doctoc/pull/253) in [thlorenz/doctoc](https://github.com/thlorenz/doctoc)
 <!--END_SECTION:activity-->
 
 ### Latest Youtube Video 📺
