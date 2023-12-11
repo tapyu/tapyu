@@ -106,11 +106,11 @@ I work in the area of <b>satellite communication</b>, and I especially focus on 
 
 ### Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#180](https://github.com/sindresorhus/awesome-lint/issues/180#issuecomment-1840023189) in [sindresorhus/awesome-lint](https://github.com/sindresorhus/awesome-lint)
-2. 🗣 Commented on [#862](https://github.com/denisidoro/navi/issues/862#issuecomment-1837946465) in [denisidoro/navi](https://github.com/denisidoro/navi)
-3. 🗣 Commented on [#862](https://github.com/denisidoro/navi/issues/862#issuecomment-1837712101) in [denisidoro/navi](https://github.com/denisidoro/navi)
-4. ❗ Opened issue [#862](https://github.com/denisidoro/navi/issues/862) in [denisidoro/navi](https://github.com/denisidoro/navi)
-5. 🗣 Commented on [#860](https://github.com/denisidoro/navi/issues/860#issuecomment-1837626532) in [denisidoro/navi](https://github.com/denisidoro/navi)
+1. 💪 Opened PR [#866](https://github.com/denisidoro/navi/pull/866) in [denisidoro/navi](https://github.com/denisidoro/navi)
+2. 🗣 Commented on [#180](https://github.com/sindresorhus/awesome-lint/issues/180#issuecomment-1840023189) in [sindresorhus/awesome-lint](https://github.com/sindresorhus/awesome-lint)
+3. 🗣 Commented on [#862](https://github.com/denisidoro/navi/issues/862#issuecomment-1837946465) in [denisidoro/navi](https://github.com/denisidoro/navi)
+4. 🗣 Commented on [#862](https://github.com/denisidoro/navi/issues/862#issuecomment-1837712101) in [denisidoro/navi](https://github.com/denisidoro/navi)
+5. ❗ Opened issue [#862](https://github.com/denisidoro/navi/issues/862) in [denisidoro/navi](https://github.com/denisidoro/navi)
 <!--END_SECTION:activity-->
 
 ### Latest Youtube Video 📺
