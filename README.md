@@ -152,8 +152,8 @@ Windows                  1 hr 22 mins        ███████████�
 
 ### Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#866](https://github.com/denisidoro/navi/pull/866) in [denisidoro/navi](https://github.com/denisidoro/navi)
-2. 🗣 Commented on [#180](https://github.com/sindresorhus/awesome-lint/issues/180#issuecomment-1840023189) in [sindresorhus/awesome-lint](https://github.com/sindresorhus/awesome-lint)
+1. 🗣 Commented on [#4](https://github.com/se-jaeger/zsh-activate-py-environment/pull/4#issuecomment-1862444296) in [se-jaeger/zsh-activate-py-environment](https://github.com/se-jaeger/zsh-activate-py-environment)
+2. 💪 Opened PR [#4](https://github.com/se-jaeger/zsh-activate-py-environment/pull/4) in [se-jaeger/zsh-activate-py-environment](https://github.com/se-jaeger/zsh-activate-py-environment)
 3. 🗣 Commented on [#862](https://github.com/denisidoro/navi/issues/862#issuecomment-1837946465) in [denisidoro/navi](https://github.com/denisidoro/navi)
 4. 🗣 Commented on [#862](https://github.com/denisidoro/navi/issues/862#issuecomment-1837712101) in [denisidoro/navi](https://github.com/denisidoro/navi)
 5. ❗ Opened issue [#862](https://github.com/denisidoro/navi/issues/862) in [denisidoro/navi](https://github.com/denisidoro/navi)
