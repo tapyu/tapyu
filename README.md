@@ -152,11 +152,11 @@ Windows                  1 hr 22 mins        ███████████�
 
 ### Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ❌ Reopened PR [#4](https://github.com/se-jaeger/zsh-activate-py-environment/pull/4) in [se-jaeger/zsh-activate-py-environment](https://github.com/se-jaeger/zsh-activate-py-environment)
-2. ❌ Closed PR [#4](https://github.com/se-jaeger/zsh-activate-py-environment/pull/4) in [se-jaeger/zsh-activate-py-environment](https://github.com/se-jaeger/zsh-activate-py-environment)
-3. 🗣 Commented on [#4](https://github.com/se-jaeger/zsh-activate-py-environment/pull/4#issuecomment-1862444296) in [se-jaeger/zsh-activate-py-environment](https://github.com/se-jaeger/zsh-activate-py-environment)
-4. 💪 Opened PR [#4](https://github.com/se-jaeger/zsh-activate-py-environment/pull/4) in [se-jaeger/zsh-activate-py-environment](https://github.com/se-jaeger/zsh-activate-py-environment)
-5. ❗ Opened issue [#862](https://github.com/denisidoro/navi/issues/862) in [denisidoro/navi](https://github.com/denisidoro/navi)
+1. 🗣 Commented on [#4](https://github.com/se-jaeger/zsh-activate-py-environment/pull/4#issuecomment-1863618350) in [se-jaeger/zsh-activate-py-environment](https://github.com/se-jaeger/zsh-activate-py-environment)
+2. ❌ Reopened PR [#4](https://github.com/se-jaeger/zsh-activate-py-environment/pull/4) in [se-jaeger/zsh-activate-py-environment](https://github.com/se-jaeger/zsh-activate-py-environment)
+3. ❌ Closed PR [#4](https://github.com/se-jaeger/zsh-activate-py-environment/pull/4) in [se-jaeger/zsh-activate-py-environment](https://github.com/se-jaeger/zsh-activate-py-environment)
+4. 🗣 Commented on [#4](https://github.com/se-jaeger/zsh-activate-py-environment/pull/4#issuecomment-1862444296) in [se-jaeger/zsh-activate-py-environment](https://github.com/se-jaeger/zsh-activate-py-environment)
+5. 💪 Opened PR [#4](https://github.com/se-jaeger/zsh-activate-py-environment/pull/4) in [se-jaeger/zsh-activate-py-environment](https://github.com/se-jaeger/zsh-activate-py-environment)
 <!--END_SECTION:activity-->
 
 ### Latest Youtube Video 📺
