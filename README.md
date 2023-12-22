@@ -154,11 +154,11 @@ Windows                  1 hr 22 mins        ████░░░░░░░�
 
 ### Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#253](https://github.com/thlorenz/doctoc/pull/253) in [thlorenz/doctoc](https://github.com/thlorenz/doctoc)
-2. 🗣 Commented on [#181](https://github.com/sindresorhus/awesome-lint/pull/181#issuecomment-1867419634) in [sindresorhus/awesome-lint](https://github.com/sindresorhus/awesome-lint)
-3. 💪 Opened PR [#5](https://github.com/se-jaeger/zsh-activate-py-environment/pull/5) in [se-jaeger/zsh-activate-py-environment](https://github.com/se-jaeger/zsh-activate-py-environment)
-4. 🗣 Commented on [#4](https://github.com/se-jaeger/zsh-activate-py-environment/pull/4#issuecomment-1863618350) in [se-jaeger/zsh-activate-py-environment](https://github.com/se-jaeger/zsh-activate-py-environment)
-5. ❌ Reopened PR [#4](https://github.com/se-jaeger/zsh-activate-py-environment/pull/4) in [se-jaeger/zsh-activate-py-environment](https://github.com/se-jaeger/zsh-activate-py-environment)
+1. ❗ Opened issue [#3044](https://github.com/typst/typst/issues/3044) in [typst/typst](https://github.com/typst/typst)
+2. ❌ Closed PR [#253](https://github.com/thlorenz/doctoc/pull/253) in [thlorenz/doctoc](https://github.com/thlorenz/doctoc)
+3. 🗣 Commented on [#181](https://github.com/sindresorhus/awesome-lint/pull/181#issuecomment-1867419634) in [sindresorhus/awesome-lint](https://github.com/sindresorhus/awesome-lint)
+4. 💪 Opened PR [#5](https://github.com/se-jaeger/zsh-activate-py-environment/pull/5) in [se-jaeger/zsh-activate-py-environment](https://github.com/se-jaeger/zsh-activate-py-environment)
+5. 🗣 Commented on [#4](https://github.com/se-jaeger/zsh-activate-py-environment/pull/4#issuecomment-1863618350) in [se-jaeger/zsh-activate-py-environment](https://github.com/se-jaeger/zsh-activate-py-environment)
 <!--END_SECTION:activity-->
 
 ### Latest Youtube Video 📺
