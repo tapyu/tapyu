@@ -154,11 +154,11 @@ Windows                  55 mins             ███░░░░░░░░�
 
 ### Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#105](https://github.com/kitspace/awesome-electronics/pull/105) in [kitspace/awesome-electronics](https://github.com/kitspace/awesome-electronics)
-2. 💪 Opened PR [#104](https://github.com/kitspace/awesome-electronics/pull/104) in [kitspace/awesome-electronics](https://github.com/kitspace/awesome-electronics)
-3. ❌ Closed PR [#102](https://github.com/kitspace/awesome-electronics/pull/102) in [kitspace/awesome-electronics](https://github.com/kitspace/awesome-electronics)
-4. 💪 Opened PR [#103](https://github.com/kitspace/awesome-electronics/pull/103) in [kitspace/awesome-electronics](https://github.com/kitspace/awesome-electronics)
-5. 💪 Opened PR [#102](https://github.com/kitspace/awesome-electronics/pull/102) in [kitspace/awesome-electronics](https://github.com/kitspace/awesome-electronics)
+1. 💪 Opened PR [#24](https://github.com/nhivp/Awesome-Embedded/pull/24) in [nhivp/Awesome-Embedded](https://github.com/nhivp/Awesome-Embedded)
+2. 💪 Opened PR [#23](https://github.com/nhivp/Awesome-Embedded/pull/23) in [nhivp/Awesome-Embedded](https://github.com/nhivp/Awesome-Embedded)
+3. 💪 Opened PR [#105](https://github.com/kitspace/awesome-electronics/pull/105) in [kitspace/awesome-electronics](https://github.com/kitspace/awesome-electronics)
+4. 💪 Opened PR [#104](https://github.com/kitspace/awesome-electronics/pull/104) in [kitspace/awesome-electronics](https://github.com/kitspace/awesome-electronics)
+5. ❌ Closed PR [#102](https://github.com/kitspace/awesome-electronics/pull/102) in [kitspace/awesome-electronics](https://github.com/kitspace/awesome-electronics)
 <!--END_SECTION:activity-->
 
 ### Latest Youtube Video 📺
