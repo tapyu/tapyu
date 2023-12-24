@@ -154,11 +154,11 @@ Windows                  1 hr 22 mins        ████░░░░░░░�
 
 ### Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#254](https://github.com/thlorenz/doctoc/pull/254) in [thlorenz/doctoc](https://github.com/thlorenz/doctoc)
-2. ❌ Closed PR [#181](https://github.com/sindresorhus/awesome-lint/pull/181) in [sindresorhus/awesome-lint](https://github.com/sindresorhus/awesome-lint)
-3. ❗ Opened issue [#3044](https://github.com/typst/typst/issues/3044) in [typst/typst](https://github.com/typst/typst)
-4. ❌ Closed PR [#253](https://github.com/thlorenz/doctoc/pull/253) in [thlorenz/doctoc](https://github.com/thlorenz/doctoc)
-5. 🗣 Commented on [#181](https://github.com/sindresorhus/awesome-lint/pull/181#issuecomment-1867419634) in [sindresorhus/awesome-lint](https://github.com/sindresorhus/awesome-lint)
+1. 🗣 Commented on [#254](https://github.com/thlorenz/doctoc/pull/254#issuecomment-1868494059) in [thlorenz/doctoc](https://github.com/thlorenz/doctoc)
+2. 💪 Opened PR [#254](https://github.com/thlorenz/doctoc/pull/254) in [thlorenz/doctoc](https://github.com/thlorenz/doctoc)
+3. ❌ Closed PR [#181](https://github.com/sindresorhus/awesome-lint/pull/181) in [sindresorhus/awesome-lint](https://github.com/sindresorhus/awesome-lint)
+4. ❗ Opened issue [#3044](https://github.com/typst/typst/issues/3044) in [typst/typst](https://github.com/typst/typst)
+5. ❌ Closed PR [#253](https://github.com/thlorenz/doctoc/pull/253) in [thlorenz/doctoc](https://github.com/thlorenz/doctoc)
 <!--END_SECTION:activity-->
 
 ### Latest Youtube Video 📺
