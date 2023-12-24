@@ -154,11 +154,11 @@ Windows                  1 hr 22 mins        ████░░░░░░░�
 
 ### Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#181](https://github.com/sindresorhus/awesome-lint/pull/181) in [sindresorhus/awesome-lint](https://github.com/sindresorhus/awesome-lint)
-2. ❗ Opened issue [#3044](https://github.com/typst/typst/issues/3044) in [typst/typst](https://github.com/typst/typst)
-3. ❌ Closed PR [#253](https://github.com/thlorenz/doctoc/pull/253) in [thlorenz/doctoc](https://github.com/thlorenz/doctoc)
-4. 🗣 Commented on [#181](https://github.com/sindresorhus/awesome-lint/pull/181#issuecomment-1867419634) in [sindresorhus/awesome-lint](https://github.com/sindresorhus/awesome-lint)
-5. 💪 Opened PR [#5](https://github.com/se-jaeger/zsh-activate-py-environment/pull/5) in [se-jaeger/zsh-activate-py-environment](https://github.com/se-jaeger/zsh-activate-py-environment)
+1. 💪 Opened PR [#254](https://github.com/thlorenz/doctoc/pull/254) in [thlorenz/doctoc](https://github.com/thlorenz/doctoc)
+2. ❌ Closed PR [#181](https://github.com/sindresorhus/awesome-lint/pull/181) in [sindresorhus/awesome-lint](https://github.com/sindresorhus/awesome-lint)
+3. ❗ Opened issue [#3044](https://github.com/typst/typst/issues/3044) in [typst/typst](https://github.com/typst/typst)
+4. ❌ Closed PR [#253](https://github.com/thlorenz/doctoc/pull/253) in [thlorenz/doctoc](https://github.com/thlorenz/doctoc)
+5. 🗣 Commented on [#181](https://github.com/sindresorhus/awesome-lint/pull/181#issuecomment-1867419634) in [sindresorhus/awesome-lint](https://github.com/sindresorhus/awesome-lint)
 <!--END_SECTION:activity-->
 
 ### Latest Youtube Video 📺
