@@ -154,11 +154,11 @@ Windows                  55 mins             ███░░░░░░░░�
 
 ### Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#100](https://github.com/kitspace/awesome-electronics/pull/100) in [kitspace/awesome-electronics](https://github.com/kitspace/awesome-electronics)
-2. 💪 Opened PR [#99](https://github.com/kitspace/awesome-electronics/pull/99) in [kitspace/awesome-electronics](https://github.com/kitspace/awesome-electronics)
-3. 💪 Opened PR [#182](https://github.com/sindresorhus/awesome-lint/pull/182) in [sindresorhus/awesome-lint](https://github.com/sindresorhus/awesome-lint)
-4. 🗣 Commented on [#254](https://github.com/thlorenz/doctoc/pull/254#issuecomment-1868494059) in [thlorenz/doctoc](https://github.com/thlorenz/doctoc)
-5. 💪 Opened PR [#254](https://github.com/thlorenz/doctoc/pull/254) in [thlorenz/doctoc](https://github.com/thlorenz/doctoc)
+1. 💪 Opened PR [#105](https://github.com/kitspace/awesome-electronics/pull/105) in [kitspace/awesome-electronics](https://github.com/kitspace/awesome-electronics)
+2. 💪 Opened PR [#104](https://github.com/kitspace/awesome-electronics/pull/104) in [kitspace/awesome-electronics](https://github.com/kitspace/awesome-electronics)
+3. ❌ Closed PR [#102](https://github.com/kitspace/awesome-electronics/pull/102) in [kitspace/awesome-electronics](https://github.com/kitspace/awesome-electronics)
+4. 💪 Opened PR [#103](https://github.com/kitspace/awesome-electronics/pull/103) in [kitspace/awesome-electronics](https://github.com/kitspace/awesome-electronics)
+5. 💪 Opened PR [#102](https://github.com/kitspace/awesome-electronics/pull/102) in [kitspace/awesome-electronics](https://github.com/kitspace/awesome-electronics)
 <!--END_SECTION:activity-->
 
 ### Latest Youtube Video 📺
