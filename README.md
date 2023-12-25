@@ -154,11 +154,11 @@ Windows                  55 mins             ███░░░░░░░░�
 
 ### Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#101](https://github.com/kitspace/awesome-electronics/pull/101) in [kitspace/awesome-electronics](https://github.com/kitspace/awesome-electronics)
-2. 🗣 Commented on [#100](https://github.com/kitspace/awesome-electronics/pull/100#issuecomment-1868599486) in [kitspace/awesome-electronics](https://github.com/kitspace/awesome-electronics)
-3. 🎉 Merged PR [#100](https://github.com/kitspace/awesome-electronics/pull/100) in [kitspace/awesome-electronics](https://github.com/kitspace/awesome-electronics)
-4. 💪 Opened PR [#24](https://github.com/nhivp/Awesome-Embedded/pull/24) in [nhivp/Awesome-Embedded](https://github.com/nhivp/Awesome-Embedded)
-5. 💪 Opened PR [#23](https://github.com/nhivp/Awesome-Embedded/pull/23) in [nhivp/Awesome-Embedded](https://github.com/nhivp/Awesome-Embedded)
+1. 🎉 Merged PR [#105](https://github.com/kitspace/awesome-electronics/pull/105) in [kitspace/awesome-electronics](https://github.com/kitspace/awesome-electronics)
+2. 🎉 Merged PR [#101](https://github.com/kitspace/awesome-electronics/pull/101) in [kitspace/awesome-electronics](https://github.com/kitspace/awesome-electronics)
+3. 🗣 Commented on [#100](https://github.com/kitspace/awesome-electronics/pull/100#issuecomment-1868599486) in [kitspace/awesome-electronics](https://github.com/kitspace/awesome-electronics)
+4. 🎉 Merged PR [#100](https://github.com/kitspace/awesome-electronics/pull/100) in [kitspace/awesome-electronics](https://github.com/kitspace/awesome-electronics)
+5. 💪 Opened PR [#24](https://github.com/nhivp/Awesome-Embedded/pull/24) in [nhivp/Awesome-Embedded](https://github.com/nhivp/Awesome-Embedded)
 <!--END_SECTION:activity-->
 
 ### Latest Youtube Video 📺
