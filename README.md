@@ -151,11 +151,11 @@ Linux                    7 hrs 46 mins       ███████████�
 
 ### Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#60](https://github.com/kitspace/awesome-electronics/pull/60) in [kitspace/awesome-electronics](https://github.com/kitspace/awesome-electronics)
-2. ❌ Closed PR [#65](https://github.com/kitspace/awesome-electronics/pull/65) in [kitspace/awesome-electronics](https://github.com/kitspace/awesome-electronics)
-3. 🗣 Commented on [#59](https://github.com/kitspace/awesome-electronics/pull/59#issuecomment-1869203784) in [kitspace/awesome-electronics](https://github.com/kitspace/awesome-electronics)
-4. ❌ Closed PR [#59](https://github.com/kitspace/awesome-electronics/pull/59) in [kitspace/awesome-electronics](https://github.com/kitspace/awesome-electronics)
-5. 🗣 Commented on [#95](https://github.com/kitspace/awesome-electronics/pull/95#issuecomment-1869200158) in [kitspace/awesome-electronics](https://github.com/kitspace/awesome-electronics)
+1. ❌ Closed PR [#255](https://github.com/thlorenz/doctoc/pull/255) in [thlorenz/doctoc](https://github.com/thlorenz/doctoc)
+2. 💪 Opened PR [#255](https://github.com/thlorenz/doctoc/pull/255) in [thlorenz/doctoc](https://github.com/thlorenz/doctoc)
+3. 🎉 Merged PR [#60](https://github.com/kitspace/awesome-electronics/pull/60) in [kitspace/awesome-electronics](https://github.com/kitspace/awesome-electronics)
+4. ❌ Closed PR [#65](https://github.com/kitspace/awesome-electronics/pull/65) in [kitspace/awesome-electronics](https://github.com/kitspace/awesome-electronics)
+5. 🗣 Commented on [#59](https://github.com/kitspace/awesome-electronics/pull/59#issuecomment-1869203784) in [kitspace/awesome-electronics](https://github.com/kitspace/awesome-electronics)
 <!--END_SECTION:activity-->
 
 ### Latest Youtube Video 📺
