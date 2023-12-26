@@ -151,11 +151,11 @@ Linux                    7 hrs 46 mins       ███████████�
 
 ### Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7](https://github.com/kitspace/awesome-electronics/issues/7#issuecomment-1869077451) in [kitspace/awesome-electronics](https://github.com/kitspace/awesome-electronics)
-2. 🔒 Closed issue [#8](https://github.com/kitspace/awesome-electronics/issues/8) in [kitspace/awesome-electronics](https://github.com/kitspace/awesome-electronics)
-3. 🔒 Closed issue [#17](https://github.com/kitspace/awesome-electronics/issues/17) in [kitspace/awesome-electronics](https://github.com/kitspace/awesome-electronics)
-4. 🔒 Closed issue [#35](https://github.com/kitspace/awesome-electronics/issues/35) in [kitspace/awesome-electronics](https://github.com/kitspace/awesome-electronics)
-5. 🗣 Commented on [#94](https://github.com/kitspace/awesome-electronics/issues/94#issuecomment-1869040031) in [kitspace/awesome-electronics](https://github.com/kitspace/awesome-electronics)
+1. 🗣 Commented on [#95](https://github.com/kitspace/awesome-electronics/pull/95#issuecomment-1869200158) in [kitspace/awesome-electronics](https://github.com/kitspace/awesome-electronics)
+2. ❌ Closed PR [#95](https://github.com/kitspace/awesome-electronics/pull/95) in [kitspace/awesome-electronics](https://github.com/kitspace/awesome-electronics)
+3. 🗣 Commented on [#96](https://github.com/kitspace/awesome-electronics/pull/96#issuecomment-1869196349) in [kitspace/awesome-electronics](https://github.com/kitspace/awesome-electronics)
+4. 🔒 Closed issue [#7](https://github.com/kitspace/awesome-electronics/issues/7) in [kitspace/awesome-electronics](https://github.com/kitspace/awesome-electronics)
+5. 🗣 Commented on [#7](https://github.com/kitspace/awesome-electronics/issues/7#issuecomment-1869077451) in [kitspace/awesome-electronics](https://github.com/kitspace/awesome-electronics)
 <!--END_SECTION:activity-->
 
 ### Latest Youtube Video 📺
