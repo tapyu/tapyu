@@ -150,11 +150,11 @@ Linux                    1 hr 37 mins        ███████████�
 
 ### Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#106](https://github.com/kitspace/awesome-electronics/pull/106#issuecomment-1871479169) in [kitspace/awesome-electronics](https://github.com/kitspace/awesome-electronics)
-2. 💪 Opened PR [#106](https://github.com/kitspace/awesome-electronics/pull/106) in [kitspace/awesome-electronics](https://github.com/kitspace/awesome-electronics)
-3. ❌ Closed PR [#255](https://github.com/thlorenz/doctoc/pull/255) in [thlorenz/doctoc](https://github.com/thlorenz/doctoc)
-4. 💪 Opened PR [#255](https://github.com/thlorenz/doctoc/pull/255) in [thlorenz/doctoc](https://github.com/thlorenz/doctoc)
-5. 🎉 Merged PR [#60](https://github.com/kitspace/awesome-electronics/pull/60) in [kitspace/awesome-electronics](https://github.com/kitspace/awesome-electronics)
+1. 🗣 Commented on [#2924](https://github.com/sindresorhus/awesome/pull/2924#issuecomment-1873606707) in [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
+2. 💪 Opened PR [#2924](https://github.com/sindresorhus/awesome/pull/2924) in [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
+3. 🗣 Commented on [#2893](https://github.com/sindresorhus/awesome/pull/2893#issuecomment-1873593385) in [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
+4. 🗣 Commented on [#106](https://github.com/kitspace/awesome-electronics/pull/106#issuecomment-1871479169) in [kitspace/awesome-electronics](https://github.com/kitspace/awesome-electronics)
+5. 💪 Opened PR [#106](https://github.com/kitspace/awesome-electronics/pull/106) in [kitspace/awesome-electronics](https://github.com/kitspace/awesome-electronics)
 <!--END_SECTION:activity-->
 
 ### Latest Youtube Video 📺
