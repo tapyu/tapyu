@@ -148,11 +148,11 @@ Linux                    1 hr 31 mins        ███████████�
 
 ### Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#2939](https://github.com/sindresorhus/awesome/pull/2939) in [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
-2. 💪 Opened PR [#2939](https://github.com/sindresorhus/awesome/pull/2939) in [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
-3. ❌ Closed PR [#2938](https://github.com/sindresorhus/awesome/pull/2938) in [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
-4. 🗣 Commented on [#2938](https://github.com/sindresorhus/awesome/pull/2938#issuecomment-1888544695) in [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
-5. 🗣 Commented on [#2938](https://github.com/sindresorhus/awesome/pull/2938#issuecomment-1888544651) in [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
+1. 🗣 Commented on [#2939](https://github.com/sindresorhus/awesome/pull/2939#issuecomment-1888674195) in [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
+2. 🗣 Commented on [#2939](https://github.com/sindresorhus/awesome/pull/2939#issuecomment-1888671389) in [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
+3. ❌ Reopened PR [#2939](https://github.com/sindresorhus/awesome/pull/2939) in [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
+4. ❌ Closed PR [#2939](https://github.com/sindresorhus/awesome/pull/2939) in [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
+5. 💪 Opened PR [#2939](https://github.com/sindresorhus/awesome/pull/2939) in [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
 <!--END_SECTION:activity-->
 
 ### Latest Youtube Video 📺
