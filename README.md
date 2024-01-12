@@ -148,11 +148,11 @@ Linux                    1 hr 31 mins        ███████████�
 
 ### Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/tapyu/awesome-stem-academy/issues/1#issuecomment-1889069951) in [tapyu/awesome-stem-academy](https://github.com/tapyu/awesome-stem-academy)
-2. 🗣 Commented on [#2939](https://github.com/sindresorhus/awesome/pull/2939#issuecomment-1888674195) in [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
-3. 🗣 Commented on [#2939](https://github.com/sindresorhus/awesome/pull/2939#issuecomment-1888671389) in [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
-4. ❌ Reopened PR [#2939](https://github.com/sindresorhus/awesome/pull/2939) in [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
-5. ❌ Closed PR [#2939](https://github.com/sindresorhus/awesome/pull/2939) in [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
+1. 💪 Opened PR [#11](https://github.com/khuyentran1401/data-science-template/pull/11) in [khuyentran1401/data-science-template](https://github.com/khuyentran1401/data-science-template)
+2. 💪 Opened PR [#10](https://github.com/khuyentran1401/data-science-template/pull/10) in [khuyentran1401/data-science-template](https://github.com/khuyentran1401/data-science-template)
+3. 💪 Opened PR [#7](https://github.com/se-jaeger/zsh-activate-py-environment/pull/7) in [se-jaeger/zsh-activate-py-environment](https://github.com/se-jaeger/zsh-activate-py-environment)
+4. 🗣 Commented on [#1](https://github.com/tapyu/awesome-stem-academy/issues/1#issuecomment-1889069951) in [tapyu/awesome-stem-academy](https://github.com/tapyu/awesome-stem-academy)
+5. 🗣 Commented on [#2939](https://github.com/sindresorhus/awesome/pull/2939#issuecomment-1888674195) in [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
 <!--END_SECTION:activity-->
 
 ### Latest Youtube Video 📺
