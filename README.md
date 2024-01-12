@@ -148,11 +148,11 @@ Linux                    1 hr 31 mins        ███████████�
 
 ### Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2937](https://github.com/sindresorhus/awesome/pull/2937#issuecomment-1888536858) in [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
-2. 💪 Opened PR [#2937](https://github.com/sindresorhus/awesome/pull/2937) in [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
-3. 💪 Opened PR [#9](https://github.com/khuyentran1401/data-science-template/pull/9) in [khuyentran1401/data-science-template](https://github.com/khuyentran1401/data-science-template)
-4. ❌ Closed PR [#2924](https://github.com/sindresorhus/awesome/pull/2924) in [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
-5. 💪 Opened PR [#109](https://github.com/kitspace/awesome-electronics/pull/109) in [kitspace/awesome-electronics](https://github.com/kitspace/awesome-electronics)
+1. ❌ Closed PR [#2939](https://github.com/sindresorhus/awesome/pull/2939) in [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
+2. 💪 Opened PR [#2939](https://github.com/sindresorhus/awesome/pull/2939) in [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
+3. ❌ Closed PR [#2938](https://github.com/sindresorhus/awesome/pull/2938) in [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
+4. 🗣 Commented on [#2938](https://github.com/sindresorhus/awesome/pull/2938#issuecomment-1888544695) in [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
+5. 🗣 Commented on [#2938](https://github.com/sindresorhus/awesome/pull/2938#issuecomment-1888544651) in [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
 <!--END_SECTION:activity-->
 
 ### Latest Youtube Video 📺
