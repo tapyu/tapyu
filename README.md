@@ -151,11 +151,11 @@ Linux                    2 hrs 23 mins       ███████████�
 
 ### Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#14](https://github.com/clarkgrubb/latex-input/pull/14) in [clarkgrubb/latex-input](https://github.com/clarkgrubb/latex-input)
-2. 💪 Opened PR [#11](https://github.com/khuyentran1401/data-science-template/pull/11) in [khuyentran1401/data-science-template](https://github.com/khuyentran1401/data-science-template)
-3. 💪 Opened PR [#10](https://github.com/khuyentran1401/data-science-template/pull/10) in [khuyentran1401/data-science-template](https://github.com/khuyentran1401/data-science-template)
-4. 💪 Opened PR [#7](https://github.com/se-jaeger/zsh-activate-py-environment/pull/7) in [se-jaeger/zsh-activate-py-environment](https://github.com/se-jaeger/zsh-activate-py-environment)
-5. 🗣 Commented on [#1](https://github.com/tapyu/awesome-stem-academy/issues/1#issuecomment-1889069951) in [tapyu/awesome-stem-academy](https://github.com/tapyu/awesome-stem-academy)
+1. 🔒 Closed issue [#1](https://github.com/tapyu/awesome-stem-academy/issues/1) in [tapyu/awesome-stem-academy](https://github.com/tapyu/awesome-stem-academy)
+2. 🗣 Commented on [#1](https://github.com/tapyu/awesome-stem-academy/issues/1#issuecomment-1890391032) in [tapyu/awesome-stem-academy](https://github.com/tapyu/awesome-stem-academy)
+3. 💪 Opened PR [#14](https://github.com/clarkgrubb/latex-input/pull/14) in [clarkgrubb/latex-input](https://github.com/clarkgrubb/latex-input)
+4. 💪 Opened PR [#11](https://github.com/khuyentran1401/data-science-template/pull/11) in [khuyentran1401/data-science-template](https://github.com/khuyentran1401/data-science-template)
+5. 💪 Opened PR [#10](https://github.com/khuyentran1401/data-science-template/pull/10) in [khuyentran1401/data-science-template](https://github.com/khuyentran1401/data-science-template)
 <!--END_SECTION:activity-->
 
 ### Latest Youtube Video 📺
