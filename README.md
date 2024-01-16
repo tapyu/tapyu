@@ -153,11 +153,11 @@ Linux                    13 hrs 3 mins       ███████████�
 
 ### Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#13](https://github.com/khuyentran1401/data-science-template/issues/13) in [khuyentran1401/data-science-template](https://github.com/khuyentran1401/data-science-template)
-2. ❌ Closed PR [#12](https://github.com/khuyentran1401/data-science-template/pull/12) in [khuyentran1401/data-science-template](https://github.com/khuyentran1401/data-science-template)
-3. 🗣 Commented on [#12](https://github.com/khuyentran1401/data-science-template/pull/12#issuecomment-1892152645) in [khuyentran1401/data-science-template](https://github.com/khuyentran1401/data-science-template)
-4. 💪 Opened PR [#12](https://github.com/khuyentran1401/data-science-template/pull/12) in [khuyentran1401/data-science-template](https://github.com/khuyentran1401/data-science-template)
-5. 🗣 Commented on [#8](https://github.com/khuyentran1401/data-science-template/issues/8#issuecomment-1891094395) in [khuyentran1401/data-science-template](https://github.com/khuyentran1401/data-science-template)
+1. 💪 Opened PR [#871](https://github.com/denisidoro/navi/pull/871) in [denisidoro/navi](https://github.com/denisidoro/navi)
+2. ❗ Opened issue [#13](https://github.com/khuyentran1401/data-science-template/issues/13) in [khuyentran1401/data-science-template](https://github.com/khuyentran1401/data-science-template)
+3. ❌ Closed PR [#12](https://github.com/khuyentran1401/data-science-template/pull/12) in [khuyentran1401/data-science-template](https://github.com/khuyentran1401/data-science-template)
+4. 🗣 Commented on [#12](https://github.com/khuyentran1401/data-science-template/pull/12#issuecomment-1892152645) in [khuyentran1401/data-science-template](https://github.com/khuyentran1401/data-science-template)
+5. 💪 Opened PR [#12](https://github.com/khuyentran1401/data-science-template/pull/12) in [khuyentran1401/data-science-template](https://github.com/khuyentran1401/data-science-template)
 <!--END_SECTION:activity-->
 
 ### Latest Youtube Video 📺
