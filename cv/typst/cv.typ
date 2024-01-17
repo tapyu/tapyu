@@ -394,7 +394,7 @@ Skilled Engineer with academic experience in Satellite Communications and multid
 - Scientific programming languages: Python, Julia, R, MATLAB/Simulink, Octave.
 - Deep learning frameworks: PyTorch, TensorFlow, Keras.
 - MLOps Tools:
-  // - Cloud platform services: AWS, GCP, or Azure.
+  // - Cloud platform services: Amazon Web Services (AWS), Google Cloud Platform (GCP), Microsoft Azure.
   - Amazon Web Services (AWS) ecosystem: Amazon SageMaker, Elastic Container Service (ECS), Elastic Container Registry (ECR).
   - CI/CD Pipelines: Jenkins, GitHub Actions, Travis CI.
   - Container technologies: Docker, Kubernetes.
