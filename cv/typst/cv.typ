@@ -392,11 +392,14 @@ Skilled Engineer with academic experience in Satellite Communications and multid
 
 == Technical
 - Scientific programming languages: Python, Julia, R, MATLAB/Simulink, Octave.
+- Deep learning frameworks: PyTorch, TensorFlow, Keras.
+- MLOps Tools:
+  - Amazon Web Services (AWS) ecosystem: Amazon SageMaker, Elastic Container Service (ECS), Elastic Container Registry (ECR).
+  - CI/CD Automation: Jenkins, GitHub Actions.
+  - Container technologies: Docker, Kubernetes.
+  - Data Version Control (DVC).
+  - MLFlow.
 - Embedded systems programming languages: C, C++, MicroPython, and Assembly. // Rust
-- Hardware Description Languages: VHDL.
-- Electronic design automation (EDA)
-  - PCB (printed circuit board) design: Altium, KiCad, EasyEDA, Proteus.
-  - Circuit simulation: LTspice, Multisim, Proteus.
 - GNU/Linux: UNIX Shell scripting, Linux system fundamentals, git.
 - Typesetting systems: LaTeX, Typst.
 
