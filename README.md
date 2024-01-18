@@ -42,7 +42,7 @@ I work in the area of <b>satellite communication</b>, and I especially focus on 
   <tr>
     <td width="250">Statistical signal processing for space communication</td>
      <td width="250">Machine learning and neural networks (which does not differ that much from the first topic, btw)</td>
-     <td width="350">Embedded systems (in such as FPGA and DSP) for Implementation of digital modems</td>
+     <td width="350">FPGA and DSP for Implementation of digital modems</td>
   </tr>
   <tr>
     <td valign="top" align="center"><img height="250" width="250" src="figs/signal.gif"></td>
