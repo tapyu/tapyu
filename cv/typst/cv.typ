@@ -401,8 +401,8 @@ Skilled Engineer with academic experience in Satellite Communications and multid
   - CI/CD Pipelines: Jenkins, GitHub Actions, Travis CI.
   - Container technologies: Docker, Kubernetes.
   - Data Version Control (DVC).
-  - MLFlow, Kubeflow, TensorFlow Extended (TFX) Serving.
-- Embedded systems programming languages: C, C++, MicroPython, and Assembly. // Rust
+  // - MLFlow, Kubeflow, TensorFlow Extended (TFX) Serving.
+- Systems programming languages: C, C++, and Assembly. // Rust
 - GNU/Linux: UNIX Shell scripting, Linux system fundamentals, git.
 - Typesetting systems: LaTeX, Typst.
 
