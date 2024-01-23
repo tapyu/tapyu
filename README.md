@@ -153,10 +153,10 @@ Linux                    6 hrs 3 mins        ███████████�
 
 ### Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#872](https://github.com/denisidoro/navi/pull/872) in [denisidoro/navi](https://github.com/denisidoro/navi)
-2. 🗣 Commented on [#13](https://github.com/khuyentran1401/data-science-template/issues/13#issuecomment-1896138155) in [khuyentran1401/data-science-template](https://github.com/khuyentran1401/data-science-template)
-3. 💪 Opened PR [#871](https://github.com/denisidoro/navi/pull/871) in [denisidoro/navi](https://github.com/denisidoro/navi)
-4. ❗ Opened issue [#13](https://github.com/khuyentran1401/data-science-template/issues/13) in [khuyentran1401/data-science-template](https://github.com/khuyentran1401/data-science-template)
+1. 🗣 Commented on [#975](https://github.com/wimpysworld/deb-get/issues/975#issuecomment-1905078673) in [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get)
+2. ❗ Opened issue [#975](https://github.com/wimpysworld/deb-get/issues/975) in [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get)
+3. 💪 Opened PR [#872](https://github.com/denisidoro/navi/pull/872) in [denisidoro/navi](https://github.com/denisidoro/navi)
+4. 🗣 Commented on [#13](https://github.com/khuyentran1401/data-science-template/issues/13#issuecomment-1896138155) in [khuyentran1401/data-science-template](https://github.com/khuyentran1401/data-science-template)
 5. ❌ Closed PR [#12](https://github.com/khuyentran1401/data-science-template/pull/12) in [khuyentran1401/data-science-template](https://github.com/khuyentran1401/data-science-template)
 <!--END_SECTION:activity-->
 
