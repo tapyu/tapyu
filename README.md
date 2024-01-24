@@ -153,11 +153,11 @@ Linux                    2 hrs 44 mins       ███████████�
 
 ### Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#976](https://github.com/wimpysworld/deb-get/pull/976) in [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get)
-2. 🗣 Commented on [#975](https://github.com/wimpysworld/deb-get/issues/975#issuecomment-1905289635) in [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get)
-3. 🗣 Commented on [#975](https://github.com/wimpysworld/deb-get/issues/975#issuecomment-1905288418) in [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get)
-4. 🗣 Commented on [#975](https://github.com/wimpysworld/deb-get/issues/975#issuecomment-1905283678) in [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get)
-5. 🗣 Commented on [#975](https://github.com/wimpysworld/deb-get/issues/975#issuecomment-1905078673) in [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get)
+1. 💪 Opened PR [#12124](https://github.com/tldr-pages/tldr/pull/12124) in [tldr-pages/tldr](https://github.com/tldr-pages/tldr)
+2. 💪 Opened PR [#976](https://github.com/wimpysworld/deb-get/pull/976) in [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get)
+3. 🗣 Commented on [#975](https://github.com/wimpysworld/deb-get/issues/975#issuecomment-1905289635) in [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get)
+4. 🗣 Commented on [#975](https://github.com/wimpysworld/deb-get/issues/975#issuecomment-1905288418) in [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get)
+5. 🗣 Commented on [#975](https://github.com/wimpysworld/deb-get/issues/975#issuecomment-1905283678) in [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get)
 <!--END_SECTION:activity-->
 
 ### Latest Youtube Video 📺
