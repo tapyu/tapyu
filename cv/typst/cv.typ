@@ -396,12 +396,11 @@ Skilled Engineer with academic experience in Satellite Communications and multid
 - MLOps Tools:
   // NOTE: https://neptune.ai/blog/mlops-tools-platforms-landscape
   // - Cloud platform services: Amazon Web Services (AWS), Google Cloud Platform (GCP), Microsoft Azure Cloud.
-  // - End-to-end MLOps platforms: Azure Machine Learning, Google Cloud AI Platform, Amazon SageMaker, Kubeflow.
+  // - End-to-end MLOps platforms: Azure Machine Learning, Amazon SageMaker, Kubeflow, MLFlow.
   - Amazon Web Services (AWS) ecosystem: Amazon SageMaker, Elastic Container Service (ECS), Elastic Container Registry (ECR).
   - CI/CD Pipelines: Jenkins, GitHub Actions, Travis CI.
   - Container technologies: Docker, Kubernetes.
   - Data Version Control (DVC).
-  // - MLFlow, Kubeflow, TensorFlow Extended (TFX) Serving.
 - Systems programming languages: C, C++, and Assembly. // Rust
 - GNU/Linux: UNIX Shell scripting, Linux system fundamentals, git.
 - Typesetting systems: LaTeX, Typst.
