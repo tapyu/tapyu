@@ -150,11 +150,11 @@ Linux                    41 mins             ███████████�
 
 ### Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12124](https://github.com/tldr-pages/tldr/pull/12124#issuecomment-1907425413) in [tldr-pages/tldr](https://github.com/tldr-pages/tldr)
-2. 💪 Opened PR [#12124](https://github.com/tldr-pages/tldr/pull/12124) in [tldr-pages/tldr](https://github.com/tldr-pages/tldr)
-3. 💪 Opened PR [#976](https://github.com/wimpysworld/deb-get/pull/976) in [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get)
-4. 🗣 Commented on [#975](https://github.com/wimpysworld/deb-get/issues/975#issuecomment-1905289635) in [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get)
-5. 🗣 Commented on [#975](https://github.com/wimpysworld/deb-get/issues/975#issuecomment-1905288418) in [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get)
+1. ❌ Reopened PR [#14](https://github.com/khuyentran1401/data-science-template/pull/14) in [khuyentran1401/data-science-template](https://github.com/khuyentran1401/data-science-template)
+2. ❌ Closed PR [#14](https://github.com/khuyentran1401/data-science-template/pull/14) in [khuyentran1401/data-science-template](https://github.com/khuyentran1401/data-science-template)
+3. 💪 Opened PR [#14](https://github.com/khuyentran1401/data-science-template/pull/14) in [khuyentran1401/data-science-template](https://github.com/khuyentran1401/data-science-template)
+4. 🗣 Commented on [#12124](https://github.com/tldr-pages/tldr/pull/12124#issuecomment-1907425413) in [tldr-pages/tldr](https://github.com/tldr-pages/tldr)
+5. 💪 Opened PR [#12124](https://github.com/tldr-pages/tldr/pull/12124) in [tldr-pages/tldr](https://github.com/tldr-pages/tldr)
 <!--END_SECTION:activity-->
 
 ### Latest Youtube Video 📺
