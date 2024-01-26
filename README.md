@@ -150,11 +150,11 @@ Linux                    41 mins             ███████████�
 
 ### Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#11](https://github.com/khuyentran1401/data-science-template/pull/11) in [khuyentran1401/data-science-template](https://github.com/khuyentran1401/data-science-template)
-2. ❌ Closed PR [#10](https://github.com/khuyentran1401/data-science-template/pull/10) in [khuyentran1401/data-science-template](https://github.com/khuyentran1401/data-science-template)
-3. ❗ Opened issue [#8](https://github.com/se-jaeger/zsh-activate-py-environment/issues/8) in [se-jaeger/zsh-activate-py-environment](https://github.com/se-jaeger/zsh-activate-py-environment)
-4. 🗣 Commented on [#14](https://github.com/khuyentran1401/data-science-template/pull/14#issuecomment-1911447219) in [khuyentran1401/data-science-template](https://github.com/khuyentran1401/data-science-template)
-5. ❌ Reopened PR [#14](https://github.com/khuyentran1401/data-science-template/pull/14) in [khuyentran1401/data-science-template](https://github.com/khuyentran1401/data-science-template)
+1. 💪 Opened PR [#17](https://github.com/khuyentran1401/data-science-template/pull/17) in [khuyentran1401/data-science-template](https://github.com/khuyentran1401/data-science-template)
+2. 💪 Opened PR [#16](https://github.com/khuyentran1401/data-science-template/pull/16) in [khuyentran1401/data-science-template](https://github.com/khuyentran1401/data-science-template)
+3. 💪 Opened PR [#15](https://github.com/khuyentran1401/data-science-template/pull/15) in [khuyentran1401/data-science-template](https://github.com/khuyentran1401/data-science-template)
+4. ❌ Closed PR [#11](https://github.com/khuyentran1401/data-science-template/pull/11) in [khuyentran1401/data-science-template](https://github.com/khuyentran1401/data-science-template)
+5. ❌ Closed PR [#10](https://github.com/khuyentran1401/data-science-template/pull/10) in [khuyentran1401/data-science-template](https://github.com/khuyentran1401/data-science-template)
 <!--END_SECTION:activity-->
 
 ### Latest Youtube Video 📺
