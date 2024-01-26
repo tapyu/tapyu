@@ -150,11 +150,11 @@ Linux                    41 mins             ███████████�
 
 ### Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#17](https://github.com/khuyentran1401/data-science-template/pull/17) in [khuyentran1401/data-science-template](https://github.com/khuyentran1401/data-science-template)
-2. 💪 Opened PR [#16](https://github.com/khuyentran1401/data-science-template/pull/16) in [khuyentran1401/data-science-template](https://github.com/khuyentran1401/data-science-template)
-3. 💪 Opened PR [#15](https://github.com/khuyentran1401/data-science-template/pull/15) in [khuyentran1401/data-science-template](https://github.com/khuyentran1401/data-science-template)
-4. ❌ Closed PR [#11](https://github.com/khuyentran1401/data-science-template/pull/11) in [khuyentran1401/data-science-template](https://github.com/khuyentran1401/data-science-template)
-5. ❌ Closed PR [#10](https://github.com/khuyentran1401/data-science-template/pull/10) in [khuyentran1401/data-science-template](https://github.com/khuyentran1401/data-science-template)
+1. 🗣 Commented on [#14](https://github.com/khuyentran1401/data-science-template/pull/14#issuecomment-1912388863) in [khuyentran1401/data-science-template](https://github.com/khuyentran1401/data-science-template)
+2. 🗣 Commented on [#4573](https://github.com/microsoft/vscode-jupyter/issues/4573#issuecomment-1912374674) in [microsoft/vscode-jupyter](https://github.com/microsoft/vscode-jupyter)
+3. 💪 Opened PR [#17](https://github.com/khuyentran1401/data-science-template/pull/17) in [khuyentran1401/data-science-template](https://github.com/khuyentran1401/data-science-template)
+4. 💪 Opened PR [#16](https://github.com/khuyentran1401/data-science-template/pull/16) in [khuyentran1401/data-science-template](https://github.com/khuyentran1401/data-science-template)
+5. 💪 Opened PR [#15](https://github.com/khuyentran1401/data-science-template/pull/15) in [khuyentran1401/data-science-template](https://github.com/khuyentran1401/data-science-template)
 <!--END_SECTION:activity-->
 
 ### Latest Youtube Video 📺
