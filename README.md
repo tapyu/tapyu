@@ -150,11 +150,11 @@ Linux                    41 mins             ███████████�
 
 ### Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#14](https://github.com/khuyentran1401/data-science-template/pull/14#issuecomment-1911447219) in [khuyentran1401/data-science-template](https://github.com/khuyentran1401/data-science-template)
-2. ❌ Reopened PR [#14](https://github.com/khuyentran1401/data-science-template/pull/14) in [khuyentran1401/data-science-template](https://github.com/khuyentran1401/data-science-template)
-3. ❌ Closed PR [#14](https://github.com/khuyentran1401/data-science-template/pull/14) in [khuyentran1401/data-science-template](https://github.com/khuyentran1401/data-science-template)
-4. 💪 Opened PR [#14](https://github.com/khuyentran1401/data-science-template/pull/14) in [khuyentran1401/data-science-template](https://github.com/khuyentran1401/data-science-template)
-5. 🗣 Commented on [#12124](https://github.com/tldr-pages/tldr/pull/12124#issuecomment-1907425413) in [tldr-pages/tldr](https://github.com/tldr-pages/tldr)
+1. ❌ Closed PR [#11](https://github.com/khuyentran1401/data-science-template/pull/11) in [khuyentran1401/data-science-template](https://github.com/khuyentran1401/data-science-template)
+2. ❌ Closed PR [#10](https://github.com/khuyentran1401/data-science-template/pull/10) in [khuyentran1401/data-science-template](https://github.com/khuyentran1401/data-science-template)
+3. ❗ Opened issue [#8](https://github.com/se-jaeger/zsh-activate-py-environment/issues/8) in [se-jaeger/zsh-activate-py-environment](https://github.com/se-jaeger/zsh-activate-py-environment)
+4. 🗣 Commented on [#14](https://github.com/khuyentran1401/data-science-template/pull/14#issuecomment-1911447219) in [khuyentran1401/data-science-template](https://github.com/khuyentran1401/data-science-template)
+5. ❌ Reopened PR [#14](https://github.com/khuyentran1401/data-science-template/pull/14) in [khuyentran1401/data-science-template](https://github.com/khuyentran1401/data-science-template)
 <!--END_SECTION:activity-->
 
 ### Latest Youtube Video 📺
