@@ -150,11 +150,11 @@ Linux                    41 mins             ███████████�
 
 ### Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8](https://github.com/khuyentran1401/data-science-template/issues/8#issuecomment-1913145181) in [khuyentran1401/data-science-template](https://github.com/khuyentran1401/data-science-template)
-2. ❗ Opened issue [#4394](https://github.com/aws/sagemaker-python-sdk/issues/4394) in [aws/sagemaker-python-sdk](https://github.com/aws/sagemaker-python-sdk)
-3. 🗣 Commented on [#9](https://github.com/se-jaeger/zsh-activate-py-environment/pull/9#issuecomment-1913010427) in [se-jaeger/zsh-activate-py-environment](https://github.com/se-jaeger/zsh-activate-py-environment)
-4. 💪 Opened PR [#9](https://github.com/se-jaeger/zsh-activate-py-environment/pull/9) in [se-jaeger/zsh-activate-py-environment](https://github.com/se-jaeger/zsh-activate-py-environment)
-5. 🗣 Commented on [#14](https://github.com/khuyentran1401/data-science-template/pull/14#issuecomment-1912388863) in [khuyentran1401/data-science-template](https://github.com/khuyentran1401/data-science-template)
+1. 🗣 Commented on [#14](https://github.com/khuyentran1401/data-science-template/pull/14#issuecomment-1913196836) in [khuyentran1401/data-science-template](https://github.com/khuyentran1401/data-science-template)
+2. 🗣 Commented on [#8](https://github.com/khuyentran1401/data-science-template/issues/8#issuecomment-1913192030) in [khuyentran1401/data-science-template](https://github.com/khuyentran1401/data-science-template)
+3. 🗣 Commented on [#8](https://github.com/khuyentran1401/data-science-template/issues/8#issuecomment-1913145181) in [khuyentran1401/data-science-template](https://github.com/khuyentran1401/data-science-template)
+4. ❗ Opened issue [#4394](https://github.com/aws/sagemaker-python-sdk/issues/4394) in [aws/sagemaker-python-sdk](https://github.com/aws/sagemaker-python-sdk)
+5. 🗣 Commented on [#9](https://github.com/se-jaeger/zsh-activate-py-environment/pull/9#issuecomment-1913010427) in [se-jaeger/zsh-activate-py-environment](https://github.com/se-jaeger/zsh-activate-py-environment)
 <!--END_SECTION:activity-->
 
 ### Latest Youtube Video 📺
