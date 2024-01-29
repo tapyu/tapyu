@@ -153,11 +153,11 @@ Linux                    4 hrs 21 mins       ███████████�
 
 ### Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#14](https://github.com/khuyentran1401/data-science-template/pull/14#issuecomment-1914329502) in [khuyentran1401/data-science-template](https://github.com/khuyentran1401/data-science-template)
-2. 🗣 Commented on [#14](https://github.com/khuyentran1401/data-science-template/pull/14#issuecomment-1914311208) in [khuyentran1401/data-science-template](https://github.com/khuyentran1401/data-science-template)
-3. 🗣 Commented on [#14](https://github.com/khuyentran1401/data-science-template/pull/14#issuecomment-1913667501) in [khuyentran1401/data-science-template](https://github.com/khuyentran1401/data-science-template)
-4. 🗣 Commented on [#14](https://github.com/khuyentran1401/data-science-template/pull/14#issuecomment-1913196836) in [khuyentran1401/data-science-template](https://github.com/khuyentran1401/data-science-template)
-5. 🗣 Commented on [#8](https://github.com/khuyentran1401/data-science-template/issues/8#issuecomment-1913192030) in [khuyentran1401/data-science-template](https://github.com/khuyentran1401/data-science-template)
+1. ❗ Opened issue [#358](https://github.com/tmbo/questionary/issues/358) in [tmbo/questionary](https://github.com/tmbo/questionary)
+2. 🗣 Commented on [#14](https://github.com/khuyentran1401/data-science-template/pull/14#issuecomment-1914329502) in [khuyentran1401/data-science-template](https://github.com/khuyentran1401/data-science-template)
+3. 🗣 Commented on [#14](https://github.com/khuyentran1401/data-science-template/pull/14#issuecomment-1914311208) in [khuyentran1401/data-science-template](https://github.com/khuyentran1401/data-science-template)
+4. 🗣 Commented on [#14](https://github.com/khuyentran1401/data-science-template/pull/14#issuecomment-1913667501) in [khuyentran1401/data-science-template](https://github.com/khuyentran1401/data-science-template)
+5. 🗣 Commented on [#14](https://github.com/khuyentran1401/data-science-template/pull/14#issuecomment-1913196836) in [khuyentran1401/data-science-template](https://github.com/khuyentran1401/data-science-template)
 <!--END_SECTION:activity-->
 
 ### Latest Youtube Video 📺
