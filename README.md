@@ -153,11 +153,11 @@ Linux                    4 hrs 21 mins       ███████████�
 
 ### Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8](https://github.com/khuyentran1401/data-science-template/issues/8#issuecomment-1916899914) in [khuyentran1401/data-science-template](https://github.com/khuyentran1401/data-science-template)
-2. 🗣 Commented on [#18](https://github.com/khuyentran1401/data-science-template/pull/18#issuecomment-1915284975) in [khuyentran1401/data-science-template](https://github.com/khuyentran1401/data-science-template)
-3. 🗣 Commented on [#18](https://github.com/khuyentran1401/data-science-template/pull/18#issuecomment-1915205954) in [khuyentran1401/data-science-template](https://github.com/khuyentran1401/data-science-template)
-4. 💪 Opened PR [#18](https://github.com/khuyentran1401/data-science-template/pull/18) in [khuyentran1401/data-science-template](https://github.com/khuyentran1401/data-science-template)
-5. ❌ Closed PR [#9](https://github.com/se-jaeger/zsh-activate-py-environment/pull/9) in [se-jaeger/zsh-activate-py-environment](https://github.com/se-jaeger/zsh-activate-py-environment)
+1. 🗣 Commented on [#8](https://github.com/khuyentran1401/data-science-template/issues/8#issuecomment-1916936906) in [khuyentran1401/data-science-template](https://github.com/khuyentran1401/data-science-template)
+2. 🗣 Commented on [#8](https://github.com/khuyentran1401/data-science-template/issues/8#issuecomment-1916899914) in [khuyentran1401/data-science-template](https://github.com/khuyentran1401/data-science-template)
+3. 🗣 Commented on [#18](https://github.com/khuyentran1401/data-science-template/pull/18#issuecomment-1915284975) in [khuyentran1401/data-science-template](https://github.com/khuyentran1401/data-science-template)
+4. 🗣 Commented on [#18](https://github.com/khuyentran1401/data-science-template/pull/18#issuecomment-1915205954) in [khuyentran1401/data-science-template](https://github.com/khuyentran1401/data-science-template)
+5. 💪 Opened PR [#18](https://github.com/khuyentran1401/data-science-template/pull/18) in [khuyentran1401/data-science-template](https://github.com/khuyentran1401/data-science-template)
 <!--END_SECTION:activity-->
 
 ### Latest Youtube Video 📺
