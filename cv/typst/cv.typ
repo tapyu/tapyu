@@ -364,7 +364,7 @@
 
 Skilled Engineer with academic experience in Satellite Communications and multidisciplinary background in
 - Deep Learning, Pattern Recognition, and Artificial Intelligence.
-- Statistical Signal Processing and Adaptive Filtering.
+- Statistical Signal Processing, System Identification, and Adaptive Filtering.
 - Estimation, Detection and Optimization Theory.
 
 = Education
