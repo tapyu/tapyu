@@ -363,9 +363,9 @@
 = Carrer Summary
 
 Skilled Engineer with academic experience in Satellite Communications and multidisciplinary background in
-- Deep Learning, Pattern Recognition, System Identification.
-- Estimation, Detection and Optimization Theory, Adaptive Filtering.
-- FPGA (Field Programmable Gate Array) and DSP (Digital Signal Processor).
+- Deep Learning, Pattern Recognition, and Artificial Intelligence.
+- Statistical Signal Processing and Adaptive Filtering.
+- Estimation, Detection and Optimization Theory.
 
 = Education
 #add_education(education.graduation)
