@@ -150,11 +150,11 @@ Linux                    2 hrs 57 mins       ███████████�
 
 ### Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8](https://github.com/se-jaeger/zsh-activate-py-environment/issues/8#issuecomment-1935192246) in [se-jaeger/zsh-activate-py-environment](https://github.com/se-jaeger/zsh-activate-py-environment)
-2. 🗣 Commented on [#8](https://github.com/se-jaeger/zsh-activate-py-environment/issues/8#issuecomment-1935187226) in [se-jaeger/zsh-activate-py-environment](https://github.com/se-jaeger/zsh-activate-py-environment)
-3. 🗣 Commented on [#18](https://github.com/khuyentran1401/data-science-template/pull/18#issuecomment-1935175112) in [khuyentran1401/data-science-template](https://github.com/khuyentran1401/data-science-template)
-4. 🗣 Commented on [#8](https://github.com/se-jaeger/zsh-activate-py-environment/issues/8#issuecomment-1926075826) in [se-jaeger/zsh-activate-py-environment](https://github.com/se-jaeger/zsh-activate-py-environment)
-5. 🗣 Commented on [#18](https://github.com/khuyentran1401/data-science-template/pull/18#issuecomment-1926032967) in [khuyentran1401/data-science-template](https://github.com/khuyentran1401/data-science-template)
+1. ❗ Opened issue [#3394](https://github.com/typst/typst/issues/3394) in [typst/typst](https://github.com/typst/typst)
+2. 🗣 Commented on [#8](https://github.com/se-jaeger/zsh-activate-py-environment/issues/8#issuecomment-1935192246) in [se-jaeger/zsh-activate-py-environment](https://github.com/se-jaeger/zsh-activate-py-environment)
+3. 🗣 Commented on [#8](https://github.com/se-jaeger/zsh-activate-py-environment/issues/8#issuecomment-1935187226) in [se-jaeger/zsh-activate-py-environment](https://github.com/se-jaeger/zsh-activate-py-environment)
+4. 🗣 Commented on [#18](https://github.com/khuyentran1401/data-science-template/pull/18#issuecomment-1935175112) in [khuyentran1401/data-science-template](https://github.com/khuyentran1401/data-science-template)
+5. 🗣 Commented on [#8](https://github.com/se-jaeger/zsh-activate-py-environment/issues/8#issuecomment-1926075826) in [se-jaeger/zsh-activate-py-environment](https://github.com/se-jaeger/zsh-activate-py-environment)
 <!--END_SECTION:activity-->
 
 ### Latest Youtube Video 📺
