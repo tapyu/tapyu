@@ -151,11 +151,11 @@ Linux                    10 hrs 23 mins      ███████████�
 
 ### Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#497](https://github.com/johannes-wolf/cetz/issues/497) in [johannes-wolf/cetz](https://github.com/johannes-wolf/cetz)
-2. ❗ Opened issue [#497](https://github.com/johannes-wolf/cetz/issues/497) in [johannes-wolf/cetz](https://github.com/johannes-wolf/cetz)
-3. 💪 Opened PR [#496](https://github.com/johannes-wolf/cetz/pull/496) in [johannes-wolf/cetz](https://github.com/johannes-wolf/cetz)
-4. 🔒 Closed issue [#3394](https://github.com/typst/typst/issues/3394) in [typst/typst](https://github.com/typst/typst)
-5. 🗣 Commented on [#3394](https://github.com/typst/typst/issues/3394#issuecomment-1937416768) in [typst/typst](https://github.com/typst/typst)
+1. ❌ Closed PR [#14](https://github.com/khuyentran1401/data-science-template/pull/14) in [khuyentran1401/data-science-template](https://github.com/khuyentran1401/data-science-template)
+2. 🔒 Closed issue [#497](https://github.com/johannes-wolf/cetz/issues/497) in [johannes-wolf/cetz](https://github.com/johannes-wolf/cetz)
+3. ❗ Opened issue [#497](https://github.com/johannes-wolf/cetz/issues/497) in [johannes-wolf/cetz](https://github.com/johannes-wolf/cetz)
+4. 💪 Opened PR [#496](https://github.com/johannes-wolf/cetz/pull/496) in [johannes-wolf/cetz](https://github.com/johannes-wolf/cetz)
+5. 🔒 Closed issue [#3394](https://github.com/typst/typst/issues/3394) in [typst/typst](https://github.com/typst/typst)
 <!--END_SECTION:activity-->
 
 ### Latest Youtube Video 📺
