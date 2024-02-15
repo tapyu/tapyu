@@ -153,11 +153,11 @@ Linux                    19 hrs 32 mins      ███████████�
 
 ### Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#14](https://github.com/khuyentran1401/data-science-template/pull/14) in [khuyentran1401/data-science-template](https://github.com/khuyentran1401/data-science-template)
-2. 🔒 Closed issue [#497](https://github.com/johannes-wolf/cetz/issues/497) in [johannes-wolf/cetz](https://github.com/johannes-wolf/cetz)
-3. ❗ Opened issue [#497](https://github.com/johannes-wolf/cetz/issues/497) in [johannes-wolf/cetz](https://github.com/johannes-wolf/cetz)
-4. 💪 Opened PR [#496](https://github.com/johannes-wolf/cetz/pull/496) in [johannes-wolf/cetz](https://github.com/johannes-wolf/cetz)
-5. 🔒 Closed issue [#3394](https://github.com/typst/typst/issues/3394) in [typst/typst](https://github.com/typst/typst)
+1. ❗ Opened issue [#31](https://github.com/kaelzhang/shell-safe-rm/issues/31) in [kaelzhang/shell-safe-rm](https://github.com/kaelzhang/shell-safe-rm)
+2. 🗣 Commented on [#4573](https://github.com/microsoft/vscode-jupyter/issues/4573#issuecomment-1945772936) in [microsoft/vscode-jupyter](https://github.com/microsoft/vscode-jupyter)
+3. ❌ Closed PR [#14](https://github.com/khuyentran1401/data-science-template/pull/14) in [khuyentran1401/data-science-template](https://github.com/khuyentran1401/data-science-template)
+4. 🔒 Closed issue [#497](https://github.com/johannes-wolf/cetz/issues/497) in [johannes-wolf/cetz](https://github.com/johannes-wolf/cetz)
+5. ❗ Opened issue [#497](https://github.com/johannes-wolf/cetz/issues/497) in [johannes-wolf/cetz](https://github.com/johannes-wolf/cetz)
 <!--END_SECTION:activity-->
 
 ### Latest Youtube Video 📺
