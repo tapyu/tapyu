@@ -87,8 +87,9 @@ I work in the area of <b>satellite communication</b>, and I especially focus on 
 <a href="https://github.com/tapyu/tapyu/blob/master/cv/Latex/cv.pdf">
   <img align="right" alt="Tapyu | Curriculum Vitae" width="20px" src="figs/curriculum-vitae_blue.svg" />
 </a>
+
 <details>
-    <summary><h2>Some nice stats</h2></summary>
+    <summary><b>Some nice stats</b></summary>
     <ul> <img src="https://github-readme-activity-graph.vercel.app/graph?username=tapyu&theme=react-dark" />
     <h3>GitHub Performance</h3>
     <table>
