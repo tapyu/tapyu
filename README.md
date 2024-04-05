@@ -67,8 +67,8 @@ I work in the area of <b>satellite communication</b>, and I especially focus on 
 <code><a href="https://www.latex-project.org/"><img height="40" width="40" alt="latex" src="figs/icons8-latex.svg"></a></code>
 <code><a href="https://docs.helix-editor.com/"><img height="40" width="40" alt="helix-editor" src="figs/helix.png"></a></code>
 <code><a href="https://git-scm.com/"><img height="40" alt="git" width="40" src="figs/git.svg"></a></code>
-<code><a href="https://git-scm.com/"><img height="40" alt="git" width="40" src="figs/git.svg"></a></code>
 <code><a href="https://github.com/gnuradio/gnuradio/tree/main"><img height="40" alt="git" width="40" src="figs/gnuradio.png"></a></code>
+<code><a href="https://github.com/gnss-sdr/gnss-sdr"><img height="40" alt="git" width="40" src="figs/gnss-sdr.png"></a></code>
 <br>
 <br>
 <a href="https://www.linkedin.com/in/rubem-pacelli/">
