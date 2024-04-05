@@ -153,11 +153,11 @@ Linux                    8 hrs 43 mins       ███████████�
 
 ### Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#22](https://github.com/khuyentran1401/data-science-template/issues/22#issuecomment-2040262211) in [khuyentran1401/data-science-template](https://github.com/khuyentran1401/data-science-template)
-2. ❗ Opened issue [#22](https://github.com/khuyentran1401/data-science-template/issues/22) in [khuyentran1401/data-science-template](https://github.com/khuyentran1401/data-science-template)
-3. 🗣 Commented on [#18](https://github.com/khuyentran1401/data-science-template/pull/18#issuecomment-2040115694) in [khuyentran1401/data-science-template](https://github.com/khuyentran1401/data-science-template)
-4. 🔒 Closed issue [#497](https://github.com/johannes-wolf/cetz/issues/497) in [johannes-wolf/cetz](https://github.com/johannes-wolf/cetz)
-5. ❗ Opened issue [#497](https://github.com/johannes-wolf/cetz/issues/497) in [johannes-wolf/cetz](https://github.com/johannes-wolf/cetz)
+1. 🗣 Commented on [#22](https://github.com/khuyentran1401/data-science-template/issues/22#issuecomment-2040333335) in [khuyentran1401/data-science-template](https://github.com/khuyentran1401/data-science-template)
+2. 🗣 Commented on [#22](https://github.com/khuyentran1401/data-science-template/issues/22#issuecomment-2040289039) in [khuyentran1401/data-science-template](https://github.com/khuyentran1401/data-science-template)
+3. 🗣 Commented on [#22](https://github.com/khuyentran1401/data-science-template/issues/22#issuecomment-2040262211) in [khuyentran1401/data-science-template](https://github.com/khuyentran1401/data-science-template)
+4. ❗ Opened issue [#22](https://github.com/khuyentran1401/data-science-template/issues/22) in [khuyentran1401/data-science-template](https://github.com/khuyentran1401/data-science-template)
+5. 🗣 Commented on [#18](https://github.com/khuyentran1401/data-science-template/pull/18#issuecomment-2040115694) in [khuyentran1401/data-science-template](https://github.com/khuyentran1401/data-science-template)
 <!--END_SECTION:activity-->
 
 ### Latest Youtube Video 📺
