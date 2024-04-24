@@ -156,11 +156,11 @@ Linux                    33 hrs 20 mins      ███████████�
 
 ### Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6275](https://github.com/sktime/sktime/issues/6275#issuecomment-2072673538) in [sktime/sktime](https://github.com/sktime/sktime)
-2. 🗣 Commented on [#10565](https://github.com/helix-editor/helix/issues/10565#issuecomment-2071421209) in [helix-editor/helix](https://github.com/helix-editor/helix)
-3. ❗ Opened issue [#10565](https://github.com/helix-editor/helix/issues/10565) in [helix-editor/helix](https://github.com/helix-editor/helix)
-4. ❗ Opened issue [#6275](https://github.com/sktime/sktime/issues/6275) in [sktime/sktime](https://github.com/sktime/sktime)
-5. 🔒 Closed issue [#22](https://github.com/khuyentran1401/data-science-template/issues/22) in [khuyentran1401/data-science-template](https://github.com/khuyentran1401/data-science-template)
+1. ❗ Opened issue [#23](https://github.com/wcipriano/pretty-print-confusion-matrix/issues/23) in [wcipriano/pretty-print-confusion-matrix](https://github.com/wcipriano/pretty-print-confusion-matrix)
+2. 🗣 Commented on [#6275](https://github.com/sktime/sktime/issues/6275#issuecomment-2072673538) in [sktime/sktime](https://github.com/sktime/sktime)
+3. 🗣 Commented on [#10565](https://github.com/helix-editor/helix/issues/10565#issuecomment-2071421209) in [helix-editor/helix](https://github.com/helix-editor/helix)
+4. ❗ Opened issue [#10565](https://github.com/helix-editor/helix/issues/10565) in [helix-editor/helix](https://github.com/helix-editor/helix)
+5. ❗ Opened issue [#6275](https://github.com/sktime/sktime/issues/6275) in [sktime/sktime](https://github.com/sktime/sktime)
 <!--END_SECTION:activity-->
 
 ### Latest Youtube Video 📺
