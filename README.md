@@ -153,11 +153,11 @@ Linux                    2 hrs 50 mins       ███████████�
 
 ### Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#37](https://github.com/quantonganh/blog/issues/37#issuecomment-2085910483) in [quantonganh/blog](https://github.com/quantonganh/blog)
-2. ❗ Opened issue [#23](https://github.com/wcipriano/pretty-print-confusion-matrix/issues/23) in [wcipriano/pretty-print-confusion-matrix](https://github.com/wcipriano/pretty-print-confusion-matrix)
-3. 🗣 Commented on [#6275](https://github.com/sktime/sktime/issues/6275#issuecomment-2072673538) in [sktime/sktime](https://github.com/sktime/sktime)
-4. 🗣 Commented on [#10565](https://github.com/helix-editor/helix/issues/10565#issuecomment-2071421209) in [helix-editor/helix](https://github.com/helix-editor/helix)
-5. ❗ Opened issue [#10565](https://github.com/helix-editor/helix/issues/10565) in [helix-editor/helix](https://github.com/helix-editor/helix)
+1. ❗ Opened issue [#2](https://github.com/cetz-package/docs/issues/2) in [cetz-package/docs](https://github.com/cetz-package/docs)
+2. 🗣 Commented on [#37](https://github.com/quantonganh/blog/issues/37#issuecomment-2085910483) in [quantonganh/blog](https://github.com/quantonganh/blog)
+3. ❗ Opened issue [#23](https://github.com/wcipriano/pretty-print-confusion-matrix/issues/23) in [wcipriano/pretty-print-confusion-matrix](https://github.com/wcipriano/pretty-print-confusion-matrix)
+4. 🗣 Commented on [#6275](https://github.com/sktime/sktime/issues/6275#issuecomment-2072673538) in [sktime/sktime](https://github.com/sktime/sktime)
+5. 🗣 Commented on [#10565](https://github.com/helix-editor/helix/issues/10565#issuecomment-2071421209) in [helix-editor/helix](https://github.com/helix-editor/helix)
 <!--END_SECTION:activity-->
 
 ### Latest Youtube Video 📺
