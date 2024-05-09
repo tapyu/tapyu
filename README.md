@@ -153,11 +153,11 @@ Linux                    6 hrs 23 mins       ███████████�
 
 ### Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2](https://github.com/cetz-package/docs/issues/2) in [cetz-package/docs](https://github.com/cetz-package/docs)
-2. 🗣 Commented on [#37](https://github.com/quantonganh/blog/issues/37#issuecomment-2085910483) in [quantonganh/blog](https://github.com/quantonganh/blog)
-3. ❗ Opened issue [#23](https://github.com/wcipriano/pretty-print-confusion-matrix/issues/23) in [wcipriano/pretty-print-confusion-matrix](https://github.com/wcipriano/pretty-print-confusion-matrix)
-4. 🗣 Commented on [#6275](https://github.com/sktime/sktime/issues/6275#issuecomment-2072673538) in [sktime/sktime](https://github.com/sktime/sktime)
-5. 🗣 Commented on [#10565](https://github.com/helix-editor/helix/issues/10565#issuecomment-2071421209) in [helix-editor/helix](https://github.com/helix-editor/helix)
+1. ❗ Opened issue [#4106](https://github.com/typst/typst/issues/4106) in [typst/typst](https://github.com/typst/typst)
+2. ❗ Opened issue [#2](https://github.com/cetz-package/docs/issues/2) in [cetz-package/docs](https://github.com/cetz-package/docs)
+3. 🗣 Commented on [#37](https://github.com/quantonganh/blog/issues/37#issuecomment-2085910483) in [quantonganh/blog](https://github.com/quantonganh/blog)
+4. ❗ Opened issue [#23](https://github.com/wcipriano/pretty-print-confusion-matrix/issues/23) in [wcipriano/pretty-print-confusion-matrix](https://github.com/wcipriano/pretty-print-confusion-matrix)
+5. 🗣 Commented on [#6275](https://github.com/sktime/sktime/issues/6275#issuecomment-2072673538) in [sktime/sktime](https://github.com/sktime/sktime)
 <!--END_SECTION:activity-->
 
 ### Latest Youtube Video 📺
