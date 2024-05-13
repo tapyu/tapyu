@@ -154,11 +154,11 @@ Linux                    19 hrs 8 mins       ███████████�
 
 ### Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6979](https://github.com/helix-editor/helix/pull/6979#issuecomment-2106104610) in [helix-editor/helix](https://github.com/helix-editor/helix)
-2. 🔓 Reopened issue [#4106](https://github.com/typst/typst/issues/4106) in [typst/typst](https://github.com/typst/typst)
-3. 🗣 Commented on [#4106](https://github.com/typst/typst/issues/4106#issuecomment-2104744039) in [typst/typst](https://github.com/typst/typst)
-4. 🗣 Commented on [#2](https://github.com/cetz-package/docs/issues/2#issuecomment-2104687350) in [cetz-package/docs](https://github.com/cetz-package/docs)
-5. 🔒 Closed issue [#4106](https://github.com/typst/typst/issues/4106) in [typst/typst](https://github.com/typst/typst)
+1. 🗣 Commented on [#249](https://github.com/valentjn/ltex-ls/issues/249#issuecomment-2106600035) in [valentjn/ltex-ls](https://github.com/valentjn/ltex-ls)
+2. 🗣 Commented on [#6979](https://github.com/helix-editor/helix/pull/6979#issuecomment-2106104610) in [helix-editor/helix](https://github.com/helix-editor/helix)
+3. 🔓 Reopened issue [#4106](https://github.com/typst/typst/issues/4106) in [typst/typst](https://github.com/typst/typst)
+4. 🗣 Commented on [#4106](https://github.com/typst/typst/issues/4106#issuecomment-2104744039) in [typst/typst](https://github.com/typst/typst)
+5. 🗣 Commented on [#2](https://github.com/cetz-package/docs/issues/2#issuecomment-2104687350) in [cetz-package/docs](https://github.com/cetz-package/docs)
 <!--END_SECTION:activity-->
 
 ### Latest Youtube Video 📺
