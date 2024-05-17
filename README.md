@@ -156,11 +156,11 @@ Linux                    21 hrs 40 mins      ███████████�
 
 ### Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#101](https://github.com/olets/zsh-abbr/issues/101#issuecomment-2117914817) in [olets/zsh-abbr](https://github.com/olets/zsh-abbr)
-2. 🗣 Commented on [#254](https://github.com/thlorenz/doctoc/pull/254#issuecomment-2117830486) in [thlorenz/doctoc](https://github.com/thlorenz/doctoc)
-3. 🔒 Closed issue [#33](https://github.com/uben0/tree-sitter-typst/issues/33) in [uben0/tree-sitter-typst](https://github.com/uben0/tree-sitter-typst)
-4. ❗ Opened issue [#10745](https://github.com/helix-editor/helix/issues/10745) in [helix-editor/helix](https://github.com/helix-editor/helix)
-5. ❗ Opened issue [#33](https://github.com/uben0/tree-sitter-typst/issues/33) in [uben0/tree-sitter-typst](https://github.com/uben0/tree-sitter-typst)
+1. ❗ Opened issue [#591](https://github.com/cetz-package/cetz/issues/591) in [cetz-package/cetz](https://github.com/cetz-package/cetz)
+2. 🗣 Commented on [#101](https://github.com/olets/zsh-abbr/issues/101#issuecomment-2117914817) in [olets/zsh-abbr](https://github.com/olets/zsh-abbr)
+3. 🗣 Commented on [#254](https://github.com/thlorenz/doctoc/pull/254#issuecomment-2117830486) in [thlorenz/doctoc](https://github.com/thlorenz/doctoc)
+4. 🔒 Closed issue [#33](https://github.com/uben0/tree-sitter-typst/issues/33) in [uben0/tree-sitter-typst](https://github.com/uben0/tree-sitter-typst)
+5. ❗ Opened issue [#10745](https://github.com/helix-editor/helix/issues/10745) in [helix-editor/helix](https://github.com/helix-editor/helix)
 <!--END_SECTION:activity-->
 
 ### Latest Youtube Video 📺
