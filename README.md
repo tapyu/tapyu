@@ -156,11 +156,11 @@ Linux                    30 hrs 2 mins       ███████████�
 
 ### Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#33](https://github.com/uben0/tree-sitter-typst/issues/33) in [uben0/tree-sitter-typst](https://github.com/uben0/tree-sitter-typst)
-2. ❗ Opened issue [#10745](https://github.com/helix-editor/helix/issues/10745) in [helix-editor/helix](https://github.com/helix-editor/helix)
-3. ❗ Opened issue [#33](https://github.com/uben0/tree-sitter-typst/issues/33) in [uben0/tree-sitter-typst](https://github.com/uben0/tree-sitter-typst)
-4. 🗣 Commented on [#249](https://github.com/valentjn/ltex-ls/issues/249#issuecomment-2106600035) in [valentjn/ltex-ls](https://github.com/valentjn/ltex-ls)
-5. 🗣 Commented on [#6979](https://github.com/helix-editor/helix/pull/6979#issuecomment-2106104610) in [helix-editor/helix](https://github.com/helix-editor/helix)
+1. 🗣 Commented on [#101](https://github.com/olets/zsh-abbr/issues/101#issuecomment-2117914817) in [olets/zsh-abbr](https://github.com/olets/zsh-abbr)
+2. 🗣 Commented on [#254](https://github.com/thlorenz/doctoc/pull/254#issuecomment-2117830486) in [thlorenz/doctoc](https://github.com/thlorenz/doctoc)
+3. 🔒 Closed issue [#33](https://github.com/uben0/tree-sitter-typst/issues/33) in [uben0/tree-sitter-typst](https://github.com/uben0/tree-sitter-typst)
+4. ❗ Opened issue [#10745](https://github.com/helix-editor/helix/issues/10745) in [helix-editor/helix](https://github.com/helix-editor/helix)
+5. ❗ Opened issue [#33](https://github.com/uben0/tree-sitter-typst/issues/33) in [uben0/tree-sitter-typst](https://github.com/uben0/tree-sitter-typst)
 <!--END_SECTION:activity-->
 
 ### Latest Youtube Video 📺
