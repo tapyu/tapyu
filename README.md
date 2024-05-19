@@ -156,11 +156,11 @@ Linux                    25 hrs 48 mins      ███████████�
 
 ### Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4176](https://github.com/typst/typst/issues/4176#issuecomment-2118484023) in [typst/typst](https://github.com/typst/typst)
-2. 🗣 Commented on [#4176](https://github.com/typst/typst/issues/4176#issuecomment-2118472492) in [typst/typst](https://github.com/typst/typst)
-3. 🗣 Commented on [#568](https://github.com/cetz-package/cetz/issues/568#issuecomment-2118460666) in [cetz-package/cetz](https://github.com/cetz-package/cetz)
-4. ❗ Opened issue [#4176](https://github.com/typst/typst/issues/4176) in [typst/typst](https://github.com/typst/typst)
-5. ❗ Opened issue [#591](https://github.com/cetz-package/cetz/issues/591) in [cetz-package/cetz](https://github.com/cetz-package/cetz)
+1. ❌ Closed PR [#254](https://github.com/thlorenz/doctoc/pull/254) in [thlorenz/doctoc](https://github.com/thlorenz/doctoc)
+2. 🗣 Commented on [#4176](https://github.com/typst/typst/issues/4176#issuecomment-2118484023) in [typst/typst](https://github.com/typst/typst)
+3. 🗣 Commented on [#4176](https://github.com/typst/typst/issues/4176#issuecomment-2118472492) in [typst/typst](https://github.com/typst/typst)
+4. 🗣 Commented on [#568](https://github.com/cetz-package/cetz/issues/568#issuecomment-2118460666) in [cetz-package/cetz](https://github.com/cetz-package/cetz)
+5. ❗ Opened issue [#4176](https://github.com/typst/typst/issues/4176) in [typst/typst](https://github.com/typst/typst)
 <!--END_SECTION:activity-->
 
 ### Latest Youtube Video 📺
