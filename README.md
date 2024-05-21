@@ -155,11 +155,11 @@ Linux                    25 hrs 39 mins      ███████████�
 
 ### Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#254](https://github.com/thlorenz/doctoc/pull/254) in [thlorenz/doctoc](https://github.com/thlorenz/doctoc)
-2. 🗣 Commented on [#4176](https://github.com/typst/typst/issues/4176#issuecomment-2118484023) in [typst/typst](https://github.com/typst/typst)
-3. 🗣 Commented on [#4176](https://github.com/typst/typst/issues/4176#issuecomment-2118472492) in [typst/typst](https://github.com/typst/typst)
-4. 🗣 Commented on [#568](https://github.com/cetz-package/cetz/issues/568#issuecomment-2118460666) in [cetz-package/cetz](https://github.com/cetz-package/cetz)
-5. ❗ Opened issue [#4176](https://github.com/typst/typst/issues/4176) in [typst/typst](https://github.com/typst/typst)
+1. ❗ Opened issue [#600](https://github.com/cetz-package/cetz/issues/600) in [cetz-package/cetz](https://github.com/cetz-package/cetz)
+2. ❗ Opened issue [#599](https://github.com/cetz-package/cetz/issues/599) in [cetz-package/cetz](https://github.com/cetz-package/cetz)
+3. 🗣 Commented on [#591](https://github.com/cetz-package/cetz/issues/591#issuecomment-2122208328) in [cetz-package/cetz](https://github.com/cetz-package/cetz)
+4. 🔒 Closed issue [#591](https://github.com/cetz-package/cetz/issues/591) in [cetz-package/cetz](https://github.com/cetz-package/cetz)
+5. ❌ Closed PR [#254](https://github.com/thlorenz/doctoc/pull/254) in [thlorenz/doctoc](https://github.com/thlorenz/doctoc)
 <!--END_SECTION:activity-->
 
 ### Latest Youtube Video 📺
