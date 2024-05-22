@@ -154,11 +154,11 @@ Linux                    24 hrs 36 mins      ███████████�
 
 ### Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#599](https://github.com/cetz-package/cetz/issues/599#issuecomment-2123705702) in [cetz-package/cetz](https://github.com/cetz-package/cetz)
-2. 🗣 Commented on [#601](https://github.com/cetz-package/cetz/issues/601#issuecomment-2122756904) in [cetz-package/cetz](https://github.com/cetz-package/cetz)
-3. 🗣 Commented on [#601](https://github.com/cetz-package/cetz/issues/601#issuecomment-2122673181) in [cetz-package/cetz](https://github.com/cetz-package/cetz)
-4. 🔓 Reopened issue [#601](https://github.com/cetz-package/cetz/issues/601) in [cetz-package/cetz](https://github.com/cetz-package/cetz)
-5. 🔒 Closed issue [#601](https://github.com/cetz-package/cetz/issues/601) in [cetz-package/cetz](https://github.com/cetz-package/cetz)
+1. 🗣 Commented on [#601](https://github.com/cetz-package/cetz/issues/601#issuecomment-2123737019) in [cetz-package/cetz](https://github.com/cetz-package/cetz)
+2. 🗣 Commented on [#599](https://github.com/cetz-package/cetz/issues/599#issuecomment-2123715253) in [cetz-package/cetz](https://github.com/cetz-package/cetz)
+3. 🗣 Commented on [#599](https://github.com/cetz-package/cetz/issues/599#issuecomment-2123705702) in [cetz-package/cetz](https://github.com/cetz-package/cetz)
+4. 🗣 Commented on [#601](https://github.com/cetz-package/cetz/issues/601#issuecomment-2122756904) in [cetz-package/cetz](https://github.com/cetz-package/cetz)
+5. 🗣 Commented on [#601](https://github.com/cetz-package/cetz/issues/601#issuecomment-2122673181) in [cetz-package/cetz](https://github.com/cetz-package/cetz)
 <!--END_SECTION:activity-->
 
 ### Latest Youtube Video 📺
