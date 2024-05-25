@@ -156,11 +156,11 @@ Linux                    24 hrs 3 mins       ███████████�
 
 ### Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4254](https://github.com/typst/typst/issues/4254#issuecomment-2131170122) in [typst/typst](https://github.com/typst/typst)
-2. ❗ Opened issue [#4254](https://github.com/typst/typst/issues/4254) in [typst/typst](https://github.com/typst/typst)
-3. ❗ Opened issue [#172](https://github.com/andreasKroepelin/polylux/issues/172) in [andreasKroepelin/polylux](https://github.com/andreasKroepelin/polylux)
-4. 🗣 Commented on [#4176](https://github.com/typst/typst/issues/4176#issuecomment-2131023737) in [typst/typst](https://github.com/typst/typst)
-5. 🗣 Commented on [#4230](https://github.com/typst/typst/issues/4230#issuecomment-2131011165) in [typst/typst](https://github.com/typst/typst)
+1. 🗣 Commented on [#165](https://github.com/andreasKroepelin/polylux/issues/165#issuecomment-2131232794) in [andreasKroepelin/polylux](https://github.com/andreasKroepelin/polylux)
+2. 🗣 Commented on [#4254](https://github.com/typst/typst/issues/4254#issuecomment-2131170122) in [typst/typst](https://github.com/typst/typst)
+3. ❗ Opened issue [#4254](https://github.com/typst/typst/issues/4254) in [typst/typst](https://github.com/typst/typst)
+4. ❗ Opened issue [#172](https://github.com/andreasKroepelin/polylux/issues/172) in [andreasKroepelin/polylux](https://github.com/andreasKroepelin/polylux)
+5. 🗣 Commented on [#4176](https://github.com/typst/typst/issues/4176#issuecomment-2131023737) in [typst/typst](https://github.com/typst/typst)
 <!--END_SECTION:activity-->
 
 ### Latest Youtube Video 📺
