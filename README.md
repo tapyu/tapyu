@@ -156,11 +156,11 @@ Linux                    29 hrs 43 mins      ███████████�
 
 ### Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2939](https://github.com/sindresorhus/awesome/pull/2939#issuecomment-2132390647) in [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
-2. 🗣 Commented on [#2939](https://github.com/sindresorhus/awesome/pull/2939#issuecomment-2132386983) in [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
-3. 🗣 Commented on [#113](https://github.com/andreasKroepelin/polylux/issues/113#issuecomment-2131235061) in [andreasKroepelin/polylux](https://github.com/andreasKroepelin/polylux)
-4. 🗣 Commented on [#165](https://github.com/andreasKroepelin/polylux/issues/165#issuecomment-2131232794) in [andreasKroepelin/polylux](https://github.com/andreasKroepelin/polylux)
-5. 🗣 Commented on [#4254](https://github.com/typst/typst/issues/4254#issuecomment-2131170122) in [typst/typst](https://github.com/typst/typst)
+1. ❗ Opened issue [#4270](https://github.com/typst/typst/issues/4270) in [typst/typst](https://github.com/typst/typst)
+2. 🗣 Commented on [#2939](https://github.com/sindresorhus/awesome/pull/2939#issuecomment-2132390647) in [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
+3. 🗣 Commented on [#2939](https://github.com/sindresorhus/awesome/pull/2939#issuecomment-2132386983) in [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
+4. 🗣 Commented on [#113](https://github.com/andreasKroepelin/polylux/issues/113#issuecomment-2131235061) in [andreasKroepelin/polylux](https://github.com/andreasKroepelin/polylux)
+5. 🗣 Commented on [#165](https://github.com/andreasKroepelin/polylux/issues/165#issuecomment-2131232794) in [andreasKroepelin/polylux](https://github.com/andreasKroepelin/polylux)
 <!--END_SECTION:activity-->
 
 ### Latest Youtube Video 📺
