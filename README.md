@@ -156,11 +156,11 @@ Linux                    38 hrs 12 mins      ███████████�
 
 ### Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#4293](https://github.com/typst/typst/issues/4293) in [typst/typst](https://github.com/typst/typst)
-2. ❗ Opened issue [#4284](https://github.com/typst/typst/issues/4284) in [typst/typst](https://github.com/typst/typst)
-3. ❗ Opened issue [#4270](https://github.com/typst/typst/issues/4270) in [typst/typst](https://github.com/typst/typst)
-4. 🗣 Commented on [#2939](https://github.com/sindresorhus/awesome/pull/2939#issuecomment-2132390647) in [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
-5. 🗣 Commented on [#2939](https://github.com/sindresorhus/awesome/pull/2939#issuecomment-2132386983) in [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
+1. 🔒 Closed issue [#4270](https://github.com/typst/typst/issues/4270) in [typst/typst](https://github.com/typst/typst)
+2. ❗ Opened issue [#4293](https://github.com/typst/typst/issues/4293) in [typst/typst](https://github.com/typst/typst)
+3. ❗ Opened issue [#4284](https://github.com/typst/typst/issues/4284) in [typst/typst](https://github.com/typst/typst)
+4. ❗ Opened issue [#4270](https://github.com/typst/typst/issues/4270) in [typst/typst](https://github.com/typst/typst)
+5. 🗣 Commented on [#2939](https://github.com/sindresorhus/awesome/pull/2939#issuecomment-2132390647) in [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
 <!--END_SECTION:activity-->
 
 ### Latest Youtube Video 📺
