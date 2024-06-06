@@ -156,7 +156,7 @@ Linux                    20 hrs 37 mins      ███████████�
 
 ### Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#899](https://github.com/denisidoro/navi/issues/899) in [denisidoro/navi](https://github.com/denisidoro/navi)
+1. 🗣 Commented on [#2939](https://github.com/sindresorhus/awesome/pull/2939#issuecomment-2151127285) in [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
 2. 🗣 Commented on [#165](https://github.com/andreasKroepelin/polylux/issues/165#issuecomment-2139260473) in [andreasKroepelin/polylux](https://github.com/andreasKroepelin/polylux)
 3. 🔒 Closed issue [#4270](https://github.com/typst/typst/issues/4270) in [typst/typst](https://github.com/typst/typst)
 4. ❗ Opened issue [#4293](https://github.com/typst/typst/issues/4293) in [typst/typst](https://github.com/typst/typst)
