@@ -90,6 +90,13 @@ I work in the area of <b>satellite communication</b>, and I especially focus on 
   <img align="right" alt="Tapyu | Curriculum Vitae" width="20px" src="figs/curriculum-vitae_blue.svg" />
 </a>
 
+<p align="center">
+    Life is not so serious.
+</p>
+
+![nyancat](https://github.com/tapyu/tapyu/assets/22801918/3431b80d-7a2d-4057-87dd-ac53fa63817b)
+
+
 <details>
     <summary><b>Some nice stats</b></summary>
     <ul> <img src="https://github-readme-activity-graph.vercel.app/graph?username=tapyu&theme=react-dark" />
