@@ -25,7 +25,6 @@ That is what I'm using to make the this Markdown:
 
 <p align='center'>
     <img align='center' src="https://img.shields.io/github/followers/tapyu?style=social">
-    <img align='center' src="https://visitor-badge.glitch.me/badge?page_id=tapyu.visitor-badge">
 </p>
 
 <h1 align="center"><code>>whoami</code> </h1>
