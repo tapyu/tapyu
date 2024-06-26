@@ -161,11 +161,11 @@ Linux                    28 hrs 36 mins      ███████████�
 
 ### Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🔓 Reopened issue [#632](https://github.com/cetz-package/cetz/issues/632) in [cetz-package/cetz](https://github.com/cetz-package/cetz)
-2. 🔒 Closed issue [#632](https://github.com/cetz-package/cetz/issues/632) in [cetz-package/cetz](https://github.com/cetz-package/cetz)
-3. ❗ Opened issue [#632](https://github.com/cetz-package/cetz/issues/632) in [cetz-package/cetz](https://github.com/cetz-package/cetz)
-4. 🔒 Closed issue [#631](https://github.com/cetz-package/cetz/issues/631) in [cetz-package/cetz](https://github.com/cetz-package/cetz)
-5. ❗ Opened issue [#631](https://github.com/cetz-package/cetz/issues/631) in [cetz-package/cetz](https://github.com/cetz-package/cetz)
+1. ❗ Opened issue [#4455](https://github.com/typst/typst/issues/4455) in [typst/typst](https://github.com/typst/typst)
+2. 🔓 Reopened issue [#632](https://github.com/cetz-package/cetz/issues/632) in [cetz-package/cetz](https://github.com/cetz-package/cetz)
+3. 🔒 Closed issue [#632](https://github.com/cetz-package/cetz/issues/632) in [cetz-package/cetz](https://github.com/cetz-package/cetz)
+4. ❗ Opened issue [#632](https://github.com/cetz-package/cetz/issues/632) in [cetz-package/cetz](https://github.com/cetz-package/cetz)
+5. 🔒 Closed issue [#631](https://github.com/cetz-package/cetz/issues/631) in [cetz-package/cetz](https://github.com/cetz-package/cetz)
 <!--END_SECTION:activity-->
 
 ### Latest Youtube Video 📺
