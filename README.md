@@ -161,11 +161,11 @@ Linux                    28 hrs 36 mins      ███████████�
 
 ### Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#178](https://github.com/andreasKroepelin/polylux/issues/178) in [andreasKroepelin/polylux](https://github.com/andreasKroepelin/polylux)
-2. 🔒 Closed issue [#4455](https://github.com/typst/typst/issues/4455) in [typst/typst](https://github.com/typst/typst)
-3. ❗ Opened issue [#4455](https://github.com/typst/typst/issues/4455) in [typst/typst](https://github.com/typst/typst)
-4. 🔓 Reopened issue [#632](https://github.com/cetz-package/cetz/issues/632) in [cetz-package/cetz](https://github.com/cetz-package/cetz)
-5. 🔒 Closed issue [#632](https://github.com/cetz-package/cetz/issues/632) in [cetz-package/cetz](https://github.com/cetz-package/cetz)
+1. ❗ Opened issue [#179](https://github.com/andreasKroepelin/polylux/issues/179) in [andreasKroepelin/polylux](https://github.com/andreasKroepelin/polylux)
+2. 🔒 Closed issue [#178](https://github.com/andreasKroepelin/polylux/issues/178) in [andreasKroepelin/polylux](https://github.com/andreasKroepelin/polylux)
+3. ❗ Opened issue [#178](https://github.com/andreasKroepelin/polylux/issues/178) in [andreasKroepelin/polylux](https://github.com/andreasKroepelin/polylux)
+4. 🔒 Closed issue [#4455](https://github.com/typst/typst/issues/4455) in [typst/typst](https://github.com/typst/typst)
+5. ❗ Opened issue [#4455](https://github.com/typst/typst/issues/4455) in [typst/typst](https://github.com/typst/typst)
 <!--END_SECTION:activity-->
 
 ### Latest Youtube Video 📺
