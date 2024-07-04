@@ -161,11 +161,11 @@ Linux                    11 hrs 17 mins      ███████████�
 
 ### Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#640](https://github.com/cetz-package/cetz/issues/640#issuecomment-2208433165) in [cetz-package/cetz](https://github.com/cetz-package/cetz)
-2. ❗ Opened issue [#640](https://github.com/cetz-package/cetz/issues/640) in [cetz-package/cetz](https://github.com/cetz-package/cetz)
-3. ❗ Opened issue [#14](https://github.com/cetz-package/cetz-plot/issues/14) in [cetz-package/cetz-plot](https://github.com/cetz-package/cetz-plot)
-4. 🔒 Closed issue [#179](https://github.com/andreasKroepelin/polylux/issues/179) in [andreasKroepelin/polylux](https://github.com/andreasKroepelin/polylux)
-5. ❗ Opened issue [#179](https://github.com/andreasKroepelin/polylux/issues/179) in [andreasKroepelin/polylux](https://github.com/andreasKroepelin/polylux)
+1. 🗣 Commented on [#640](https://github.com/cetz-package/cetz/issues/640#issuecomment-2209146950) in [cetz-package/cetz](https://github.com/cetz-package/cetz)
+2. 🗣 Commented on [#640](https://github.com/cetz-package/cetz/issues/640#issuecomment-2208433165) in [cetz-package/cetz](https://github.com/cetz-package/cetz)
+3. ❗ Opened issue [#640](https://github.com/cetz-package/cetz/issues/640) in [cetz-package/cetz](https://github.com/cetz-package/cetz)
+4. ❗ Opened issue [#14](https://github.com/cetz-package/cetz-plot/issues/14) in [cetz-package/cetz-plot](https://github.com/cetz-package/cetz-plot)
+5. 🔒 Closed issue [#179](https://github.com/andreasKroepelin/polylux/issues/179) in [andreasKroepelin/polylux](https://github.com/andreasKroepelin/polylux)
 <!--END_SECTION:activity-->
 
 ### Latest Youtube Video 📺
