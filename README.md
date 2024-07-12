@@ -36,10 +36,10 @@ Hi there! I'm Rubem Pacelli (tapyu is only my nickname). I am really into <b>sci
   <li>🔬 Currently working on my PhD in Teleinformatics Engineering at <a href="http://www.ufc.br/">UFC</a>.</li>
 </ul>
 <h1 align="center">Research area</h1>
-I work in the area of <b>satellite communication</b>, and I especially focus on the following topics:
+I work in the area of <b>GNSS signal processing</b>, and I especially focus on the following topics:
 <table>
   <tr>
-    <td width="250">Statistical signal processing for space communication</td>
+    <td width="250">Statistical signal processing, system identification, and adaptive filtering</td>
      <td width="250">Machine learning and neural networks (which does not differ that much from the first topic, btw)</td>
      <td width="350">FPGA-based software-defined radio implementation of digital modems</td>
   </tr>
