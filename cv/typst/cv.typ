@@ -362,10 +362,11 @@
 
 = Carrer Summary
 
-Skilled Engineer with academic experience in Satellite Communications and multidisciplinary background in
-- Deep Learning, Pattern Recognition, and Artificial Intelligence.
-- Statistical Signal Processing, System Identification, and Adaptive Filtering.
-- Estimation, Detection and Optimization Theory.
+Skilled Engineer with academic experience in GNSS Signal Processing and multidisciplinary background in
+- Statistical signal processing, system identification, and adaptive filtering.
+- Software-defined radio, digital modems, and synchronization techniques.
+- Deep learning, pattern recognition, and optimization theory.// artificial intelligence.
+// - Estimation, detection and optimization theory.
 
 = Education
 #add_education(education.graduation)
