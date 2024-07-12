@@ -40,7 +40,7 @@ I work in the area of <b>GNSS signal processing</b>, and I especially focus on t
 <table>
   <tr>
     <td width="250">Statistical signal processing, system identification, and adaptive filtering</td>
-     <td width="250">Machine learning and neural networks (which does not differ that much from the first topic, btw)</td>
+     <td width="250">Deep learning, pattern recognition, and optimization theory.</td>
      <td width="350">FPGA-based software-defined radio implementation of digital modems</td>
   </tr>
   <tr>
