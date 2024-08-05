@@ -157,11 +157,11 @@ Linux                    11 hrs 26 mins      ███████████�
 
 ### Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/cu-sense-lab/gnss-scintillation-simulator_2-param/pull/1#issuecomment-2268358563) in [cu-sense-lab/gnss-scintillation-simulator_2-param](https://github.com/cu-sense-lab/gnss-scintillation-simulator_2-param)
-2. 🗣 Commented on [#1](https://github.com/cu-sense-lab/gnss-scintillation-simulator_2-param/pull/1#issuecomment-2268327702) in [cu-sense-lab/gnss-scintillation-simulator_2-param](https://github.com/cu-sense-lab/gnss-scintillation-simulator_2-param)
-3. 🗣 Commented on [#1](https://github.com/cu-sense-lab/gnss-scintillation-simulator_2-param/pull/1#issuecomment-2261841912) in [cu-sense-lab/gnss-scintillation-simulator_2-param](https://github.com/cu-sense-lab/gnss-scintillation-simulator_2-param)
-4. 💪 Opened PR [#1](https://github.com/cu-sense-lab/gnss-scintillation-simulator_2-param/pull/1) in [cu-sense-lab/gnss-scintillation-simulator_2-param](https://github.com/cu-sense-lab/gnss-scintillation-simulator_2-param)
-5. ❗ Opened issue [#904](https://github.com/denisidoro/navi/issues/904) in [denisidoro/navi](https://github.com/denisidoro/navi)
+1. 💪 Opened PR [#2](https://github.com/cu-sense-lab/gnss-scintillation-simulator_2-param/pull/2) in [cu-sense-lab/gnss-scintillation-simulator_2-param](https://github.com/cu-sense-lab/gnss-scintillation-simulator_2-param)
+2. 🗣 Commented on [#1](https://github.com/cu-sense-lab/gnss-scintillation-simulator_2-param/pull/1#issuecomment-2268358563) in [cu-sense-lab/gnss-scintillation-simulator_2-param](https://github.com/cu-sense-lab/gnss-scintillation-simulator_2-param)
+3. 🗣 Commented on [#1](https://github.com/cu-sense-lab/gnss-scintillation-simulator_2-param/pull/1#issuecomment-2268327702) in [cu-sense-lab/gnss-scintillation-simulator_2-param](https://github.com/cu-sense-lab/gnss-scintillation-simulator_2-param)
+4. 🗣 Commented on [#1](https://github.com/cu-sense-lab/gnss-scintillation-simulator_2-param/pull/1#issuecomment-2261841912) in [cu-sense-lab/gnss-scintillation-simulator_2-param](https://github.com/cu-sense-lab/gnss-scintillation-simulator_2-param)
+5. 💪 Opened PR [#1](https://github.com/cu-sense-lab/gnss-scintillation-simulator_2-param/pull/1) in [cu-sense-lab/gnss-scintillation-simulator_2-param](https://github.com/cu-sense-lab/gnss-scintillation-simulator_2-param)
 <!--END_SECTION:activity-->
 
 ### Latest Youtube Video 📺
