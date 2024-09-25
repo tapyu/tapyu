@@ -160,11 +160,11 @@ Linux                    12 hrs 17 mins      ███████████�
 
 ### Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#324](https://github.com/microsoft/vscode-mypy/issues/324) in [microsoft/vscode-mypy](https://github.com/microsoft/vscode-mypy)
-2. 🗣 Commented on [#6](https://github.com/cu-sense-lab/gnss-scintillation-simulator_2-param/pull/6#issuecomment-2281958422) in [cu-sense-lab/gnss-scintillation-simulator_2-param](https://github.com/cu-sense-lab/gnss-scintillation-simulator_2-param)
-3. 💪 Opened PR [#9](https://github.com/cu-sense-lab/gnss-scintillation-simulator_2-param/pull/9) in [cu-sense-lab/gnss-scintillation-simulator_2-param](https://github.com/cu-sense-lab/gnss-scintillation-simulator_2-param)
-4. ❗ Opened issue [#8](https://github.com/cu-sense-lab/gnss-scintillation-simulator_2-param/issues/8) in [cu-sense-lab/gnss-scintillation-simulator_2-param](https://github.com/cu-sense-lab/gnss-scintillation-simulator_2-param)
-5. ❗ Opened issue [#7](https://github.com/cu-sense-lab/gnss-scintillation-simulator_2-param/issues/7) in [cu-sense-lab/gnss-scintillation-simulator_2-param](https://github.com/cu-sense-lab/gnss-scintillation-simulator_2-param)
+1. 🗣 Commented on [#5899](https://github.com/astral-sh/ruff/issues/5899#issuecomment-2372573023) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
+2. ❗ Opened issue [#324](https://github.com/microsoft/vscode-mypy/issues/324) in [microsoft/vscode-mypy](https://github.com/microsoft/vscode-mypy)
+3. 🗣 Commented on [#6](https://github.com/cu-sense-lab/gnss-scintillation-simulator_2-param/pull/6#issuecomment-2281958422) in [cu-sense-lab/gnss-scintillation-simulator_2-param](https://github.com/cu-sense-lab/gnss-scintillation-simulator_2-param)
+4. 💪 Opened PR [#9](https://github.com/cu-sense-lab/gnss-scintillation-simulator_2-param/pull/9) in [cu-sense-lab/gnss-scintillation-simulator_2-param](https://github.com/cu-sense-lab/gnss-scintillation-simulator_2-param)
+5. ❗ Opened issue [#8](https://github.com/cu-sense-lab/gnss-scintillation-simulator_2-param/issues/8) in [cu-sense-lab/gnss-scintillation-simulator_2-param](https://github.com/cu-sense-lab/gnss-scintillation-simulator_2-param)
 <!--END_SECTION:activity-->
 
 ### Latest Youtube Video 📺
