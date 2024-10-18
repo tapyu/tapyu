@@ -153,11 +153,11 @@ No Activity Tracked This Week
 
 ### Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#15](https://github.com/clarkgrubb/latex-input/issues/15) in [clarkgrubb/latex-input](https://github.com/clarkgrubb/latex-input)
-2. 💪 Opened PR [#13](https://github.com/bulletmark/cdhist/pull/13) in [bulletmark/cdhist](https://github.com/bulletmark/cdhist)
-3. 🗣 Commented on [#33](https://github.com/kaelzhang/shell-safe-rm/pull/33#issuecomment-2420097260) in [kaelzhang/shell-safe-rm](https://github.com/kaelzhang/shell-safe-rm)
-4. 🗣 Commented on [#5899](https://github.com/astral-sh/ruff/issues/5899#issuecomment-2372573023) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
-5. ❗ Opened issue [#324](https://github.com/microsoft/vscode-mypy/issues/324) in [microsoft/vscode-mypy](https://github.com/microsoft/vscode-mypy)
+1. ❗ Opened issue [#16](https://github.com/clarkgrubb/latex-input/issues/16) in [clarkgrubb/latex-input](https://github.com/clarkgrubb/latex-input)
+2. ❗ Opened issue [#15](https://github.com/clarkgrubb/latex-input/issues/15) in [clarkgrubb/latex-input](https://github.com/clarkgrubb/latex-input)
+3. 💪 Opened PR [#13](https://github.com/bulletmark/cdhist/pull/13) in [bulletmark/cdhist](https://github.com/bulletmark/cdhist)
+4. 🗣 Commented on [#33](https://github.com/kaelzhang/shell-safe-rm/pull/33#issuecomment-2420097260) in [kaelzhang/shell-safe-rm](https://github.com/kaelzhang/shell-safe-rm)
+5. 🗣 Commented on [#5899](https://github.com/astral-sh/ruff/issues/5899#issuecomment-2372573023) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
 <!--END_SECTION:activity-->
 
 ### Latest Youtube Video 📺
