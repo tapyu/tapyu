@@ -161,11 +161,11 @@ Linux                    26 hrs 52 mins      ███████████�
 
 ### Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#32](https://github.com/kaelzhang/shell-safe-rm/issues/32#issuecomment-2485901035) in [kaelzhang/shell-safe-rm](https://github.com/kaelzhang/shell-safe-rm)
-2. ❗ Opened issue [#16](https://github.com/clarkgrubb/latex-input/issues/16) in [clarkgrubb/latex-input](https://github.com/clarkgrubb/latex-input)
-3. ❗ Opened issue [#15](https://github.com/clarkgrubb/latex-input/issues/15) in [clarkgrubb/latex-input](https://github.com/clarkgrubb/latex-input)
-4. 💪 Opened PR [#13](https://github.com/bulletmark/cdhist/pull/13) in [bulletmark/cdhist](https://github.com/bulletmark/cdhist)
-5. 🗣 Commented on [#33](https://github.com/kaelzhang/shell-safe-rm/pull/33#issuecomment-2420097260) in [kaelzhang/shell-safe-rm](https://github.com/kaelzhang/shell-safe-rm)
+1. 🗣 Commented on [#1212](https://github.com/wimpysworld/deb-get/issues/1212#issuecomment-2512073700) in [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get)
+2. 🗣 Commented on [#32](https://github.com/kaelzhang/shell-safe-rm/issues/32#issuecomment-2485901035) in [kaelzhang/shell-safe-rm](https://github.com/kaelzhang/shell-safe-rm)
+3. ❗ Opened issue [#16](https://github.com/clarkgrubb/latex-input/issues/16) in [clarkgrubb/latex-input](https://github.com/clarkgrubb/latex-input)
+4. ❗ Opened issue [#15](https://github.com/clarkgrubb/latex-input/issues/15) in [clarkgrubb/latex-input](https://github.com/clarkgrubb/latex-input)
+5. 💪 Opened PR [#13](https://github.com/bulletmark/cdhist/pull/13) in [bulletmark/cdhist](https://github.com/bulletmark/cdhist)
 <!--END_SECTION:activity-->
 
 ### Latest Youtube Video 📺
