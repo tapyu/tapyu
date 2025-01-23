@@ -160,11 +160,11 @@ Linux                    11 hrs 37 mins      ███████████�
 
 ### Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2939](https://github.com/sindresorhus/awesome/pull/2939#issuecomment-2564236375) in [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
-2. 🗣 Commented on [#2939](https://github.com/sindresorhus/awesome/pull/2939#issuecomment-2564232472) in [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
-3. ❗ Opened issue [#8](https://github.com/MenkeTechnologies/zsh-expand/issues/8) in [MenkeTechnologies/zsh-expand](https://github.com/MenkeTechnologies/zsh-expand)
-4. 🗣 Commented on [#1237](https://github.com/wimpysworld/deb-get/issues/1237#issuecomment-2546170031) in [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get)
-5. ❗ Opened issue [#1148](https://github.com/matlab2tikz/matlab2tikz/issues/1148) in [matlab2tikz/matlab2tikz](https://github.com/matlab2tikz/matlab2tikz)
+1. ❗ Opened issue [#17](https://github.com/clarkgrubb/latex-input/issues/17) in [clarkgrubb/latex-input](https://github.com/clarkgrubb/latex-input)
+2. 🗣 Commented on [#2939](https://github.com/sindresorhus/awesome/pull/2939#issuecomment-2564236375) in [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
+3. 🗣 Commented on [#2939](https://github.com/sindresorhus/awesome/pull/2939#issuecomment-2564232472) in [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
+4. ❗ Opened issue [#8](https://github.com/MenkeTechnologies/zsh-expand/issues/8) in [MenkeTechnologies/zsh-expand](https://github.com/MenkeTechnologies/zsh-expand)
+5. 🗣 Commented on [#1237](https://github.com/wimpysworld/deb-get/issues/1237#issuecomment-2546170031) in [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get)
 <!--END_SECTION:activity-->
 
 ### Latest Youtube Video 📺
