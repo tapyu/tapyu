@@ -155,7 +155,7 @@ Linux                    4 mins              ███████████�
 
 ### Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#430](https://github.com/osqzss/gps-sdr-sim/issues/430) in [osqzss/gps-sdr-sim](https://github.com/osqzss/gps-sdr-sim)
+1. ❗ Opened issue [#8035](https://github.com/sktime/sktime/issues/8035) in [sktime/sktime](https://github.com/sktime/sktime)
 2. ❗ Opened issue [#430](https://github.com/osqzss/gps-sdr-sim/issues/430) in [osqzss/gps-sdr-sim](https://github.com/osqzss/gps-sdr-sim)
 3. ❌ Closed PR [#4](https://github.com/cu-sense-lab/gnss-scintillation-simulator_2-param/pull/4) in [cu-sense-lab/gnss-scintillation-simulator_2-param](https://github.com/cu-sense-lab/gnss-scintillation-simulator_2-param)
 4. ❗ Opened issue [#17](https://github.com/clarkgrubb/latex-input/issues/17) in [clarkgrubb/latex-input](https://github.com/clarkgrubb/latex-input)
