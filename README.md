@@ -161,10 +161,10 @@ Linux                    17 hrs 4 mins       ███████████�
 
 ### Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#8044](https://github.com/sktime/sktime/pull/8044) in [sktime/sktime](https://github.com/sktime/sktime)
-2. 🗣 Commented on [#8035](https://github.com/sktime/sktime/issues/8035#issuecomment-2752117134) in [sktime/sktime](https://github.com/sktime/sktime)
-3. ❗ Opened issue [#8035](https://github.com/sktime/sktime/issues/8035) in [sktime/sktime](https://github.com/sktime/sktime)
-4. ❗ Opened issue [#17](https://github.com/clarkgrubb/latex-input/issues/17) in [clarkgrubb/latex-input](https://github.com/clarkgrubb/latex-input)
+1. 💪 Opened PR [#2](https://github.com/ita-gnss-lab/gnss-scintillation-simulator/pull/2) in [ita-gnss-lab/gnss-scintillation-simulator](https://github.com/ita-gnss-lab/gnss-scintillation-simulator)
+2. 💪 Opened PR [#8044](https://github.com/sktime/sktime/pull/8044) in [sktime/sktime](https://github.com/sktime/sktime)
+3. 🗣 Commented on [#8035](https://github.com/sktime/sktime/issues/8035#issuecomment-2752117134) in [sktime/sktime](https://github.com/sktime/sktime)
+4. ❗ Opened issue [#8035](https://github.com/sktime/sktime/issues/8035) in [sktime/sktime](https://github.com/sktime/sktime)
 5. 🗣 Commented on [#2939](https://github.com/sindresorhus/awesome/pull/2939#issuecomment-2564236375) in [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
 <!--END_SECTION:activity-->
 
