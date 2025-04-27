@@ -153,9 +153,9 @@ No Activity Tracked This Week
 
 ### Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/ita-gnss-lab/gnss-scintillation-simulator/pull/3) in [ita-gnss-lab/gnss-scintillation-simulator](https://github.com/ita-gnss-lab/gnss-scintillation-simulator)
-2. 💪 Opened PR [#2](https://github.com/ita-gnss-lab/gnss-scintillation-simulator/pull/2) in [ita-gnss-lab/gnss-scintillation-simulator](https://github.com/ita-gnss-lab/gnss-scintillation-simulator)
-3. 💪 Opened PR [#8044](https://github.com/sktime/sktime/pull/8044) in [sktime/sktime](https://github.com/sktime/sktime)
+1. 💪 Opened PR [#4](https://github.com/ita-gnss-lab/gnss-scintillation-simulator/pull/4) in [ita-gnss-lab/gnss-scintillation-simulator](https://github.com/ita-gnss-lab/gnss-scintillation-simulator)
+2. 💪 Opened PR [#3](https://github.com/ita-gnss-lab/gnss-scintillation-simulator/pull/3) in [ita-gnss-lab/gnss-scintillation-simulator](https://github.com/ita-gnss-lab/gnss-scintillation-simulator)
+3. 💪 Opened PR [#2](https://github.com/ita-gnss-lab/gnss-scintillation-simulator/pull/2) in [ita-gnss-lab/gnss-scintillation-simulator](https://github.com/ita-gnss-lab/gnss-scintillation-simulator)
 4. 🗣 Commented on [#8035](https://github.com/sktime/sktime/issues/8035#issuecomment-2752117134) in [sktime/sktime](https://github.com/sktime/sktime)
 5. ❗ Opened issue [#8035](https://github.com/sktime/sktime/issues/8035) in [sktime/sktime](https://github.com/sktime/sktime)
 <!--END_SECTION:activity-->
