@@ -153,11 +153,11 @@ Linux                    18 mins             ███████████�
 
 ### Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#10](https://github.com/se-jaeger/zsh-activate-py-environment/issues/10) in [se-jaeger/zsh-activate-py-environment](https://github.com/se-jaeger/zsh-activate-py-environment)
-2. 🔒 Closed issue [#8](https://github.com/se-jaeger/zsh-activate-py-environment/issues/8) in [se-jaeger/zsh-activate-py-environment](https://github.com/se-jaeger/zsh-activate-py-environment)
-3. 💪 Opened PR [#5](https://github.com/ita-gnss-lab/gnss-scintillation-simulator/pull/5) in [ita-gnss-lab/gnss-scintillation-simulator](https://github.com/ita-gnss-lab/gnss-scintillation-simulator)
-4. 🗣 Commented on [#4](https://github.com/ita-gnss-lab/gnss-scintillation-simulator/pull/4#issuecomment-2833568812) in [ita-gnss-lab/gnss-scintillation-simulator](https://github.com/ita-gnss-lab/gnss-scintillation-simulator)
-5. ❗ Opened issue [#8035](https://github.com/sktime/sktime/issues/8035) in [sktime/sktime](https://github.com/sktime/sktime)
+1. ❗ Opened issue [#1439](https://github.com/wimpysworld/deb-get/issues/1439) in [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get)
+2. ❗ Opened issue [#10](https://github.com/se-jaeger/zsh-activate-py-environment/issues/10) in [se-jaeger/zsh-activate-py-environment](https://github.com/se-jaeger/zsh-activate-py-environment)
+3. 🔒 Closed issue [#8](https://github.com/se-jaeger/zsh-activate-py-environment/issues/8) in [se-jaeger/zsh-activate-py-environment](https://github.com/se-jaeger/zsh-activate-py-environment)
+4. 💪 Opened PR [#5](https://github.com/ita-gnss-lab/gnss-scintillation-simulator/pull/5) in [ita-gnss-lab/gnss-scintillation-simulator](https://github.com/ita-gnss-lab/gnss-scintillation-simulator)
+5. 🗣 Commented on [#4](https://github.com/ita-gnss-lab/gnss-scintillation-simulator/pull/4#issuecomment-2833568812) in [ita-gnss-lab/gnss-scintillation-simulator](https://github.com/ita-gnss-lab/gnss-scintillation-simulator)
 <!--END_SECTION:activity-->
 
 ### Latest Youtube Video 📺
