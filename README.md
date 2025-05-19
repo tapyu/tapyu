@@ -28,7 +28,7 @@ That is what I'm using to make the this Markdown:
 </p>
 
 <h1 align="center"><code>>whoami</code> </h1>
-Hi there! I'm Rubem Pacelli (tapyu is only my nickname). I am really into <b>scientific programing languages</b>.
+Hi there! I'm Rubem Pacelli (tapyu is just my nickname). I am really into <b>scientific programing languages</b>.
 <h1 align="center">Background</h1>
 <ul>
   <li>🎓 B.S. degree in Electronics Engineering from <a href="https://unifor.br/">Unifor</a>.</li>
