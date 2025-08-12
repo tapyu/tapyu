@@ -160,11 +160,11 @@ Linux                    25 hrs 49 mins      ███████████�
 
 ### Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#8](https://github.com/MenkeTechnologies/zsh-expand/issues/8) in [MenkeTechnologies/zsh-expand](https://github.com/MenkeTechnologies/zsh-expand)
-2. ❗ Opened issue [#10812](https://github.com/iterative/dvc/issues/10812) in [iterative/dvc](https://github.com/iterative/dvc)
-3. 🗣 Commented on [#33](https://github.com/uben0/tree-sitter-typst/issues/33#issuecomment-3097583286) in [uben0/tree-sitter-typst](https://github.com/uben0/tree-sitter-typst)
-4. 🔓 Reopened issue [#33](https://github.com/uben0/tree-sitter-typst/issues/33) in [uben0/tree-sitter-typst](https://github.com/uben0/tree-sitter-typst)
-5. ❗ Opened issue [#355](https://github.com/HDFGroup/hdfview/issues/355) in [HDFGroup/hdfview](https://github.com/HDFGroup/hdfview)
+1. ❗ Opened issue [#273](https://github.com/mathworks/MATLAB-extension-for-vscode/issues/273) in [mathworks/MATLAB-extension-for-vscode](https://github.com/mathworks/MATLAB-extension-for-vscode)
+2. 🔒 Closed issue [#8](https://github.com/MenkeTechnologies/zsh-expand/issues/8) in [MenkeTechnologies/zsh-expand](https://github.com/MenkeTechnologies/zsh-expand)
+3. ❗ Opened issue [#10812](https://github.com/iterative/dvc/issues/10812) in [iterative/dvc](https://github.com/iterative/dvc)
+4. 🗣 Commented on [#33](https://github.com/uben0/tree-sitter-typst/issues/33#issuecomment-3097583286) in [uben0/tree-sitter-typst](https://github.com/uben0/tree-sitter-typst)
+5. 🔓 Reopened issue [#33](https://github.com/uben0/tree-sitter-typst/issues/33) in [uben0/tree-sitter-typst](https://github.com/uben0/tree-sitter-typst)
 <!--END_SECTION:activity-->
 
 ### Latest Youtube Video 📺
