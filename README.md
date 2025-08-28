@@ -27,7 +27,7 @@ That is what I'm using to make the this Markdown:
     <img align='center' src="https://img.shields.io/github/followers/tapyu?style=social">
 </p>
 
-<h1 align="center"><code>>whoami</code> </h1>
+<h1 align="center"><a href="https://linktr.ee/tapyu"><code>>whoami</code></a></h1>
 Hi there! I'm Rubem Pacelli (tapyu is just my nickname). I am really into <b>scientific programing languages</b>.
 <h1 align="center">Background</h1>
 <ul>
@@ -58,36 +58,17 @@ I work in the area of <b>GNSS signal processing</b>, and I especially focus on t
 <code><a href="https://en.wikipedia.org/wiki/VHDL"><img height="20" width="40" width="40" alt="VHDL" src="figs/VHDL.jfif"></a></code>
 <code><a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img height="40" width="40" alt="C programming language" src="figs/c_colorful.svg"></a></code>
 <code><a href="https://en.wikipedia.org/wiki/C%2B%2B"><img height="40" width="40" alt="C++ programming language" src="figs/cpp_colorful.svg"></a></code>
-<code><a href="https://en.wikipedia.org/wiki/Assembly_language"><img height="40" width="40" alt="assembly" src="figs/assembly.png"></a></code>
 <br>
 <br>
 <code><a href="https://code.visualstudio.com/"><img height="40" width="40" alt="visual studio code" src="figs/vscode_colorful.svg"></a></code>
 <code><a href="https://www.linux.org/"><img height="40" alt="linux" src="figs/linux_colorful.svg"></a></code>
 <code><a href="https://www.latex-project.org/"><img height="40" width="40" alt="latex" src="figs/icons8-latex.svg"></a></code>
+<code><a href="https://en.wikipedia.org/wiki/Assembly_language"><img height="40" width="40" alt="assembly" src="figs/assembly.png"></a></code>
 <code><a href="https://docs.helix-editor.com/"><img height="40" width="40" alt="helix-editor" src="figs/helix.png"></a></code>
 <code><a href="https://git-scm.com/"><img height="40" alt="git" width="40" src="figs/git.svg"></a></code>
 <code><a href="https://github.com/gnuradio/gnuradio/tree/main"><img height="40" alt="git" width="40" src="figs/gnuradio.png"></a></code>
 <code><a href="https://github.com/gnss-sdr/gnss-sdr"><img height="40" alt="git" width="40" src="figs/gnss-sdr.png"></a></code>
 <br>
-<br>
-<a href="https://www.linkedin.com/in/rubem-pacelli/">
-  <img align="right" alt="Tapyu | Linkedin" width="21px" src="figs/linkedin_colorful.svg" />
-</a>
-<a href="https://orcid.org/0000-0001-5933-8565">
-  <img align="right" alt="Tapyu | Orcid" width="20px" src="figs/orcid.svg" />
-</a>
-<a href="http://lattes.cnpq.br/0717252455115225">
-  <img align="right" alt="Tapyu | Lattes" width="20px" src="figs/lattes.png" />
-</a>
-<a href="mailto:rubem.engenharia@gmail.com">
-  <img align="right" alt="Tapyu | Email" width="20px" src="figs/email_blue.svg" />
-</a>
-<a href="https://scholar.google.com.br/citations?user=Kj6Gzs4AAAAJ&hl=pt-BR&oi=sra">
-  <img align="right" alt="Tapyu | Google Scholar" width="20px" src="figs/google_schola_colorful.svg" />
-</a>
-<a href="https://github.com/tapyu/tapyu/blob/master/cv/Latex/cv.pdf">
-  <img align="right" alt="Tapyu | Curriculum Vitae" width="20px" src="figs/curriculum-vitae_blue.svg" />
-</a>
 
 ---
 
