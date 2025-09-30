@@ -142,11 +142,11 @@ Linux                    44 hrs 36 mins      ███████████�
 
 ### Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#273](https://github.com/mathworks/MATLAB-extension-for-vscode/issues/273) in [mathworks/MATLAB-extension-for-vscode](https://github.com/mathworks/MATLAB-extension-for-vscode)
-2. ❗ Opened issue [#273](https://github.com/mathworks/MATLAB-extension-for-vscode/issues/273) in [mathworks/MATLAB-extension-for-vscode](https://github.com/mathworks/MATLAB-extension-for-vscode)
-3. ❗ Opened issue [#273](https://github.com/mathworks/MATLAB-extension-for-vscode/issues/273) in [mathworks/MATLAB-extension-for-vscode](https://github.com/mathworks/MATLAB-extension-for-vscode)
-4. ❗ Opened issue [#1](https://github.com/h-shiono/rinex-viewer/issues/1) in [h-shiono/rinex-viewer](https://github.com/h-shiono/rinex-viewer)
-5. 🗣 Commented on [#33](https://github.com/uben0/tree-sitter-typst/issues/33#issuecomment-3097583286) in [uben0/tree-sitter-typst](https://github.com/uben0/tree-sitter-typst)
+1. 💪 Opened PR [#8](undefined) in [boniolp/dCAM](https://github.com/boniolp/dCAM)
+2. 💪 Opened PR [#7](undefined) in [boniolp/dCAM](https://github.com/boniolp/dCAM)
+3. 💪 Opened PR [#6](undefined) in [boniolp/dCAM](https://github.com/boniolp/dCAM)
+4. 💪 Opened PR [#5](undefined) in [boniolp/dCAM](https://github.com/boniolp/dCAM)
+5. ❗ Opened issue [#4](https://github.com/boniolp/dCAM/issues/4) in [boniolp/dCAM](https://github.com/boniolp/dCAM)
 <!--END_SECTION:activity-->
 
 ### Latest Youtube Video 📺
