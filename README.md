@@ -142,8 +142,8 @@ Linux                    43 hrs 55 mins      ███████████�
 
 ### Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#335](https://github.com/KristofferC/PGFPlotsX.jl/issues/335) in [KristofferC/PGFPlotsX.jl](https://github.com/KristofferC/PGFPlotsX.jl)
-2. 💪 Opened PR [#7](undefined) in [boniolp/dCAM](https://github.com/boniolp/dCAM)
+1. ❗ Opened issue [#102](https://github.com/iterative/studio-support/issues/102) in [iterative/studio-support](https://github.com/iterative/studio-support)
+2. ❗ Opened issue [#335](https://github.com/KristofferC/PGFPlotsX.jl/issues/335) in [KristofferC/PGFPlotsX.jl](https://github.com/KristofferC/PGFPlotsX.jl)
 3. 💪 Opened PR [#6](undefined) in [boniolp/dCAM](https://github.com/boniolp/dCAM)
 4. 💪 Opened PR [#5](undefined) in [boniolp/dCAM](https://github.com/boniolp/dCAM)
 5. ❗ Opened issue [#4](https://github.com/boniolp/dCAM/issues/4) in [boniolp/dCAM](https://github.com/boniolp/dCAM)
