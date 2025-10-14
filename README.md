@@ -146,7 +146,7 @@ Linux                    25 hrs 57 mins      ███████████�
 2. 🗣 Commented on [#1542](https://github.com/wimpysworld/deb-get/issues/1542#issuecomment-3393544316) in [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get)
 3. 🗣 Commented on [#7](https://github.com/boniolp/dCAM/pull/7#issuecomment-3382587153) in [boniolp/dCAM](https://github.com/boniolp/dCAM)
 4. ❗ Opened issue [#102](https://github.com/iterative/studio-support/issues/102) in [iterative/studio-support](https://github.com/iterative/studio-support)
-5. ❗ Opened issue [#335](https://github.com/KristofferC/PGFPlotsX.jl/issues/335) in [KristofferC/PGFPlotsX.jl](https://github.com/KristofferC/PGFPlotsX.jl)
+5.  Labeled issue [#1542](https://github.com/wimpysworld/deb-get/issues/1542) in [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get)
 <!--END_SECTION:activity-->
 
 ### Latest Youtube Video 📺
