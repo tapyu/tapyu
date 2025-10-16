@@ -142,11 +142,11 @@ Linux                    26 hrs 1 min        ███████████�
 
 ### Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1542](https://github.com/wimpysworld/deb-get/issues/1542#issuecomment-3393547756) in [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get)
-2. 🗣 Commented on [#1542](https://github.com/wimpysworld/deb-get/issues/1542#issuecomment-3393544316) in [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get)
-3. 🗣 Commented on [#7](https://github.com/boniolp/dCAM/pull/7#issuecomment-3382587153) in [boniolp/dCAM](https://github.com/boniolp/dCAM)
-4. ❗ Opened issue [#102](https://github.com/iterative/studio-support/issues/102) in [iterative/studio-support](https://github.com/iterative/studio-support)
-5.  Labeled issue [#1542](https://github.com/wimpysworld/deb-get/issues/1542) in [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get)
+1.  Labeled issue [#435](https://github.com/TorchDSP/torchsig/issues/435) in [TorchDSP/torchsig](https://github.com/TorchDSP/torchsig)
+2. ❗ Opened issue [#435](https://github.com/TorchDSP/torchsig/issues/435) in [TorchDSP/torchsig](https://github.com/TorchDSP/torchsig)
+3. 🗣 Commented on [#1542](https://github.com/wimpysworld/deb-get/issues/1542#issuecomment-3393547756) in [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get)
+4. 🗣 Commented on [#1542](https://github.com/wimpysworld/deb-get/issues/1542#issuecomment-3393544316) in [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get)
+5. 🗣 Commented on [#7](https://github.com/boniolp/dCAM/pull/7#issuecomment-3382587153) in [boniolp/dCAM](https://github.com/boniolp/dCAM)
 <!--END_SECTION:activity-->
 
 ### Latest Youtube Video 📺
