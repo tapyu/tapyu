@@ -89,7 +89,7 @@ I work in the area of <b>GNSS signal processing</b>, and I especially focus on t
 
 ### Wakatime stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C566%20hrs%2056%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C569%20hrs%201%20min-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -134,7 +134,7 @@ Linux                    21 hrs 42 mins      ███████████�
 ```
 
 
- Last Updated on 18/01/2026 18:50:20 UTC
+ Last Updated on 19/01/2026 18:54:08 UTC
 <!--END_SECTION:waka-->
 
 ### Recent GitHub Activity
