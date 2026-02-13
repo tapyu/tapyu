@@ -141,7 +141,7 @@ Linux                    8 hrs 31 mins       ███████████�
 
 ### Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10750](https://github.com/treeverse/dvc/issues/10750#issuecomment-3712900555) in [treeverse/dvc](https://github.com/treeverse/dvc)
+1. ❗ Opened issue [#151](https://github.com/WoeUSB/WoeUSB-ng/issues/151) in [WoeUSB/WoeUSB-ng](https://github.com/WoeUSB/WoeUSB-ng)
 2. ❗ Opened issue [#443](https://github.com/TorchDSP/torchsig/issues/443) in [TorchDSP/torchsig](https://github.com/TorchDSP/torchsig)
 3.  Labeled issue [#442](https://github.com/TorchDSP/torchsig/issues/442) in [TorchDSP/torchsig](https://github.com/TorchDSP/torchsig)
 4. ❗ Opened issue [#442](https://github.com/TorchDSP/torchsig/issues/442) in [TorchDSP/torchsig](https://github.com/TorchDSP/torchsig)
