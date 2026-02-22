@@ -141,10 +141,10 @@ Linux                    14 hrs 35 mins      ███████████�
 
 ### Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#926](https://github.com/quarto-dev/quarto/issues/926) in [quarto-dev/quarto](https://github.com/quarto-dev/quarto)
-2. ❗ Opened issue [#925](https://github.com/quarto-dev/quarto/issues/925) in [quarto-dev/quarto](https://github.com/quarto-dev/quarto)
-3. ❗ Opened issue [#151](https://github.com/WoeUSB/WoeUSB-ng/issues/151) in [WoeUSB/WoeUSB-ng](https://github.com/WoeUSB/WoeUSB-ng)
-4. ❗ Opened issue [#442](https://github.com/TorchDSP/torchsig/issues/442) in [TorchDSP/torchsig](https://github.com/TorchDSP/torchsig)
+1. 🗣 Commented on [#925](https://github.com/quarto-dev/quarto/issues/925#issuecomment-3941016567) in [quarto-dev/quarto](https://github.com/quarto-dev/quarto)
+2. ❗ Opened issue [#926](https://github.com/quarto-dev/quarto/issues/926) in [quarto-dev/quarto](https://github.com/quarto-dev/quarto)
+3. ❗ Opened issue [#925](https://github.com/quarto-dev/quarto/issues/925) in [quarto-dev/quarto](https://github.com/quarto-dev/quarto)
+4. ❗ Opened issue [#151](https://github.com/WoeUSB/WoeUSB-ng/issues/151) in [WoeUSB/WoeUSB-ng](https://github.com/WoeUSB/WoeUSB-ng)
 5.  Labeled issue [#441](https://github.com/TorchDSP/torchsig/issues/441) in [TorchDSP/torchsig](https://github.com/TorchDSP/torchsig)
 <!--END_SECTION:activity-->
 
