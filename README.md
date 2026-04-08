@@ -137,8 +137,8 @@ Linux                    4 hrs 47 mins       ███████████�
 
 ### Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2939](https://github.com/sindresorhus/awesome/pull/2939#issuecomment-4028737652) in [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
-2. 🗣 Commented on [#925](https://github.com/quarto-dev/quarto/issues/925#issuecomment-3941016567) in [quarto-dev/quarto](https://github.com/quarto-dev/quarto)
+1. ❌ Closed PR [#2939](https://github.com/sindresorhus/awesome/pull/2939) in [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
+2. 🗣 Commented on [#2939](https://github.com/sindresorhus/awesome/pull/2939#issuecomment-4028737652) in [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
 3. ❗ Opened issue [#926](https://github.com/quarto-dev/quarto/issues/926) in [quarto-dev/quarto](https://github.com/quarto-dev/quarto)
 4. ❗ Opened issue [#925](https://github.com/quarto-dev/quarto/issues/925) in [quarto-dev/quarto](https://github.com/quarto-dev/quarto)
 5. ❗ Opened issue [#151](https://github.com/WoeUSB/WoeUSB-ng/issues/151) in [WoeUSB/WoeUSB-ng](https://github.com/WoeUSB/WoeUSB-ng)
