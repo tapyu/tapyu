@@ -139,10 +139,10 @@ Linux                    6 hrs 42 mins       ███████████�
 
 ### Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#2939](https://github.com/sindresorhus/awesome/pull/2939) in [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
-2. 🗣 Commented on [#2939](https://github.com/sindresorhus/awesome/pull/2939#issuecomment-4028737652) in [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
-3. ❗ Opened issue [#926](https://github.com/quarto-dev/quarto/issues/926) in [quarto-dev/quarto](https://github.com/quarto-dev/quarto)
-4. ❗ Opened issue [#925](https://github.com/quarto-dev/quarto/issues/925) in [quarto-dev/quarto](https://github.com/quarto-dev/quarto)
+1. 🗣 Commented on [#7](https://github.com/MarcoLiedecke/variable-explorer/issues/7#issuecomment-4252504533) in [MarcoLiedecke/variable-explorer](https://github.com/MarcoLiedecke/variable-explorer)
+2. 🔒 Closed issue [#8](https://github.com/MarcoLiedecke/variable-explorer/issues/8) in [MarcoLiedecke/variable-explorer](https://github.com/MarcoLiedecke/variable-explorer)
+3. ❗ Opened issue [#8](https://github.com/MarcoLiedecke/variable-explorer/issues/8) in [MarcoLiedecke/variable-explorer](https://github.com/MarcoLiedecke/variable-explorer)
+4. ❌ Closed PR [#2939](https://github.com/sindresorhus/awesome/pull/2939) in [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
 5. ❗ Opened issue [#151](https://github.com/WoeUSB/WoeUSB-ng/issues/151) in [WoeUSB/WoeUSB-ng](https://github.com/WoeUSB/WoeUSB-ng)
 <!--END_SECTION:activity-->
 
