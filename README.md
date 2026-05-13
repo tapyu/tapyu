@@ -89,53 +89,10 @@ I work in the area of <b>GNSS signal processing</b>, and I especially focus on t
 
 ### Wakatime stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C863%20hrs%2018%20mins-blue?style=flat)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                1124 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.44 % 
-🌆 Daytime                2690 commits        █████████░░░░░░░░░░░░░░░░   36.96 % 
-🌃 Evening                2272 commits        ████████░░░░░░░░░░░░░░░░░   31.21 % 
-🌙 Night                  1193 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   1226 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.84 % 
-Tuesday                  1250 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.17 % 
-Wednesday                1230 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.90 % 
-Thursday                 1244 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.09 % 
-Friday                   986 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
-Saturday                 775 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.65 % 
-Sunday                   568 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
-```
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C868%20hrs%2033%20mins-blue?style=flat)
 
 
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-TeX                      11 hrs 40 mins      ████████████████████████░   97.67 % 
-BibTeX                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
-Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
-Git Config               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
-
-🔥 Editors: 
-VS Code                  11 hrs 57 mins      █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-anatel-axis4             8 hrs 52 mins       ███████████████████░░░░░░   74.22 % 
-main                     3 hrs 3 mins        ██████░░░░░░░░░░░░░░░░░░░   25.63 % 
-code-anatel-axis4        1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
-
-💻 Operating System: 
-Linux                    11 hrs 57 mins      █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 12/05/2026 19:24:27 UTC
+ Last Updated on 13/05/2026 19:23:22 UTC
 <!--END_SECTION:waka-->
 
 ### Recent GitHub Activity
