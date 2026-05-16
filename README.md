@@ -89,8 +89,53 @@ I work in the area of <b>GNSS signal processing</b>, and I especially focus on t
 
 ### Wakatime stats
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C868%20hrs%2033%20mins-blue?style=flat)
 
- Last Updated on 15/05/2026 19:15:44 UTC
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1124 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.44 % 
+🌆 Daytime                2692 commits        █████████░░░░░░░░░░░░░░░░   36.97 % 
+🌃 Evening                2272 commits        ████████░░░░░░░░░░░░░░░░░   31.20 % 
+🌙 Night                  1193 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   1226 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.84 % 
+Tuesday                  1250 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.17 % 
+Wednesday                1230 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.89 % 
+Thursday                 1244 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.09 % 
+Friday                   986 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
+Saturday                 777 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.67 % 
+Sunday                   568 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+TeX                      9 hrs 29 mins       █████████████████████████   98.64 % 
+Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+BibTeX                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+Python                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+
+🔥 Editors: 
+VS Code                  9 hrs 36 mins       █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+anatel-axis4             9 hrs 33 mins       █████████████████████████   99.37 % 
+code-anatel-axis4        2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+main                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+
+💻 Operating System: 
+Linux                    9 hrs 36 mins       █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 16/05/2026 19:02:04 UTC
 <!--END_SECTION:waka-->
 
 ### Recent GitHub Activity
