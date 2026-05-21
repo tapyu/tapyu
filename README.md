@@ -89,10 +89,53 @@ I work in the area of <b>GNSS signal processing</b>, and I especially focus on t
 
 ### Wakatime stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C879%20hrs%2048%20mins-blue?style=flat)
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1127 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.44 % 
+🌆 Daytime                2701 commits        █████████░░░░░░░░░░░░░░░░   37.02 % 
+🌃 Evening                2276 commits        ████████░░░░░░░░░░░░░░░░░   31.19 % 
+🌙 Night                  1193 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.35 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   1230 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.86 % 
+Tuesday                  1251 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.14 % 
+Wednesday                1238 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
+Thursday                 1247 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.09 % 
+Friday                   986 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
+Saturday                 777 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.65 % 
+Sunday                   568 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
+```
 
 
- Last Updated on 20/05/2026 19:32:56 UTC
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+TeX                      11 hrs 32 mins      █████████████░░░░░░░░░░░░   51.05 % 
+Python                   10 hrs 19 mins      ███████████░░░░░░░░░░░░░░   45.65 % 
+YAML                     44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Image (png)              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔥 Editors: 
+VS Code                  22 hrs 36 mins      █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+code-anatel-axis4        11 hrs 4 mins       ████████████░░░░░░░░░░░░░   48.95 % 
+memorial-pap             6 hrs 29 mins       ███████░░░░░░░░░░░░░░░░░░   28.68 % 
+senselab                 4 hrs 36 mins       █████░░░░░░░░░░░░░░░░░░░░   20.35 % 
+anatel-axis4             22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+main                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+
+💻 Operating System: 
+Linux                    22 hrs 36 mins      █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 21/05/2026 19:24:53 UTC
 <!--END_SECTION:waka-->
 
 ### Recent GitHub Activity
