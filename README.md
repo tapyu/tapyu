@@ -94,10 +94,10 @@ I work in the area of <b>GNSS signal processing</b>, and I especially focus on t
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1149 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
-🌆 Daytime                2847 commits        █████████░░░░░░░░░░░░░░░░   37.63 % 
-🌃 Evening                2365 commits        ████████░░░░░░░░░░░░░░░░░   31.26 % 
-🌙 Night                  1205 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.93 % 
+🌞 Morning                1149 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.18 % 
+🌆 Daytime                2848 commits        █████████░░░░░░░░░░░░░░░░   37.64 % 
+🌃 Evening                2365 commits        ████████░░░░░░░░░░░░░░░░░   31.25 % 
+🌙 Night                  1205 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.92 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
@@ -105,9 +105,9 @@ I work in the area of <b>GNSS signal processing</b>, and I especially focus on t
 Monday                   1271 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.80 % 
 Tuesday                  1296 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.13 % 
 Wednesday                1280 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.92 % 
-Thursday                 1289 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.04 % 
+Thursday                 1289 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.03 % 
 Friday                   1024 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
-Saturday                 800 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
+Saturday                 801 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
 Sunday                   606 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
 ```
 
@@ -116,28 +116,26 @@ Sunday                   606 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TeX                      1 hr 55 mins        ██████████████░░░░░░░░░░░   54.16 % 
-C                        1 hr 18 mins        █████████░░░░░░░░░░░░░░░░   36.85 % 
-Makefile                 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
-YAML                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
-Other                    5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
+C                        1 hr 18 mins        █████████████████████░░░░   85.50 % 
+Makefile                 7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
+YAML                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+TeX                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 33 mins       █████████████████████████   100.00 % 
+VS Code                  1 hr 32 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-main                     1 hr 34 mins        ███████████░░░░░░░░░░░░░░   43.98 % 
-gnss-sdr-sim             1 hr 26 mins        ██████████░░░░░░░░░░░░░░░   40.53 % 
-test                     27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.93 % 
-code-anatel-axis4        5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
-anatel-axis4             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+gnss-sdr-sim             1 hr 26 mins        ████████████████████████░   94.04 % 
+code-anatel-axis4        5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
+anatel-axis4             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 💻 Operating System: 
-Linux                    3 hrs 33 mins       █████████████████████████   100.00 % 
+Linux                    1 hr 32 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 24/07/2026 20:07:03 UTC
+ Last Updated on 25/07/2026 19:55:42 UTC
 <!--END_SECTION:waka-->
 
 ### Recent GitHub Activity
