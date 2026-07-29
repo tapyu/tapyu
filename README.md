@@ -118,29 +118,28 @@ Sunday                   618 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TeX                      3 hrs 36 mins       █████████████████░░░░░░░░   69.27 % 
-C                        1 hr 18 mins        ██████░░░░░░░░░░░░░░░░░░░   25.27 % 
-Makefile                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
-YAML                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
-Typst                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
+TeX                      3 hrs 36 mins       ██████████████████░░░░░░░   70.51 % 
+C                        1 hr 18 mins        ██████░░░░░░░░░░░░░░░░░░░   25.72 % 
+Makefile                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
+Typst                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
+BibTeX                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 11 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 6 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-main                     3 hrs 39 mins       ██████████████████░░░░░░░   70.45 % 
-gnss-sdr-sim             1 hr 26 mins        ███████░░░░░░░░░░░░░░░░░░   27.79 % 
-code-anatel-axis4        5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
+main                     3 hrs 39 mins       ██████████████████░░░░░░░   71.70 % 
+gnss-sdr-sim             1 hr 26 mins        ███████░░░░░░░░░░░░░░░░░░   28.29 % 
 anatel-axis4             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Linux                    5 hrs 11 mins       █████████████████████████   100.00 % 
+Linux                    5 hrs 6 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 18 mins (25.06%)
+⏱ AI Coding Time: 1 hr 18 mins (25.5%)
 
 ✍️ 17 lines written by AI, 91 lines written by hand (15.74% AI-written)
 
@@ -160,7 +159,7 @@ Github-Copilot           17 lines            ███████████�
 ```
 
 
- Last Updated on 28/07/2026 20:15:36 UTC
+ Last Updated on 29/07/2026 20:05:05 UTC
 <!--END_SECTION:waka-->
 
 ### Recent GitHub Activity
