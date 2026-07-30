@@ -96,21 +96,21 @@ I work in the area of <b>GNSS signal processing</b>, and I especially focus on t
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1152 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
-🌆 Daytime                2864 commits        █████████░░░░░░░░░░░░░░░░   37.66 % 
-🌃 Evening                2380 commits        ████████░░░░░░░░░░░░░░░░░   31.30 % 
-🌙 Night                  1208 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.89 % 
+🌞 Morning                1110 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.13 % 
+🌆 Daytime                2780 commits        █████████░░░░░░░░░░░░░░░░   37.89 % 
+🌃 Evening                2305 commits        ████████░░░░░░░░░░░░░░░░░   31.42 % 
+🌙 Night                  1142 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   1277 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.79 % 
-Tuesday                  1303 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.14 % 
-Wednesday                1283 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
-Thursday                 1297 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.06 % 
-Friday                   1027 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
-Saturday                 799 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.51 % 
-Sunday                   618 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
+Monday                   1247 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.00 % 
+Tuesday                  1285 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.51 % 
+Wednesday                1227 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.72 % 
+Thursday                 1214 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.55 % 
+Friday                   979 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
+Saturday                 784 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.69 % 
+Sunday                   601 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
 ```
 
 
@@ -118,48 +118,44 @@ Sunday                   618 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TeX                      3 hrs 36 mins       ██████████████████░░░░░░░   70.51 % 
-C                        1 hr 18 mins        ██████░░░░░░░░░░░░░░░░░░░   25.72 % 
-Makefile                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
-Typst                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
-BibTeX                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+TeX                      3 hrs 36 mins       █████████████████████████   98.32 % 
+Typst                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+BibTeX                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 6 mins        █████████████████████████   100.00 % 
+VS Code                  3 hrs 39 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-main                     3 hrs 39 mins       ██████████████████░░░░░░░   71.70 % 
-gnss-sdr-sim             1 hr 26 mins        ███████░░░░░░░░░░░░░░░░░░   28.29 % 
-anatel-axis4             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+main                     3 hrs 39 mins       █████████████████████████   99.98 % 
+anatel-axis4             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 💻 Operating System: 
-Linux                    5 hrs 6 mins        █████████████████████████   100.00 % 
+Linux                    3 hrs 39 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 18 mins (25.5%)
+⏱ AI Coding Time: 53 mins (24.27%)
 
-✍️ 17 lines written by AI, 91 lines written by hand (15.74% AI-written)
+✍️ 0 lines written by AI, 56 lines written by hand (0.0% AI-written)
 
-🔤 109,378 Input Tokens, 679 Output Tokens
+🔤 0 Input Tokens, 0 Output Tokens
 
-💵 $0.34 Estimated AI Cost This Week
+💵 $0.00 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 10 AI Prompts
-
-Github-Copilot           17 lines            █████████████████████████   100.00 % 
+🧠 4 AI Sessions, 4 AI Prompts
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 15.74% of written lines came from AI
-📄 Detailed Prompter — average 536 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 91.28% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 39 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 29/07/2026 20:05:05 UTC
+ Last Updated on 30/07/2026 20:14:42 UTC
 <!--END_SECTION:waka-->
 
 ### Recent GitHub Activity
