@@ -89,28 +89,28 @@ I work in the area of <b>GNSS signal processing</b>, and I especially focus on t
 
 ### Wakatime stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C968%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C968%20hrs%2020%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-56%20hrs%2032%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-56%20hrs%2033%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1110 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.13 % 
-🌆 Daytime                2780 commits        █████████░░░░░░░░░░░░░░░░   37.89 % 
-🌃 Evening                2305 commits        ████████░░░░░░░░░░░░░░░░░   31.42 % 
-🌙 Night                  1142 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
+🌞 Morning                1152 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
+🌆 Daytime                2866 commits        █████████░░░░░░░░░░░░░░░░   37.68 % 
+🌃 Evening                2380 commits        ████████░░░░░░░░░░░░░░░░░   31.29 % 
+🌙 Night                  1208 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.88 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   1247 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.00 % 
-Tuesday                  1285 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.51 % 
-Wednesday                1227 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.72 % 
-Thursday                 1214 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.55 % 
-Friday                   979 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
-Saturday                 784 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.69 % 
-Sunday                   601 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
+Monday                   1277 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.79 % 
+Tuesday                  1303 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.13 % 
+Wednesday                1283 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
+Thursday                 1298 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.07 % 
+Friday                   1027 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
+Saturday                 800 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
+Sunday                   618 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
 ```
 
 
@@ -118,44 +118,46 @@ Sunday                   601 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TeX                      3 hrs 36 mins       █████████████████████████   98.32 % 
-Typst                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+TeX                      3 hrs 38 mins       █████████████████████████   98.33 % 
+Typst                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
 BibTeX                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
 JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 39 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 41 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-main                     3 hrs 39 mins       █████████████████████████   99.98 % 
-anatel-axis4             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+main                     3 hrs 39 mins       █████████████████████████   99.05 % 
+cnpq-universal-n06-2026  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
 
 💻 Operating System: 
-Linux                    3 hrs 39 mins       █████████████████████████   100.00 % 
+Linux                    3 hrs 41 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 53 mins (24.27%)
+⏱ AI Coding Time: 53 mins (24.29%)
 
-✍️ 0 lines written by AI, 56 lines written by hand (0.0% AI-written)
+✍️ 4 lines written by AI, 56 lines written by hand (6.67% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 4 AI Prompts
+🧠 5 AI Sessions, 5 AI Prompts
+
+Github-Copilot           4 lines             █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 39 characters per prompt
+🧑‍💻 Mostly Hands-On — 6.67% of written lines came from AI
+📝 Concise Prompter — average 40 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 97.18% of changed lines were hand-edited
 ```
 
 
- Last Updated on 30/07/2026 20:14:42 UTC
+ Last Updated on 31/07/2026 20:16:47 UTC
 <!--END_SECTION:waka-->
 
 ### Recent GitHub Activity
