@@ -89,28 +89,28 @@ I work in the area of <b>GNSS signal processing</b>, and I especially focus on t
 
 ### Wakatime stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C968%20hrs%2020%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C968%20hrs%2021%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-56%20hrs%2033%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1152 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
-🌆 Daytime                2866 commits        █████████░░░░░░░░░░░░░░░░   37.68 % 
-🌃 Evening                2380 commits        ████████░░░░░░░░░░░░░░░░░   31.29 % 
+🌞 Morning                1152 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
+🌆 Daytime                2868 commits        █████████░░░░░░░░░░░░░░░░   37.70 % 
+🌃 Evening                2380 commits        ████████░░░░░░░░░░░░░░░░░   31.28 % 
 🌙 Night                  1208 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.88 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   1277 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.79 % 
+Monday                   1277 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.78 % 
 Tuesday                  1303 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.13 % 
-Wednesday                1283 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
-Thursday                 1298 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.07 % 
+Wednesday                1283 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.86 % 
+Thursday                 1298 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.06 % 
 Friday                   1027 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
-Saturday                 800 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
-Sunday                   618 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
+Saturday                 802 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.54 % 
+Sunday                   618 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
 ```
 
 
@@ -118,26 +118,26 @@ Sunday                   618 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TeX                      3 hrs 38 mins       █████████████████████████   98.33 % 
-Typst                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
-BibTeX                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+TeX                      3 hrs 39 mins       █████████████████████████   98.34 % 
+Typst                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
+BibTeX                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
 JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 41 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 42 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-main                     3 hrs 39 mins       █████████████████████████   99.05 % 
-cnpq-universal-n06-2026  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
+main                     3 hrs 39 mins       █████████████████████████   98.58 % 
+cnpq-universal-n06-2026  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
 
 💻 Operating System: 
-Linux                    3 hrs 41 mins       █████████████████████████   100.00 % 
+Linux                    3 hrs 42 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 53 mins (24.29%)
+⏱ AI Coding Time: 53 mins (24.18%)
 
 ✍️ 4 lines written by AI, 56 lines written by hand (6.67% AI-written)
 
@@ -157,7 +157,7 @@ Github-Copilot           4 lines             ███████████�
 ```
 
 
- Last Updated on 31/07/2026 20:16:47 UTC
+ Last Updated on 01/08/2026 19:55:47 UTC
 <!--END_SECTION:waka-->
 
 ### Recent GitHub Activity
