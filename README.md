@@ -97,8 +97,8 @@ I work in the area of <b>GNSS signal processing</b>, and I especially focus on t
 
 ```text
 🌞 Morning                1155 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.11 % 
-🌆 Daytime                2878 commits        █████████░░░░░░░░░░░░░░░░   37.65 % 
-🌃 Evening                2395 commits        ████████░░░░░░░░░░░░░░░░░   31.33 % 
+🌆 Daytime                2877 commits        █████████░░░░░░░░░░░░░░░░   37.64 % 
+🌃 Evening                2395 commits        ████████░░░░░░░░░░░░░░░░░   31.34 % 
 🌙 Night                  1216 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.91 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
@@ -109,7 +109,7 @@ Tuesday                  1303 commits        ████░░░░░░░�
 Wednesday                1287 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.84 % 
 Thursday                 1301 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.02 % 
 Friday                   1036 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
-Saturday                 817 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.69 % 
+Saturday                 816 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
 Sunday                   619 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
 ```
 
@@ -118,31 +118,31 @@ Sunday                   619 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TeX                      14 hrs 42 mins      ██████████████████░░░░░░░   70.08 % 
-Python                   3 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
-YAML                     1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
-C                        40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
-Julia                    33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
+TeX                      14 hrs 37 mins      █████████████████░░░░░░░░   69.96 % 
+Python                   3 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
+YAML                     1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
+C                        40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
+Julia                    33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
 
 🔥 Editors: 
-VS Code                  17 hrs 32 mins      █████████████████████░░░░   83.56 % 
-Claude Code              3 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.44 % 
+VS Code                  17 hrs 27 mins      █████████████████████░░░░   83.49 % 
+Claude Code              3 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.51 % 
 
 🐱‍💻 Projects: 
-cnpq-universal-n06-2026  11 hrs 3 mins       █████████████░░░░░░░░░░░░   52.68 % 
-code-anatel-axis4        5 hrs 21 mins       ██████░░░░░░░░░░░░░░░░░░░   25.50 % 
-articles-and-docs        3 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
-gnss-sdr-sim             50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
+cnpq-universal-n06-2026  11 hrs 3 mins       █████████████░░░░░░░░░░░░   52.90 % 
+code-anatel-axis4        5 hrs 21 mins       ██████░░░░░░░░░░░░░░░░░░░   25.60 % 
+articles-and-docs        3 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.72 % 
+gnss-sdr-sim             50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
 main                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
 
 💻 Operating System: 
-Linux                    20 hrs 59 mins      █████████████████████████   100.00 % 
+Linux                    20 hrs 54 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 43 mins (27.31%)
+⏱ AI Coding Time: 5 hrs 43 mins (27.42%)
 
 ✍️ 479 lines written by AI, 487 lines written by hand (49.59% AI-written)
 
@@ -164,7 +164,7 @@ Github-Copilot           0 lines             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 08/08/2026 19:20:08 UTC
+ Last Updated on 09/08/2026 19:25:31 UTC
 <!--END_SECTION:waka-->
 
 ### Recent GitHub Activity
