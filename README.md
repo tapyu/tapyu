@@ -118,53 +118,53 @@ Sunday                   619 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TeX                      14 hrs 37 mins      █████████████████░░░░░░░░   69.96 % 
-Python                   3 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
-YAML                     1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
-C                        40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
-Julia                    33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+TeX                      11 hrs 1 min        ████████████████░░░░░░░░░   63.78 % 
+Python                   3 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.74 % 
+YAML                     1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+C                        40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
+Julia                    33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
 
 🔥 Editors: 
-VS Code                  17 hrs 27 mins      █████████████████████░░░░   83.49 % 
-Claude Code              3 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.51 % 
+VS Code                  13 hrs 55 mins      ████████████████████░░░░░   80.52 % 
+Claude Code              3 hrs 22 mins       █████░░░░░░░░░░░░░░░░░░░░   19.48 % 
 
 🐱‍💻 Projects: 
-cnpq-universal-n06-2026  11 hrs 3 mins       █████████████░░░░░░░░░░░░   52.90 % 
-code-anatel-axis4        5 hrs 21 mins       ██████░░░░░░░░░░░░░░░░░░░   25.60 % 
-articles-and-docs        3 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.72 % 
-gnss-sdr-sim             50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
-main                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
+cnpq-universal-n06-2026  7 hrs 38 mins       ███████████░░░░░░░░░░░░░░   44.15 % 
+code-anatel-axis4        5 hrs 21 mins       ████████░░░░░░░░░░░░░░░░░   30.95 % 
+articles-and-docs        3 hrs 17 mins       █████░░░░░░░░░░░░░░░░░░░░   19.00 % 
+gnss-sdr-sim             50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
+sense-lab                6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
 
 💻 Operating System: 
-Linux                    20 hrs 54 mins      █████████████████████████   100.00 % 
+Linux                    17 hrs 17 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 43 mins (27.42%)
+⏱ AI Coding Time: 5 hrs 20 mins (30.86%)
 
-✍️ 479 lines written by AI, 487 lines written by hand (49.59% AI-written)
+✍️ 441 lines written by AI, 368 lines written by hand (54.51% AI-written)
 
-🔤 18,122,293 Input Tokens, 168,560 Output Tokens
+🔤 16,836,478 Input Tokens, 161,323 Output Tokens
 
-💵 $52.36 Estimated AI Cost This Week
+💵 $49.72 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 126 AI Prompts
+🧠 7 AI Sessions, 121 AI Prompts
 
-Sonnet                   565 lines           █████████████████████████   100.00 % 
+Sonnet                   519 lines           █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 49.59% of written lines came from AI
-📝 Concise Prompter — average 79 characters per prompt
-🔁 Iterative Prompter — average 13 prompts per session
-🔍 Hands-On Reviewer — 52.92% of changed lines were hand-edited
+⚖️ Balanced with AI — 54.51% of written lines came from AI
+📝 Concise Prompter — average 80 characters per prompt
+🔁 Iterative Prompter — average 17 prompts per session
+🚀 High AI Trust — 49.32% of changed lines were hand-edited
 ```
 
 
- Last Updated on 09/08/2026 19:25:31 UTC
+ Last Updated on 10/08/2026 19:44:08 UTC
 <!--END_SECTION:waka-->
 
 ### Recent GitHub Activity
