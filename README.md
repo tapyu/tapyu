@@ -89,15 +89,15 @@ I work in the area of <b>GNSS signal processing</b>, and I especially focus on t
 
 ### Wakatime stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C012%20hrs%2031%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C014%20hrs%2042%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-70%20hrs%202%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-70%20hrs%2035%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1157 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
-🌆 Daytime                2895 commits        █████████░░░░░░░░░░░░░░░░   37.70 % 
+🌞 Morning                1157 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.06 % 
+🌆 Daytime                2896 commits        █████████░░░░░░░░░░░░░░░░   37.70 % 
 🌃 Evening                2410 commits        ████████░░░░░░░░░░░░░░░░░   31.38 % 
 🌙 Night                  1218 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.86 % 
 ```
@@ -107,7 +107,7 @@ I work in the area of <b>GNSS signal processing</b>, and I especially focus on t
 Monday                   1287 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.76 % 
 Tuesday                  1312 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.08 % 
 Wednesday                1307 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.02 % 
-Thursday                 1302 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.95 % 
+Thursday                 1303 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.96 % 
 Friday                   1037 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
 Saturday                 816 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
 Sunday                   619 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
@@ -118,52 +118,52 @@ Sunday                   619 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TeX                      6 hrs 6 mins        ████████████████░░░░░░░░░   62.38 % 
-Python                   2 hrs 28 mins       ██████░░░░░░░░░░░░░░░░░░░   25.34 % 
-YAML                     50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
-Other                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
-BibTeX                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+TeX                      8 hrs 16 mins       ██████████████████████░░░   89.43 % 
+Python                   21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
+YAML                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
+Other                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+BibTeX                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 13 mins       █████████████████████░░░░   83.88 % 
-Claude Code              1 hr 34 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.12 % 
+VS Code                  7 hrs 57 mins       █████████████████████░░░░   85.91 % 
+Claude Code              1 hr 18 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
 
 🐱‍💻 Projects: 
-main                     6 hrs 21 mins       ████████████████░░░░░░░░░   64.88 % 
-code-anatel-axis4        3 hrs 13 mins       ████████░░░░░░░░░░░░░░░░░   32.97 % 
-articles-and-docs        7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
-gnss-sdr-sim             3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
-algorithms               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+main                     8 hrs 32 mins       ███████████████████████░░   92.32 % 
+code-anatel-axis4        30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
+articles-and-docs        6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
+gnss-sdr-sim             3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+algorithms               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
 
 💻 Operating System: 
-Linux                    9 hrs 47 mins       █████████████████████████   100.00 % 
+Linux                    9 hrs 15 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 10 mins (32.37%)
+⏱ AI Coding Time: 2 hrs 9 mins (23.26%)
 
-✍️ 406 lines written by AI, 172 lines written by hand (70.24% AI-written)
+✍️ 268 lines written by AI, 173 lines written by hand (60.77% AI-written)
 
-🔤 1,256,713 Input Tokens, 173,013 Output Tokens
+🔤 527,846 Input Tokens, 162,032 Output Tokens
 
-💵 $22.00 Estimated AI Cost This Week
+💵 $16.89 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 156 AI Prompts
+🧠 6 AI Sessions, 33 AI Prompts
 
-Sonnet                   6,714 lines         █████████████████████████   100.00 % 
+Sonnet                   6,565 lines         █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 70.24% of written lines came from AI
-📄 Detailed Prompter — average 685 characters per prompt
-🔁 Iterative Prompter — average 22 prompts per session
-🚀 High AI Trust — 3.63% of changed lines were hand-edited
+⚖️ Balanced with AI — 60.77% of written lines came from AI
+📚 Verbose Prompter — average 3,082 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 3.5% of changed lines were hand-edited
 ```
 
 
- Last Updated on 20/08/2026 19:25:42 UTC
+ Last Updated on 21/08/2026 19:21:40 UTC
 <!--END_SECTION:waka-->
 
 ### Recent GitHub Activity
