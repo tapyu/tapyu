@@ -168,11 +168,11 @@ Claude-Code              0 lines             ░░░░░░░░░░░�
 
 ### Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#480](https://github.com/TorchDSP/torchsig/issues/480) in [TorchDSP/torchsig](https://github.com/TorchDSP/torchsig)
-2. ❗ Opened issue [#480](https://github.com/TorchDSP/torchsig/issues/480) in [TorchDSP/torchsig](https://github.com/TorchDSP/torchsig)
-3. 🗣 Commented on [#1440](https://github.com/wimpysworld/deb-get/issues/1440#issuecomment-5334152547) in [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get)
-4. ❗ Opened issue [#8](https://github.com/MarcoLiedecke/variable-explorer/issues/8) in [MarcoLiedecke/variable-explorer](https://github.com/MarcoLiedecke/variable-explorer)
-5. ❌ Closed PR [#2939](https://github.com/sindresorhus/awesome/pull/2939) in [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
+1. 🗣 Commented on [#481](https://github.com/TorchDSP/torchsig/pull/481#issuecomment-5417578772) in [TorchDSP/torchsig](https://github.com/TorchDSP/torchsig)
+2. 💪 Opened PR [#481](https://github.com/TorchDSP/torchsig/pull/481) in [TorchDSP/torchsig](https://github.com/TorchDSP/torchsig)
+3. ℹ️ Labeled issue [#480](https://github.com/TorchDSP/torchsig/issues/480) in [TorchDSP/torchsig](https://github.com/TorchDSP/torchsig)
+4. ❗ Opened issue [#480](https://github.com/TorchDSP/torchsig/issues/480) in [TorchDSP/torchsig](https://github.com/TorchDSP/torchsig)
+5. 🗣 Commented on [#1440](https://github.com/wimpysworld/deb-get/issues/1440#issuecomment-5334152547) in [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get)
 <!--END_SECTION:activity-->
 
 ### Latest Youtube Video 📺
