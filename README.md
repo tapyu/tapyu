@@ -30,11 +30,7 @@ That is what I'm using to make the this Markdown:
 <h1 align="center"><a href="https://linktr.ee/tapyu"><code>>whoami</code></a></h1>
 Hi there! I'm Rubem Pacelli (tapyu is just my nickname). I am really into <b>scientific programing languages</b>.
 <h1 align="center">Background</h1>
-<ul>
-  <li>🎓 B.S. degree in Electronics Engineering from <a href="https://unifor.br/">Unifor</a>.</li>
-  <li>🎓 M.S. degree in Teleinformatics Engineering from <a href="http://www.ufc.br/">UFC</a>.</li>
-  <li>🔬 Currently working on my PhD in Teleinformatics Engineering at <a href="http://www.ufc.br/">UFC</a>.</li>
-</ul>
+B.Sc. in Electronics Engineering from <a href="https://unifor.br/">Unifor</a>, M.Sc. and PhD in Teleinformatics Engineering from <a href="http://www.ufc.br/">UFC</a>, and PhD in Cotutelle from <a href="https://gage.upc.edu/en">UPC</a>.
 <h1 align="center">Research area</h1>
 I work in the area of <b>GNSS signal processing</b>, and I especially focus on the following topics:
 <table>
