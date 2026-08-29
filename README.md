@@ -85,28 +85,28 @@ I work in the area of <b>GNSS signal processing</b>, and I especially focus on t
 
 ### Wakatime stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C029%20hrs%2015%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C031%20hrs%2043%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-79%20hrs%2037%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-79%20hrs%2048%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1171 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
-🌆 Daytime                3055 commits        ██████████░░░░░░░░░░░░░░░   38.19 % 
-🌃 Evening                2536 commits        ████████░░░░░░░░░░░░░░░░░   31.70 % 
-🌙 Night                  1238 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
+🌞 Morning                741 commits         █████░░░░░░░░░░░░░░░░░░░░   18.61 % 
+🌆 Daytime                1416 commits        █████████░░░░░░░░░░░░░░░░   35.57 % 
+🌃 Evening                1097 commits        ███████░░░░░░░░░░░░░░░░░░   27.56 % 
+🌙 Night                  727 commits         █████░░░░░░░░░░░░░░░░░░░░   18.26 % 
 ```
-📅 **I'm Most Productive on Tuesday** 
+📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   1342 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.78 % 
-Tuesday                  1388 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.35 % 
-Wednesday                1344 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.80 % 
-Thursday                 1361 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.01 % 
-Friday                   1074 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
-Saturday                 826 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
-Sunday                   665 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
+Monday                   531 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
+Tuesday                  645 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.20 % 
+Wednesday                697 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.51 % 
+Thursday                 777 commits         █████░░░░░░░░░░░░░░░░░░░░   19.52 % 
+Friday                   592 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.87 % 
+Saturday                 345 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
+Sunday                   394 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.90 % 
 ```
 
 
@@ -114,51 +114,51 @@ Sunday                   665 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   7 hrs 24 mins       ████████████░░░░░░░░░░░░░   48.82 % 
-Markdown                 3 hrs 27 mins       ██████░░░░░░░░░░░░░░░░░░░   22.80 % 
-TeX                      1 hr 40 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
-YAML                     1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
-Other                    20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
+Python                   7 hrs 24 mins       ██████████░░░░░░░░░░░░░░░   41.96 % 
+TeX                      3 hrs 59 mins       ██████░░░░░░░░░░░░░░░░░░░   22.63 % 
+Markdown                 3 hrs 35 mins       █████░░░░░░░░░░░░░░░░░░░░   20.36 % 
+YAML                     1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
+Other                    21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 18 mins       ██████████████░░░░░░░░░░░   54.77 % 
-Claude Code              6 hrs 51 mins       ███████████░░░░░░░░░░░░░░   45.23 % 
+VS Code                  10 hrs 37 mins      ███████████████░░░░░░░░░░   60.22 % 
+Claude Code              7 hrs 1 min         ██████████░░░░░░░░░░░░░░░   39.78 % 
 
 🐱‍💻 Projects: 
-code-anatel-axis4        10 hrs 24 mins      █████████████████░░░░░░░░   68.58 % 
-fapesp                   2 hrs 40 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.62 % 
-main                     53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
-fix_torchsig_metadata    37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
-sigog                    18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
+code-anatel-axis4        10 hrs 24 mins      ███████████████░░░░░░░░░░   58.94 % 
+fapesp                   5 hrs               ███████░░░░░░░░░░░░░░░░░░   28.39 % 
+main                     1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
+fix_torchsig_metadata    37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
+sigog                    18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
 
 💻 Operating System: 
-Linux                    15 hrs 9 mins       █████████████████████████   100.00 % 
+Linux                    17 hrs 38 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 8 mins (60.3%)
+⏱ AI Coding Time: 9 hrs 19 mins (52.87%)
 
-✍️ 2,433 lines written by AI, 6,450 lines written by hand (27.39% AI-written)
+✍️ 2,464 lines written by AI, 6,502 lines written by hand (27.48% AI-written)
 
-🔤 1,776,750 Input Tokens, 485,493 Output Tokens
+🔤 1,955,151 Input Tokens, 507,049 Output Tokens
 
-💵 $49.85 Estimated AI Cost This Week
+💵 $51.28 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 111 AI Prompts
+🧠 8 AI Sessions, 115 AI Prompts
 
-Sonnet                   3,611 lines         █████████████████████████   100.00 % 
+Sonnet                   3,642 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 27.39% of written lines came from AI
-📝 Concise Prompter — average 449 characters per prompt
-🔁 Iterative Prompter — average 16 prompts per session
-🔍 Hands-On Reviewer — 64.24% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 27.48% of written lines came from AI
+📝 Concise Prompter — average 450 characters per prompt
+🔁 Iterative Prompter — average 14 prompts per session
+🔍 Hands-On Reviewer — 64.28% of changed lines were hand-edited
 ```
 
 
- Last Updated on 29/08/2026 02:02:17 UTC
+ Last Updated on 29/08/2026 21:11:58 UTC
 <!--END_SECTION:waka-->
 
 ### Recent GitHub Activity
