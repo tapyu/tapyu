@@ -85,28 +85,28 @@ I work in the area of <b>GNSS signal processing</b>, and I especially focus on t
 
 ### Wakatime stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C034%20hrs%2017%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C038%20hrs%2056%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-80%20hrs%2025%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-81%20hrs%2020%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1171 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
-🌆 Daytime                3055 commits        ██████████░░░░░░░░░░░░░░░   38.18 % 
-🌃 Evening                2537 commits        ████████░░░░░░░░░░░░░░░░░   31.71 % 
-🌙 Night                  1238 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
+🌞 Morning                1178 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
+🌆 Daytime                3101 commits        ██████████░░░░░░░░░░░░░░░   38.23 % 
+🌃 Evening                2574 commits        ████████░░░░░░░░░░░░░░░░░   31.73 % 
+🌙 Night                  1259 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   1342 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.77 % 
-Tuesday                  1388 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.35 % 
-Wednesday                1344 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.80 % 
-Thursday                 1361 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.01 % 
-Friday                   1074 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
-Saturday                 826 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
-Sunday                   666 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
+Monday                   1356 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.72 % 
+Tuesday                  1405 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.32 % 
+Wednesday                1359 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.75 % 
+Thursday                 1382 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.04 % 
+Friday                   1094 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
+Saturday                 842 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
+Sunday                   674 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
 ```
 
 
@@ -114,52 +114,52 @@ Sunday                   666 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   6 hrs 59 mins       █████████░░░░░░░░░░░░░░░░   37.02 % 
-TeX                      6 hrs 27 mins       █████████░░░░░░░░░░░░░░░░   34.19 % 
-Markdown                 3 hrs 26 mins       █████░░░░░░░░░░░░░░░░░░░░   18.20 % 
-YAML                     56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
-Other                    22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
+TeX                      11 hrs 5 mins       █████████████░░░░░░░░░░░░   51.72 % 
+Python                   5 hrs 43 mins       ███████░░░░░░░░░░░░░░░░░░   26.68 % 
+Markdown                 2 hrs 59 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
+YAML                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+Other                    26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 17 mins      ████████████████░░░░░░░░░   65.09 % 
-Claude Code              6 hrs 35 mins       █████████░░░░░░░░░░░░░░░░   34.91 % 
+VS Code                  15 hrs 16 mins      ██████████████████░░░░░░░   71.25 % 
+Claude Code              6 hrs 9 mins        ███████░░░░░░░░░░░░░░░░░░   28.75 % 
 
 🐱‍💻 Projects: 
-code-anatel-axis4        9 hrs 5 mins        ████████████░░░░░░░░░░░░░   48.17 % 
-fapesp                   7 hrs 34 mins       ██████████░░░░░░░░░░░░░░░   40.11 % 
-main                     1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
-fix_torchsig_metadata    37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
-sigog                    18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+fapesp                   12 hrs              ██████████████░░░░░░░░░░░   56.00 % 
+code-anatel-axis4        6 hrs 56 mins       ████████░░░░░░░░░░░░░░░░░   32.37 % 
+main                     1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
+fix_torchsig_metadata    37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
+sigog                    18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
 
 💻 Operating System: 
-Linux                    18 hrs 53 mins      █████████████████████████   100.00 % 
+Linux                    21 hrs 25 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 49 mins (46.71%)
+⏱ AI Coding Time: 8 hrs 45 mins (40.87%)
 
-✍️ 2,290 lines written by AI, 6,449 lines written by hand (26.2% AI-written)
+✍️ 1,686 lines written by AI, 6,487 lines written by hand (20.63% AI-written)
 
-🔤 2,007,829 Input Tokens, 458,815 Output Tokens
+🔤 2,015,185 Input Tokens, 401,446 Output Tokens
 
-💵 $49.18 Estimated AI Cost This Week
+💵 $46.84 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 78 AI Prompts
+🧠 11 AI Sessions, 83 AI Prompts
 
-Sonnet                   3,496 lines         █████████████████████████   100.00 % 
+Sonnet                   2,703 lines         █████████████████████████   100.00 % 
 Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 26.2% of written lines came from AI
-📄 Detailed Prompter — average 643 characters per prompt
+🧑‍💻 Mostly Hands-On — 20.63% of written lines came from AI
+📄 Detailed Prompter — average 621 characters per prompt
 🔁 Iterative Prompter — average 8 prompts per session
-🔍 Hands-On Reviewer — 65.29% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 71.43% of changed lines were hand-edited
 ```
 
 
- Last Updated on 30/08/2026 21:35:19 UTC
+ Last Updated on 31/08/2026 23:12:09 UTC
 <!--END_SECTION:waka-->
 
 ### Recent GitHub Activity
