@@ -85,28 +85,28 @@ I work in the area of <b>GNSS signal processing</b>, and I especially focus on t
 
 ### Wakatime stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C043%20hrs%2027%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C050%20hrs%2011%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-81%20hrs%2052%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-83%20hrs%209%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1179 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
-🌆 Daytime                3108 commits        ██████████░░░░░░░░░░░░░░░   38.26 % 
-🌃 Evening                2578 commits        ████████░░░░░░░░░░░░░░░░░   31.73 % 
-🌙 Night                  1259 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
+🌞 Morning                1179 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
+🌆 Daytime                3112 commits        ██████████░░░░░░░░░░░░░░░   38.28 % 
+🌃 Evening                2580 commits        ████████░░░░░░░░░░░░░░░░░   31.73 % 
+🌙 Night                  1259 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   1356 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.69 % 
-Tuesday                  1406 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.31 % 
-Wednesday                1370 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.86 % 
-Thursday                 1382 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.01 % 
-Friday                   1094 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
-Saturday                 842 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
-Sunday                   674 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
+Monday                   1356 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.68 % 
+Tuesday                  1406 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.29 % 
+Wednesday                1372 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.88 % 
+Thursday                 1382 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.00 % 
+Friday                   1094 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
+Saturday                 846 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.41 % 
+Sunday                   674 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
 ```
 
 
@@ -114,53 +114,52 @@ Sunday                   674 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TeX                      14 hrs 39 mins      █████████████████████░░░░   82.10 % 
-Markdown                 1 hr 47 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.09 % 
-Other                    23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
-HTML                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
-Makefile                 19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
+TeX                      20 hrs 49 mins      ████████████████████████░   94.74 % 
+HTML                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
+Other                    20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+Markdown                 15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
+JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
 
 🔥 Editors: 
-VS Code                  15 hrs 26 mins      ██████████████████████░░░   86.58 % 
-Claude Code              2 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
+VS Code                  20 hrs 11 mins      ███████████████████████░░   91.83 % 
+Claude Code              1 hr 47 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
 
 🐱‍💻 Projects: 
-fapesp                   16 hrs 10 mins      ███████████████████████░░   90.66 % 
-main                     41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
-tapyu                    28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
-sigog                    18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
-academic-research-skills 8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+fapesp                   20 hrs 43 mins      ████████████████████████░   94.27 % 
+tapyu                    41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+main                     26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+academic-research-skills 8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
 
 💻 Operating System: 
-Linux                    17 hrs 50 mins      █████████████████████████   100.00 % 
+Linux                    21 hrs 59 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 50 mins (21.52%)
+⏱ AI Coding Time: 3 hrs 38 mins (16.55%)
 
-✍️ 6,397 lines written by AI, 6,426 lines written by hand (49.89% AI-written)
+✍️ 5,984 lines written by AI, 326 lines written by hand (94.83% AI-written)
 
-🔤 1,188,498 Input Tokens, 169,391 Output Tokens
+🔤 1,219,817 Input Tokens, 160,020 Output Tokens
 
-💵 $12.84 Estimated AI Cost This Week
+💵 $11.12 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 54 AI Prompts
+🧠 13 AI Sessions, 82 AI Prompts
 
-Sonnet                   6,405 lines         █████████████████████████   100.00 % 
+Sonnet                   5,989 lines         █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 49.89% of written lines came from AI
-📚 Verbose Prompter — average 2,773 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🔍 Hands-On Reviewer — 50.64% of changed lines were hand-edited
+🤖 AI-Driven — 94.83% of written lines came from AI
+📚 Verbose Prompter — average 1,799 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 7.8% of changed lines were hand-edited
 ```
 
 
- Last Updated on 02/09/2026 21:26:31 UTC
+ Last Updated on 03/09/2026 21:25:59 UTC
 <!--END_SECTION:waka-->
 
 ### Recent GitHub Activity
