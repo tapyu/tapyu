@@ -114,53 +114,53 @@ Sunday                   674 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TeX                      19 hrs 3 mins       ███████████████████████░░   93.38 % 
-HTML                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
-C                        22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
-Other                    19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
-Markdown                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+TeX                      16 hrs 33 mins      ███████████████████████░░   92.85 % 
+HTML                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+C                        22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
+Other                    18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+Markdown                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
 
 🔥 Editors: 
-VS Code                  18 hrs 41 mins      ███████████████████████░░   91.59 % 
-Claude Code              1 hr 42 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
+VS Code                  16 hrs 23 mins      ███████████████████████░░   91.89 % 
+Claude Code              1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
 
 🐱‍💻 Projects: 
-fapesp                   18 hrs 55 mins      ███████████████████████░░   92.68 % 
-tapyu                    41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
-gnss-sdr-sim             22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
-main                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
-academic-research-skills 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+fapesp                   16 hrs 21 mins      ███████████████████████░░   91.72 % 
+tapyu                    41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
+gnss-sdr-sim             22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
+main                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
+academic-research-skills 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
 
 💻 Operating System: 
-Linux                    20 hrs 24 mins      █████████████████████████   100.00 % 
+Linux                    17 hrs 50 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 49 mins (18.75%)
+⏱ AI Coding Time: 3 hrs 13 mins (18.04%)
 
-✍️ 5,974 lines written by AI, 308 lines written by hand (95.1% AI-written)
+✍️ 5,973 lines written by AI, 279 lines written by hand (95.54% AI-written)
 
-🔤 1,284,697 Input Tokens, 147,951 Output Tokens
+🔤 1,000,037 Input Tokens, 126,399 Output Tokens
 
-💵 $10.79 Estimated AI Cost This Week
+💵 $9.69 Estimated AI Cost This Week
 
-🧠 14 AI Sessions, 85 AI Prompts
+🧠 11 AI Sessions, 79 AI Prompts
 
-Sonnet                   5,971 lines         █████████████████████████   99.87 % 
+Sonnet                   5,970 lines         █████████████████████████   99.87 % 
 Github-Copilot           8 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 95.1% of written lines came from AI
-📚 Verbose Prompter — average 1,718 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 7.59% of changed lines were hand-edited
+🤖 AI-Driven — 95.54% of written lines came from AI
+📚 Verbose Prompter — average 1,833 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 6.86% of changed lines were hand-edited
 ```
 
 
- Last Updated on 05/09/2026 20:46:52 UTC
+ Last Updated on 06/09/2026 20:49:34 UTC
 <!--END_SECTION:waka-->
 
 ### Recent GitHub Activity
