@@ -85,28 +85,28 @@ I work in the area of <b>GNSS signal processing</b>, and I especially focus on t
 
 ### Wakatime stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C051%20hrs%2040%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C054%20hrs%2030%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-83%20hrs%2032%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-85%20hrs%2015%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                742 commits         █████░░░░░░░░░░░░░░░░░░░░   18.61 % 
-🌆 Daytime                1419 commits        █████████░░░░░░░░░░░░░░░░   35.59 % 
-🌃 Evening                1100 commits        ███████░░░░░░░░░░░░░░░░░░   27.59 % 
-🌙 Night                  726 commits         █████░░░░░░░░░░░░░░░░░░░░   18.21 % 
+🌞 Morning                1172 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
+🌆 Daytime                2969 commits        █████████░░░░░░░░░░░░░░░░   37.45 % 
+🌃 Evening                2546 commits        ████████░░░░░░░░░░░░░░░░░   32.12 % 
+🌙 Night                  1240 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.64 % 
 ```
-📅 **I'm Most Productive on Thursday** 
+📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   532 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
-Tuesday                  646 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.20 % 
-Wednesday                699 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.53 % 
-Thursday                 778 commits         █████░░░░░░░░░░░░░░░░░░░░   19.51 % 
-Friday                   592 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.85 % 
-Saturday                 344 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
-Sunday                   396 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
+Monday                   1346 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.98 % 
+Tuesday                  1392 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.56 % 
+Wednesday                1350 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.03 % 
+Thursday                 1362 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.18 % 
+Friday                   1075 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.56 % 
+Saturday                 735 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
+Sunday                   667 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
 ```
 
 
@@ -114,52 +114,50 @@ Sunday                   396 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TeX                      11 hrs 54 mins      ███████████████████████░░   91.60 % 
-HTML                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
-C                        22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
-Other                    14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+TeX                      13 hrs 39 mins      ████████████████████████░   94.42 % 
+C                        22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
+Other                    11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
+Markdown                 9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
+HTML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 1 min        ███████████████████████░░   92.52 % 
-Claude Code              58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 % 
+VS Code                  13 hrs 33 mins      ███████████████████████░░   93.75 % 
+Claude Code              54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
 
 🐱‍💻 Projects: 
-fapesp                   11 hrs 54 mins      ███████████████████████░░   91.66 % 
-tapyu                    41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
-gnss-sdr-sim             22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
-academic-research-skills 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+fapesp                   13 hrs 49 mins      ████████████████████████░   95.59 % 
+gnss-sdr-sim             22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
+tapyu                    15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
 
 💻 Operating System: 
-Linux                    12 hrs 59 mins      █████████████████████████   100.00 % 
+Linux                    14 hrs 27 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 11 mins (16.9%)
+⏱ AI Coding Time: 3 hrs 27 mins (23.91%)
 
-✍️ 5,938 lines written by AI, 215 lines written by hand (96.51% AI-written)
+✍️ 343 lines written by AI, 240 lines written by hand (58.83% AI-written)
 
-🔤 531,855 Input Tokens, 72,032 Output Tokens
+🔤 1,037,639 Input Tokens, 96,056 Output Tokens
 
-💵 $5.16 Estimated AI Cost This Week
+💵 $6.66 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 66 AI Prompts
+🧠 8 AI Sessions, 73 AI Prompts
 
-Sonnet                   5,930 lines         █████████████████████████   99.87 % 
-Github-Copilot           8 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sonnet                   337 lines           ████████████████████████░   97.68 % 
+Github-Copilot           8 lines             █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.51% of written lines came from AI
-📚 Verbose Prompter — average 1,933 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 5.31% of changed lines were hand-edited
+⚖️ Balanced with AI — 58.83% of written lines came from AI
+📝 Concise Prompter — average 495 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
+🔍 Hands-On Reviewer — 51.06% of changed lines were hand-edited
 ```
 
 
- Last Updated on 07/09/2026 21:50:08 UTC
+ Last Updated on 08/09/2026 21:28:43 UTC
 <!--END_SECTION:waka-->
 
 ### Recent GitHub Activity
