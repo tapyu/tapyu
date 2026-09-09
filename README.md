@@ -85,9 +85,9 @@ I work in the area of <b>GNSS signal processing</b>, and I especially focus on t
 
 ### Wakatime stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C054%20hrs%2030%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C057%20hrs%2056%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-85%20hrs%2015%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-87%20hrs%205%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -114,50 +114,52 @@ Sunday                   667 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TeX                      13 hrs 39 mins      ████████████████████████░   94.42 % 
-C                        22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
-Other                    11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
-Markdown                 9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
-HTML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+TeX                      13 hrs 25 mins      ███████████████████████░░   91.03 % 
+Markdown                 42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
+C                        22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
+Other                    8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+HTML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
 
 🔥 Editors: 
-VS Code                  13 hrs 33 mins      ███████████████████████░░   93.75 % 
-Claude Code              54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+VS Code                  12 hrs 58 mins      ██████████████████████░░░   87.96 % 
+Claude Code              1 hr 46 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
 
 🐱‍💻 Projects: 
-fapesp                   13 hrs 49 mins      ████████████████████████░   95.59 % 
-gnss-sdr-sim             22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
-tapyu                    15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
+fapesp                   12 hrs 49 mins      ██████████████████████░░░   86.95 % 
+main                     1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
+gnss-sdr-sim             22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
+tapyu                    12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
 
 💻 Operating System: 
-Linux                    14 hrs 27 mins      █████████████████████████   100.00 % 
+Linux                    14 hrs 44 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 27 mins (23.91%)
+⏱ AI Coding Time: 5 hrs 13 mins (35.38%)
 
-✍️ 343 lines written by AI, 240 lines written by hand (58.83% AI-written)
+✍️ 366 lines written by AI, 239 lines written by hand (60.5% AI-written)
 
-🔤 1,037,639 Input Tokens, 96,056 Output Tokens
+🔤 1,988,679 Input Tokens, 154,846 Output Tokens
 
-💵 $6.66 Estimated AI Cost This Week
+💵 $13.67 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 73 AI Prompts
+🧠 10 AI Sessions, 101 AI Prompts
 
-Sonnet                   337 lines           ████████████████████████░   97.68 % 
-Github-Copilot           8 lines             █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
+Sonnet                   360 lines           ████████████████████████░   97.83 % 
+Github-Copilot           8 lines             █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 58.83% of written lines came from AI
-📝 Concise Prompter — average 495 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
-🔍 Hands-On Reviewer — 51.06% of changed lines were hand-edited
+⚖️ Balanced with AI — 60.5% of written lines came from AI
+📝 Concise Prompter — average 164 characters per prompt
+🔁 Iterative Prompter — average 10 prompts per session
+🚀 High AI Trust — 49.03% of changed lines were hand-edited
 ```
 
 
- Last Updated on 08/09/2026 21:28:43 UTC
+ Last Updated on 09/09/2026 21:14:38 UTC
 <!--END_SECTION:waka-->
 
 ### Recent GitHub Activity
