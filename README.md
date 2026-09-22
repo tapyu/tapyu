@@ -163,11 +163,11 @@ Sonnet                   215 lines           ███████████�
 
 ### Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#481](https://github.com/TorchDSP/torchsig/pull/481#issuecomment-5417578772) in [TorchDSP/torchsig](https://github.com/TorchDSP/torchsig)
-2. 💪 Opened PR [#481](https://github.com/TorchDSP/torchsig/pull/481) in [TorchDSP/torchsig](https://github.com/TorchDSP/torchsig)
-3. ℹ️ Labeled issue [#480](https://github.com/TorchDSP/torchsig/issues/480) in [TorchDSP/torchsig](https://github.com/TorchDSP/torchsig)
-4. ❗ Opened issue [#480](https://github.com/TorchDSP/torchsig/issues/480) in [TorchDSP/torchsig](https://github.com/TorchDSP/torchsig)
-5. 🗣 Commented on [#1440](https://github.com/wimpysworld/deb-get/issues/1440#issuecomment-5334152547) in [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get)
+1. 🗣 Commented on [#472](https://github.com/TorchDSP/torchsig/issues/472#issuecomment-5776354123) in [TorchDSP/torchsig](https://github.com/TorchDSP/torchsig)
+2. 🔒 Closed issue [#472](https://github.com/TorchDSP/torchsig/issues/472) in [TorchDSP/torchsig](https://github.com/TorchDSP/torchsig)
+3. 🗣 Commented on [#471](https://github.com/TorchDSP/torchsig/issues/471#issuecomment-5776332592) in [TorchDSP/torchsig](https://github.com/TorchDSP/torchsig)
+4. 🔒 Closed issue [#471](https://github.com/TorchDSP/torchsig/issues/471) in [TorchDSP/torchsig](https://github.com/TorchDSP/torchsig)
+5. 🗣 Commented on [#481](https://github.com/TorchDSP/torchsig/pull/481#issuecomment-5417578772) in [TorchDSP/torchsig](https://github.com/TorchDSP/torchsig)
 <!--END_SECTION:activity-->
 
 ### Latest Youtube Video 📺
