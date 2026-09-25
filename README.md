@@ -85,28 +85,28 @@ I work in the area of <b>GNSS signal processing</b>, and I especially focus on t
 
 ### Wakatime stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C102%20hrs%2031%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C109%20hrs%2025%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-102%20hrs%2018%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-104%20hrs%209%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1192 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
-🌆 Daytime                3055 commits        █████████░░░░░░░░░░░░░░░░   37.71 % 
-🌃 Evening                2593 commits        ████████░░░░░░░░░░░░░░░░░   32.01 % 
-🌙 Night                  1261 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
+🌞 Morning                1194 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
+🌆 Daytime                3063 commits        █████████░░░░░░░░░░░░░░░░   37.76 % 
+🌃 Evening                2593 commits        ████████░░░░░░░░░░░░░░░░░   31.97 % 
+🌙 Night                  1261 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   1371 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.92 % 
-Tuesday                  1412 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.43 % 
-Wednesday                1378 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.01 % 
-Thursday                 1391 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.17 % 
-Friday                   1119 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.81 % 
-Saturday                 751 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
-Sunday                   679 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
+Monday                   1371 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.90 % 
+Tuesday                  1412 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.41 % 
+Wednesday                1378 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.99 % 
+Thursday                 1391 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.15 % 
+Friday                   1129 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
+Saturday                 751 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
+Sunday                   679 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
 ```
 
 
@@ -114,51 +114,50 @@ Sunday                   679 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C                        27 hrs 21 mins      ██████████████████████░░░   88.36 % 
-TeX                      2 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
-Makefile                 38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
-Other                    28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
-Markdown                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+C                        33 hrs 15 mins      ████████████████████████░   96.34 % 
+Makefile                 38 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
+Other                    23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
+Markdown                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 
 🔥 Editors: 
-VS Code                  26 hrs 33 mins      █████████████████████░░░░   85.77 % 
-Claude Code              4 hrs 24 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
+VS Code                  30 hrs              ██████████████████████░░░   86.93 % 
+Claude Code              4 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.07 % 
 
 🐱‍💻 Projects: 
-gnss-sdr-sim             26 hrs 35 mins      █████████████████████░░░░   85.88 % 
-main                     2 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
-multi-sdr-gps-sim        1 hr 49 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
-tapyu                    12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+gnss-sdr-sim             32 hrs 29 mins      ████████████████████████░   94.12 % 
+multi-sdr-gps-sim        1 hr 49 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
+tapyu                    12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
 
 💻 Operating System: 
-Linux                    30 hrs 58 mins      █████████████████████████   100.00 % 
+Linux                    34 hrs 30 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 hrs 45 mins (41.17%)
+⏱ AI Coding Time: 13 hrs 58 mins (40.49%)
 
-✍️ 1,669 lines written by AI, 1,951 lines written by hand (46.1% AI-written)
+✍️ 1,683 lines written by AI, 2,149 lines written by hand (43.92% AI-written)
 
-🔤 7,212,644 Input Tokens, 221,924 Output Tokens
+🔤 8,251,591 Input Tokens, 242,536 Output Tokens
 
-💵 $41.48 Estimated AI Cost This Week
+💵 $47.02 Estimated AI Cost This Week
 
-🧠 12 AI Sessions, 627 AI Prompts
+🧠 12 AI Sessions, 730 AI Prompts
 
-Sonnet                   2,129 lines         █████████████████████████   99.39 % 
-Github-Copilot           13 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+Sonnet                   2,143 lines         █████████████████████████   99.40 % 
+Github-Copilot           13 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 46.1% of written lines came from AI
-📝 Concise Prompter — average 182 characters per prompt
-🔁 Iterative Prompter — average 52 prompts per session
-🔍 Hands-On Reviewer — 77.09% of changed lines were hand-edited
+⚖️ Balanced with AI — 43.92% of written lines came from AI
+📝 Concise Prompter — average 170 characters per prompt
+🔁 Iterative Prompter — average 61 prompts per session
+🔍 Hands-On Reviewer — 65.05% of changed lines were hand-edited
 ```
 
 
- Last Updated on 24/09/2026 21:49:04 UTC
+ Last Updated on 25/09/2026 21:54:16 UTC
 <!--END_SECTION:waka-->
 
 ### Recent GitHub Activity
