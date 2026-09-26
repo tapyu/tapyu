@@ -162,11 +162,11 @@ Github-Copilot           13 lines            ░░░░░░░░░░░�
 
 ### Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#472](https://github.com/TorchDSP/torchsig/issues/472#issuecomment-5776354123) in [TorchDSP/torchsig](https://github.com/TorchDSP/torchsig)
-2. 🔒 Closed issue [#472](https://github.com/TorchDSP/torchsig/issues/472) in [TorchDSP/torchsig](https://github.com/TorchDSP/torchsig)
-3. 🗣 Commented on [#471](https://github.com/TorchDSP/torchsig/issues/471#issuecomment-5776332592) in [TorchDSP/torchsig](https://github.com/TorchDSP/torchsig)
-4. 🔒 Closed issue [#471](https://github.com/TorchDSP/torchsig/issues/471) in [TorchDSP/torchsig](https://github.com/TorchDSP/torchsig)
-5. 🗣 Commented on [#481](https://github.com/TorchDSP/torchsig/pull/481#issuecomment-5417578772) in [TorchDSP/torchsig](https://github.com/TorchDSP/torchsig)
+1. ❗ Opened issue [#18](https://github.com/harshadms/galileo-sdr-sim/issues/18) in [harshadms/galileo-sdr-sim](https://github.com/harshadms/galileo-sdr-sim)
+2. 🗣 Commented on [#472](https://github.com/TorchDSP/torchsig/issues/472#issuecomment-5776354123) in [TorchDSP/torchsig](https://github.com/TorchDSP/torchsig)
+3. 🔒 Closed issue [#472](https://github.com/TorchDSP/torchsig/issues/472) in [TorchDSP/torchsig](https://github.com/TorchDSP/torchsig)
+4. 🗣 Commented on [#471](https://github.com/TorchDSP/torchsig/issues/471#issuecomment-5776332592) in [TorchDSP/torchsig](https://github.com/TorchDSP/torchsig)
+5. 🔒 Closed issue [#471](https://github.com/TorchDSP/torchsig/issues/471) in [TorchDSP/torchsig](https://github.com/TorchDSP/torchsig)
 <!--END_SECTION:activity-->
 
 ### Latest Youtube Video 📺
