@@ -85,9 +85,9 @@ I work in the area of <b>GNSS signal processing</b>, and I especially focus on t
 
 ### Wakatime stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C133%20hrs%2052%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C139%20hrs%2039%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-109%20hrs%2039%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-110%20hrs%2036%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -114,50 +114,50 @@ Sunday                   687 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C                        27 hrs 59 mins      ██████████████████████░░░   89.00 % 
-Markdown                 1 hr 46 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
-Makefile                 1 hr 30 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
-Other                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
-JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+C                        26 hrs 50 mins      ██████████████████████░░░   88.54 % 
+Markdown                 1 hr 46 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
+Makefile                 1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
+Other                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
 
 🔥 Editors: 
-VS Code                  28 hrs 11 mins      ██████████████████████░░░   89.60 % 
-Claude Code              3 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
+VS Code                  26 hrs 56 mins      ██████████████████████░░░   88.83 % 
+Claude Code              3 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
 
 🐱‍💻 Projects: 
-gnss-sdr-sim             31 hrs 12 mins      █████████████████████████   99.23 % 
-multi-sdr-gps-sim        10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
-YjViOWI1MzAtOGMyMy00YmRlL3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+gnss-sdr-sim             29 hrs 15 mins      ████████████████████████░   96.49 % 
+multi-sdr-gps-sim        1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
+YjViOWI1MzAtOGMyMy00YmRlL3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 
 💻 Operating System: 
-Linux                    31 hrs 27 mins      █████████████████████████   100.00 % 
+Linux                    30 hrs 19 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 21 mins (23.38%)
+⏱ AI Coding Time: 6 hrs 27 mins (21.3%)
 
-✍️ 195 lines written by AI, 1,360 lines written by hand (12.54% AI-written)
+✍️ 196 lines written by AI, 1,460 lines written by hand (11.84% AI-written)
 
-🔤 5,065,320 Input Tokens, 225,684 Output Tokens
+🔤 8,041,151 Input Tokens, 221,700 Output Tokens
 
-💵 $22.85 Estimated AI Cost This Week
+💵 $32.16 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 295 AI Prompts
+🧠 12 AI Sessions, 165 AI Prompts
 
-Sonnet                   200 lines           █████████████████████████   100.00 % 
+Sonnet                   201 lines           █████████████████████████   100.00 % 
 Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 12.54% of written lines came from AI
-📝 Concise Prompter — average 119 characters per prompt
-🔁 Iterative Prompter — average 27 prompts per session
-🔍 Hands-On Reviewer — 93.83% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 11.84% of written lines came from AI
+📝 Concise Prompter — average 132 characters per prompt
+🔁 Iterative Prompter — average 14 prompts per session
+🔍 Hands-On Reviewer — 93.49% of changed lines were hand-edited
 ```
 
 
- Last Updated on 01/10/2026 22:57:41 UTC
+ Last Updated on 02/10/2026 22:34:16 UTC
 <!--END_SECTION:waka-->
 
 ### Recent GitHub Activity
