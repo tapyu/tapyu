@@ -85,9 +85,9 @@ I work in the area of <b>GNSS signal processing</b>, and I especially focus on t
 
 ### Wakatime stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C182%20hrs%2058%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C187%20hrs%2056%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-126%20hrs%2016%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-129%20hrs%2020%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -114,53 +114,53 @@ Sunday                   695 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C                        31 hrs 11 mins      ██████████████████░░░░░░░   70.49 % 
-Python                   6 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
-TeX                      3 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
-Other                    56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
-Bash                     45 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+C                        25 hrs 55 mins      ████████████████░░░░░░░░░   65.24 % 
+Python                   6 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.58 % 
+TeX                      3 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
+Other                    1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+Markdown                 1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
 
 🔥 Editors: 
-VS Code                  32 hrs 41 mins      ██████████████████░░░░░░░   73.87 % 
-Claude Code              11 hrs 33 mins      ███████░░░░░░░░░░░░░░░░░░   26.11 % 
+VS Code                  27 hrs 28 mins      █████████████████░░░░░░░░   69.16 % 
+Claude Code              12 hrs 14 mins      ████████░░░░░░░░░░░░░░░░░   30.82 % 
 Copilot CLI              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🐱‍💻 Projects: 
-gnss-sdr-sim             30 hrs 26 mins      █████████████████░░░░░░░░   68.78 % 
-usrp-x310                9 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   21.44 % 
-review_tgrs              2 hrs 6 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
-multi-sdr-gps-sim        2 hrs 4 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
-test                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+gnss-sdr-sim             25 hrs 49 mins      ████████████████░░░░░░░░░   65.00 % 
+usrp-x310                9 hrs 29 mins       ██████░░░░░░░░░░░░░░░░░░░   23.88 % 
+multi-sdr-gps-sim        2 hrs 9 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
+review_tgrs              2 hrs 6 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
+test                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 
 💻 Operating System: 
-Linux                    44 hrs 15 mins      █████████████████████████   100.00 % 
+Linux                    39 hrs 44 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 hrs 40 mins (35.4%)
+⏱ AI Coding Time: 16 hrs 17 mins (41.01%)
 
-✍️ 2,011 lines written by AI, 3,603 lines written by hand (35.82% AI-written)
+✍️ 2,248 lines written by AI, 3,453 lines written by hand (39.43% AI-written)
 
-🔤 11,652,023 Input Tokens, 966,059 Output Tokens
+🔤 11,667,857 Input Tokens, 1,038,061 Output Tokens
 
-💵 $115.70 Estimated AI Cost This Week
+💵 $138.90 Estimated AI Cost This Week
 
 🧠 20 AI Sessions, 485 AI Prompts
 
-Sonnet                   1,410 lines         ████████████████░░░░░░░░░   64.41 % 
-Opus                     779 lines           █████████░░░░░░░░░░░░░░░░   35.59 % 
+Sonnet                   1,348 lines         █████████████░░░░░░░░░░░░   53.90 % 
+Opus                     1,153 lines         ████████████░░░░░░░░░░░░░   46.10 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 35.82% of written lines came from AI
-📝 Concise Prompter — average 220 characters per prompt
+⚖️ Balanced with AI — 39.43% of written lines came from AI
+📝 Concise Prompter — average 176 characters per prompt
 🔁 Iterative Prompter — average 24 prompts per session
-🔍 Hands-On Reviewer — 75.08% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 70.84% of changed lines were hand-edited
 ```
 
 
- Last Updated on 09/10/2026 22:57:10 UTC
+ Last Updated on 10/10/2026 22:02:14 UTC
 <!--END_SECTION:waka-->
 
 ### Recent GitHub Activity
