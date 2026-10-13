@@ -114,53 +114,53 @@ Sunday                   695 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C                        23 hrs 29 mins      ████████████████░░░░░░░░░   63.02 % 
-Python                   6 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.67 % 
-TeX                      3 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.53 % 
-Other                    1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
-Markdown                 1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
+C                        17 hrs 42 mins      ██████████████░░░░░░░░░░░   56.60 % 
+Python                   6 hrs 35 mins       █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
+TeX                      3 hrs 33 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
+Markdown                 1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
+Other                    55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
 
 🔥 Editors: 
-VS Code                  25 hrs 30 mins      █████████████████░░░░░░░░   68.40 % 
-Claude Code              11 hrs 46 mins      ████████░░░░░░░░░░░░░░░░░   31.59 % 
-Copilot CLI              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+VS Code                  20 hrs 42 mins      █████████████████░░░░░░░░   66.14 % 
+Claude Code              10 hrs 35 mins      ████████░░░░░░░░░░░░░░░░░   33.84 % 
+Copilot CLI              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🐱‍💻 Projects: 
-gnss-sdr-sim             23 hrs 25 mins      ████████████████░░░░░░░░░   62.84 % 
-usrp-x310                9 hrs 29 mins       ██████░░░░░░░░░░░░░░░░░░░   25.45 % 
-multi-sdr-gps-sim        2 hrs 6 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
-review_tgrs              2 hrs 6 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
-test                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+gnss-sdr-sim             18 hrs 42 mins      ███████████████░░░░░░░░░░   59.77 % 
+usrp-x310                9 hrs 29 mins       ████████░░░░░░░░░░░░░░░░░   30.32 % 
+review_tgrs              2 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
+multi-sdr-gps-sim        50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
+test                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 
 💻 Operating System: 
-Linux                    37 hrs 17 mins      █████████████████████████   100.00 % 
+Linux                    31 hrs 17 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 hrs 26 mins (41.41%)
+⏱ AI Coding Time: 13 hrs 54 mins (44.46%)
 
-✍️ 2,245 lines written by AI, 3,360 lines written by hand (40.05% AI-written)
+✍️ 2,146 lines written by AI, 3,041 lines written by hand (41.37% AI-written)
 
-🔤 10,629,972 Input Tokens, 1,001,930 Output Tokens
+🔤 7,652,438 Input Tokens, 899,332 Output Tokens
 
-💵 $131.82 Estimated AI Cost This Week
+💵 $113.92 Estimated AI Cost This Week
 
-🧠 19 AI Sessions, 455 AI Prompts
+🧠 17 AI Sessions, 388 AI Prompts
 
-Sonnet                   1,345 lines         █████████████░░░░░░░░░░░░   53.84 % 
-Opus                     1,153 lines         ████████████░░░░░░░░░░░░░   46.16 % 
+Sonnet                   1,245 lines         █████████████░░░░░░░░░░░░   51.92 % 
+Opus                     1,153 lines         ████████████░░░░░░░░░░░░░   48.08 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 40.05% of written lines came from AI
-📝 Concise Prompter — average 177 characters per prompt
-🔁 Iterative Prompter — average 24 prompts per session
-🔍 Hands-On Reviewer — 70.4% of changed lines were hand-edited
+⚖️ Balanced with AI — 41.37% of written lines came from AI
+📝 Concise Prompter — average 111 characters per prompt
+🔁 Iterative Prompter — average 23 prompts per session
+🔍 Hands-On Reviewer — 69.53% of changed lines were hand-edited
 ```
 
 
- Last Updated on 11/10/2026 22:22:25 UTC
+ Last Updated on 13/10/2026 01:03:14 UTC
 <!--END_SECTION:waka-->
 
 ### Recent GitHub Activity
