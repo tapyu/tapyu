@@ -92,21 +92,21 @@ I work in the area of <b>GNSS signal processing</b>, and I especially focus on t
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1211 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
-🌆 Daytime                3121 commits        ██████████░░░░░░░░░░░░░░░   38.02 % 
-🌃 Evening                2612 commits        ████████░░░░░░░░░░░░░░░░░   31.82 % 
-🌙 Night                  1264 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.40 % 
+🌞 Morning                1198 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.68 % 
+🌆 Daytime                3107 commits        ██████████░░░░░░░░░░░░░░░   38.07 % 
+🌃 Evening                2607 commits        ████████░░░░░░░░░░░░░░░░░   31.94 % 
+🌙 Night                  1249 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.30 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   1392 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.96 % 
-Tuesday                  1422 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.32 % 
-Wednesday                1385 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
-Thursday                 1405 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.12 % 
-Friday                   1156 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
-Saturday                 753 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
-Sunday                   695 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
+Monday                   1377 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
+Tuesday                  1419 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
+Wednesday                1379 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.90 % 
+Thursday                 1394 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.08 % 
+Friday                   1151 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
+Saturday                 747 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
+Sunday                   694 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
 ```
 
 
@@ -114,53 +114,53 @@ Sunday                   695 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C                        17 hrs 42 mins      ██████████████░░░░░░░░░░░   56.60 % 
-Python                   6 hrs 35 mins       █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
-TeX                      3 hrs 33 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
-Markdown                 1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
-Other                    55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
+C                        11 hrs 52 mins      ████████████░░░░░░░░░░░░░   48.56 % 
+Python                   6 hrs 35 mins       ███████░░░░░░░░░░░░░░░░░░   26.93 % 
+TeX                      3 hrs 33 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
+Markdown                 47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
+Bash                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
 
 🔥 Editors: 
-VS Code                  20 hrs 42 mins      █████████████████░░░░░░░░   66.14 % 
-Claude Code              10 hrs 35 mins      ████████░░░░░░░░░░░░░░░░░   33.84 % 
+VS Code                  16 hrs 15 mins      █████████████████░░░░░░░░   66.48 % 
+Claude Code              8 hrs 11 mins       ████████░░░░░░░░░░░░░░░░░   33.50 % 
 Copilot CLI              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🐱‍💻 Projects: 
-gnss-sdr-sim             18 hrs 42 mins      ███████████████░░░░░░░░░░   59.77 % 
-usrp-x310                9 hrs 29 mins       ████████░░░░░░░░░░░░░░░░░   30.32 % 
-review_tgrs              2 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
-multi-sdr-gps-sim        50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
-test                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+gnss-sdr-sim             12 hrs 28 mins      █████████████░░░░░░░░░░░░   50.99 % 
+usrp-x310                9 hrs 29 mins       ██████████░░░░░░░░░░░░░░░   38.78 % 
+review_tgrs              2 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
+multi-sdr-gps-sim        17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+test                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 
 💻 Operating System: 
-Linux                    31 hrs 17 mins      █████████████████████████   100.00 % 
+Linux                    24 hrs 27 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 hrs 54 mins (44.46%)
+⏱ AI Coding Time: 10 hrs 37 mins (43.42%)
 
-✍️ 2,146 lines written by AI, 3,041 lines written by hand (41.37% AI-written)
+✍️ 1,845 lines written by AI, 1,674 lines written by hand (52.43% AI-written)
 
-🔤 7,652,438 Input Tokens, 899,332 Output Tokens
+🔤 5,919,914 Input Tokens, 729,937 Output Tokens
 
-💵 $113.92 Estimated AI Cost This Week
+💵 $98.71 Estimated AI Cost This Week
 
-🧠 17 AI Sessions, 388 AI Prompts
+🧠 14 AI Sessions, 291 AI Prompts
 
-Sonnet                   1,245 lines         █████████████░░░░░░░░░░░░   51.92 % 
-Opus                     1,153 lines         ████████████░░░░░░░░░░░░░   48.08 % 
+Sonnet                   1,093 lines         █████████████░░░░░░░░░░░░   52.10 % 
+Opus                     1,005 lines         ████████████░░░░░░░░░░░░░   47.90 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 41.37% of written lines came from AI
-📝 Concise Prompter — average 111 characters per prompt
-🔁 Iterative Prompter — average 23 prompts per session
-🔍 Hands-On Reviewer — 69.53% of changed lines were hand-edited
+⚖️ Balanced with AI — 52.43% of written lines came from AI
+📝 Concise Prompter — average 118 characters per prompt
+🔁 Iterative Prompter — average 21 prompts per session
+🔍 Hands-On Reviewer — 58.52% of changed lines were hand-edited
 ```
 
 
- Last Updated on 13/10/2026 01:03:14 UTC
+ Last Updated on 13/10/2026 23:06:47 UTC
 <!--END_SECTION:waka-->
 
 ### Recent GitHub Activity
