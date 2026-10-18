@@ -85,9 +85,9 @@ I work in the area of <b>GNSS signal processing</b>, and I especially focus on t
 
 ### Wakatime stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C212%20hrs%2012%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C213%20hrs%2012%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-143%20hrs%2012%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-143%20hrs%2029%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -114,53 +114,53 @@ Sunday                   615 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C                        18 hrs 56 mins      ██████████████████░░░░░░░   70.47 % 
-Other                    2 hrs 36 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
-MATLAB                   1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
-Markdown                 1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
-Python                   57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
+C                        19 hrs 13 mins      █████████████████░░░░░░░░   68.93 % 
+Other                    2 hrs 38 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
+MATLAB                   1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
+TeX                      1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
+Markdown                 1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
 
 🔥 Editors: 
-VS Code                  16 hrs 19 mins      ███████████████░░░░░░░░░░   60.77 % 
-Claude Code              10 hrs 32 mins      ██████████░░░░░░░░░░░░░░░   39.23 % 
+VS Code                  17 hrs 10 mins      ███████████████░░░░░░░░░░   61.53 % 
+Claude Code              10 hrs 44 mins      ██████████░░░░░░░░░░░░░░░   38.47 % 
 
 🐱‍💻 Projects: 
-gnss-sdr-sim             23 hrs              █████████████████████░░░░   85.64 % 
-usrp-x310                1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
-dotfiles                 50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
-ion-gnss-2027            30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
-web-scrap                30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
+gnss-sdr-sim             23 hrs 20 mins      █████████████████████░░░░   83.65 % 
+usrp-x310                1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
+dotfiles                 50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
+main                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
+ion-gnss-2027            30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
 
 💻 Operating System: 
-Linux                    26 hrs 52 mins      █████████████████████████   100.00 % 
+Linux                    27 hrs 54 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 hrs 52 mins (51.61%)
+⏱ AI Coding Time: 14 hrs 9 mins (50.71%)
 
-✍️ 2,128 lines written by AI, 1,177 lines written by hand (64.39% AI-written)
+✍️ 2,128 lines written by AI, 1,243 lines written by hand (63.13% AI-written)
 
-🔤 11,001,791 Input Tokens, 695,710 Output Tokens
+🔤 11,172,592 Input Tokens, 715,166 Output Tokens
 
-💵 $161.13 Estimated AI Cost This Week
+💵 $162.95 Estimated AI Cost This Week
 
-🧠 28 AI Sessions, 427 AI Prompts
+🧠 31 AI Sessions, 434 AI Prompts
 
-Opus                     2,145 lines         ████████████████████████░   94.20 % 
-Sonnet                   132 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
+Opus                     2,146 lines         ████████████████████████░   94.21 % 
+Sonnet                   132 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 64.39% of written lines came from AI
-📝 Concise Prompter — average 334 characters per prompt
-🔁 Iterative Prompter — average 15 prompts per session
-🚀 High AI Trust — 44.15% of changed lines were hand-edited
+⚖️ Balanced with AI — 63.13% of written lines came from AI
+📝 Concise Prompter — average 330 characters per prompt
+🔁 Iterative Prompter — average 14 prompts per session
+🚀 High AI Trust — 45.26% of changed lines were hand-edited
 ```
 
 
- Last Updated on 17/10/2026 20:55:01 UTC
+ Last Updated on 18/10/2026 21:04:17 UTC
 <!--END_SECTION:waka-->
 
 ### Recent GitHub Activity
