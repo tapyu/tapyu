@@ -85,9 +85,9 @@ I work in the area of <b>GNSS signal processing</b>, and I especially focus on t
 
 ### Wakatime stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C249%20hrs%2017%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C252%20hrs%2048%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-169%20hrs%2020%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-170%20hrs%2013%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -114,51 +114,51 @@ Sunday                   616 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TeX                      8 hrs 2 mins        █████████████░░░░░░░░░░░░   50.14 % 
-Python                   1 hr 56 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
-HTML                     1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
-Markdown                 1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
-YAML                     1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
+TeX                      10 hrs 30 mins      ████████████████░░░░░░░░░   63.44 % 
+HTML                     1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
+Markdown                 1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
+CSS                      48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
+YAML                     46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 30 mins      ████████████████░░░░░░░░░   65.52 % 
-Claude Code              5 hrs 32 mins       █████████░░░░░░░░░░░░░░░░   34.48 % 
+VS Code                  11 hrs 53 mins      ██████████████████░░░░░░░   71.79 % 
+Claude Code              4 hrs 40 mins       ███████░░░░░░░░░░░░░░░░░░   28.21 % 
 
 🐱‍💻 Projects: 
-usrp-x310                9 hrs               ██████████████░░░░░░░░░░░   56.12 % 
-tapyu.github.io          2 hrs 40 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-main                     1 hr 47 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
-code-anatel-axis4        1 hr 41 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
-how_to_use_dvc           40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+usrp-x310                7 hrs 4 mins        ███████████░░░░░░░░░░░░░░   42.70 % 
+main                     4 hrs 45 mins       ███████░░░░░░░░░░░░░░░░░░   28.74 % 
+tapyu.github.io          2 hrs 40 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.15 % 
+code-anatel-axis4        1 hr 55 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
+how_to_use_dvc           5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
 
 💻 Operating System: 
-Linux                    16 hrs 3 mins       █████████████████████████   100.00 % 
+Linux                    16 hrs 34 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 30 mins (59.21%)
+⏱ AI Coding Time: 8 hrs 5 mins (48.84%)
 
-✍️ 4,423 lines written by AI, 475 lines written by hand (90.3% AI-written)
+✍️ 3,244 lines written by AI, 307 lines written by hand (91.35% AI-written)
 
-🔤 4,560,937 Input Tokens, 557,132 Output Tokens
+🔤 3,537,549 Input Tokens, 450,621 Output Tokens
 
-💵 $57.31 Estimated AI Cost This Week
+💵 $44.00 Estimated AI Cost This Week
 
-🧠 17 AI Sessions, 188 AI Prompts
+🧠 14 AI Sessions, 156 AI Prompts
 
-Opus                     5,169 lines         █████████████████████████   100.00 % 
+Opus                     3,928 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 90.3% of written lines came from AI
-📄 Detailed Prompter — average 591 characters per prompt
+🤖 AI-Driven — 91.35% of written lines came from AI
+📄 Detailed Prompter — average 691 characters per prompt
 🔁 Iterative Prompter — average 11 prompts per session
-🚀 High AI Trust — 9.36% of changed lines were hand-edited
+🚀 High AI Trust — 9.85% of changed lines were hand-edited
 ```
 
 
- Last Updated on 30/10/2026 22:41:24 UTC
+ Last Updated on 31/10/2026 21:53:48 UTC
 <!--END_SECTION:waka-->
 
 ### Recent GitHub Activity
