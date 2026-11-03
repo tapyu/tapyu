@@ -27,7 +27,7 @@ That is what I'm using to make the this Markdown:
     <img align='center' src="https://img.shields.io/github/followers/tapyu?style=social">
 </p>
 
-<h1 align="center"><a href="https://linktr.ee/tapyu"><code>>whoami</code></a></h1>
+<h1 align="center"><a href="https://tapyu.github.io/"><code>>whoami</code></a></h1>
 Hi there! I'm Rubem Pacelli (tapyu is just my nickname). I am really into <b>scientific programing languages</b>.
 <h1 align="center">Background</h1>
 B.Sc. in Electronics Engineering from <a href="https://unifor.br/">Unifor</a>, M.Sc. and PhD in Teleinformatics Engineering from <a href="http://www.ufc.br/">UFC</a>, and PhD in Cotutelle from <a href="https://gage.upc.edu/en">UPC</a>.
