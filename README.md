@@ -163,11 +163,11 @@ Opus                     3,928 lines         ███████████�
 
 ### Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#496](https://github.com/TorchDSP/torchsig/issues/496#issuecomment-6829183983) in [TorchDSP/torchsig](https://github.com/TorchDSP/torchsig)
-2. 💪 Opened PR [#497](https://github.com/TorchDSP/torchsig/pull/497) in [TorchDSP/torchsig](https://github.com/TorchDSP/torchsig)
-3. ❗ Opened issue [#496](https://github.com/TorchDSP/torchsig/issues/496) in [TorchDSP/torchsig](https://github.com/TorchDSP/torchsig)
-4. ℹ️ Labeled issue [#496](https://github.com/TorchDSP/torchsig/issues/496) in [TorchDSP/torchsig](https://github.com/TorchDSP/torchsig)
-5. 💪 Opened PR [#42](https://github.com/InovaFiscaliza/appAnalise/pull/42) in [InovaFiscaliza/appAnalise](https://github.com/InovaFiscaliza/appAnalise)
+1. ❌ Closed PR [#42](https://github.com/InovaFiscaliza/appAnalise/pull/42) in [InovaFiscaliza/appAnalise](https://github.com/InovaFiscaliza/appAnalise)
+2. 💪 Opened PR [#43](https://github.com/InovaFiscaliza/appAnalise/pull/43) in [InovaFiscaliza/appAnalise](https://github.com/InovaFiscaliza/appAnalise)
+3. 🗣 Commented on [#496](https://github.com/TorchDSP/torchsig/issues/496#issuecomment-6829183983) in [TorchDSP/torchsig](https://github.com/TorchDSP/torchsig)
+4. 💪 Opened PR [#497](https://github.com/TorchDSP/torchsig/pull/497) in [TorchDSP/torchsig](https://github.com/TorchDSP/torchsig)
+5. ❗ Opened issue [#496](https://github.com/TorchDSP/torchsig/issues/496) in [TorchDSP/torchsig](https://github.com/TorchDSP/torchsig)
 <!--END_SECTION:activity-->
 
 ### Latest Youtube Video 📺
